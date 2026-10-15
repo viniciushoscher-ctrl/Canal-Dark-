@@ -55,13 +55,13 @@ for sub in ("f", "fotos", "people"):
         (by.setdefault(int(m.group(1)), []).append(fp) if m and sub == "f" else extra.append((fp, set(re.findall(r"[a-z]{4,}", c.get("title", c.get("file", "")).lower())))))
 NOUNS = set(ns["NOUNS"]) if "NOUNS" in ns else set()
 VETO = set(open(R + f"/video{N}-imagens/veto.txt").read().split()) if os.path.exists(R + f"/video{N}-imagens/veto.txt") else set()
-used = set(VETO); recent = []; FB = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"; FI = "/usr/share/fonts/truetype/google-fonts/Lora-Italic-Variable.ttf"
+used = set(VETO); recent = []; cnt = {}; FB = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"; FI = "/usr/share/fonts/truetype/google-fonts/Lora-Italic-Variable.ttf"
 def plate(year, t1, t2):
     rng = np.random.default_rng(abs(hash(t1)) % 9999); a = np.linspace(30, 12, 720)[:, None] * np.ones((720, 1280)) + rng.normal(0, 3, (720, 1280))
     im = Image.fromarray(np.clip(a, 0, 255).astype(np.uint8)).convert("RGB"); d = ImageDraw.Draw(im)
     if year: d.text((640, 300), str(year), font=ImageFont.truetype(FB, 36), fill=(245, 197, 66), anchor="mm"); d.line((590, 330, 690, 330), fill=(245, 197, 66), width=3)
     d.text((640, 385), t1[:26].upper(), font=ImageFont.truetype(FB, 44), fill=(240, 240, 240), anchor="mm")
-    d.text((640, 450), t2[:44], font=ImageFont.truetype(FI, 28), fill=(190, 190, 190), anchor="mm"); return im
+    d.text((640, 450), t2[:30], font=ImageFont.truetype(FI, 26), fill=(190, 190, 190), anchor="mm"); return im
 flip = 0
 def pick(k, sent):
     for d in (0, 1, -1, 2, -2):
@@ -69,13 +69,14 @@ def pick(k, sent):
             if f not in used: return f
     for d in (0, 1, -1, 2, -2):
         for f in by.get(k + d, []) if k is not None else []:
-            if f not in recent[-8:]: return f
+            if f not in recent[-8:] and cnt.get(f, 0) < 2: return f
     global flip
     flip += 1
     allk = [f for fl in by.values() for f in fl] + [f for f, _ in extra]
     if flip % 2 == 0 and allk:
+        allk = [f for f in allk if cnt.get(f, 0) < 2]
         allk.sort(key=lambda f: recent.index(f) if f in recent else -1)
-        return allk[0]
+        if allk: return allk[0]
     w = set(re.findall(r"[a-z]{4,}", sent.lower())); best = None; bs = 0
     for f, tw in extra:
         if f in used: continue
@@ -91,7 +92,7 @@ for c, (items, P) in enumerate(zip(chs, PLAN)):
             acc += len(ss)
             if acc >= mid: k, sent = kk, ss; break
         f = pick(k, sent); y = yr(sent)
-        if f: used.add(f); recent.append(f); im = fit(ImageOps.autocontrast(Image.open(f).convert("RGB"), cutoff=0.3)); nf += 1; log.append((scene, "foto", os.path.basename(f), sent[:50]))
+        if f: used.add(f); recent.append(f); cnt[f] = cnt.get(f, 0) + 1; im = fit(ImageOps.autocontrast(Image.open(f).convert("RGB"), cutoff=0.3)); nf += 1; log.append((scene, "foto", os.path.basename(f), sent[:50]))
         else:
             ents = re.findall(r"[A-Z][a-z]{3,}(?: [A-Z][a-z]+)*", sent[1:]); im = plate(y, ents[0] if ents else "THE STORY", sent); log.append((scene, "CARTAO", "", sent[:50]))
         bright(im).save(dst + f"/{scene:03d}_real.jpg", quality=93)
