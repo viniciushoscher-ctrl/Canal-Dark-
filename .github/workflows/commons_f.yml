@@ -13,7 +13,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        n: [14, 15, 16, 17, 18, 19, 20]
+        n: [15, 16, 17, 18, 20]
     steps:
       - uses: actions/checkout@v4
       - run: python shorts/commons2.py video${{ matrix.n }}-imagens/commons_f.txt video${{ matrix.n }}-commons/f || true

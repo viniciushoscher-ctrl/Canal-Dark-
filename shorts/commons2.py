@@ -11,19 +11,15 @@ def free(meta):
     lic = (meta.get("LicenseShortName", {}).get("value", "") + " " + meta.get("UsageTerms", {}).get("value", "")).lower()
     return any(k in lic for k in ("public domain", "pd", "cc0", "cc by", "cc-by"))
 BAD = re.compile(r"\b(coin|stamp|logo|svg|map of|diagram|poster|cartoon|drawing|painting|screenshot)\b", re.I)
-q, out = sys.argv[1], sys.argv[2]; os.makedirs(out, exist_ok=True); credits = []
-for line in open(q, encoding="utf-8"):
-    line = line.strip()
-    if "|" not in line: continue
-    tag, terms = line.split("|", 1)
+q, out = sys.argv[1], sys.argv[2]; os.makedirs(out, exist_ok=True)
+def _q(tag, terms):
     words = [w for w in re.findall(r"[a-z]{4,}", terms.lower())]
     pars = dict(action="query", format="json", generator="search", gsrsearch=terms + " filetype:bitmap", gsrnamespace=6, gsrlimit=20,
                 prop="imageinfo", iiprop="url|size|mime|extmetadata", iiurlwidth=1600)
-    try: d = json.loads(get(API + "?" + urllib.parse.urlencode(pars)))
-    except Exception as e: print("erro", tag, e); continue
+    d = json.loads(get(API + "?" + urllib.parse.urlencode(pars)))
     pages = sorted(d.get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99)); n = 0
     for p in pages:
-        ii = p.get("imageinfo", [{}])[0]; meta = ii.get("extmetadata", {}); title = p["title"]
+        ii = (p.get("imageinfo") or [{}])[0]; meta = ii.get("extmetadata", {}); title = p.get("title", "")
         if not ii.get("thumburl") or ii.get("width", 0) < 900 or not free(meta) or ii.get("mime") not in ("image/jpeg", "image/png") or BAD.search(title): continue
         if words and not any(w in title.lower() for w in words): continue
         fn = os.path.join(out, "%s_%d.jpg" % (tag, n))
@@ -31,5 +27,11 @@ for line in open(q, encoding="utf-8"):
         except Exception as e: print("falha", fn); continue
         credits.append({"file": fn, "query": terms, "title": title, "license": meta.get("LicenseShortName", {}).get("value", ""), "url": ii.get("descriptionurl")}); n += 1
         if n >= 3: break
-    print(tag, terms, n, flush=True); time.sleep(0.4)
-json.dump(credits, open(os.path.join(out, "credits.json"), "w"), indent=1, ensure_ascii=False)
+    print(tag, terms, n, flush=True)
+for line in open(q, encoding="utf-8"):
+    line = line.strip()
+    if "|" not in line: continue
+    tag, terms = line.split("|", 1)
+    try: _q(tag, terms)
+    except Exception as e: print("ERRO", tag, repr(e)[:200], flush=True)
+    json.dump(credits, open(os.path.join(out, "credits.json"), "w"), indent=1, ensure_ascii=False); time.sleep(0.4)
