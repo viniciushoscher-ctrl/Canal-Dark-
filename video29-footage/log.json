@@ -1,11 +1,5 @@
 [
  {
-  "tag": "train",
-  "title": "File:Surreal Old Timey Film Of New York City In 1911.webm",
-  "dur": 433.399,
-  "lic": "Public domain"
- },
- {
   "tag": "factory",
   "title": "File:Dog Factory (1904).ogv",
   "dur": 258.458458,
@@ -33,24 +27,6 @@
   "tag": "porter",
   "title": "File:Edwin Stanton Porter The Great Train Robbery (1903) - Final Scene.webm",
   "dur": 12.083,
-  "lic": "Public domain"
- },
- {
-  "tag": "porter",
-  "title": "File:The Train Wreckers (1905) - yt.webm",
-  "dur": 692.959,
-  "lic": "Public domain"
- },
- {
-  "tag": "crowd",
-  "title": "File:Funeral of Hiram Cronk.ogv",
-  "dur": 234.100533,
-  "lic": "Public domain"
- },
- {
-  "tag": "canal",
-  "title": "File:Inauguraci\u00f3n del Ferrocarril de Tehuantepec, Salvador Toscano (23-1-1907).webm",
-  "dur": 917.016,
   "lic": "Public domain"
  }
 ]
