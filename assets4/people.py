@@ -1,5 +1,5 @@
 import sys, json, os, re, time, urllib.parse, urllib.request
-UA = {"User-Agent": "CanalDarkBot/1.0 (educational documentary; contact viniciushoscher@gmail.com)"}
+UA = {"User-Agent": "CanalDarkBot/1.0 (educational documentary; contact github.com/viniciushoscher-ctrl/Canal-Dark-)"}
 def get(url):
     for i in range(4):
         try: return urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60).read()

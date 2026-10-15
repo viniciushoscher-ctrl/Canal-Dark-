@@ -1,0 +1,72 @@
+1|fotos/christina_0.jpg
+2|fotos/christina_3.jpg
+3|fotos/christina_1.jpg
+4|fotos/sinatra_3.jpg
+5|fotos/callas_0.jpg
+6|fotos/smyrna_0.jpg
+7|fotos/smyrna_3.jpg
+8|fotos/smyrna_1.jpg
+9|fotos/smyrna_2.jpg
+10|fotos/smyrna2_0.jpg
+11|fotos/izmir_0.jpg
+12|PLATE|1915|TOBACCO|the family trade in Smyrna
+13|PLATE|1920s|TOBACCO|leaf by leaf, bale by bale
+14|PLATE|1923|$60|all he carried to Argentina
+15|fotos/buenos_0.jpg
+16|fotos/buenos_3.jpg
+17|PLATE|1926|THE SWITCHBOARD|night shifts, Buenos Aires
+18|PLATE|1926|THE SWITCHBOARD|learning how business talks
+19|PLATE|1926|THE SWITCHBOARD|a young man listening
+20|PLATE|1928|TOBACCO IMPORT|his first fortune
+21|PLATE|1928|TOBACCO IMPORT|ledgers and cigarettes
+22|fotos/freighter_1.jpg
+23|fotos/freighter_3.jpg
+24|fotos/oil_0.jpg
+25|PLATE|1933|THE DEPRESSION|empty docks, ships for scrap
+26|fotos/oil_1.jpg
+27|fotos/oil_1.jpg
+28|fotos/oil_3.jpg
+29|fotos/oil_2.jpg
+30|fotos/oil_2.jpg
+31|fotos/oil_3.jpg
+32|PLATE|1950|THE SHIPOWNER|charts, models, ambition
+33|mapa/worldmap_0.jpg
+34|mapa/worldmap_1.jpg
+35|mapa/worldmap_2.jpg
+36|PLATE|1950s|FLAGS OF CONVENIENCE|register abroad, pay less
+37|PLATE|1953|THE COURTHOUSE|the US government strikes back
+38|PLATE|1953|THE COURTHOUSE|a fine and a warning
+39|fotos/saudi_0.jpg
+40|PLATE|1954|THE JEDDAH AGREEMENT|oil, tankers, a king
+41|PLATE|1954|THE JEDDAH AGREEMENT|a deal for the Saudi flag
+42|PLATE|1954|THE OIL MEN|a plan in a smoky room
+43|PLATE|1954|KING SAUD|the palace in Arabia
+44|PLATE|1955|THE BOYCOTT|ports closed to his tankers
+45|PLATE|1955|THE BOYCOTT|ships stranded at sea
+46|fotos/rainier_0.jpg
+47|PLATE|1956|MONTE CARLO|the casino he bought into
+48|fotos/rainier_1.jpg
+49|fotos/christina_2.jpg
+50|PLATE|1957|THE CHRISTINA|a yacht built to impress
+51|fotos/sinatra_1.jpg
+52|fotos/sinatra_3.jpg
+53|plane_0_1.jpg
+54|plane_0_0.jpg
+55|plane_0_2.jpg
+56|fotos/skorpios_1.jpg
+57|fotos/skorpios_2.jpg
+58|fotos/jackie_3.jpg
+59|fotos/jackie_2.jpg
+60|fotos/jackie_0.jpg
+61|fotos/jackie_1.jpg
+62|fotos/smyrna2_1.jpg
+63|PLATE|1973|ALEXANDER|his only son and heir
+64|PLATE|1973|THE CRASH|a small plane, a short flight
+65|PLATE|1973|A FATHER'S GRIEF|the empire without an heir
+66|people/onassis.jpg
+67|fotos/o2_1.jpg
+68|fotos/paris_0.jpg
+69|fotos/paris_2.jpg
+70|fotos/o2_2.jpg
+71|fotos/skorpios_3.jpg
+72|fotos/o1_0.jpg

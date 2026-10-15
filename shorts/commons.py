@@ -1,7 +1,7 @@
 import sys, json, os, re, time, urllib.parse, urllib.request
 # uso: commons.py queries.txt outdir  (linhas "tag|termos de busca")
 API = "https://commons.wikimedia.org/w/api.php"
-UA = {"User-Agent": "CanalDarkBot/1.0 (educational documentary; contact viniciushoscher@gmail.com)"}
+UA = {"User-Agent": "CanalDarkBot/1.0 (educational documentary; contact github.com/viniciushoscher-ctrl/Canal-Dark-)"}
 def get(url):
     for i in range(4):
         try:
