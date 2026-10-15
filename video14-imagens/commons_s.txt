@@ -1,0 +1,72 @@
+s01|yacht Christina O Mediterranean
+s02|Christina O yacht deck
+s03|Christina O yacht dinner
+s04|yacht party 1950s
+s05|opera stage microphone spotlight
+s06|Great Fire of Smyrna 1922
+s07|Smyrna harbor ships fire
+s08|Smyrna burning harbor
+s09|Smyrna refugees quay 1922
+s10|Smyrna refugee ship 1922
+s11|Ottoman merchant house harbor
+s12|tobacco warehouse bales
+s13|dried tobacco leaves
+s14|gold coin dark table
+s15|Buenos Aires port 1920s
+s16|Buenos Aires street 1920s
+s17|telephone switchboard operator 1920s
+s18|telephone switchboard lights
+s19|switchboard operators
+s20|tobacco office cigarettes 1920s
+s21|cigarettes lighter desk
+s22|rusty freighters harbor 1930s
+s23|old cargo ships dock rust
+s24|cargo ships lined up harbor
+s25|Great Depression empty shipyard
+s26|shipyard crane idle
+s27|Atlantic convoy ships 1942
+s28|cargo ship loading crates pier
+s29|oil tanker launch shipyard 1948
+s30|giant oil tanker at sea
+s31|oil tanker harbor
+s32|shipowner office ship models
+s33|world map shipping lanes
+s34|world map antique
+s35|flag of convenience ship stern
+s36|ship registry stamp
+s37|courthouse gavel 1950s
+s38|money pile courthouse
+s39|Saudi Arabia oil field derricks 1950s
+s40|desert oil pipeline sunset
+s41|oil derrick desert
+s42|oilmen meeting smoky room
+s43|Arabian palace hall
+s44|tanker port barricade
+s45|harbor closed gate ship
+s46|Monte Carlo casino harbor 1950s
+s47|roulette table casino chips
+s48|roulette wheel casino
+s49|yacht interior pool mosaic
+s50|yacht bar leather stools
+s51|cocktail party deck 1950s
+s52|yacht lounge silhouette
+s53|airliner airport 1950s
+s54|airplane wing clouds dawn
+s55|airplane over Greek island
+s56|Greek island cypress trees
+s57|white villa hill blue sea Greece
+s58|wedding Greek island crowd
+s59|wedding rings warm light
+s60|wedding rings gold
+s61|press photographers church 1960s
+s62|newspapers headlines 1968
+s63|small plane wreck field
+s64|runway dusk
+s65|candle altar stone
+s66|old man yacht deck alone
+s67|whiskey glass sea
+s68|hospital room lamp
+s69|Paris street winter rain
+s70|funeral procession Greek island
+s71|grave sea hillside dawn
+s72|golden key nautical chart
