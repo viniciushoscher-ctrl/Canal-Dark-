@@ -12,6 +12,7 @@ def free(meta):
     return any(k in lic for k in ("public domain", "pd", "cc0", "cc by", "cc-by"))
 BAD = re.compile(r"\b(coin|stamp|logo|svg|map of|diagram|poster|cartoon|drawing|painting|screenshot)\b", re.I)
 q, out = sys.argv[1], sys.argv[2]; os.makedirs(out, exist_ok=True)
+credits = []
 def _q(tag, terms):
     words = [w for w in re.findall(r"[a-z]{4,}", terms.lower())]
     pars = dict(action="query", format="json", generator="search", gsrsearch=terms + " filetype:bitmap", gsrnamespace=6, gsrlimit=20,
