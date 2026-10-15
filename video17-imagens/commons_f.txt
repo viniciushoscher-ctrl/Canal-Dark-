@@ -1,10 +1,10 @@
 s000|Omaha
 s000|Nebraska
-s005|Warren Buffett. And 1950s
+s005|Warren Buffett 1950s
 s006|restaurant
 s008|Warren Buffett
 s010|Warren Edward Buffett
-s010|Warren Buffett. And 1930s
+s010|Warren Buffett 1930s
 s011|Howard
 s012|Leila
 s015|Cities Service
@@ -17,18 +17,18 @@ s027|Columbia
 s027|Graham
 s028|A-plus Graham
 s043|Buffett
-s043|Warren Buffett. And 1960s
+s043|Warren Buffett 1960s
 s052|Massachusetts
 s052|Berkshire Hathaway
 s053|Berkshire
 s062|See Candies
-s062|Warren Buffett. And 1970s
+s062|Warren Buffett 1970s
 s064|Washington Post
 s064|GEICO
 s065|Coca-Cola
-s071|Warren Buffett. And 1980s
+s071|Warren Buffett 1980s
 s072|America
-s072|Warren Buffett. And 1990s
+s072|Warren Buffett 1990s
 s074|car
 s075|hamburger
 s077|Salomon Brothers

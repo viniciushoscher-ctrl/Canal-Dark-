@@ -7,26 +7,26 @@ s005|Aristotle Onassis
 s007|Aristotelis Sokratis Onassis
 s007|Smyrna
 s007|port 1900s
-s007|Aristotle Onassis. And 1900s
+s007|Aristotle Onassis 1900s
 s008|Socrates
-s009|Aristotle Onassis. And 1920s
+s009|Aristotle Onassis 1920s
 s013|Young Aristotle
 s014|ship
 s017|Onassis
 s017|Buenos Aires
 s019|telephone
 s024|freighter 1930s
-s024|Aristotle Onassis. And 1930s
+s024|Aristotle Onassis 1930s
 s025|freighter
 s028|the Second World War
 s032|tanker 1940s
 s032|shipyard 1940s
-s032|Aristotle Onassis. And 1940s
+s032|Aristotle Onassis 1940s
 s033|bank
 s034|oil
 s039|United States
 s042|oil 1950s
-s042|Aristotle Onassis. And 1950s
+s042|Aristotle Onassis 1950s
 s043|Saudi Arabia
 s043|Saudi
 s044|Jeddah Agreement
@@ -46,10 +46,10 @@ s067|Ionian Sea
 s067|Skorpios
 s067|island
 s069|Jacqueline Kennedy
-s069|Aristotle Onassis. And 1960s
+s069|Aristotle Onassis 1960s
 s072|Jackie
 s073|Alexander
-s073|Aristotle Onassis. And 1970s
+s073|Aristotle Onassis 1970s
 s077|New York
 s077|Callas
 s079|Paris

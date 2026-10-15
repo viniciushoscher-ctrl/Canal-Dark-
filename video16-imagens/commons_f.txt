@@ -7,7 +7,7 @@ s004|hamburger
 s009|Ray Kroc
 s011|Raymond Albert Kroc
 s011|Oak Park
-s011|Ray Kroc. And 1900s
+s011|Ray Kroc 1900s
 s012|Czech
 s013|store
 s015|the First World War
@@ -19,23 +19,23 @@ s023|Lily-Tulip Cup Company
 s025|Multimixer
 s026|Earl Prince
 s028|Multimixers
-s028|Ray Kroc. And 1940s
+s028|Ray Kroc 1940s
 s038|Speedee Service System
 s044|McDonald
 s051|Richard McDonald
 s052|franchise
-s056|Ray Kroc. And 1950s
+s056|Ray Kroc 1950s
 s059|Des Plaines
 s059|Illinois
 s059|restaurant 1950s
 s066|Hamburger University
 s071|restaurant 1960s
-s071|Ray Kroc. And 1960s
+s071|Ray Kroc 1960s
 s074|Harry Sonneborn
 s097|United States
 s098|Big Mac
 s099|Ronald McDonald
 s100|restaurant 1970s
-s100|Ray Kroc. And 1970s
+s100|Ray Kroc 1970s
 s101|San Diego Padres
-s103|Ray Kroc. And 1980s
+s103|Ray Kroc 1980s

@@ -1,4 +1,4 @@
-s000|Steve Jobs. And 1980s
+s000|Steve Jobs 1980s
 s001|Apple
 s004|garage
 s005|stock
@@ -6,7 +6,7 @@ s007|Silicon Valley
 s010|Steve Jobs
 s012|Steven Paul Jobs
 s012|San Francisco
-s012|Steve Jobs. And 1950s
+s012|Steve Jobs 1950s
 s014|Mountain View
 s014|California
 s016|Steve
@@ -19,7 +19,7 @@ s026|India
 s027|Zen Buddhism
 s028|Wozniak
 s028|computer 1970s
-s028|Steve Jobs. And 1970s
+s028|Steve Jobs 1970s
 s030|Volkswagen
 s031|Los Altos
 s031|computer
@@ -38,7 +38,7 @@ s057|computer 1980s
 s058|Pixar
 s061|Toy Story
 s061|computer 1990s
-s061|Steve Jobs. And 1990s
+s061|Steve Jobs 1990s
 s065|Without Jobs
 s070|Microsoft
 s074|Think Different

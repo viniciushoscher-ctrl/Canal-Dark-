@@ -8,7 +8,7 @@ s008|America
 s009|Sam Walton
 s011|Samuel Moore Walton
 s011|Kingfisher
-s011|Sam Walton. And 1910s
+s011|Sam Walton 1910s
 s012|Thomas
 s012|Midwest
 s013|the Great Depression
@@ -17,7 +17,7 @@ s014|newspaper
 s015|Shelbina
 s015|Missouri
 s020|University of Missouri
-s020|Sam Walton. And 1940s
+s020|Sam Walton 1940s
 s022|Des Moines
 s023|the Second World War
 s023|Walton
@@ -25,23 +25,23 @@ s024|Newport
 s024|store 1940s
 s025|Ben Franklin
 s025|franchise
-s032|Sam Walton. And 1950s
+s032|Sam Walton 1950s
 s035|Bentonville
 s035|Ozarks of Arkansas
-s039|Sam Walton. And 1960s
+s039|Sam Walton 1960s
 s048|Wal-Mart Discount City
 s064|W-A-L-M-A-R-T
 s065|store 1970s
-s065|Sam Walton. And 1970s
+s065|Sam Walton 1970s
 s069|computer
 s071|Wall Street
 s079|Sam Club
 s079|warehouse 1980s
-s079|Sam Walton. And 1980s
+s079|Sam Walton 1980s
 s080|Supercenter
 s080|store 1980s
 s082|Forbes
-s085|Sam Walton. And 1990s
+s085|Sam Walton 1990s
 s086|President George H
 s087|Presidential Medal of Freedom
 s087|United States

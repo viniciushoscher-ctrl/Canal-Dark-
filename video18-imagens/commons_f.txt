@@ -4,13 +4,13 @@ s004|software
 s006|Bill Gates
 s007|Microsoft
 s008|William Henry Gates the Third
-s008|Bill Gates. And 1950s
+s008|Bill Gates 1950s
 s015|Lakeside School
 s016|computer 1960s
-s016|Bill Gates. And 1960s
+s016|Bill Gates 1960s
 s018|Paul Allen
 s022|Harvard
-s022|Bill Gates. And 1970s
+s022|Bill Gates 1970s
 s024|Boston
 s025|Allen
 s025|Harvard Square
@@ -20,7 +20,7 @@ s028|BASIC
 s031|New Mexico
 s036|Albuquerque
 s042|computer 1980s
-s042|Bill Gates. And 1980s
+s042|Bill Gates 1980s
 s044|Gary Kildall
 s046|Seattle Computer Products
 s048|Tim Paterson
@@ -30,7 +30,7 @@ s054|Windows
 s054|Apple Macintosh
 s055|Steve Jobs
 s056|Xerox
-s058|Bill Gates. And 1990s
+s058|Bill Gates 1990s
 s061|Rolling Stones
 s066|America
 s071|Internet Explorer

@@ -19,7 +19,7 @@ STOP = set("The He His She Her They Their It In On At When Then But And After Be
 DROP = set("January February March April May June July August September October November December American British Greek Greeks Turkish Argentinian Argentinians Europe Mediterranean Canadian German Americans British French Japanese Chinese Indian Russian Italian Spanish Jewish English Earth Congress Sunday Monday Friday Saturday Christmas Depression Second First Third Great World War Mr Mrs".split())
 NOUNS = "tanker freighter yacht casino airline airplane island wedding funeral hospital shipyard oil refinery store supermarket restaurant factory warehouse truck car train railroad steel bank courthouse newspaper telegraph telephone computer garage rocket laptop software hamburger franchise milkshake cinema studio theater hotel ship port harbor stock exchange".split()
 from collections import Counter
-C = Counter(re.findall(r"[A-Z][a-z]+ [A-Z][a-z]+", rot)); mm = re.search(r"[Hh]is name is ((?:[A-Z][a-z]+\.? ?){2,3})", rot); SUBJ = mm.group(1).strip() if mm else C.most_common(1)[0][0]
+C = Counter(re.findall(r"[A-Z][a-z]+ [A-Z][a-z]+", rot)); mm = re.search(r"[Hh]is name is ([A-Z][a-z]+(?: [A-Z]\.)?(?: [A-Z][a-z]+)+)", rot); SUBJ = mm.group(1).strip() if mm else C.most_common(1)[0][0]
 out = []; seen = set()
 sents = [s.strip() for s in re.split(r"(?<=[.!?])\s+", re.sub(r"^### .*$", "", rot, flags=re.M).replace("\n", " ")) if len(s.strip()) > 20]
 for i, s in enumerate(sents):
