@@ -1,29 +1,5 @@
 [
  {
-  "tag": "ship",
-  "title": "File:S.S. Coptic Sailing Away (1897).webm",
-  "dur": 24.333,
-  "lic": "Public domain"
- },
- {
-  "tag": "ship",
-  "title": "File:Bluenose vs. Gertrude L. Thebaud, Wallace R. MacAskill, 26 October, 1938.webm",
-  "dur": 313.413,
-  "lic": "Public domain"
- },
- {
-  "tag": "ship",
-  "title": "File:Sail 1980.ogv",
-  "dur": 157.477732,
-  "lic": "CC BY-SA 3.0 nl"
- },
- {
-  "tag": "harbor",
-  "title": "File:Surreal Old Timey Film Of New York City In 1911.webm",
-  "dur": 433.399,
-  "lic": "Public domain"
- },
- {
   "tag": "nyc",
   "title": "File:Surreal Old Timey Film Of New York City In 1911.webm",
   "dur": 433.399,
@@ -57,12 +33,6 @@
   "tag": "crowd",
   "title": "File:Astor Battery on parade -.webm",
   "dur": 64.903,
-  "lic": "Public domain"
- },
- {
-  "tag": "crowd",
-  "title": "File:Corner Madison and State streets, Chicago -.webm",
-  "dur": 49.269,
   "lic": "Public domain"
  }
 ]
