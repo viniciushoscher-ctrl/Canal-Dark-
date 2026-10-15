@@ -7,7 +7,7 @@ CARDS = [("aristotelis sokratis onassis was born", "1906", "ONASSIS IS BORN", "S
          ("in nineteen twenty-three at seventeen", "1923", "BUENOS AIRES", "$60 and no friends", None),
          ("in nineteen thirty-three the world", "1933", "SIX FREIGHTERS", "bought at scrap price", None),
          ("his boldest deal came", "1954", "THE JEDDAH AGREEMENT", "the Saudi oil gamble", None),
-         ("in nineteen fifty-six onassis took control", "1956", "MONTE CARLO", "the casino and the yacht", None),
+         ("in nineteen fifty-four onassis took control", "1954", "MONTE CARLO", "the casino and the yacht", None),
          ("in nineteen sixty-eight onassis married", "1968", "THE WEDDING", "Jackie Kennedy", None),
          ("he died in paris on march", "1975", "ONASSIS DIES", "age 69", None)]
 #--BRT
@@ -41,7 +41,7 @@ EMPH = [("sixty dollars", "SIXTY", "DOLLARS"), ("when each had cost a million to
 #--MUSIC
 DEF = {0: "tense", 1: "dark", 2: "drive", 3: "upbeat", 4: "wonder", 5: "dark", 6: "sad", 7: "reflect"}
 TRG = [("nineteen fifty-nine on a yacht", "tense"), ("aristotelis sokratis onassis was born", "sad"), ("that life ended in september", "dark"), ("in nineteen twenty-three at seventeen", "drive"),
-       ("he was twenty-seven", "triumph"), ("his boldest deal came", "tense"), ("onassis fought back", "dark"), ("in nineteen fifty-six onassis took control", "wonder"),
+       ("he was twenty-seven", "triumph"), ("his boldest deal came", "tense"), ("onassis fought back", "dark"), ("in nineteen fifty-four onassis took control", "wonder"),
        ("in nineteen sixty-eight onassis married", "dark"), ("in nineteen seventy-three his only son", "sad"), ("he died in paris", "sad"), ("the second is that a great fortune", "reflect")]
 TWISTS = ["that life ended in september", "he was twenty-seven", "but the deal collapsed", "in nineteen seventy-three his only son", "he died in paris on march"]
 #--NSC
