@@ -7,13 +7,6 @@
   "author": "unknown\n\n(Life time: subject died before 1914)"
  },
  {
-  "file": "video23-commons/people/tesla.jpg",
-  "wiki": "Nikola_Tesla",
-  "image": "Tesla_circa_1890.jpeg",
-  "license": "Public domain",
-  "author": "Napoleon Sarony"
- },
- {
   "file": "video23-commons/people/edison.jpg",
   "wiki": "Thomas_Edison",
   "image": "Thomas_Edison2.jpg",
@@ -38,7 +31,7 @@
   "file": "video23-commons/people/morgan.jpg",
   "wiki": "J._P._Morgan",
   "image": "J.P._Morgan_(cropped).jpg",
-  "license": "Public domain",
-  "author": "Unknown authorUnknown author"
+  "license": "",
+  "author": ""
  }
 ]
