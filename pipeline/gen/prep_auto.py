@@ -8,8 +8,9 @@ dst = f"/home/claude/video_build{N}/bright"; os.makedirs(dst, exist_ok=True)
 for f in glob.glob(dst + "/*.jpg"): os.remove(f)
 NSC = int(re.search(r"#--NSC\n(\d+)", cfg).group(1))
 spec = importlib.util.spec_from_file_location("gq", R + "/pipeline/gen/gen_queries.py")
-src = open(R + "/pipeline/gen/gen_queries.py", encoding="utf-8").read(); ns = {}
+src = open(R + "/pipeline/gen/gen_queries.py", encoding="utf-8").read(); ns = {"re": re}
 exec(src[src.index("U = "):src.index("STOP = ")], ns); yr = ns["yr"]
+ns["NOUNS"] = re.search(r"NOUNS = \"(.*?)\"\.split", src).group(1).split()
 src2 = open(R + "/pipeline/gen/prepgen.py", encoding="utf-8").read(); ns2 = {}
 exec("import numpy as np\nfrom PIL import Image, ImageOps, ImageFilter, ImageStat\n" + src2[src2.index("def fit"):src2.index("for f in sorted(glob.glob(src")], ns2)
 fit, bright = ns2["fit"], ns2["bright"]
@@ -45,9 +46,14 @@ for sub in ("f", "fotos", "people"):
         if not os.path.exists(fp): continue
         try: Image.open(fp).verify()
         except Exception: continue
+        if sub == "f":
+            q = c.get("query", "").lower(); ws = re.findall(r"[a-z]{4,}", q)
+            if q.split()[0] in ns["NOUNS"] or not ws or not all(w in c.get("title", "").lower() for w in ws): continue
         m = re.search(r"/s(\d{3})_\d+\.jpg$", fp)
-        (by.setdefault(int(m.group(1)), []).append(fp) if m and sub == "f" else extra.append((fp, set(re.findall(r"[a-z]{4,}", c["title"].lower())))))
-used = set(); FB = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"; FI = "/usr/share/fonts/truetype/google-fonts/Lora-Italic-Variable.ttf"
+        (by.setdefault(int(m.group(1)), []).append(fp) if m and sub == "f" else extra.append((fp, set(re.findall(r"[a-z]{4,}", c.get("title", c.get("file", "")).lower())))))
+NOUNS = set(ns["NOUNS"]) if "NOUNS" in ns else set()
+VETO = set(open(R + f"/video{N}-imagens/veto.txt").read().split()) if os.path.exists(R + f"/video{N}-imagens/veto.txt") else set()
+used = set(VETO); FB = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"; FI = "/usr/share/fonts/truetype/google-fonts/Lora-Italic-Variable.ttf"
 def plate(year, t1, t2):
     rng = np.random.default_rng(abs(hash(t1)) % 9999); a = np.linspace(30, 12, 720)[:, None] * np.ones((720, 1280)) + rng.normal(0, 3, (720, 1280))
     im = Image.fromarray(np.clip(a, 0, 255).astype(np.uint8)).convert("RGB"); d = ImageDraw.Draw(im)
@@ -55,7 +61,7 @@ def plate(year, t1, t2):
     d.text((640, 385), t1[:26].upper(), font=ImageFont.truetype(FB, 44), fill=(240, 240, 240), anchor="mm")
     d.text((640, 450), t2[:44], font=ImageFont.truetype(FI, 28), fill=(190, 190, 190), anchor="mm"); return im
 def pick(k, sent):
-    for d in (0, 1, -1, 2, -2, 3, -3):
+    for d in (0, 1, -1, 2, -2):
         for f in by.get(k + d, []) if k is not None else []:
             if f not in used: return f
     w = set(re.findall(r"[a-z]{4,}", sent.lower())); best = None; bs = 0
