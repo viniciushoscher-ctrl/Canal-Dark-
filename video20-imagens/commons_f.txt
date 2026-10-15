@@ -1,0 +1,40 @@
+s000|Jeff Bezos. And 1990s
+s001|Wall Street
+s001|New York
+s003|Central Park
+s010|Seattle
+s010|car
+s011|Jeff Bezos
+s012|garage
+s013|Jeffrey Preston Jorgensen
+s013|Albuquerque
+s013|Jeff Bezos. And 1960s
+s014|Jacklyn
+s016|Cuban
+s016|Miguel Bezos
+s017|United States
+s018|Exxon
+s019|Houston
+s019|Texas
+s020|Young Jeff
+s025|Princeton
+s025|computer 1980s
+s025|Jeff Bezos. And 1980s
+s035|store
+s035|stock
+s036|Amazon
+s037|MacKenzie
+s053|Day One
+s060|newspaper
+s061|warehouse
+s063|Bezos
+s068|Prime
+s076|Amazon Web Services
+s081|Airbnb
+s089|Kindle
+s090|Washington Post
+s091|Whole Foods
+s094|Blue Origin
+s094|rocket
+s102|CEO of Amazon
+s107|of Amazon

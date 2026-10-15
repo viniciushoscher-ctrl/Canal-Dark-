@@ -1,0 +1,45 @@
+s000|computer
+s003|Seattle
+s004|software
+s006|Bill Gates
+s007|Microsoft
+s008|William Henry Gates the Third
+s008|Bill Gates. And 1950s
+s015|Lakeside School
+s016|computer 1960s
+s016|Bill Gates. And 1960s
+s018|Paul Allen
+s022|Harvard
+s022|Bill Gates. And 1970s
+s024|Boston
+s025|Allen
+s025|Harvard Square
+s025|computer 1970s
+s026|Gates
+s028|BASIC
+s031|New Mexico
+s036|Albuquerque
+s042|computer 1980s
+s042|Bill Gates. And 1980s
+s044|Gary Kildall
+s046|Seattle Computer Products
+s048|Tim Paterson
+s048|MS-DOS
+s052|the IBM PC
+s054|Windows
+s054|Apple Macintosh
+s055|Steve Jobs
+s056|Xerox
+s058|Bill Gates. And 1990s
+s061|Rolling Stones
+s066|America
+s071|Internet Explorer
+s072|United States Justice Department
+s075|Millions of Americans
+s082|Apple
+s082|Facebook
+s085|Melinda French
+s088|CEO of Microsoft
+s092|Giving Pledge
+s092|Warren Buffett
+s094|Melinda

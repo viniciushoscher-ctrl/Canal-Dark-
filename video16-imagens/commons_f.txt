@@ -1,0 +1,41 @@
+s000|San Bernardino
+s000|California
+s000|restaurant
+s000|milkshake
+s001|America
+s004|hamburger
+s009|Ray Kroc
+s011|Raymond Albert Kroc
+s011|Oak Park
+s011|Ray Kroc. And 1900s
+s012|Czech
+s013|store
+s015|the First World War
+s015|Red Cross
+s016|Connecticut
+s017|Walt Disney
+s020|Florida
+s023|Lily-Tulip Cup Company
+s025|Multimixer
+s026|Earl Prince
+s028|Multimixers
+s028|Ray Kroc. And 1940s
+s038|Speedee Service System
+s044|McDonald
+s051|Richard McDonald
+s052|franchise
+s056|Ray Kroc. And 1950s
+s059|Des Plaines
+s059|Illinois
+s059|restaurant 1950s
+s066|Hamburger University
+s071|restaurant 1960s
+s071|Ray Kroc. And 1960s
+s074|Harry Sonneborn
+s097|United States
+s098|Big Mac
+s099|Ronald McDonald
+s100|restaurant 1970s
+s100|Ray Kroc. And 1970s
+s101|San Diego Padres
+s103|Ray Kroc. And 1980s
