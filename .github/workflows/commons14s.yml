@@ -1,0 +1,20 @@
+name: commons14s
+on:
+  workflow_dispatch:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['video14-imagens/commons_s.txt']
+permissions:
+  contents: write
+jobs:
+  c:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python shorts/commons.py video14-imagens/commons_s.txt video14-commons/sc || true
+      - if: always()
+        run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add video14-commons && git commit -m "Commons video 4 [skip ci]" && for i in 1 2 3 4; do git pull --rebase -q && git push && break; sleep 5; done
