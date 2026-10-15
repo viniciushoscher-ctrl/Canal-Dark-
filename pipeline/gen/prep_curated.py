@@ -12,10 +12,10 @@ FB = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"; FI = "/usr/share
 def plate(year, t1, t2):
     rng = np.random.default_rng(abs(hash(t1)) % 9999); a = np.linspace(28, 12, 720)[:, None] * np.ones((720, 1280)) + rng.normal(0, 3, (720, 1280))
     im = Image.fromarray(np.clip(a, 0, 255).astype(np.uint8)).convert("RGB"); d = ImageDraw.Draw(im)
-    d.line((140, 300, 140, 470), fill=(245, 197, 66), width=4)
-    d.text((170, 292), year, font=ImageFont.truetype(FB, 40), fill=(245, 197, 66))
-    d.text((170, 350), t1, font=ImageFont.truetype(FB, 78), fill=(240, 240, 240))
-    d.text((170, 450), t2, font=ImageFont.truetype(FI, 38), fill=(190, 190, 190))
+    d.text((640, 300), year, font=ImageFont.truetype(FB, 36), fill=(245, 197, 66), anchor="mm")
+    d.line((590, 330, 690, 330), fill=(245, 197, 66), width=3)
+    d.text((640, 385), t1, font=ImageFont.truetype(FB, 46), fill=(240, 240, 240), anchor="mm")
+    d.text((640, 450), t2, font=ImageFont.truetype(FI, 30), fill=(190, 190, 190), anchor="mm")
     return im
 n = 0
 for l in open(sys.argv[2], encoding="utf-8"):

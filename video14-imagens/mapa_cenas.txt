@@ -10,27 +10,27 @@
 10|fotos/smyrna2_0.jpg
 11|fotos/izmir_0.jpg
 12|PLATE|1915|TOBACCO|the family trade in Smyrna
-13|PLATE|1920s|TOBACCO|leaf by leaf, bale by bale
+13|sc/s13_3.jpg
 14|PLATE|1923|$60|all he carried to Argentina
 15|fotos/buenos_0.jpg
 16|fotos/buenos_3.jpg
-17|PLATE|1926|THE SWITCHBOARD|night shifts, Buenos Aires
-18|PLATE|1926|THE SWITCHBOARD|learning how business talks
-19|PLATE|1926|THE SWITCHBOARD|a young man listening
+17|sc/s19_0.jpg
+18|sc/s19_1.jpg
+19|sc/s19_2.jpg
 20|PLATE|1928|TOBACCO IMPORT|his first fortune
-21|PLATE|1928|TOBACCO IMPORT|ledgers and cigarettes
+21|sc/s21_0.jpg
 22|fotos/freighter_1.jpg
 23|fotos/freighter_3.jpg
 24|fotos/oil_0.jpg
 25|PLATE|1933|THE DEPRESSION|empty docks, ships for scrap
 26|fotos/oil_1.jpg
-27|fotos/oil_1.jpg
-28|fotos/oil_3.jpg
-29|fotos/oil_2.jpg
-30|fotos/oil_2.jpg
-31|fotos/oil_3.jpg
+27|sc/s27_0.jpg
+28|sc/s27_2.jpg
+29|sc/s31_1.jpg
+30|sc/s31_0.jpg
+31|sc/s31_2.jpg
 32|PLATE|1950|THE SHIPOWNER|charts, models, ambition
-33|mapa/worldmap_0.jpg
+33|sc/s33_0.jpg
 34|mapa/worldmap_1.jpg
 35|mapa/worldmap_2.jpg
 36|PLATE|1950s|FLAGS OF CONVENIENCE|register abroad, pay less
@@ -42,23 +42,23 @@
 42|PLATE|1954|THE OIL MEN|a plan in a smoky room
 43|PLATE|1954|KING SAUD|the palace in Arabia
 44|PLATE|1955|THE BOYCOTT|ports closed to his tankers
-45|PLATE|1955|THE BOYCOTT|ships stranded at sea
+45|sc/s45_0.jpg
 46|fotos/rainier_0.jpg
-47|PLATE|1956|MONTE CARLO|the casino he bought into
+47|sc/s48_0.jpg
 48|fotos/rainier_1.jpg
 49|fotos/christina_2.jpg
 50|PLATE|1957|THE CHRISTINA|a yacht built to impress
 51|fotos/sinatra_1.jpg
 52|fotos/sinatra_3.jpg
-53|plane_0_1.jpg
-54|plane_0_0.jpg
+53|sc/s53_1.jpg
+54|sc/s53_2.jpg
 55|plane_0_2.jpg
 56|fotos/skorpios_1.jpg
 57|fotos/skorpios_2.jpg
 58|fotos/jackie_3.jpg
-59|fotos/jackie_2.jpg
+59|sc/s60_3.jpg
 60|fotos/jackie_0.jpg
-61|fotos/jackie_1.jpg
+61|people/jackie.jpg
 62|fotos/smyrna2_1.jpg
 63|PLATE|1973|ALEXANDER|his only son and heir
 64|PLATE|1973|THE CRASH|a small plane, a short flight
