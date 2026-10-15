@@ -1,0 +1,14 @@
+mellon|Andrew_W._Mellon
+thomas|Thomas_Mellon
+frick|Henry_Clay_Frick
+hall|Charles_Martin_Hall
+harding|Warren_G._Harding
+coolidge|Calvin_Coolidge
+hoover|Herbert_Hoover
+fdr|Franklin_D._Roosevelt
+nora|Nora_McMullen_Mellon
+paul|Paul_Mellon
+ailsa|Ailsa_Mellon_Bruce
+logo|Mellon_Financial
+ng|National_Gallery_of_Art
+alcoa|Alcoa

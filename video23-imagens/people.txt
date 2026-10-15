@@ -1,0 +1,6 @@
+westinghouse|George_Westinghouse
+tesla|Nikola_Tesla
+edison|Thomas_Edison
+stanley|William_Stanley_Jr.
+vanderbilt|Cornelius_Vanderbilt
+morgan|J._P._Morgan

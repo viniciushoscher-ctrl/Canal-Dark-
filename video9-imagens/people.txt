@@ -1,0 +1,11 @@
+astor|John_Jacob_Astor
+william|William_Backhouse_Astor_Sr.
+jjiv|John_Jacob_Astor_IV
+irving|Washington_Irving
+logo|Astor_family
+astoria|Astoria,_Oregon
+waldorf|Waldorf_Astoria_New_York
+sarah|Sarah_Todd_Astor
+jefferson|Thomas_Jefferson
+lewis|Meriwether_Lewis
+nlib|New_York_Public_Library

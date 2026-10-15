@@ -1,0 +1,32 @@
+m1|Andrew W. Mellon portrait
+m2|Andrew Mellon photograph 1920s
+m3|Andrew Mellon Secretary of the Treasury
+m4|Andrew Mellon old man
+m5|Andrew Mellon painting
+thomas|Thomas Mellon judge
+bank|Mellon National Bank Pittsburgh
+bank2|T. Mellon and Sons Bank
+pitt1|Pittsburgh 1890 steel mills
+pitt2|Pittsburgh smoky city 1900
+alcoa|Alcoa aluminum plant 1900s
+hall|Charles Martin Hall aluminum
+spindle|Spindletop gusher 1901
+gulf|Gulf Oil 1910s
+koppers|Koppers coke ovens
+carbo|Carborundum Niagara Falls
+frick|Henry Clay Frick portrait
+nora|Nora McMullen Mellon
+harding|Warren G. Harding portrait
+coolidge|Calvin Coolidge portrait
+hoover|Herbert Hoover portrait
+treasury|United States Treasury Building 1920s
+ng|National Gallery of Art West Building
+ng2|National Gallery of Art opening 1941
+hermitage|Hermitage Museum Leningrad 1930
+raphael|Raphael Alba Madonna
+rembrandt|Rembrandt Polish Rider
+fdr|Franklin D. Roosevelt portrait 1933
+crash|Wall Street crash 1929 crowd
+depression|Great Depression bread line 1931
+london|London 1932 street
+mellonparty|Mellon family Pittsburgh mansion

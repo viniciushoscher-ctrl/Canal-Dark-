@@ -1,0 +1,10 @@
+hotel|hotel lobby film 1930s
+oil|oil derrick film 1920s
+crash|stock market crash 1929 film
+depress|Great Depression film 1930s
+war|world war two soldiers film
+nyc|New York City film 1940s
+airport|airplane airport film 1950s
+crowd|crowd film 1930s
+city|city skyline film 1950s
+train|train film 1920s

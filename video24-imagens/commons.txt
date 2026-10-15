@@ -1,0 +1,25 @@
+f1|Henry Flagler portrait
+f2|Henry Flagler photograph
+f3|Henry Flagler old
+hopewell|Hopewell New York
+rock|John D. Rockefeller portrait
+mary|Mary Harkness Flagler
+ida|Ida Alice Flagler
+mary_lily|Mary Lily Kenan Flagler
+stand|Standard Oil 1880
+ponce|Hotel Ponce de Leon St. Augustine
+ponce2|Hotel Ponce de Leon dining room
+tiffany|Louis Comfort Tiffany
+edison|Thomas Edison portrait
+poinciana|Royal Poinciana Hotel Palm Beach
+whitehall|Whitehall Palm Beach Flagler
+tuttle|Julia Tuttle
+miami|Miami 1896 Flagler railroad
+miami2|Miami River 1896
+keys|Florida East Coast Railway Key West 1912
+seven|Seven Mile Bridge Florida
+hurricane|1935 Labor Day hurricane
+over|Overseas Highway Florida Keys
+fec|Florida East Coast Railway locomotive
+daytona|Daytona Beach 1890s
+jax|Jacksonville Florida 1880

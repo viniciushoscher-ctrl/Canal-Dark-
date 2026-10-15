@@ -1,0 +1,6 @@
+musk|Elon_Musk
+kimbal|Kimbal_Musk
+maye|Maye_Musk
+errol|Errol_Musk
+thiel|Peter_Thiel
+bezos|Jeff_Bezos

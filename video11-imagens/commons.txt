@@ -1,0 +1,28 @@
+f1|Henry Clay Frick portrait
+f2|Henry Clay Frick photograph
+f3|Henry Clay Frick old
+home|Homestead strike 1892
+home2|Battle of Homestead Pinkertons
+barge|Pinkerton barges Homestead
+mill|Homestead Steel Works
+coke|Connellsville coke ovens
+coke2|beehive coke ovens Pennsylvania
+farm|Frick birthplace West Overton
+overton|West Overton Pennsylvania distillery
+carnegie|Andrew Carnegie portrait
+berkman|Alexander Berkman anarchist
+attack|Berkman attack on Frick
+morgan|J. P. Morgan portrait
+ussteel|United States Steel 1901
+frickbldg|Frick Building Pittsburgh
+mansion|Frick Collection Fifth Avenue
+mansion2|Frick Collection interior
+helen|Helen Clay Frick
+adelaide|Adelaide Childs Frick
+clayton|Clayton Frick mansion Pittsburgh
+vermeer|Vermeer Officer and Laughing Girl
+rembrandt|Rembrandt Polish Rider
+mellon|Andrew Mellon portrait
+pitt|Pittsburgh 1892 steel mills
+militia|Pennsylvania militia 1892 Homestead
+union|Amalgamated Association of Iron and Steel Workers

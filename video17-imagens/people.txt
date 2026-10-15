@@ -1,0 +1,6 @@
+buffett|Warren_Buffett
+graham|Benjamin_Graham
+munger|Charlie_Munger
+gates|Bill_Gates
+howard|Howard_Buffett
+susan|Susan_Buffett

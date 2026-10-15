@@ -1,0 +1,10 @@
+train|train film 1900s
+gold|gold mining film
+snow|snow mountains railroad film
+desert|desert train film
+horse|horse racing film 1900s
+crowd|crowd film 1900s
+campus|university campus film 1900s
+city|San Francisco film 1900s
+telegraph|telegraph film
+street|city street film 1900s

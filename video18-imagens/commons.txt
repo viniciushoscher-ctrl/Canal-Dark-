@@ -1,0 +1,26 @@
+g1|Bill Gates portrait
+g2|Bill Gates photograph
+g3|Bill Gates young
+g4|Bill Gates 1980s
+allen|Paul Allen portrait
+lakeside|Lakeside School Seattle
+terminal|teletype terminal ASR-33
+altair|Altair 8800
+harvard|Harvard Yard 1973
+ibmpc|IBM Personal Computer 5150
+kildall|Gary Kildall
+paterson|Tim Paterson
+msdos|MS-DOS
+win|Windows 1.0
+win95|Windows 95 launch
+jobs|Steve Jobs 1980s
+mac|Macintosh 1984
+xerox|Xerox Alto
+netscape|Netscape Navigator
+doj|United States v. Microsoft
+melinda|Melinda French Gates
+buffett|Warren Buffett portrait
+foundation|Bill and Melinda Gates Foundation
+vaccine|polio vaccination campaign
+ballmer|Steve Ballmer
+msft|Microsoft Redmond campus

@@ -1,0 +1,8 @@
+hershey|Milton_S._Hershey
+kitty|Catherine_Hershey
+peter|Daniel_Peter
+nestle|Henri_Nestlé
+roosevelt|Franklin_D._Roosevelt
+hershey_town|Hershey,_Pennsylvania
+school|Milton_Hershey_School
+lancaster|Lancaster,_Pennsylvania

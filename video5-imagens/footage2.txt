@@ -1,0 +1,12 @@
+ford|Ford Motor Company film 1914
+assembly|automobile assembly line film 1920s
+modelt|Model T film
+detroit|Detroit 1900s film
+factory|factory workers film 1910s
+car|early automobile film 1900
+road|automobile road 1910s film
+farm|farm tractor film 1920s
+war|Willow Run B-24 bomber production film
+rouge|Ford River Rouge film
+crowd|crowd street 1910s film
+train|railroad train 1900s film

@@ -1,0 +1,4 @@
+field|Marshall_Field
+palmer|Potter_Palmer
+leiter|Levi_Leiter
+rockefeller|John_D._Rockefeller

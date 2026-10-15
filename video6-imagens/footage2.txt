@@ -1,0 +1,12 @@
+rail|steam locomotive film 1900s
+train|railroad train film 1910
+telegraph|telegraph film
+nyc|New York City street 1900s film
+wall|Wall Street 1900s film
+crowd|crowd street 1900s film
+horse|horse carriage street film 1900
+farm|farm rural 1900s film
+elevated|elevated train New York film 1900
+bridge|railroad bridge film 1900s
+newspaper|newspaper printing press film
+money|bank money film 1900s

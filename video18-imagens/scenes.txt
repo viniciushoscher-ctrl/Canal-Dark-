@@ -1,0 +1,76 @@
+BW|A young man in an ill-fitting suit entering a corporate boardroom, 1980
+COLOR|A long conference table with executives in dark suits
+3D|Cinematic 3D render of a glowing computer chip on a boardroom table
+BW|A Seattle skyline in the 1960s with the Space Needle
+COLOR|A Seattle neighborhood house at dusk
+BW|A competitive family dinner table with board games, 1965
+COLOR|A chess board mid-game in lamplight
+BW|A school library with encyclopedias on shelves, 1966
+COLOR|A stack of encyclopedias on a desk
+BW|A school computer room with a teletype terminal, 1968
+COLOR|A teletype terminal printing paper in a dark room
+3D|Cinematic 3D render of a terminal screen with green text glowing in the dark
+BW|Two teenagers hunched over a terminal, silhouettes, 1969
+COLOR|Green phosphor text on an old monitor
+BW|A tic-tac-toe game printed on a paper tape
+COLOR|Punched paper tape curling on a desk
+BW|Harvard University gates and brick buildings, 1973
+COLOR|A dormitory room with a poker table and books
+BW|A Harvard Square newsstand with magazines, 1975
+COLOR|A magazine cover showing a small computer on a table
+3D|Cinematic 3D render of a small computer kit glowing on a magazine
+BW|A computer lab with a mainframe at night, 1975
+COLOR|Reels of tape and blinking lights in a lab
+3D|Cinematic 3D render of lines of code glowing in darkness
+BW|A desert office in New Mexico with a dusty sign, 1975
+COLOR|An airplane over the desert carrying a small box
+BW|A startup office with a handful of programmers, 1978
+COLOR|Programmers' desks and cups of coffee at night
+BW|A corporate headquarters of a computer giant, 1980
+COLOR|A blue corporate logo on a glass building
+BW|A tense meeting in a corporate office, 1980
+COLOR|A contract and pen beside a floppy disk
+3D|Cinematic 3D render of a floppy disk glowing on a contract
+BW|A small computer company's garage with disks on shelves, 1980
+COLOR|A shelf of floppy disks in warm light
+BW|A personal computer on a desk with a monitor, 1981
+COLOR|Rows of beige computers in a factory
+3D|Cinematic 3D render of rows of identical computers stretching to the horizon
+BW|A graphical computer interface with windows on a screen, 1985
+COLOR|A mouse and keyboard under a desk lamp
+BW|Two rivals arguing at a table, silhouettes, 1985
+COLOR|A studio spotlight on a computer screen
+3D|Cinematic 3D render of a glowing window on a computer screen floating in the dark
+BW|A crowd waiting in line outside a computer store at midnight, 1995
+COLOR|A midnight store opening with boxes of software
+BW|A stock exchange floor on a public offering, 1986
+COLOR|A rising stock chart and confetti
+3D|Cinematic 3D render of a golden stack of dollars growing into a tower
+BW|A young billionaire at a desk with piles of paper, 1987
+COLOR|A magazine rack with a famous cover blurred
+BW|A browser war with two logos on computer screens, 1996
+COLOR|A blue browser icon beside a retro monitor
+BW|A Justice Department building in Washington, 1998
+COLOR|A courtroom with a witness stand and cameras
+3D|Cinematic 3D render of a courtroom gavel breaking a glass monitor
+BW|A deposition room with a video camera and a nervous man, 1998
+COLOR|A television screen showing a trial clip
+BW|A judge reading a ruling in an empty courtroom, 2000
+COLOR|A split company logo cracked in two
+BW|A smartphone and a search engine on a screen, 2007
+COLOR|A glowing smartphone in a dark room
+BW|A wedding in Hawaii on a beach, 1994
+COLOR|A couple's hands holding on a beach
+BW|A global health clinic with children being vaccinated, 2005
+COLOR|A mosquito net hanging over a bed in Africa
+3D|Cinematic 3D render of a glowing vaccine vial in a dark lab
+BW|A foundation headquarters in Seattle, 2010
+COLOR|A glass building on a hill with a garden
+3D|Cinematic 3D render of a golden globe held in two hands
+BW|A giving pledge ceremony with a table of papers, 2010
+COLOR|A charity check beside a pen
+BW|A billionaire at a podium giving a speech, 2015
+COLOR|A projector screen with a map of vaccines
+BW|A tall glass headquarters campus at dusk, 2020
+COLOR|A glowing company campus with palm trees
+3D|Cinematic 3D render of a golden key on top of a glowing keyboard

@@ -1,0 +1,73 @@
+BW|A kitchen table in Omaha with a few people leaning over papers, 1956
+COLOR|A stack of cash and a handwritten ledger on a kitchen table
+3D|Cinematic 3D render of a kitchen table with glowing coins on a ledger
+BW|A small gray house on a quiet Omaha street, 1958
+COLOR|A modest gray house at dawn with a car in the driveway
+BW|A shy young man speaking nervously to a small crowd, 1956
+BW|A Nebraska street in the 1930s with a candy shop, 1936
+COLOR|Sticks of gum arranged on a wooden counter
+3D|Cinematic 3D render of a single gum stick glowing on a dark table
+BW|A boy selling gum door to door in a suburb, 1936
+BW|A stockbroker's board with chalked prices, 1941
+COLOR|A stock ticker tape curling on a desk
+BW|A boy delivering newspapers on a bicycle, 1943
+COLOR|A pinball machine in a barbershop
+BW|A father and son in an office with ledgers, 1940
+COLOR|A tax return form on a desk with a pen
+BW|Columbia University campus in the 1950s
+COLOR|A classroom with a blackboard full of formulas
+3D|Cinematic 3D render of an open book with golden numbers rising from the pages
+BW|A professor writing on a blackboard, silhouette, 1951
+COLOR|An old book on a wooden desk in lamplight
+BW|A young man knocking on a door of a Wall Street firm, 1951
+COLOR|A Wall Street street at dawn with empty steps
+BW|A small investment office with files, 1956
+COLOR|A chart of rising lines on a wall
+3D|Cinematic 3D render of a bar chart rising from a kitchen table
+BW|Investors signing papers around a table, 1956
+COLOR|A handshake over a document
+BW|A busy stock exchange floor in the 1960s
+COLOR|A market board with numbers glowing
+3D|Cinematic 3D render of glowing numbers falling like rain
+BW|A man closing a briefcase in an empty office, 1969
+COLOR|A farewell letter on a desk
+BW|A failing textile mill in New England, 1965
+COLOR|Looms covered in dust in an empty mill
+3D|Cinematic 3D render of an abandoned loom with a golden thread
+BW|A candy shop with trays of chocolate, 1972
+COLOR|Boxes of chocolates on a white counter
+3D|Cinematic 3D render of a chocolate box with a golden glow
+BW|A newspaper printing press in the 1970s
+COLOR|An insurance office with desks and files
+BW|A bottle of cola on a counter, 1988
+COLOR|Red cola cans on a conveyor line
+3D|Cinematic 3D render of a castle with a wide moat around it
+BW|A modest man eating a hamburger at a diner, 1990
+COLOR|A cherry soda in a glass on a table
+BW|A trading floor in crisis with traders shouting, 1991
+COLOR|A scandal headline on a newspaper in a dark office
+BW|A man standing before a room of employees, 1991
+COLOR|A reputation written on a chalkboard
+3D|Cinematic 3D render of a glass statue cracking in the dark
+BW|The dot-com boom with computers and neon signs, 1999
+COLOR|A glowing computer screen full of tech stocks
+3D|Cinematic 3D render of a glowing bubble about to burst over a city
+BW|A Wall Street crash with papers on the street, 2000
+COLOR|A red chart falling on a wall
+BW|A financial crisis headline room with banks closing, 2008
+COLOR|A bank tower at night with lit windows
+3D|Cinematic 3D render of a golden hand catching falling coins
+BW|A press conference with many microphones, 2006
+COLOR|A charity check on a table with a pen
+3D|Cinematic 3D render of a golden pledge scroll on a dark table
+BW|Two billionaires on a stage at a charity event, silhouettes, 2010
+COLOR|A foundation building at dusk
+BW|An old man working at a desk in a plain office, 2020
+COLOR|A plain office in Omaha with a window
+3D|Cinematic 3D render of a golden hourglass on a plain desk
+BW|A shareholder meeting in a huge arena, 2015
+COLOR|Thousands of people in a stadium for a shareholders meeting
+3D|Cinematic 3D render of a snowball rolling down a hill growing larger
+BW|A compound interest chart on a chalkboard
+COLOR|A tree growing from a coin in the sunlight
+3D|Cinematic 3D render of a golden key on top of a bar chart

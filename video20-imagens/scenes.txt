@@ -1,0 +1,75 @@
+BW|A young man in a suit leaving a Wall Street skyscraper at dusk, 1994
+COLOR|A glass office on the forty-fifth floor over Manhattan
+3D|Cinematic 3D render of a crossroads in the fog with a glowing path ahead
+BW|A walk through Central Park in autumn, two silhouettes, 1994
+COLOR|A park bench under falling leaves
+BW|A man typing a business plan in the passenger seat of a car at night, 1994
+COLOR|A highway at night heading west
+3D|Cinematic 3D render of a glowing road cutting across a dark continent
+BW|A circus unicyclist performing in a spotlight, 1964
+COLOR|A baby's crib in a small apartment in Albuquerque
+BW|A Cuban airlift with children arriving at an airport, 1962
+COLOR|A refugee boy with a small suitcase on a tarmac
+BW|A Houston garage with homemade electronics, 1976
+COLOR|A boy soldering a circuit board
+BW|A Texas ranch with a windmill and cattle, 1978
+COLOR|A windmill at sunset on a ranch
+3D|Cinematic 3D render of a windmill under a stormy golden sky
+BW|Princeton University campus with stone buildings, 1986
+COLOR|A student at a desk with a computer
+BW|A hedge fund office on Wall Street, 1990
+COLOR|A trading desk with many screens
+BW|An early internet modem and a computer screen, 1994
+COLOR|A glowing line chart rising quickly on a monitor
+3D|Cinematic 3D render of a chart exploding upward like a rocket
+BW|A handwritten list of products on a notepad, 1994
+COLOR|A pile of books on a desk in lamplight
+BW|A huge library of books with endless shelves
+COLOR|A river winding through a rainforest from above
+3D|Cinematic 3D render of a river of books flowing through a dark jungle
+BW|A Seattle garage with desks made of wooden doors, 1995
+COLOR|A garage workspace with computers on wooden doors
+BW|Family investors signing papers at a kitchen table, 1994
+COLOR|A retirement savings envelope on a table
+BW|Warehouse workers packing boxes on the floor with knee pads, 1995
+COLOR|Cardboard boxes with a smile logo stacked up
+3D|Cinematic 3D render of a cardboard box with a golden smile glowing
+BW|A post office with packages lined up on a counter, 1996
+COLOR|A delivery van at dawn
+BW|A stock exchange with an online company public offering, 1997
+COLOR|A shareholder letter on a desk
+BW|A warehouse the size of a stadium with endless shelves, 1999
+COLOR|Rows of products on tall warehouse shelves
+3D|Cinematic 3D render of an endless warehouse with golden light
+BW|A stock market crash with a falling dot-com index, 2000
+COLOR|A red chart falling down a wall
+3D|Cinematic 3D render of a glowing bomb with a falling chart
+BW|Employees leaving an office with boxes, 2001
+COLOR|An empty cubicle row at dusk
+BW|A small profit report on a table, 2001
+COLOR|A hand writing a small plus sign
+BW|A package delivered to a front door, 2005
+COLOR|A customer smiling opening a box, no face
+3D|Cinematic 3D render of a golden membership card on a dark table
+BW|A data center with rows of servers, 2006
+COLOR|Servers blinking in a dark cold hall
+3D|Cinematic 3D render of a glowing cloud made of servers in the night sky
+BW|A startup founder renting servers on a laptop, 2008
+COLOR|A tablet showing a digital book
+BW|A newspaper newsroom with typewriters, 2013
+COLOR|A printing press running at night
+BW|A grocery store aisle with fresh food, 2017
+COLOR|A shopping basket and a phone scanner
+BW|A rocket launch pad at dawn, 2015
+COLOR|A rocket on a desert launch site
+3D|Cinematic 3D render of a rocket launching into a dark starry sky
+BW|A warehouse worker tired at night, 2018
+COLOR|Protest signs in front of a warehouse
+BW|A divorce lawyer's table in a quiet room, 2019
+COLOR|A signed document and two rings
+BW|A small capsule landing in the desert with parachutes, 2021
+COLOR|The curve of the Earth seen from space
+3D|Cinematic 3D render of the Earth from space with a glowing line of light
+BW|A glass tower campus in Seattle at night, 2020
+COLOR|Spheres in a glass greenhouse in a city
+3D|Cinematic 3D render of a golden key on a stack of books

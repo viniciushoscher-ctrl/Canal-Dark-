@@ -1,0 +1,10 @@
+drive|drive-in restaurant film 1950s
+road|highway driving film 1950s
+ww1|world war one film
+crowd|crowd film 1950s
+suburb|American suburb film 1950s
+city|city street film 1930s
+tv|television commercial 1960s film
+stock|stock exchange film 1960s
+food|hamburger fast food film
+kids|children birthday film 1960s

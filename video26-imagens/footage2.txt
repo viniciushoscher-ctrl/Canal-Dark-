@@ -1,0 +1,10 @@
+train|train film 1900s
+ship|ship harbor film 1900s
+mountain|mountain railway film
+city|city street film 1900s
+shipyard|shipyard film 1900s
+coal|coal mine film
+capitol|Washington Capitol film 1900s
+desert|desert railway film
+telegraph|telegraph film
+crowd|crowd film 1900s

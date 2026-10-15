@@ -1,0 +1,10 @@
+train|train film 1900s
+snow|snow train film
+farm|farm film 1900s
+wheat|wheat harvest film
+mountain|mountain railway film
+steam|steamboat film 1900s
+wall|Wall Street film 1900s
+crowd|crowd film 1900s
+ship|steamship film 1900s
+station|train station film 1900s

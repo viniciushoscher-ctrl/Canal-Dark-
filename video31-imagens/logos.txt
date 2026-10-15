@@ -1,0 +1,3 @@
+mccormick|International Harvester logo
+mccormick|McCormick Deering logo
+harvester|International Harvester

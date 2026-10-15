@@ -1,0 +1,74 @@
+BW|Barges drifting on a foggy river at night with dark figures on deck, 1892
+COLOR|A dark river at night with torch lights on the far bank
+3D|Cinematic 3D render of two barges on a black river under moonlight
+BW|A crowd of steelworkers on a riverbank at dawn, no faces, 1892
+COLOR|A steel mill with tall chimneys glowing in the dark
+BW|A stone farmhouse in Pennsylvania farmland, 1850
+COLOR|A rural Pennsylvania hillside in autumn light
+BW|An old whiskey distillery with barrels, 1865
+COLOR|Wooden barrels in a dim distillery with warm light
+BW|A young clerk's desk with ledgers in a country store, 1866
+BW|A coal mine entrance in Pennsylvania hills, 1875
+COLOR|A coal seam shining in a dark mine tunnel
+3D|Cinematic 3D render of glowing coke ovens in rows at night
+BW|Rows of beehive coke ovens with smoke, Connellsville, 1880
+COLOR|Coke ovens glowing red at night with smoke
+BW|A bank vault and a handshake over a contract, 1871
+3D|Cinematic 3D render of a lump of coal turning into gold
+BW|A stock market panic with a crowd and papers, 1873
+COLOR|A ticker tape machine in lamplight
+BW|A railroad freight yard with coal wagons, 1885
+COLOR|A coal train at dusk
+3D|Cinematic 3D render of a long coal train in a dark valley
+BW|A steel mill interior with molten metal pouring, 1890
+COLOR|Sparks flying in a dark steel foundry
+3D|Cinematic 3D render of molten steel pouring in a dark mill with sparks
+BW|Two businessmen's empty chairs at a long conference table, 1889
+COLOR|A boardroom with leather chairs and a map
+BW|A factory floor with workers' silhouettes in the heat, 1890
+COLOR|A worker's silhouette in front of a furnace
+BW|A tall wooden fence topped with barbed wire around a mill, 1892
+COLOR|Barbed wire and a closed iron gate at dusk
+3D|Cinematic 3D render of a barbed wire fence around a dark factory
+BW|Armed guards in dark coats on a river barge, no faces, 1892
+BW|A smoky riverbank with a crowd and a gunfight in the distance, 1892
+COLOR|Smoke rising over a river in cold dawn
+BW|Soldiers with rifles marching into a mill town, 1892
+COLOR|Rows of tents and bayonets in morning fog
+3D|Cinematic 3D render of a locked factory gate with a red glow behind it
+BW|A closed union hall with posters and empty chairs, 1892
+BW|A Pittsburgh office with a heavy oak desk and a fireplace, 1892
+COLOR|An office desk with letters and a bloodless ink pen, dark
+3D|Cinematic 3D render of a pen signing a letter on a bloody desk in the dark
+BW|A hospital corridor with a doctor's lamp, 1892
+BW|Newspapers with attack headlines blurred on a table, 1892
+COLOR|A newspaper headline stack in lamplight
+BW|Two men arguing across a table in an office, silhouettes, 1899
+COLOR|A lawsuit stack of papers on a mahogany desk
+3D|Cinematic 3D render of two chairs facing each other with a spark between them
+BW|A New York skyline of banks and early skyscrapers, 1901
+COLOR|Wall Street at dawn
+BW|A giant steel plant at night with blast furnaces, 1901
+3D|Cinematic 3D render of a mountain of steel girders rising into a skyline
+COLOR|A glowing blast furnace tower at dusk
+BW|A mansion on Fifth Avenue with a stone facade, 1914
+COLOR|A grand marble hall with a staircase and warm light
+3D|Cinematic 3D render of a grand Fifth Avenue mansion at night with golden windows
+BW|An art gallery with paintings on dark red walls, 1915
+COLOR|A glowing old master portrait in a dark room
+3D|Cinematic 3D render of a framed masterpiece glowing in a dark gallery
+BW|A lonely man at a window overlooking a courtyard, 1915
+COLOR|A courtyard garden with a fountain in grey light
+BW|A child's empty room with toys on the floor, 1890
+COLOR|A small coffin-like shadow of a child's cradle in dim light
+BW|A solemn funeral wagon on a New York street, 1919
+COLOR|A winter morning on Fifth Avenue with bare trees
+BW|A lawyer reading a will in a library, 1919
+COLOR|A wax seal on a will on a dark desk
+3D|Cinematic 3D render of a golden key placed on a will paper
+BW|Visitors in a quiet museum hall looking at paintings, 1935
+COLOR|A bright museum courtyard with palms and marble
+3D|Cinematic 3D render of a golden door opening to a glowing gallery
+BW|A painting hanging above a marble fireplace in a mansion
+COLOR|Soft light on a Vermeer-like painting in a quiet room
+3D|Cinematic 3D render of a lump of coal turning into a diamond on a dark table

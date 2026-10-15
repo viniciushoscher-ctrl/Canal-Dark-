@@ -1,0 +1,26 @@
+b1|Warren Buffett portrait
+b2|Warren Buffett photograph
+b3|Warren Buffett old
+b4|Warren Buffett Omaha
+howard|Howard Buffett congressman
+graham|Benjamin Graham
+columbia|Columbia University 1950
+munger|Charlie Munger
+susan|Susan Buffett
+house|Warren Buffett house Omaha
+berkshire|Berkshire Hathaway headquarters
+textile|Berkshire Hathaway textile mill
+sees|See's Candies store
+wapo|Washington Post 1970s
+geico|GEICO headquarters
+coke|Coca-Cola 1988
+salomon|Salomon Brothers 1991
+dotcom|dot-com bubble 2000
+gs|Goldman Sachs 2008
+ge|General Electric 2008
+gates|Bill Gates portrait
+pledge|Giving Pledge
+meeting|Berkshire Hathaway annual meeting
+omaha|Omaha Nebraska 1930s
+cities|Cities Service Company
+intelligent|The Intelligent Investor book

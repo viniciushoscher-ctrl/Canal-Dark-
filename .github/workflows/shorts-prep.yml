@@ -1,0 +1,25 @@
+name: shorts-prep
+on:
+  workflow_dispatch:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['shorts/video1/**', 'shorts/*.py', '.github/workflows/shorts-prep.yml']
+permissions:
+  contents: write
+jobs:
+  prep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -U faster-whisper av
+      - run: |
+          mkdir -p shorts-out/video1
+          python shorts/whisper.py shorts/video1/narr.mp3 shorts-out/video1/words.json
+      - run: |
+          python shorts/commons.py shorts/video1/queries.txt shorts-out/video1/commons || true
+          python shorts/commons.py shorts/video1/maps.txt shorts-out/video1/map || true
+      - if: always()
+        run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add shorts-out && git commit -m "Shorts video 1: transcricao e imagens Commons [skip ci]" && for i in 1 2 3 4; do git pull --rebase -q && git push && break; sleep 5; done

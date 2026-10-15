@@ -1,0 +1,18 @@
+name: logo9
+on:
+  workflow_dispatch:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['video9-imagens/logos.txt', 'assets4/logo.py']
+permissions:
+  contents: write
+jobs:
+  a:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 assets4/logo.py video9-imagens/logos.txt video9-commons/logos || true
+      - if: always()
+        run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add video9-commons && git commit -m "logos video 4 [skip ci]" && for i in 1 2 3 4; do git pull --rebase -q && git push && break; sleep 5; done

@@ -1,0 +1,10 @@
+train|train film 1900s
+factory|factory film 1900s
+strike|strike film 1910s
+troops|soldiers film 1900s
+chicago|Chicago film 1900s
+porter|train porter film
+crowd|crowd film 1900s
+town|small town film 1900s
+canal|canal film 1900s
+mansion|mansion film 1900s

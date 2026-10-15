@@ -1,0 +1,67 @@
+### 00_hook
+Nineteen eighty. A twenty-four-year-old college dropout walks into a meeting with the biggest computer company in the world, IBM. He is nervous, he is young, and he wears a suit that does not fit. The executives want an operating system for their first personal computer, and they ask him if he has one.
+
+He does not. But he says yes.
+
+Within days, he buys a program from a small Seattle company for about fifty thousand dollars, tweaks it, and licenses it to IBM. And, in a decision that nobody at IBM notices, he keeps the right to sell the same software to everyone else. That single clause will make him the richest man in the world, for most of the next two decades.
+
+His name is Bill Gates. And this is the story of how a teenager obsessed with computers built Microsoft, beat his rivals with sharp business moves, and then gave away more money than almost anyone in history.
+
+### 01_cap1
+William Henry Gates the Third was born on October twenty-eighth, nineteen fifty-five, in Seattle, Washington. His father was a prominent lawyer. His mother was a teacher and a member of the boards of major companies. The family was wealthy, and extremely competitive. They played games at dinner, and nobody was allowed to lose gracefully.
+
+Bill was a restless, brilliant child. He read encyclopedias for fun, and at school he stood out for his math skills. His parents, worried that he was bored, sent him to Lakeside School, a private school in Seattle. In nineteen sixty-eight, the school bought a time-sharing terminal that connected to a computer. Gates was thirteen years old, and from that day, he disappeared into the computer room.
+
+There he met a boy two years older, named Paul Allen. The two became inseparable. They wrote programs, played tic-tac-toe against the machine, and spent so many hours online that they were banned for abusing the system. They did not care. They were already planning something bigger.
+
+### 02_cap2
+Gates entered Harvard in nineteen seventy-three. He was a mediocre student, because he preferred poker to lectures. Paul Allen had moved to Boston to work at a computer company, and he kept pushing Gates to start a business.
+
+In January nineteen seventy-five, Allen was walking across Harvard Square when he saw a magazine cover about the first personal computer, the Altair eight-eight-hundred. He ran to Gates's dorm. They realized that the machine had no software. They called the maker, and claimed that they had a version of the programming language BASIC for it. It was a bluff. They had not written a single line.
+
+For eight weeks, Gates and Allen worked day and night in a Harvard computer lab, writing the code on a mainframe. Allen flew to New Mexico to demonstrate it. It worked on the first try. The company signed a contract.
+
+Gates dropped out of Harvard to run the new company. They named it Microsoft.
+
+### 03_cap3
+Microsoft started in Albuquerque, then moved to the Seattle area in nineteen seventy-nine. Gates was a demanding boss. He read every line of code, and he worked until he fell asleep at his desk. He wore the same sweaters, and he rarely took vacations. He once told employees that he could tell if a programmer was good just by looking at the first few lines.
+
+Then came the great opportunity. In nineteen eighty, IBM decided to build a personal computer. It needed a language and an operating system, and it came to Microsoft. When Gates was asked about the operating system, he suggested IBM talk to Gary Kildall, who had written a popular one called CP/M. But the meeting between IBM and Kildall went badly, and the executives came back to Gates.
+
+Gates called Seattle Computer Products, which had a similar system called QDOS. He bought it for about fifty thousand dollars. He hired its creator, Tim Paterson, and renamed the system MS-DOS.
+
+Then he made the deal of the century. IBM would pay a one-time fee. Microsoft would keep the right to license MS-DOS to other companies. When the IBM PC became a hit, hundreds of competitors built clones, and they all needed Microsoft's software.
+
+### 04_cap4
+By the mid-eighties, Microsoft was growing fast. In nineteen eighty-five, it launched Windows, a graphical interface that resembled the one on Apple's Macintosh. Steve Jobs was furious and accused Gates of stealing. Gates replied that they had both borrowed from Xerox, the company that had invented the idea first.
+
+The first versions of Windows were clumsy. But with Windows three-point-oh in nineteen ninety, the system finally took off. Windows ninety-five, released in August nineteen ninety-five, turned into a cultural phenomenon. People waited in line at midnight to buy it. The ads used a Rolling Stones song.
+
+In nineteen eighty-six, Microsoft went public. Gates, then thirty, owned about forty-five percent of the company. At the end of the first day of trading, his stake was worth about three hundred million dollars. By nineteen eighty-seven, he was a billionaire, at thirty-one, the youngest ever at the time.
+
+In nineteen ninety-five, he became the richest man in America, and in the following years, the richest man in the world. At one point, his fortune was over a hundred billion dollars.
+
+### 05_cap5
+But success brought enemies. Competitors said that Microsoft played unfairly. Gates would bundle products together, and he threatened to cut off partners who worked with rivals. In the mid-nineties, Microsoft bundled its web browser, Internet Explorer, into Windows for free, destroying a competitor called Netscape.
+
+In nineteen ninety-eight, the United States Justice Department sued Microsoft for being an illegal monopoly. During the trial, Gates gave a deposition that looked evasive. He quibbled over the meaning of words like compete and we. Millions of Americans watched clips on television, and his reputation crashed.
+
+In two thousand, a judge ordered Microsoft to be broken up in two. An appeals court later reversed this, and the company settled. But the damage was done. Gates, once seen as a genius, was now seen as a ruthless bully.
+
+He also missed major shifts. Microsoft failed to dominate the internet, smartphones, and search engines. Google, Apple, and Facebook took the lead. By two thousand, Microsoft's growth was slowing.
+
+### 06_cap6
+Gates then made a dramatic change. In nineteen ninety-four, he had married Melinda French, a Microsoft manager. They started a foundation. In two thousand, they merged their charities into the Bill and Melinda Gates Foundation, which became the largest private foundation in the world.
+
+Gates stepped down as the CEO of Microsoft in two thousand, and in two thousand eight he left his daily role to work full time on the foundation. It focused on global health. It poured billions of dollars into vaccines, and into fighting malaria, polio, and tuberculosis. The foundation says its work has helped save tens of millions of lives.
+
+Gates also launched the Giving Pledge with Warren Buffett. He has promised to give away almost all of his fortune. In two thousand twenty-one, he and Melinda announced their divorce, after twenty-seven years of marriage. In recent years, he has announced that the foundation will spend its entire fortune and close in the next two decades.
+
+Today, Microsoft is one of the most valuable companies in the world, worth more than three trillion dollars.
+
+### 07_lesson
+Bill Gates' story holds two lessons. The first is to say yes, and then figure out how to deliver. He sold an operating system before he owned one, and the risk made him the richest man in the world. But the second is that power invites scrutiny. He learned that being the winner is not enough, and that people will remember how you won.
+
+Gates spent the first half of his life building a monopoly, and the second half trying to give away the money. He once said that his wealth is not a reward, but a responsibility.
+
+If you enjoyed this story, subscribe, because tomorrow at six, another file opens.

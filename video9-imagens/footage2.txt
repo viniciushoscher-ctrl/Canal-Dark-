@@ -1,0 +1,12 @@
+ship|sailing ship film
+harbor|New York harbor film 1900s
+forest|forest river canoe film
+fur|fur trapper film
+nyc|New York City street 1900s film
+wall|Broadway New York 1903 film
+village|German village film 1900s
+liner|ocean liner film 1910
+library|library reading room film
+hotel|hotel lobby film 1900s
+crowd|crowd street film 1900
+snow|snow winter film 1900s

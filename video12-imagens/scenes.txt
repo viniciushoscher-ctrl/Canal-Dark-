@@ -1,0 +1,82 @@
+BW|A packed 1930s movie theater with a glowing screen and silhouettes, 1937
+COLOR|A red velvet theater curtain opening onto a bright screen
+3D|Cinematic 3D render of a golden film reel glowing in a dark theater
+BW|A film premiere searchlights over a Hollywood theater at night, 1937
+COLOR|A theater marquee glowing in the night
+BW|A Chicago street in the snow with a newspaper delivery boy silhouette, 1912
+COLOR|A farmhouse in Missouri at dawn with fields
+3D|Cinematic 3D render of a small pencil drawing coming to life in the dark
+BW|A Missouri farm with animals and a barn, 1914
+COLOR|A pencil sketching on paper in warm lamplight
+BW|An ambulance driver's truck covered in drawings in France, 1919
+COLOR|A French village road after the war
+BW|An advertising studio desk with brushes and papers in Kansas City, 1920
+BW|An animation desk with paper drawings and a lamp, 1922
+COLOR|Flipbook drawings fanned out on a desk
+3D|Cinematic 3D render of animation frames spreading like a fan in the dark
+BW|A tiny studio office with a single desk and a mouse on the floor, 1923
+COLOR|A tiny mouse eating a crumb on a wooden floor, warm light
+3D|Cinematic 3D render of a small mouse sitting in a spotlight on a desk
+BW|A train station platform and a man with a small suitcase, 1923
+COLOR|A steam train crossing a desert at sunset
+BW|Los Angeles in the 1920s with palm trees and a dusty street
+COLOR|A small garage studio with a hand-painted sign
+BW|Two brothers' desks in a garage studio, silhouettes, 1924
+BW|A film distributor's office in New York with a big desk, 1928
+COLOR|A contract on a desk with a pen and a stern silhouette
+3D|Cinematic 3D render of a torn contract falling into the dark
+BW|A man on a long train ride at night looking out the window, 1928
+COLOR|A train window at night with a drawing on a notepad
+BW|A sketch of a round-eared character on paper in a locked room, 1928
+BW|Empty animation desks after workers have left, 1928
+COLOR|A locked studio door with a light under it
+3D|Cinematic 3D render of a glowing silhouette of round mouse ears in the dark
+BW|A New York theater with a 1928 sign and a crowd, no faces
+COLOR|A vintage sound recording studio with microphones
+3D|Cinematic 3D render of a vintage microphone with musical notes floating
+BW|A steamboat on a river in the 1920s, whistle blowing
+COLOR|A paddle steamboat on a river at sunset
+BW|Shelves of vintage toys and watches in a shop window, 1930
+COLOR|A toy store window full of dolls and lunchboxes
+3D|Cinematic 3D render of a golden mouse-ear silhouette made of coins
+BW|A Hollywood studio lot with sound stages, 1932
+COLOR|A film camera with Technicolor canisters, dramatic light
+BW|An Academy Awards banquet with a golden statue on a table, 1932
+3D|Cinematic 3D render of a golden statuette on a pedestal in the spotlight
+BW|A huge animation studio floor with hundreds of artists, 1936
+COLOR|Thousands of painted cels drying on racks
+3D|Cinematic 3D render of a mountain of animation cels glowing in a dark hall
+BW|A bank manager's desk with ledgers and a stern face in shadow, 1936
+COLOR|A house mortgage paper and a key on a table
+BW|A newspaper with a skeptical headline blurred, 1936
+BW|A glittering movie premiere with limousines and crowd, 1937
+COLOR|A standing ovation in a dark theater silhouette
+3D|Cinematic 3D render of a crowd standing and applauding in a golden theater
+BW|A new studio campus with white buildings in Burbank, 1940
+COLOR|A modern 1940s studio with palm trees
+BW|Animators on strike with picket signs outside a studio, 1941
+COLOR|Picket signs and an empty studio gate at dusk
+3D|Cinematic 3D render of an empty studio chair with falling papers
+BW|A father on a park bench watching children on a carousel, 1948
+COLOR|A carousel spinning at golden hour
+3D|Cinematic 3D render of a carousel horse glowing in the dark
+BW|A banker shaking his head across a desk, 1953
+COLOR|A 1950s television set glowing in a dark living room
+BW|A 1950s family watching television in a living room, no faces
+BW|A construction site of an amusement park with orange groves, 1954
+COLOR|Bulldozers and fresh asphalt at dawn
+3D|Cinematic 3D render of a fairy-tale castle rising from the ground at dawn
+BW|The opening day crowd entering a park gate in 1955
+COLOR|A crowded park street full of flags and balloons
+BW|Hot asphalt and a drinking fountain with a long line, 1955
+BW|Families with children walking down a main street, 1955
+COLOR|A glowing fairy-tale castle at dusk
+3D|Cinematic 3D render of a glowing castle with fireworks over a dark sky
+BW|A map of a huge Florida swamp with surveyor lines, 1965
+COLOR|An aerial view of green Florida wetlands
+BW|An empty office with a desk and a model of a city, 1966
+COLOR|A scale model of a futuristic city under lamplight
+3D|Cinematic 3D render of a futuristic city model glowing on a table
+BW|A hospital window at dawn, 1966
+COLOR|A single drawing of a mouse on an empty desk
+3D|Cinematic 3D render of a golden key resting on a pencil drawing of a mouse

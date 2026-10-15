@@ -1,0 +1,25 @@
+z1|Jeff Bezos portrait
+z2|Jeff Bezos photograph
+z3|Jeff Bezos 1990s
+z4|Jeff Bezos young
+mackenzie|MacKenzie Scott
+miguel|Mike Bezos
+jacklyn|Jacklyn Bezos
+princeton|Princeton University 1986
+deshaw|D. E. Shaw
+garage|Amazon garage Bellevue
+doordesk|Amazon door desk
+amazon1|Amazon.com 1995 website
+amazon2|Amazon warehouse 1999
+dotcom|dot-com bubble 2000
+prime|Amazon Prime
+aws|Amazon Web Services data center
+kindle|Amazon Kindle 2007
+wapo|The Washington Post building
+wholefoods|Whole Foods Market
+blue|Blue Origin New Shepard
+shepard|Blue Origin launch 2021
+spheres|Amazon Spheres Seattle
+hq|Amazon headquarters Seattle
+cuba|Pedro Pan Operation Cuba
+unicycle|circus unicycle

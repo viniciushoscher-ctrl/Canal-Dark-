@@ -1,0 +1,24 @@
+name: imagens-v25
+on:
+  workflow_dispatch:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['video25-imagens/scenes.txt', 'video25-imagens/gerar_imagens.py']
+permissions:
+  contents: write
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    strategy:
+      fail-fast: false
+      matrix:
+        part: [{lo: 1, hi: 40}, {lo: 41, hi: 80}, {lo: 81, hi: 120}]
+    steps:
+      - uses: actions/checkout@v4
+      - run: cd video25-imagens && LO=${{ matrix.part.lo }} HI=${{ matrix.part.hi }} python3 gerar_imagens.py
+      - if: always()
+        run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add video25-imagens/imagens && git commit -m "Video 25 images ${{ matrix.part.lo }} [skip ci]" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push && break || sleep 7; done

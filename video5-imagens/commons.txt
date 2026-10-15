@@ -1,0 +1,38 @@
+ford1|Henry Ford portrait 1919
+ford2|Henry Ford photograph 1930
+ford3|Henry Ford young man
+ford4|Henry Ford with Model T
+ford5|Henry Ford old age
+ford6|Henry Ford Thomas Edison
+farm|Henry Ford birthplace farm Greenfield Township
+family|Ford family Henry Clara Edsel
+clara|Clara Ford wife of Henry Ford
+edsel|Edsel Ford portrait
+mary|Henry Ford mother Mary Litogot Ford
+quad|Ford Quadricycle 1896
+quad2|Henry Ford quadricycle replica
+winton|Henry Ford Alexander Winton race 1901
+race|Ford 999 race car Barney Oldfield
+motor1903|Ford Model A 1903
+modelt|Ford Model T 1908
+modelt2|Model T Ford touring car
+modelt3|Model T assembly line Highland Park
+line1|Ford assembly line 1913
+line2|Highland Park Ford Plant assembly
+line3|Ford Highland Park Plant
+workers|Ford Motor Company workers 1914
+fivedollar|Ford five dollar day crowd employment office 1914
+rouge1|Ford River Rouge Complex aerial
+rouge2|River Rouge plant Ford 1930
+dodge|Dodge brothers John Horace Dodge
+dearborn|Dearborn Independent Henry Ford
+rouge3|Ford Rouge Glass Plant
+willow1|Willow Run bomber plant B-24
+willow2|B-24 Liberator assembly line Willow Run
+overpass|Battle of the Overpass 1937 Walter Reuther
+bennett|Harry Bennett Ford service department
+henry2|Henry Ford II portrait
+fordhome|Fair Lane Henry Ford estate
+tractor|Fordson tractor
+modela|Ford Model A 1928
+gm|General Motors 1920s Alfred Sloan

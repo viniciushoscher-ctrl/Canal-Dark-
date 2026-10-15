@@ -1,0 +1,29 @@
+c1|Conrad Hilton portrait
+c2|Conrad Hilton photograph 1950s
+c3|Conrad Hilton old
+c4|Conrad Hilton young
+gus|Gus Hilton New Mexico
+sanantonio|San Antonio New Mexico
+mobley|Mobley Hotel Cisco Texas
+cisco|Cisco Texas oil boom
+dallas|Dallas Hilton hotel 1925
+elpaso|Hilton Hotel El Paso
+depression|Great Depression 1932 bread line
+crash|Wall Street crash 1929
+waldorf|Waldorf Astoria 1931
+waldorf2|Waldorf Astoria New York interior
+palmer|Palmer House Chicago
+statler|Statler Hotel Washington
+istanbul|Istanbul Hilton 1955
+cairo|Nile Hilton Cairo
+havana|Habana Hilton Hotel
+madrid|Castellana Hilton Madrid
+berlin|Berlin Hilton 1958
+zsa|Zsa Zsa Gabor
+barron|Barron Hilton
+paris|Paris Hilton
+albuquerque|Albuquerque Hilton Hotel
+sanfran|Hilton San Francisco
+newmexico|New Mexico legislature 1912
+oil|Texas oil boom 1920
+ww2|World War II soldiers train station

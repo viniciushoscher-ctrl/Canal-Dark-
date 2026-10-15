@@ -1,0 +1,25 @@
+l1|Leland Stanford portrait
+l2|Leland Stanford photograph
+l3|Leland Stanford old
+jane|Jane Lathrop Stanford
+albany|Albany New York 1830
+sac|Sacramento 1856
+judah|Theodore Judah
+huntington|Collis Huntington
+hopkins|Mark Hopkins
+crocker|Charles Crocker
+bigfour|Big Four Central Pacific
+cp|Central Pacific Railroad
+promontory|Golden spike ceremony Promontory 1869
+spike|Last Spike Promontory
+chinese|Chinese railroad workers Central Pacific
+sierra|Sierra Nevada Central Pacific snow sheds
+cape|Cape Horn Central Pacific
+lincoln|Abraham Lincoln portrait
+octopus|The Octopus railroad cartoon
+nobhill|Stanford mansion Nob Hill
+palo|Palo Alto stock farm
+muy|Muybridge Sallie Gardner galloping horse
+junior|Leland Stanford Jr.
+univ|Stanford University 1891
+quad|Stanford Main Quad

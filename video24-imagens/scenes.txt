@@ -1,0 +1,80 @@
+BW|A private railroad car crossing a long bridge over the sea, 1912
+COLOR|A brass band on a Key West platform with flags
+3D|Cinematic 3D render of a train crossing a bridge over a shimmering ocean at dawn
+BW|A crowd waiting at a seaside station in Key West, no faces, 1912
+COLOR|A frail old man in a wheelchair by a train window, silhouette
+BW|A hurricane destroying a bridge on the sea, 1909
+COLOR|A broken railway trestle in a storm
+3D|Cinematic 3D render of a storm wave crashing over a railway bridge
+BW|A Presbyterian minister's modest church in upstate New York, 1840
+COLOR|A boy with a small bundle walking on a country road
+BW|A store counter in Ohio with barrels and shelves, 1845
+COLOR|A ledger and a lamp on a shopkeeper's desk
+BW|A salt works with evaporation pans in Michigan, 1860
+COLOR|Piles of white salt under a gray sky
+3D|Cinematic 3D render of a mountain of salt glowing in the dark
+BW|A broken family at a kitchen table counting debts, 1865
+COLOR|A bankruptcy notice on a wooden door
+BW|A grain elevator in Cleveland, 1868
+COLOR|An oil refinery with tall tanks at dusk
+BW|An office with two partners at one desk, 1870
+COLOR|A map of railroads on an office wall
+BW|Oil barrels loaded onto a railroad car, 1872
+COLOR|Rows of oil tank cars at night
+3D|Cinematic 3D render of a tank car train glowing in a dark valley
+BW|A secret railroad rebate contract on a table, 1872
+COLOR|A handshake behind a closed door
+BW|A refinery town with smoke towers, 1880
+COLOR|Oil derricks on a Pennsylvania hillside
+BW|A sick woman in a wheelchair on a veranda, 1877
+COLOR|A warm Florida river with palms
+BW|A Jacksonville riverbank hotel in the 1870s
+COLOR|A swampy Florida landscape with a lone cabin
+BW|St. Augustine's old Spanish streets, 1883
+COLOR|A coquina fort by the sea at sunset
+BW|A grand Spanish-style hotel under construction, 1886
+COLOR|Terracotta towers and courtyards
+3D|Cinematic 3D render of a Spanish palace hotel glowing at night
+BW|Stained glass windows in a grand hotel, 1888
+COLOR|Tiffany stained glass in warm light
+BW|A hotel lit by electricity for the first time, 1888
+COLOR|Electric chandeliers glowing in a grand dining room
+BW|A railroad being rebuilt with new rails in Florida, 1890
+COLOR|A steam locomotive in a palm forest
+3D|Cinematic 3D render of a locomotive in a jungle of palm trees at dusk
+BW|A land survey crew in Florida wilderness, 1892
+COLOR|Palm Beach beach with new hotel windows
+BW|The world's largest wooden hotel with porches, 1894
+COLOR|Guests in white on a long hotel veranda
+BW|A frozen northern city in winter with snow, 1895
+COLOR|A poster of palm trees and beaches
+3D|Cinematic 3D render of a sunny beach with palm trees beyond a snowy window
+BW|A freeze destroying orange groves in Florida, 1895
+COLOR|A single orange blossom on a branch
+BW|A woman writing a letter at a desk, 1895
+COLOR|An orange blossom in an envelope
+BW|A railroad train arriving in a tiny Miami settlement, 1896
+COLOR|A sandy main street with tents and shacks
+3D|Cinematic 3D render of a small town growing into a glowing city
+BW|A harbor being dredged by steam shovels, 1897
+COLOR|A new hotel on a river mouth in Miami
+BW|A courtroom or legislature hall with men in dark suits, 1901
+COLOR|A document with a seal on a desk
+BW|A wedding with a veil and flowers in a mansion, 1901
+COLOR|A grand marble staircase in a mansion
+BW|A map of the Florida Keys with a railroad line, 1905
+COLOR|A chart of islands and water depths
+3D|Cinematic 3D render of a map of islands with a glowing railroad line
+BW|Workers building concrete arches over the sea, 1908
+COLOR|Mosquitoes over a swamp at dusk
+BW|A hurricane survivor camp with ruins, 1906
+COLOR|A cross on a sandy shore
+BW|The Seven Mile Bridge with concrete arches, 1912
+COLOR|A train on a long white bridge in turquoise water
+BW|An elderly man at a train window with a smile, 1912
+COLOR|A beach sunrise with a pier
+BW|A marble staircase in a mansion, 1913
+COLOR|A winter hall with portraits
+BW|A funeral train rolling through palm trees, 1913
+COLOR|An old railway bridge abandoned in the sea
+3D|Cinematic 3D render of a golden key on a railroad track by the sea

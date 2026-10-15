@@ -1,0 +1,74 @@
+BW|A small New Jersey laboratory at night with a glowing bulb on a bench, 1879
+COLOR|A glowing carbon filament inside a glass bulb in the dark
+3D|Cinematic 3D render of a glowing light bulb in a dark laboratory
+BW|A crowd of visitors arriving by train at a country station, 1879
+COLOR|Newspapers stacked with lamp headlines
+BW|A boy reading a science book by candlelight in a cellar, 1856
+COLOR|Bottles marked with a skull label on a shelf
+BW|A Michigan town with a railroad station, 1858
+COLOR|A baggage car with a makeshift laboratory
+3D|Cinematic 3D render of a train baggage car glowing from within at night
+BW|A young newsboy on a train platform, 1860
+COLOR|A smoking baggage car and a conductor, silhouette
+BW|A telegraph operator at a night desk with a key, 1864
+COLOR|A telegraph key under a lamp in a quiet office
+3D|Cinematic 3D render of electric sparks along a telegraph wire at night
+BW|A brokerage office with a broken stock ticker, 1869
+COLOR|A ticker tape curling from a machine
+BW|A workshop in Newark with machines and workers, 1871
+COLOR|A workbench with gears and wires
+BW|A quiet village lane in New Jersey, 1876
+COLOR|A wooden laboratory building in a field at dusk
+BW|Workers asleep on benches in a lab at dawn, 1878
+COLOR|A pipe organ in a laboratory beside racks of chemical jars
+3D|Cinematic 3D render of laboratory shelves with glowing jars
+BW|A hand cranking a tin foil phonograph, 1877
+COLOR|A phonograph horn in warm light
+3D|Cinematic 3D render of a brass phonograph horn glowing in the dark
+BW|A crowd astonished by a talking machine, no faces, 1878
+COLOR|Newspapers calling an inventor a wizard
+BW|Smoky gas lamps on a city street, 1878
+COLOR|A bright arc lamp over a dark street
+BW|A table of filament samples and cotton threads, 1879
+COLOR|Carbonized threads under glass
+3D|Cinematic 3D render of a hundred filaments glowing in a dark room
+BW|A bamboo grove in Asia, 1880
+COLOR|A bamboo filament inside a glass bulb
+BW|A power plant in lower Manhattan with chimneys, 1882
+COLOR|Dynamos humming in a dark power station
+3D|Cinematic 3D render of a dynamo with a glowing electric arc
+BW|New York buildings lighting up at dusk, 1882
+COLOR|A city block lit by electric lamps at night
+BW|A banker in an elegant office signing papers, 1882
+COLOR|A pocket watch and a cigar on a desk
+BW|Two inventors facing each other in silhouette, 1888
+COLOR|A Serbian engineer's notebook with diagrams
+BW|High voltage transmission lines crossing a valley, 1893
+COLOR|A power line against a sunset
+3D|Cinematic 3D render of two glowing power lines crossing in the dark
+BW|A public demonstration of electricity in a hall, 1888
+COLOR|A sign reading danger on a metal fence
+BW|A merger signing in a bank boardroom, 1892
+COLOR|A company sign being replaced
+BW|A film studio shaped like a black barn, 1893
+COLOR|A kinetoscope peep show in a dark room
+3D|Cinematic 3D render of a film reel unspooling in the dark
+BW|A mine and an ore crusher in the mountains, 1900
+COLOR|Piles of rock and crushing machinery at dusk
+BW|An inventor taking a short nap on a lab bench, 1910
+COLOR|A clock reading three in the morning
+BW|A wedding in the 1880s with a veil, no faces
+COLOR|A large Victorian house in New Jersey
+BW|A vast laboratory complex in West Orange, 1900
+COLOR|Rows of laboratory benches in a huge hall
+3D|Cinematic 3D render of a huge laboratory hall with golden lamps
+BW|A wall of patents and drawings, 1920
+COLOR|A shelf of patent models and gadgets
+BW|An elderly inventor in a white coat, silhouette, 1928
+COLOR|A winter garden outside an old house
+BW|A funeral procession with a flag, 1931
+COLOR|A candle in a dark window
+3D|Cinematic 3D render of a city going dark one light at a time
+BW|A city skyline with its lights switched off for one minute, 1931
+COLOR|A single glowing bulb in a dark room
+3D|Cinematic 3D render of a golden key beside a light bulb

@@ -1,0 +1,28 @@
+name: gerar-imagens
+on:
+  workflow_dispatch:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['video1-imagens/**']
+permissions:
+  contents: write
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - run: cd video1-imagens && python3 gerar_imagens.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: imagens-rockefeller
+          path: video1-imagens/imagens/
+      - name: Salvar imagens na branch
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add video1-imagens/imagens
+          git commit -m "Imagens geradas [skip ci]" || echo "nada para salvar"
+          git push

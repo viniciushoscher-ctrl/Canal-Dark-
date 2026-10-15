@@ -1,0 +1,72 @@
+BW|A dazzling White City fair at night lit by thousands of lamps, 1893
+COLOR|A great fair exposition building covered in glowing bulbs
+3D|Cinematic 3D render of a white fairground city glowing at night beside a lake
+BW|A crowd gazing at a grand electric fountain, no faces, 1893
+COLOR|A switch being thrown with sparks
+BW|A farm machine shop with lathes and engines in upstate New York, 1850
+COLOR|A boy repairing a steam engine in a workshop
+BW|A Civil War cavalry camp with horses at dawn, 1863
+COLOR|A young soldier's cap and a bugle on a cot
+BW|A naval engine room with pistons, 1865
+COLOR|A rotary steam engine on a workbench
+3D|Cinematic 3D render of a brass steam engine gleaming in the dark
+BW|A railroad wreck with two locomotives collided head-on, 1869
+COLOR|Smoke and twisted rails after a train crash
+BW|Brakemen running along the roofs of freight cars, 1868
+COLOR|A brake wheel on a boxcar roof at dusk
+BW|A railroad tycoon in a velvet office, 1869
+COLOR|A letter of refusal on a desk
+BW|An engineer testing a new air brake on a train in Pittsburgh, 1869
+COLOR|A locomotive stopping with steam hissing
+3D|Cinematic 3D render of a locomotive stopping with glowing air brakes
+BW|A factory floor with air brake assembly, 1880
+COLOR|Rows of brass fittings on a bench
+BW|A railroad signal tower at night, 1880
+COLOR|A glowing railway signal lamp in the dark
+BW|Gas lamps on a city street in the 1880s
+COLOR|Natural gas flame from a pipe at dusk
+BW|A model company town with neat houses and gardens, 1890
+COLOR|Workers leaving a factory on a Saturday afternoon
+BW|A direct current generator in a small power station, 1882
+COLOR|A small area of lamps lit on one street
+BW|A transformer coil and copper wires in a workshop, 1886
+COLOR|A glowing coil with blue sparks
+3D|Cinematic 3D render of a glowing coil with arcs of electricity
+BW|An inventor's notebook with alternating current diagrams, 1888
+COLOR|A rotating magnetic field motor in lamplight
+BW|Two rival industrialists facing each other, silhouettes, 1888
+COLOR|A newspaper with a war of currents headline
+BW|A public electrocution demonstration of an animal, silhouettes, 1888
+COLOR|A warning sign on an electric wire
+BW|A state prison with an electric chair, 1890
+COLOR|A dark execution chamber door
+BW|A banker's office during a financial panic, 1890
+COLOR|A contract and royalty clause on a desk
+3D|Cinematic 3D render of a torn contract with glowing fragments
+BW|A grand exposition hall full of lights, 1893
+COLOR|A thousand lamps glowing in a hall
+BW|Niagara Falls with a hydroelectric plant, 1895
+COLOR|A turbine hall with glowing dynamos
+3D|Cinematic 3D render of Niagara Falls powering a glowing grid of cables
+BW|Transmission lines running across farmland to a city, 1896
+COLOR|A city of Buffalo lit by electric lights
+BW|A turbine hall with huge machines, 1900
+COLOR|Rows of generators in a big factory
+3D|Cinematic 3D render of a huge generator hall in golden light
+BW|An electric train on a rail line, 1905
+COLOR|A trolley car at dusk with sparks
+BW|Wall Street in the panic of 1907
+COLOR|A bank run in a narrow street
+BW|A boardroom of bankers forcing a man out, 1907
+COLOR|A resignation letter on a polished desk
+3D|Cinematic 3D render of an empty executive chair under a spotlight
+BW|An older inventor drawing at a drafting table in a small office, 1910
+COLOR|A steam turbine blueprint on a table
+BW|A hospital bedroom in winter, 1914
+COLOR|A white flower on a windowsill
+BW|A military cemetery with rows of white headstones
+COLOR|Arlington headstones at sunrise
+3D|Cinematic 3D render of a golden key on a copper wire
+BW|Workers lining the street in silence, 1914
+COLOR|A factory gate with a black ribbon
+3D|Cinematic 3D render of a glowing light bulb above a locomotive wheel

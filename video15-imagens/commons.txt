@@ -1,0 +1,27 @@
+s1|Sam Walton portrait
+s2|Sam Walton photograph
+s3|Sam Walton pickup truck
+s4|Sam Walton old
+kingfisher|Kingfisher Oklahoma 1918
+shelbina|Shelbina Missouri
+mizzou|University of Missouri 1930s
+jcp|J. C. Penney store 1940
+newport|Newport Arkansas 1945
+benfranklin|Ben Franklin variety store
+bentonville|Bentonville Arkansas square 1950
+rogers|Rogers Arkansas Wal-Mart 1962
+walmart|first Walmart store
+walmart2|Walmart 1970s store
+sams|Sam's Club 1983
+super|Walmart Supercenter
+helen|Helen Walton
+rob|Rob Walton
+jim|Jim Walton
+medal|Presidential Medal of Freedom 1992
+bush|George H. W. Bush portrait
+leuk|hairy cell leukemia
+forbes|Forbes richest 1985
+truck|Walmart trucks
+cap|Walmart cap
+HQ|Walmart headquarters Bentonville
+dc|Walmart distribution center

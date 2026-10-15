@@ -1,0 +1,30 @@
+w1|Walt Disney portrait
+w2|Walt Disney photograph 1930s
+w3|Walt Disney with Mickey Mouse
+w4|Walt Disney old
+roy|Roy O. Disney
+ub|Ub Iwerks
+mickey|Mickey Mouse 1928
+steam|Steamboat Willie 1928
+snow|Snow White and the Seven Dwarfs 1937
+snow2|Snow White premiere 1937 Carthay Circle
+lillian|Lillian Disney
+elias|Elias Disney
+chicago|Marceline Missouri Disney
+marceline|Marceline Missouri main street
+kansas|Kansas City 1920s
+laugh|Laugh-O-Gram studio
+oswald|Oswald the Lucky Rabbit
+mintz|Charles Mintz
+burbank|Walt Disney Studios Burbank
+disneyland|Disneyland 1955 opening
+disneyland2|Disneyland Sleeping Beauty Castle 1955
+tv|Disneyland television 1954
+wdw|Walt Disney World Magic Kingdom
+wdw2|Walt Disney Florida project 1966
+flowers|Flowers and Trees 1932 Silly Symphony
+oscar|Academy Award statuette
+fantasia|Fantasia 1940
+pinocchio|Pinocchio 1940 Disney
+strike|Disney animators strike 1941
+abc|ABC television 1954

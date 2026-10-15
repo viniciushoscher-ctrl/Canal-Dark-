@@ -1,0 +1,10 @@
+nyc|New York City film 1990s
+computer|internet computer film 1990s
+warehouse|warehouse film
+truck|delivery truck film
+rocket|rocket launch film
+space|space Earth film
+stock|stock exchange film
+crowd|crowd film 1990s
+data|data center film
+seattle|Seattle film 1990s

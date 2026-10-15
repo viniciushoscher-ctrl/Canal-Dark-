@@ -1,0 +1,19 @@
+name: imagens-v2
+on:
+  workflow_dispatch:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['video2-imagens/**']
+permissions:
+  contents: write
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - run: cd video2-imagens && python3 gerar_imagens.py
+      - if: always()
+        run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add video2-imagens/imagens && git commit -m "Video 2 images [skip ci]" && git pull --rebase -q && git push

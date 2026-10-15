@@ -1,0 +1,8 @@
+gates|Bill_Gates
+allen|Paul_Allen
+kildall|Gary_Kildall
+paterson|Tim_Paterson
+jobs|Steve_Jobs
+melinda|Melinda_French_Gates
+buffett|Warren_Buffett
+ballmer|Steve_Ballmer

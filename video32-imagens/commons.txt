@@ -1,0 +1,33 @@
+c1|Milton S. Hershey portrait
+c2|Milton Hershey photograph
+c3|Milton Hershey old man
+derry|Derry Township Pennsylvania
+farm|Pennsylvania farm 19th century
+mennonite|Mennonite family Pennsylvania 19th century
+printing|hand printing press 19th century
+lancaster|Lancaster Pennsylvania 1880s
+candy|candy shop 19th century
+philadelphia|Centennial Exposition Philadelphia 1876
+denver|Denver Colorado 1880s
+chicago|World's Columbian Exposition 1893
+newyork|New York City street 1885
+caramel|caramel candy
+cocoa|cocoa beans pods
+kitty|Catherine Hershey wife of Milton Hershey
+hershey_town|Hershey Pennsylvania Chocolate Avenue
+factory|Hershey Chocolate Factory
+park|Hersheypark
+kisses|Hershey's Kisses
+bar|Hershey's chocolate bar
+school|Milton Hershey School
+hotel|Hotel Hershey
+theatre|Hershey Theatre
+stadium|Hersheypark Stadium
+titanic|RMS Titanic
+cuba|Hershey Cuba sugar mill
+rationd|Ration D chocolate bar
+depression|Great Depression breadline
+strike|sit-down strike 1937
+dairy|dairy cows farm 1900
+trolley|Hershey trolley Pennsylvania
+soldiers|American soldiers World War II

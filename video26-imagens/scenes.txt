@@ -1,0 +1,74 @@
+BW|A hardware merchant with surveying drawings in a muddy Sacramento street, 1863
+COLOR|Rolled blueprints on a wooden counter in lamplight
+3D|Cinematic 3D render of a rolled blueprint glowing on a dark counter
+BW|Bankers shaking their heads across a mahogany table, 1863
+COLOR|The snowy Sierra Nevada peaks at dawn
+BW|A tinsmith's workshop in rural Connecticut, 1830
+COLOR|Tin pans hanging on a wall in warm light
+BW|A teenage peddler carrying clocks on a country road, 1837
+COLOR|A pocket watch and a silver coin on a table
+3D|Cinematic 3D render of a pocket watch glowing in the dark
+BW|A tiny store on a village main street in New York, 1845
+COLOR|A ledger and a pencil on a counter
+BW|A ship leaving New York harbor for California, 1849
+COLOR|A steamship crowded with gold seekers
+BW|The Panama jungle with mule trains carrying baggage, 1849
+COLOR|A muddy river crossing in a tropical jungle
+3D|Cinematic 3D render of a mule train crossing a glowing jungle river
+BW|San Francisco harbor full of abandoned ships, 1850
+COLOR|Tents on a hillside above a harbor
+BW|A hardware store in Sacramento with picks and shovels, 1852
+COLOR|Shovels and pans lined up on a wall
+BW|Two partners counting coins at a store desk, 1855
+COLOR|A scale weighing gold dust
+BW|An engineer unrolling a railroad plan on a store counter, 1860
+COLOR|A map of the Sierra Nevada with a route drawn in red
+BW|Four men shaking hands in a store, 1861
+COLOR|A contract with four signatures on a desk
+3D|Cinematic 3D render of four chairs around a table with golden coins
+BW|A man walking into the US Capitol with a satchel, 1861
+COLOR|A grand senate corridor with marble columns
+BW|A lobbyist flattering senators in a dim lounge, 1862
+COLOR|A stack of papers and a bag of coins
+BW|Lincoln signing the Pacific Railway Act, 1862
+COLOR|A quill signing an act of Congress
+BW|Iron rails and locomotives being loaded on ships, 1864
+COLOR|A foundry pouring iron in sparks
+3D|Cinematic 3D render of glowing iron rails stacked in a dark foundry
+BW|A man in a tiny hotel room counting nickels at night, 1865
+COLOR|A candle and a stack of letters
+BW|An anxious businessman writing a letter in a rush, 1866
+COLOR|A telegram on a desk beside a clock
+BW|A railroad grade climbing through snowy mountains, 1867
+COLOR|A locomotive in a rocky canyon
+BW|Two rail lines meeting at Promontory Summit, 1869
+COLOR|A crowd cheering at a golden spike ceremony
+3D|Cinematic 3D render of a golden spike glowing between two rails
+BW|A railroad line crossing the Arizona desert, 1880
+COLOR|A steam train in a red rock canyon
+BW|A railroad yard in New Orleans, 1882
+COLOR|A steamship at a New Orleans wharf
+BW|A coal train crossing West Virginia mountains, 1885
+COLOR|Coal cars on a trestle at dusk
+BW|A huge shipyard with a battleship under construction, 1890
+COLOR|A shipyard crane against a sunset
+3D|Cinematic 3D render of a battleship hull in a glowing shipyard
+BW|Newspapers printing private letters, 1883
+COLOR|A bundle of letters tied with string
+BW|A cartoon of a giant octopus over a railroad map, 1882
+COLOR|Farmers in a field with a railroad line cutting through
+3D|Cinematic 3D render of a giant octopus tentacles wrapped around a train
+BW|A funeral for a wife in the 1880s, no faces
+COLOR|A black wreath on a door
+BW|A new bride in a luxurious dress, 1884
+COLOR|A grand painting on a mansion wall
+BW|A mansion drawing room filled with art, 1895
+COLOR|An old master painting in a gilded frame
+3D|Cinematic 3D render of a gilded frame glowing in a dark gallery
+BW|A frugal man taking a trolley in New York, 1895
+COLOR|A modest bowl of soup at a table
+BW|A cabin in the Adirondack mountains, 1900
+COLOR|A mountain lake at dawn
+BW|A nephew taking over a railroad office, 1900
+COLOR|A library with rows of rare books
+3D|Cinematic 3D render of a golden key on a railroad map

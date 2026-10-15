@@ -1,0 +1,69 @@
+### 00_hook
+Nineteen ninety-four. A thirty-year-old man with a secure, six-figure job on Wall Street walks into his boss's office in New York and announces that he is leaving. He wants to sell books on the internet. His boss takes him on a walk through Central Park, and says that it sounds like a great idea for someone who does not already have a good job.
+
+The young man goes home and thinks about it for two days. He uses a mental trick he calls the regret minimization framework. He imagines himself at eighty, looking back. Would he regret leaving Wall Street? No. Would he regret not trying the internet? Yes, for the rest of his life.
+
+So he quits. He drives west, to Seattle, in a borrowed car, with his wife behind the wheel while he types a business plan. His name is Jeff Bezos. And this is the story of how a man built a bookstore in a garage, and turned it into the most powerful company on Earth.
+
+### 01_cap1
+Jeffrey Preston Jorgensen was born on January twelfth, nineteen sixty-four, in Albuquerque, New Mexico. His mother, Jacklyn, was just seventeen. His father, a circus unicyclist, left when he was a baby. When he was four, his mother married a Cuban immigrant named Miguel Bezos, who adopted him.
+
+Miguel had come to the United States alone at age fifteen, one of thousands of children in an airlift from Cuba. He studied at night, and became an engineer at Exxon. The family moved to Houston, Texas. Young Jeff was a curious, intense boy. He built electrical gadgets in the garage, and rigged an alarm to keep his younger siblings out of his room.
+
+Every summer, he stayed at his grandfather's ranch in Texas. His grandfather, a retired engineer, taught him to fix windmills, vaccinate cattle, and solve problems on his own. Jeff later said that his grandfather taught him that cleverness is a gift, while kindness is a choice.
+
+### 02_cap2
+Bezos studied electrical engineering and computer science at Princeton, graduating with top honors in nineteen eighty-six. He was offered jobs at many technology companies. But he went to Wall Street, and joined a hedge fund called D. E. Shaw, where he became one of the youngest senior vice presidents in the history of the firm.
+
+In nineteen ninety-four, while reading about the internet, he found a statistic that stunned him. Web usage was growing at twenty-three hundred percent a year. He had never seen a number like that. He decided he had to build something on the internet.
+
+He made a list of twenty products he could sell online. Books topped the list. There were millions of titles, more than any store could keep in stock, and the online catalog could offer them all. He decided to name it Amazon, after the biggest river in the world.
+
+He left D. E. Shaw, and with his wife MacKenzie, he moved to Seattle. In the garage of a rented house, he started building the website.
+
+### 03_cap3
+Along the way, MacKenzie handled the books and the shipping, and Jeff wrote code. He built the first desks out of wooden doors, because they were cheaper than office furniture. He is still proud of that detail. The door desk became a company symbol of frugality.
+
+Bezos raised about a million dollars from family and friends. His parents invested about two hundred and fifty thousand dollars of their retirement savings. He warned them that there was a seventy percent chance they would lose it all.
+
+Amazon opened for business on July sixteenth, nineteen ninety-five. Within a month, it had sold books to customers in all fifty states and forty-five countries. Employees packed orders on the garage floor, with knee pads, to protect their knees from the concrete. Bezos himself drove packages to the post office.
+
+The company grew rapidly, and went public in nineteen ninety-seven. Bezos's strategy was clear, and it frightened investors. He promised to focus on long-term growth instead of short-term profit. In his first letter to shareholders, he wrote that Amazon was about Day One of the internet. Every year, he repeated the phrase, to remind employees to act like a startup.
+
+He added music, videos, toys, and electronics. Amazon lost hundreds of millions of dollars. Critics said the name stood for a company that would never make a profit.
+
+### 04_cap4
+The dot-com crash in two thousand nearly killed Amazon. The stock fell from over a hundred dollars to six. Newspapers called it Amazon dot bomb. Bezos laid off employees, and shut down warehouses. Many believed that the company would go bankrupt.
+
+But Bezos stayed focused on customers. He cut prices, introduced free shipping, and improved the website. In two thousand one, Amazon finally reported a profit, a tiny one of five million dollars in a single quarter. It was the proof he needed.
+
+Then he made a bold, strange bet. In two thousand five, Amazon launched Prime, a membership that offered free two-day shipping for a yearly fee. Analysts said it would lose money. And it did, in the beginning. But the program turned customers into loyalists, who bought far more than before.
+
+By two thousand ten, Amazon was the largest online retailer in the world, with revenue of thirty-four billion dollars.
+
+### 05_cap5
+Bezos's next idea came from an internal problem. Amazon's engineers had built powerful computing infrastructure to run the website. Bezos realized that other companies could rent this infrastructure. In two thousand six, Amazon launched Amazon Web Services.
+
+AWS was a revolution. Startups no longer had to buy their own servers. They could rent computing power by the hour. Within a few years, AWS became the foundation of the modern internet. Netflix, Airbnb, and thousands of others ran on it.
+
+It also became Amazon's most profitable business, generating tens of billions of dollars a year. The retail empire was supported by a cloud empire.
+
+Behind these products stood a strict rule. Bezos banned slide presentations in meetings. Instead, executives had to write a six-page narrative memo, and everyone read it in silence at the start of the meeting. He said that full sentences force clear thinking, while bullet points hide it.
+
+Bezos kept expanding. He launched the Kindle in two thousand seven, which turned books into digital files. In two thousand thirteen, he bought The Washington Post for two hundred and fifty million dollars, from his own pocket. In two thousand seventeen, he bought Whole Foods for thirteen and a half billion dollars.
+
+### 06_cap6
+In two thousand eighteen, Bezos became the richest man in modern history, with a fortune of over a hundred and fifty billion dollars. He used part of it for a dream from his childhood. In two thousand, he had founded a rocket company, Blue Origin, to build a future where millions of people live and work in space.
+
+His success had a dark side. Critics said that Amazon crushed small businesses, paid warehouse workers poorly, and avoided taxes. Employees complained about the pressure. Politicians called for the company to be broken up. Bezos replied that Amazon created jobs and delivered convenience to hundreds of millions of people.
+
+In two thousand nineteen, his divorce from MacKenzie, after twenty-five years, resulted in one of the biggest settlements in history. She received about a quarter of his Amazon shares. In July two thousand twenty-one, Bezos stepped down as CEO of Amazon, and flew to the edge of space on a Blue Origin rocket.
+
+Today, Amazon is one of the most valuable companies in the world, with over a million and a half employees.
+
+### 07_lesson
+Jeff Bezos' story holds two lessons. The first is to think long-term. He was willing to be misunderstood for years, while building an advantage that others could not copy. Many of Amazon's best ideas, like Prime and AWS, were mocked at first.
+
+The second is to make decisions with the regret minimization framework. When fear says stay safe, imagine yourself at eighty. The risks you take, he said, are rarely the ones you regret. It is the ones you did not take.
+
+If you enjoyed this story, subscribe, because tomorrow at six, another file opens.

@@ -1,0 +1,75 @@
+BW|A dim hotel lobby at night with a man sleeping in a chair, 1932
+COLOR|A hotel front desk bell and a key in warm lamplight
+3D|Cinematic 3D render of a lone hotel key on a dark marble counter
+BW|A Depression-era bank with a closed sign and a crowd outside, 1931
+COLOR|A foreclosure notice nailed to a door in cold light
+BW|A tiny desert general store in New Mexico, 1890
+COLOR|A dusty desert town street at dawn
+3D|Cinematic 3D render of a small adobe house glowing in a desert night
+BW|A frontier boardinghouse with a porch and travelers, 1895
+COLOR|A narrow iron bed in a plain rented room with a lamp
+BW|A boy carrying a heavy suitcase up wooden stairs, 1900
+BW|A mother praying beside a window with a rosary, 1900
+COLOR|A rosary and candle on a wooden table
+3D|Cinematic 3D render of a rosary glowing on a dark table
+BW|A state legislature chamber in New Mexico, 1912
+COLOR|A government hall with an American flag
+BW|American soldiers marching in the First World War, 1918
+COLOR|A small Texas town street with horses and cars, 1919
+BW|A Texas oil boomtown with derricks and mud, 1920
+COLOR|A black oil gusher at sunset over flat land
+3D|Cinematic 3D render of an oil derrick with golden light in a dark sky
+BW|A crowded Texas hotel lobby full of oilmen, 1919
+COLOR|A hotel desk clerk handing keys to a line of men
+BW|A hotel room rented in shifts with workers' hats on a bed, 1919
+COLOR|A hotel lobby with newsstand and barber chair
+3D|Cinematic 3D render of a hotel room with a clock spinning around it
+BW|A tall Texas hotel under construction, 1925
+COLOR|A grand opening banner on a skyscraper hotel
+BW|Dallas skyline in the 1920s with a new hotel tower
+COLOR|A hotel ballroom with chandeliers and a crowd
+3D|Cinematic 3D render of a golden hotel tower rising over a dark city
+BW|A smiling hotel manager greeting guests at a lobby door, no faces, 1927
+BW|A busy hotel restaurant with waiters, 1928
+COLOR|A silver room-service tray with a dome
+BW|The stock market crash with papers on the floor, 1929
+COLOR|A stock ticker tape falling like rain
+3D|Cinematic 3D render of a hotel tower collapsing into a dark abyss
+BW|An empty hotel lobby with dust on chairs, 1931
+COLOR|A silent hotel hallway with doors closed
+BW|Creditors at a long table in a gloomy office, 1931
+COLOR|A pile of unpaid bills and a pen
+3D|Cinematic 3D render of a ledger with a red negative balance on a dark desk
+BW|A bellboy and a man at a hotel counter, 1932
+COLOR|A coin in a man's open palm
+BW|A hotel in Albuquerque with a neon sign, 1939
+COLOR|A grand hotel in the New Mexico desert at dusk
+BW|A busy Chicago hotel lobby full of soldiers, 1943
+COLOR|A big Chicago hotel at night with lights
+3D|Cinematic 3D render of a hotel lobby full of golden light
+BW|The Waldorf Astoria in New York from the street, 1949
+COLOR|A photograph of a grand hotel pinned on an office wall
+3D|Cinematic 3D render of a framed photograph of a grand hotel glowing on a wall
+BW|Hotel staff lined up in front of the Waldorf Astoria, 1949
+COLOR|The opulent Waldorf ballroom
+BW|A ceremony signing a huge deal with pens and papers, 1954
+COLOR|A handshake between two businessmen in an office
+3D|Cinematic 3D render of a world map with golden hotels lighting up
+BW|A modern hotel in Istanbul overlooking the Bosphorus, 1955
+COLOR|A glass hotel tower in Cairo along the Nile
+3D|Cinematic 3D render of a glowing modern hotel on a coast at night
+BW|A hotel room with a telephone and air conditioning, 1955
+COLOR|Ice water on a tray in a hotel room
+BW|A hotel in Havana with palm trees, 1958
+COLOR|A pool at a luxury hotel in the evening
+BW|A businessman with a briefcase at an airport, 1955
+COLOR|An airplane over clouds at sunset
+3D|Cinematic 3D render of an airplane flying over a glowing world map
+BW|A family dinner in a mansion, no faces, 1960
+COLOR|A mansion window with soft evening light
+BW|An old man alone at a window with a view of a city, 1978
+COLOR|A winter city skyline at dusk
+3D|Cinematic 3D render of a city skyline at night full of hotel lights
+BW|A funeral flag on a table and candles, 1979
+COLOR|A lit hotel sign at night in the rain
+3D|Cinematic 3D render of a golden key resting on a photo of a hotel

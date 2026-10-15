@@ -1,0 +1,6 @@
+kroc|Ray_Kroc
+richard|Richard_and_Maurice_McDonald
+sonneborn|Harry_J._Sonneborn
+joan|Joan_Kroc
+disney|Walt_Disney
+prince|Earl_Prince

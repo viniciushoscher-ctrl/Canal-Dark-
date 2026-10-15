@@ -1,0 +1,8 @@
+walt|Walt_Disney
+roy|Roy_O._Disney
+ub|Ub_Iwerks
+lillian|Lillian_Disney
+elias|Elias_Disney
+mintz|Charles_Mintz
+mickey|Mickey_Mouse
+fdr|Franklin_D._Roosevelt

@@ -1,0 +1,25 @@
+m1|Elon Musk portrait
+m2|Elon Musk photograph 2008
+m3|Elon Musk 2000s
+m4|Elon Musk Tesla
+omelek|Omelek island Falcon 1
+falcon1|Falcon 1 launch 2008
+falcon9|Falcon 9 landing 2015
+dragon|Dragon spacecraft ISS 2012
+zip2|Zip2 1995
+kimbal|Kimbal Musk
+paypal|PayPal 2000
+thiel|Peter Thiel
+roadster|Tesla Roadster 2008
+model3|Tesla Model 3
+factory|Tesla Fremont factory
+pretoria|Pretoria South Africa 1980s
+errol|Errol Musk
+maye|Maye Musk
+neuralink|Neuralink
+boring|The Boring Company tunnel
+starlink|Starlink satellites
+starship|Starship launch
+twitter|Twitter headquarters 2022
+nasa|NASA headquarters 2008
+penn|University of Pennsylvania

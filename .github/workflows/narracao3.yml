@@ -1,0 +1,16 @@
+name: narracao3
+on:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['video3-narracao/**']
+permissions:
+  contents: write
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install edge-tts && cd video3-narracao && python gerar.py
+      - run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add video3-narracao/audio && git commit -m "Add Video 3 narration audio" && git push

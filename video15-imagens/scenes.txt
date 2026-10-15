@@ -1,0 +1,71 @@
+BW|A plain discount store with a hand-painted sign in a small Arkansas town, 1962
+COLOR|A bare concrete floor and cardboard boxes in a discount store
+3D|Cinematic 3D render of a plain discount store glowing in a dark small town
+BW|Shoppers at a discount store counter, no faces, 1962
+COLOR|A small town main street at dawn with an old pickup truck
+BW|A dusty Oklahoma farm town, 1918
+COLOR|An Oklahoma wheat field at sunset
+3D|Cinematic 3D render of a lone farmhouse under a stormy golden sky
+BW|A boy delivering newspapers on a bicycle in the Depression, 1930
+COLOR|A milk pail and a cow in a barn at dawn
+BW|A high school football team with a trophy, 1935
+COLOR|A Scout badge and a folded flag on a table
+BW|A college dormitory with a student working a cafeteria, 1937
+COLOR|A university campus lawn in autumn
+BW|A department store in Iowa with clerks at counters, 1940
+COLOR|A shop clerk's hand folding a shirt
+BW|An army intelligence officer's desk in the 1940s
+COLOR|A small town variety store sign at sunrise
+3D|Cinematic 3D render of a five-and-dime storefront with a glowing sign
+BW|A five-and-dime store interior with shelves of small goods, 1946
+COLOR|Shelves of candy and toys in a variety store
+BW|A shopkeeper pricing goods with a pencil, 1947
+COLOR|A pricing gun stamping price tags
+3D|Cinematic 3D render of price tags falling and a stack of coins growing
+BW|A landlord handing a lease to a man in a small office, 1950
+COLOR|A torn lease agreement on a desk
+BW|A family loading a car with boxes, 1950
+COLOR|A small town square in the Ozarks at golden hour
+BW|A courthouse square in Bentonville with shops, 1951
+COLOR|A shop window with a hand-painted sign
+BW|A small propeller airplane flying over rural roads, 1958
+COLOR|A pilot's view of small town roads at sunset
+3D|Cinematic 3D render of a small airplane over a glowing map of towns
+BW|A businessman taking notes in a competitor's store, 1960
+COLOR|A notepad and a pencil on a store shelf
+BW|A map of small Arkansas towns with pins, 1960
+COLOR|A road map with a hand drawing a route
+BW|A grand opening banner on a plain discount store, 1962
+COLOR|A parking lot full of old cars at the store opening
+BW|A warehouse distribution center with trucks and pallets, 1970
+COLOR|A fleet of trucks parked at dawn
+3D|Cinematic 3D render of a warehouse full of boxes with golden light
+BW|Employees doing a morning cheer in a store, no faces, 1975
+COLOR|A name badge reading Associate on a vest
+BW|A stock exchange trading floor, 1970
+COLOR|A ticker with a rising price
+3D|Cinematic 3D render of a rising chart over a small-town map
+BW|An old pickup truck on a dirt road with a dog, 1978
+COLOR|A diner counter at dawn with coffee
+3D|Cinematic 3D render of an old pickup truck on a road toward a glowing store
+BW|A computer room with large mainframes, 1980
+COLOR|A satellite dish against a night sky
+BW|A huge warehouse club interior with pallets, 1983
+COLOR|A giant grocery supercenter aisle
+3D|Cinematic 3D render of an enormous store with endless aisles
+BW|A magazine cover stand with a richest man headline blurred, 1985
+COLOR|An old man in a baseball cap looking at a shelf of goods
+BW|An old man counting a stack of newspapers on a counter
+BW|A hospital corridor with a patient on a wheelchair, 1990
+COLOR|A doctor's lamp in a quiet room
+BW|A president hanging a medal on an old man, no faces, 1992
+COLOR|A medal on a velvet cushion in warm light
+3D|Cinematic 3D render of a golden medal on a dark velvet table
+BW|A small town funeral with a long line of cars, 1992
+COLOR|A pickup truck parked in an empty lot at dusk
+BW|A gigantic modern supercenter lit up at night, 2000
+COLOR|Thousands of shopping carts in a parking lot
+3D|Cinematic 3D render of a golden shopping cart on a world map
+BW|Workers in a distribution center aisles, 1995
+COLOR|A cashier's hand scanning an item
+3D|Cinematic 3D render of a golden key on an old store ledger

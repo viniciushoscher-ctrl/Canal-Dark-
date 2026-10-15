@@ -1,0 +1,10 @@
+ship|ship at sea film 1930s
+yacht|yacht film 1950s
+oil|oil derrick film 1950s
+tanker|oil tanker film 1950s
+crowd|crowd film 1950s
+nyc|city film 1960s
+plane|airplane film 1950s
+wedding|wedding film 1960s
+war|world war two convoy film
+harbor|harbor film 1920s

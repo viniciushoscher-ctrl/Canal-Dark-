@@ -1,0 +1,12 @@
+steel|steel mill film 1900s
+pitt|Pittsburgh film 1900s
+oil|oil derrick film 1920s
+bank|bank money film 1900s
+wall|Wall Street 1900s film
+crowd|crowd street film 1930
+depress|Great Depression film 1930s
+capitol|Washington Capitol film 1920s
+ship|ocean liner film 1930
+art|museum paintings film
+train|train film 1900s
+street|city street 1920s film

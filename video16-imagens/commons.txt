@@ -1,0 +1,26 @@
+k1|Ray Kroc portrait
+k2|Ray Kroc photograph
+k3|Ray Kroc old
+k4|Ray Kroc McDonald's
+mcd|Richard and Maurice McDonald
+mcd2|McDonald brothers restaurant San Bernardino
+sanb|San Bernardino McDonald's 1950s
+desplaines|Des Plaines McDonald's 1955
+speedee|Speedee McDonald's
+oakpark|Oak Park Illinois 1900
+multimixer|Prince Castle Multimixer
+prince|Earl Prince Castle
+lily|Lily-Tulip Cup
+sonneborn|Harry Sonneborn
+hamburgeru|Hamburger University Oak Brook
+bigmac|Big Mac 1968
+ronald|Ronald McDonald 1963
+padres|San Diego Padres 1974
+joan|Joan Kroc
+disney|Walt Disney portrait
+cup|paper cup 1930s
+drive|drive-in restaurant 1950s
+franchise|McDonald's restaurant 1960s
+arches|McDonald's golden arches
+shake|milkshake machine
+rest|restaurant 1950s

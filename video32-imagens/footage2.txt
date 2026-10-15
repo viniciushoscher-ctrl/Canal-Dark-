@@ -1,0 +1,12 @@
+factory|factory workers film 1900s
+candy|candy making film
+train|train film 1900s
+farm|farm film 1900s
+ship|ocean liner film 1910
+city|city street film 1900s
+crowd|crowd film 1900s
+depression|great depression film 1930s
+soldiers|soldiers film 1940s
+streetcar|streetcar trolley film 1900s
+children|children school film 1900s
+exposition|world's fair film 1893

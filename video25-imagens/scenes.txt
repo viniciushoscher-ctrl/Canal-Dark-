@@ -1,0 +1,76 @@
+BW|A desert railroad summit with a crowd around a golden spike, 1869
+COLOR|A gold spike and a heavy hammer on a railroad tie
+3D|Cinematic 3D render of a golden spike glowing on a railroad tie in the desert
+BW|A telegraph operator tapping a message at a desk, 1869
+COLOR|Cannons firing in a city square with flags
+BW|An inn and a farm near Albany, New York, 1830
+COLOR|A farm road in autumn at sunset
+BW|A young lawyer at a desk in a small office, 1848
+COLOR|A burning law library with papers flying
+BW|A ship sailing toward the California coast, 1852
+COLOR|A foggy San Francisco bay with masts
+3D|Cinematic 3D render of a ship sailing toward a golden coast
+BW|A mining camp general store with barrels and shovels, 1853
+COLOR|Gold dust in a scale on a counter
+BW|A Sacramento riverfront with steamboats, 1856
+COLOR|A grocery store window with sacks of flour
+BW|A political rally in a California town, 1861
+COLOR|A campaign poster on a wooden wall
+BW|Four merchants around a table in a hardware store, 1861
+COLOR|A map of the Sierra Nevada on a table
+3D|Cinematic 3D render of a map with a glowing railroad line over snowy mountains
+BW|A surveyor with a theodolite on a mountain, 1860
+COLOR|A rugged Sierra Nevada pass covered in snow
+BW|A bank in San Francisco with sceptical bankers, 1860
+COLOR|A letter of refusal on a polished desk
+BW|President Lincoln signing a bill in a study, 1862
+COLOR|A Pacific Railway Act document with a quill
+BW|Chinese laborers swinging picks on a cliff, 1866
+COLOR|Workers hanging in baskets from a granite cliff
+3D|Cinematic 3D render of a basket hanging from a granite cliff with a spark
+BW|A tunnel entrance carved into granite, 1867
+COLOR|A tunnel in a mountain with lanterns
+BW|A snow shed over railroad tracks, 1867
+COLOR|An avalanche burying a camp at night
+BW|Workers resting beside a pot of tea at a camp, 1867
+COLOR|A rice bowl and a tin kettle by a campfire
+BW|A paymaster counting wages on a table, 1867
+COLOR|A shadow of a boss over workers
+BW|A boardroom of four men with ledgers, 1868
+COLOR|A construction company contract with a seal
+3D|Cinematic 3D render of four chairs around a table with golden coins
+BW|The Central Pacific meets the Union Pacific at Promontory, 1869
+COLOR|Two locomotives nose to nose in the desert
+3D|Cinematic 3D render of two locomotives meeting in a glowing desert
+BW|A Southern Pacific train crossing a desert, 1880
+COLOR|A map of California with railway lines in red
+BW|An octopus drawn over a map of California, 1880
+COLOR|Farmers protesting railroad rates
+BW|A mansion on Nob Hill in San Francisco, 1880
+COLOR|A mansion drawing room with portraits
+BW|A racehorse farm in Palo Alto, 1878
+COLOR|A galloping horse with all four feet in the air
+3D|Cinematic 3D render of a galloping horse in sequence photographs
+BW|A line of cameras along a racetrack, 1878
+COLOR|A photographic plate of a galloping horse
+BW|A senator at a desk in Washington, 1885
+COLOR|A grand US Senate chamber
+BW|A bright boy with his father in a mansion, 1882
+COLOR|A child's toy train on a floor
+BW|A family travelling through Italy by carriage, 1884
+COLOR|A hospital room in Florence in the evening
+3D|Cinematic 3D render of a single candle in a dark bedroom
+BW|A grieving couple at a boy's grave, 1884
+COLOR|A marble tomb in a cemetery at dusk
+BW|A man dreaming at night, 1884
+COLOR|An empty bed with moonlight
+BW|A ranch with farmland that will become a campus, 1887
+COLOR|A sandstone arcade of a new university
+3D|Cinematic 3D render of a sandstone university arcade glowing at sunset
+BW|The opening day of a new university with a crowd, 1891
+COLOR|Students walking through arches
+BW|A lawyer in a court fighting over an estate, 1894
+COLOR|A widow counting coins in a modest room
+BW|A university campus in the 1920s with a tall tower
+COLOR|A modern research lab in Silicon Valley
+3D|Cinematic 3D render of a golden key placed on a railroad spike

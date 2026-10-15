@@ -1,0 +1,14 @@
+ford|Henry_Ford
+edison|Thomas_Edison
+edsel|Edsel_Ford
+clara|Clara_Ford
+henry2|Henry_Ford_II
+dodge1|John_Francis_Dodge
+dodge2|Horace_Elgin_Dodge
+winton|Alexander_Winton
+bennett|Harry_Bennett
+sloan|Alfred_P._Sloan
+leland|Henry_M._Leland
+burroughs|John_Burroughs_(naturalist)
+reuther|Walter_Reuther
+logo|Ford_Motor_Company

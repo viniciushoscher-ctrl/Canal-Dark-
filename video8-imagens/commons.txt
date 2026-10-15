@@ -1,0 +1,31 @@
+g1|J. Paul Getty portrait
+g2|J. Paul Getty photograph 1960s
+g3|J. Paul Getty old age
+g4|J. Paul Getty young man
+g5|J. Paul Getty Sutton Place
+g6|J. Paul Getty pay telephone
+sutton|Sutton Place Surrey mansion
+sutton2|Sutton Place Guildford Tudor house
+gettyvilla|Getty Villa Malibu
+gettyvilla2|Getty Villa peristyle garden
+gettymuseum|J. Paul Getty Museum Malibu 1970s
+oklahoma|Oklahoma oil boom 1916 derricks
+oil1|oil derrick 1910s gusher
+oil2|Oklahoma oil field 1920s
+minneapolis|Minneapolis 1890s street
+oxford|Magdalen College Oxford 1910s
+georgef|George Franklin Getty
+gettyoil|Getty Oil Company station
+kuwait|Kuwait oil field 1950s
+neutral|Saudi Arabia Kuwait Neutral Zone
+saudi|Saudi Arabia oil Wafra 1950s
+wafra|Wafra oil field
+paulIII|John Paul Getty III
+kidnap|Getty kidnapping 1973 Rome
+rome|Rome 1973 street
+fortune|Fortune magazine 1957
+howto|How to Be Rich J. Paul Getty book
+tycoon|oil tycoon 1950s
+gettycenter|Getty Center Los Angeles
+gettyoil2|Tidewater Oil Company
+spartan|Spartan Aircraft

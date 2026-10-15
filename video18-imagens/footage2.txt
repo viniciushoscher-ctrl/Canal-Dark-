@@ -1,0 +1,10 @@
+computer|early personal computer film 1980s
+office|office film 1980s
+crowd|crowd film 1990s
+stock|stock exchange film 1980s
+court|courtroom film
+school|school classroom film 1960s
+seattle|Seattle film 1960s
+lab|computer lab film 1970s
+health|vaccination Africa film
+tv|television 1990s film

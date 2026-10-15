@@ -1,0 +1,222 @@
+<title>Editor Rockefeller</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Mesa de edição escura: preview + inspetor em cima, linha do tempo embaixo */
+:root{--bg:#0f1114;--panel:#171a1f;--panel2:#1e2229;--line:#2b3039;--fg:#e8eaee;--mute:#8d95a3;--gold:#f5c542;--red:#e5484d;--blue:#4c8dff;--green:#3dd68c;color-scheme:dark;
+--disp:'Barlow Condensed','Arial Narrow',sans-serif;--ui:'IBM Plex Sans',system-ui,sans-serif;--mono:'IBM Plex Mono',ui-monospace,monospace}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:13px/1.4 var(--ui);padding-inline:16px;padding-block:12px}
+h1{font:700 22px var(--disp);letter-spacing:.06em;text-transform:uppercase;margin:0}
+h1 span{color:var(--gold)}
+header{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:12px}
+header .sp{flex:1}
+button,select,input,textarea{font:inherit;color:var(--fg);background:var(--panel2);border:1px solid var(--line);border-radius:4px;padding:6px 10px}
+button{cursor:pointer}button:hover{border-color:var(--mute)}
+button.pri{background:var(--gold);color:#17130a;border-color:var(--gold);font-weight:600}
+button.dng{color:var(--red)}
+button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px solid var(--blue);outline-offset:1px}
+.top{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(280px,1fr);gap:12px}
+@media(max-width:820px){.top{grid-template-columns:minmax(0,1fr)}}
+.box{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:10px;min-width:0}
+canvas{width:100%;aspect-ratio:16/9;display:block;background:#000;border-radius:4px}
+.ctl{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.tc{font:500 15px var(--mono);font-variant-numeric:tabular-nums;min-width:120px}
+.ctl label{display:flex;gap:6px;align-items:center;color:var(--mute);font-size:12px}
+input[type=range]{padding:0;accent-color:var(--gold)}
+#seek{flex:1;min-width:140px}
+.insp h2,.tl h2{font:700 15px var(--disp);letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin:0 0 8px}
+.row{display:grid;grid-template-columns:90px 1fr;gap:8px;align-items:center;margin-bottom:8px}
+.row label{color:var(--mute);font-size:12px}
+.row input,.row select,.row textarea{width:100%;min-width:0}
+.btns{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.thumbs{display:grid;grid-template-columns:repeat(auto-fill,minmax(54px,1fr));gap:4px;max-height:150px;overflow:auto;margin-bottom:8px}
+.thumbs img{width:100%;aspect-ratio:16/9;object-fit:cover;border:2px solid transparent;border-radius:3px;cursor:pointer}
+.thumbs img.on{border-color:var(--gold)}
+.hint{color:var(--mute);font-size:12px}
+.tl{margin-top:12px}
+.tlbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:8px}
+.scroll{overflow-x:auto;border:1px solid var(--line);border-radius:4px;background:var(--panel)}
+.stage{position:relative}
+.ruler{height:22px;position:relative;border-bottom:1px solid var(--line);cursor:pointer;background:var(--panel2)}
+.tick{position:absolute;top:0;height:100%;border-left:1px solid var(--line);font:11px var(--mono);color:var(--mute);padding-left:3px}
+.trk{height:46px;position:relative;border-bottom:1px solid var(--line)}
+.trk.s{height:30px}
+.tname{position:sticky;left:0;z-index:5;display:inline-block;background:#0f1114cc;color:var(--mute);font:600 10px var(--ui);letter-spacing:.08em;text-transform:uppercase;padding:2px 6px;pointer-events:none}
+.blk{position:absolute;top:3px;bottom:3px;border-radius:3px;overflow:hidden;border:1px solid #0008;cursor:pointer;font-size:10px;line-height:1.2;padding:2px 4px;white-space:nowrap;text-overflow:ellipsis}
+.blk.sel{outline:2px solid var(--gold);z-index:3}
+.blk.shot{background-size:cover;background-position:center;color:#fff;text-shadow:0 1px 2px #000}
+.blk.cap{background:#2a3a55;color:#cfe0ff}
+.blk.ch{background:#6b2f33;color:#ffd5d6}
+.blk.card{background:#3b3f1c;color:#f5e9a8}
+.blk.br{background:#1f4d3a;color:#bff5d9}
+.ph{position:absolute;top:0;bottom:0;width:2px;background:var(--red);z-index:6;pointer-events:none}
+.ph:before{content:"";position:absolute;top:0;left:-5px;border:6px solid transparent;border-top-color:var(--red)}
+textarea.out{width:100%;height:90px;font:11px var(--mono);margin-top:8px}
+.note{margin-top:10px;color:var(--mute);font-size:12px;max-width:80ch}
+</style>
+
+<header>
+  <h1>Editor <span>Rockefeller</span> · Vídeo 1</h1>
+  <span class="hint" id="stat">carregando…</span>
+  <span class="sp"></span>
+  <button id="bUndo">Desfazer</button>
+  <button id="bReset">Voltar ao original</button>
+  <button class="pri" id="bExp">Salvar edição</button>
+</header>
+
+<div class="top">
+  <div class="box">
+    <canvas id="cv" width="960" height="540"></canvas>
+    <div class="ctl">
+      <button id="bPlay" class="pri" style="min-width:84px">▶ Tocar</button>
+      <span class="tc" id="tc">0:00.0 / 8:13</span>
+      <input id="seek" type="range" min="0" max="1" step="0.01" value="0" aria-label="Posição">
+    </div>
+    <div class="ctl">
+      <label>Narração <input id="vN" type="range" min="0" max="1" step="0.05" value="1"></label>
+      <label>Música <input id="vM" type="range" min="0" max="1" step="0.05" value="0.6"></label>
+      <label><input type="checkbox" id="cFx" checked> efeitos de corte</label>
+    </div>
+  </div>
+  <div class="box insp" id="insp"></div>
+</div>
+
+<div class="box tl">
+  <div class="tlbar">
+    <h2 style="margin:0">Linha do tempo</h2>
+    <label class="hint">Zoom <input id="zoom" type="range" min="4" max="40" step="1" value="12"></label>
+    <span class="hint">Clique na régua para mover o cursor. Clique num bloco para editar.</span>
+  </div>
+  <div class="scroll" id="scroll"><div class="stage" id="stage"></div></div>
+</div>
+
+<div class="box" style="margin-top:12px" id="expBox" hidden>
+  <h2 style="font:700 15px var(--disp);letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin:0 0 6px">Edição salva</h2>
+  <div class="hint" id="expMsg"></div>
+  <textarea class="out" id="out" readonly aria-label="Edição em JSON"></textarea>
+</div>
+<p class="note">A prévia mostra imagens, movimento, legendas, cartões e capítulos. Os 4 gráficos animados (b-roll) e o visual final com granulado aparecem só no vídeo renderizado. Quando terminar, clique em Salvar edição e me mande o arquivo: eu aplico tudo e gero o MP4 novo.</p>
+
+<script>
+(function(){
+var D, S, hist=[], sel=null, t=0, playing=false, last=0, imgs={}, upl={};
+var cv=document.getElementById('cv'), cx=cv.getContext('2d');
+var nA=new Audio('narr.mp3'), mA=new Audio('bed.mp3');
+var $=function(i){return document.getElementById(i)};
+var KEY='rock_edit_v1';
+function fmt(x){x=Math.max(0,x);var m=Math.floor(x/60),s=x-m*60;return m+':'+(s<10?'0':'')+s.toFixed(1)}
+function r2(x){return Math.round(x*100)/100}
+function clone(o){return JSON.parse(JSON.stringify(o))}
+function push(){hist.push(JSON.stringify(S));if(hist.length>60)hist.shift();save()}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
+function getImg(i){var im=D.imgs[i];if(!im)return null;var k=im.f;if(upl[i])k='u'+i;if(!imgs[k]){var a=new Image();a.onload=draw;a.src=upl[i]||im.f;imgs[k]=a}return imgs[k]}
+
+fetch('data.json').then(function(r){return r.json()}).then(function(d){
+  D=d;S={shots:d.shots,caps:d.caps,ch:d.ch,cards:d.cards,broll:d.broll};
+  try{var s=localStorage.getItem(KEY);if(s){var p=JSON.parse(s);if(p&&p.shots&&p.shots.length)S=p}}catch(e){}
+  $('seek').max=D.dur;$('stat').textContent=S.shots.length+' planos · '+S.caps.length+' legendas · '+S.cards.length+' cartões';
+  build();inspect();draw();
+});
+
+function shotAt(x){for(var i=0;i<S.shots.length;i++){var s=S.shots[i];if(x>=s.s&&x<s.e)return i}return S.shots.length-1}
+function draw(){
+  if(!D)return;var W=960,H=540;cx.fillStyle='#000';cx.fillRect(0,0,W,H);
+  var si=shotAt(t),sh=S.shots[si];
+  if(sh){var im=getImg(sh.i);
+    if(im&&im.complete&&im.naturalWidth){
+      var p=Math.min(1,Math.max(0,(t-sh.s)/Math.max(.1,sh.e-sh.s)));
+      var mv=(sh.m==null?1:sh.m);var base=sh.t==='tight'?1.55:1.0;var z=base+(sh.t==='tight'?.15:.1)*mv*p;
+      var iw=im.naturalWidth,ih=im.naturalHeight,sc=Math.max(W/iw,H/ih)*z,dw=iw*sc,dh=ih*sc;
+      var ox=(W-dw)/2+(sh.t==='tight'?(.5-p)*60*mv:(p-.5)*40*mv),oy=(H-dh)/2;
+      cx.drawImage(im,ox,oy,dw,dh);
+    }
+    var g=cx.createRadialGradient(W/2,H/2,H*.35,W/2,H/2,H*.9);g.addColorStop(0,'rgba(0,0,0,0)');g.addColorStop(1,'rgba(0,0,0,.6)');cx.fillStyle=g;cx.fillRect(0,0,W,H);
+    var d=t-sh.s;if($('cFx').checked&&d<.12&&d>=0){cx.fillStyle='rgba(255,255,255,'+(.55*(1-d/.12))+')';cx.fillRect(0,0,W,H)}
+  }
+  var i,c;
+  for(i=0;i<S.broll.length;i++){var b=S.broll[i];if(t>=b.s&&t<b.e){cx.fillStyle='rgba(8,18,14,.88)';cx.fillRect(0,0,W,H);cx.fillStyle='#3dd68c';cx.font='700 34px "Barlow Condensed",sans-serif';cx.textAlign='center';cx.fillText('B-ROLL ANIMADO',W/2,H/2-10);cx.fillStyle='#bff5d9';cx.font='500 22px "IBM Plex Sans",sans-serif';cx.fillText(b.n,W/2,H/2+26)}}
+  for(i=0;i<S.ch.length;i++){c=S.ch[i];if(t>=c.s&&t<c.s+4){var a=Math.min(1,(t-c.s)/.4,(c.s+4-t)/.4);cx.fillStyle='rgba(0,0,0,'+.55*a+')';cx.fillRect(0,0,W,H);cx.globalAlpha=a;cx.textAlign='center';cx.fillStyle='#f5c542';cx.font='700 26px "Barlow Condensed",sans-serif';cx.fillText(c.k,W/2,H/2-60);cx.fillStyle='#fff';cx.font='700 64px "Barlow Condensed",sans-serif';cx.fillText(c.a,W/2,H/2);cx.fillText(c.b,W/2,H/2+64);cx.globalAlpha=1}}
+  for(i=0;i<S.cards.length;i++){c=S.cards[i];if(t>=c.s&&t<c.s+4.5){var a2=Math.min(1,(t-c.s)/.3,(c.s+4.5-t)/.3);cx.globalAlpha=a2;cx.fillStyle='rgba(10,10,12,.82)';cx.fillRect(40,H-290,470,110);cx.fillStyle='#f5c542';cx.fillRect(40,H-290,6,110);cx.textAlign='left';cx.font='700 20px "Barlow Condensed",sans-serif';cx.fillText(c.k,62,H-262);cx.fillStyle='#fff';cx.font='700 40px "Barlow Condensed",sans-serif';cx.fillText(c.a,62,H-222);cx.fillStyle='#c9ced8';cx.font='italic 17px "IBM Plex Sans",sans-serif';cx.fillText(c.b,62,H-194);cx.globalAlpha=1}}
+  for(i=0;i<S.caps.length;i++){c=S.caps[i];if(t>=c.s&&t<c.e){cx.textAlign='center';cx.font='700 46px "Barlow Condensed",sans-serif';cx.lineWidth=7;cx.strokeStyle='#000';cx.lineJoin='round';var tx=c.t.toUpperCase();cx.strokeText(tx,W/2,H-60);cx.fillStyle='#fff';cx.fillText(tx,W/2,H-60);break}}
+  var pct=(t/D.dur*100);$('tc').textContent=fmt(t)+' / '+fmt(D.dur);$('seek').value=t;
+  var ph=$('ph');if(ph)ph.style.left=(t*pps())+'px';
+}
+function pps(){return +$('zoom').value}
+function seek(x){t=Math.min(D.dur,Math.max(0,x));if(playing){nA.currentTime=t;mA.currentTime=t}draw()}
+function tick(ts){if(!playing)return;var dt=(ts-last)/1000;last=ts;t=nA.currentTime>0?nA.currentTime:t+dt;if(t>=D.dur){play(false);return}
+  draw();followPh();requestAnimationFrame(tick)}
+function followPh(){var sc=$('scroll'),x=t*pps();if(x<sc.scrollLeft||x>sc.scrollLeft+sc.clientWidth-40)sc.scrollLeft=x-80}
+function play(on){playing=on;$('bPlay').textContent=on?'❚❚ Pausar':'▶ Tocar';
+  if(on){nA.volume=+$('vN').value;mA.volume=+$('vM').value;nA.currentTime=t;mA.currentTime=t;nA.play().catch(function(){});mA.play().catch(function(){});last=performance.now();requestAnimationFrame(tick)}
+  else{nA.pause();mA.pause()}}
+$('bPlay').onclick=function(){play(!playing)};
+$('seek').oninput=function(){seek(+this.value)};
+$('vN').oninput=function(){nA.volume=+this.value};$('vM').oninput=function(){mA.volume=+this.value};
+$('cFx').onchange=draw;
+document.addEventListener('keydown',function(e){if(/INPUT|TEXTAREA|SELECT/.test(e.target.tagName))return;if(e.code==='Space'){e.preventDefault();play(!playing)}if(e.code==='ArrowLeft')seek(t-1);if(e.code==='ArrowRight')seek(t+1)});
+
+/* ---------- linha do tempo ---------- */
+function blk(cls,s,e,txt,idx,type,style){var d=document.createElement('div');d.className='blk '+cls+((sel&&sel.type===type&&sel.i===idx)?' sel':'');d.style.left=(s*pps())+'px';d.style.width=Math.max(3,(e-s)*pps()-1)+'px';if(txt)d.textContent=txt;if(style)d.style.backgroundImage=style;d.title=fmt(s)+' – '+fmt(e);d.onclick=function(ev){ev.stopPropagation();sel={type:type,i:idx};seek(s+.01);build();inspect()};return d}
+function trk(name,small){var r=document.createElement('div');r.className='trk'+(small?' s':'');var n=document.createElement('span');n.className='tname';n.textContent=name;r.appendChild(n);return r}
+function build(){
+  var st=$('stage');st.innerHTML='';st.style.width=(D.dur*pps()+40)+'px';
+  var ru=document.createElement('div');ru.className='ruler';var step=pps()>=20?5:10,i;
+  for(i=0;i<D.dur;i+=step){var k=document.createElement('div');k.className='tick';k.style.left=(i*pps())+'px';k.textContent=fmt(i).replace(/\.0$/,'');ru.appendChild(k)}
+  ru.onclick=function(ev){var r=ru.getBoundingClientRect();seek((ev.clientX-r.left)/pps())};st.appendChild(ru);
+  var a=trk('Imagens');S.shots.forEach(function(s,j){a.appendChild(blk('shot',s.s,s.e,s.t==='tight'?'⌕':'',j,'shot','url('+(upl[s.i]||D.imgs[s.i].f)+')'))});st.appendChild(a);
+  var b=trk('Capítulos / cartões',1);S.ch.forEach(function(c,j){b.appendChild(blk('ch',c.s,c.s+4,c.a,j,'ch'))});S.cards.forEach(function(c,j){b.appendChild(blk('card',c.s,c.s+4.5,c.a,j,'card'))});st.appendChild(b);
+  var g=trk('B-roll',1);S.broll.forEach(function(c,j){g.appendChild(blk('br',c.s,c.e,c.n,j,'broll'))});st.appendChild(g);
+  var c=trk('Legendas',1);S.caps.forEach(function(x,j){c.appendChild(blk('cap',x.s,x.e,x.t,j,'cap'))});st.appendChild(c);
+  var ph=document.createElement('div');ph.className='ph';ph.id='ph';st.appendChild(ph);draw();
+}
+$('zoom').oninput=function(){build()};
+
+/* ---------- inspetor ---------- */
+function fld(label,el){var r=document.createElement('div');r.className='row';var l=document.createElement('label');l.textContent=label;r.appendChild(l);r.appendChild(el);return r}
+function num(v,fn){var e=document.createElement('input');e.type='number';e.step='0.1';e.value=r2(v);e.onchange=function(){push();fn(+e.value);build();inspect()};return e}
+function txt(v,fn,area){var e=document.createElement(area?'textarea':'input');e.value=v;if(area)e.rows=2;e.onchange=function(){push();fn(e.value);build();draw()};return e}
+function btn(label,fn,cls){var b=document.createElement('button');b.textContent=label;if(cls)b.className=cls;b.onclick=fn;return b}
+function inspect(){
+  var p=$('insp');p.innerHTML='';var h=document.createElement('h2');p.appendChild(h);
+  if(!sel){h.textContent='Inspetor';var m=document.createElement('p');m.className='hint';m.textContent='Selecione um bloco na linha do tempo para editar. Use o cursor e os botões abaixo para cortar ou inserir.';p.appendChild(m);
+    var off=document.createElement('input');off.type='number';off.step='0.1';off.value='0';p.appendChild(fld('Legendas ±s',off));
+    var ob=document.createElement('div');ob.className='btns';ob.appendChild(btn('Deslocar todas as legendas',function(){var v=+off.value;if(!v)return;push();S.caps.forEach(function(c){c.s=r2(Math.max(0,c.s+v));c.e=r2(Math.max(.1,c.e+v))});build();inspect()}));
+    ob.appendChild(btn('Legenda atual = cursor',function(){var k=S.caps.findIndex(function(c){return t>=c.s&&t<c.e});if(k<0)k=S.caps.findIndex(function(c){return c.s>t});if(k<0)return;push();var v=t-S.caps[k].s;for(var j=k;j<S.caps.length;j++){S.caps[j].s=r2(S.caps[j].s+v);S.caps[j].e=r2(S.caps[j].e+v)}build();inspect()}));p.appendChild(ob);
+    var bt=document.createElement('div');bt.className='btns';bt.appendChild(btn('+ Cartão no cursor',function(){push();S.cards.push({s:r2(t),k:'DATA',a:'NOVO TÍTULO',b:'subtítulo'});S.cards.sort(function(a,b){return a.s-b.s});sel={type:'card',i:S.cards.findIndex(function(c){return c.s===r2(t)})};build();inspect()}));
+    bt.appendChild(btn('+ B-roll no cursor',function(){push();S.broll.push({s:r2(t),e:r2(t+9),n:'Novo gráfico'});sel={type:'broll',i:S.broll.length-1};build();inspect()}));p.appendChild(bt);return}
+  var T=sel.type,o=S[T==='shot'?'shots':T==='cap'?'caps':T==='ch'?'ch':T==='card'?'cards':'broll'][sel.i];
+  if(!o){sel=null;inspect();return}
+  var names={shot:'Plano de imagem',cap:'Legenda',ch:'Título de capítulo',card:'Cartão',broll:'B-roll'};h.textContent=names[T]+' · '+fmt(o.s);
+  if(T==='shot'){
+    var th=document.createElement('div');th.className='thumbs';
+    D.imgs.forEach(function(im,j){var m=document.createElement('img');m.src=upl[j]||im.f;m.loading='lazy';m.alt='Imagem '+(j+1);if(o.i===j)m.className='on';m.onclick=function(){push();o.i=j;build();inspect()};th.appendChild(m)});
+    p.appendChild(th);
+    var f=document.createElement('input');f.type='file';f.accept='image/*';f.id='fup';f.onchange=function(){var fl=f.files[0];if(!fl)return;var rd=new FileReader();rd.onload=function(){push();upl[o.i]=rd.result;delete imgs['u'+o.i];o.up=fl.name;build();inspect()};rd.readAsDataURL(fl)};
+    p.appendChild(fld('Trocar por',f));
+    if(o.up){var u=document.createElement('p');u.className='hint';u.textContent='Imagem sua: '+o.up+' (envie esse arquivo junto com a edição)';p.appendChild(u)}
+    var sl=document.createElement('select');[['wide','Aberto'],['tight','Fechado (zoom)']].forEach(function(x){var op=document.createElement('option');op.value=x[0];op.textContent=x[1];if(o.t===x[0])op.selected=true;sl.appendChild(op)});sl.onchange=function(){push();o.t=sl.value;build();draw()};p.appendChild(fld('Enquadramento',sl));
+    var mv=document.createElement('input');mv.type='range';mv.min=0;mv.max=2;mv.step=.1;mv.value=o.m==null?1:o.m;mv.oninput=function(){o.m=+mv.value;draw()};mv.onchange=function(){push()};p.appendChild(fld('Movimento',mv));
+  }
+  if(T==='cap')p.appendChild(fld('Texto',txt(o.t,function(v){o.t=v},true)));
+  if(T==='ch'){p.appendChild(fld('Rótulo',txt(o.k,function(v){o.k=v})));p.appendChild(fld('Linha 1',txt(o.a,function(v){o.a=v})));p.appendChild(fld('Linha 2',txt(o.b,function(v){o.b=v})))}
+  if(T==='card'){p.appendChild(fld('Rótulo',txt(o.k,function(v){o.k=v})));p.appendChild(fld('Título',txt(o.a,function(v){o.a=v})));p.appendChild(fld('Subtítulo',txt(o.b,function(v){o.b=v})))}
+  if(T==='broll')p.appendChild(fld('Nome',txt(o.n,function(v){o.n=v})));
+  p.appendChild(fld('Início',num(o.s,function(v){var d=(o.e!=null)?o.e-o.s:0;o.s=v;if(T==='broll')o.e=v+d;if(T==='shot'||T==='cap'){if(o.e<=v)o.e=v+.3}})));
+  if(o.e!=null&&T!=='ch'&&T!=='card')p.appendChild(fld('Fim',num(o.e,function(v){o.e=v})));
+  var bt2=document.createElement('div');bt2.className='btns';
+  if(o.e!=null){bt2.appendChild(btn('Início = cursor',function(){push();var d=o.e-o.s;o.s=r2(t);if(T==='broll')o.e=r2(o.s+d);build();inspect()}));bt2.appendChild(btn('Fim = cursor',function(){push();o.e=r2(t);build();inspect()}))}
+  else bt2.appendChild(btn('Mover p/ cursor',function(){push();o.s=r2(t);build();inspect()}));
+  if(T==='shot'){bt2.appendChild(btn('Cortar no cursor',function(){if(t<=o.s+.3||t>=o.e-.3)return;push();var n=clone(o);n.s=r2(t);o.e=r2(t);S.shots.splice(sel.i+1,0,n);build();inspect()}));
+    bt2.appendChild(btn('Excluir plano',function(){if(S.shots.length<2)return;push();var pv=S.shots[sel.i-1],nx=S.shots[sel.i+1];if(pv)pv.e=o.e;else if(nx)nx.s=o.s;S.shots.splice(sel.i,1);sel=null;build();inspect()},'dng'))}
+  else bt2.appendChild(btn('Excluir',function(){push();var key=T==='cap'?'caps':T==='ch'?'ch':T==='card'?'cards':'broll';S[key].splice(sel.i,1);sel=null;build();inspect()},'dng'));
+  p.appendChild(bt2);
+}
+$('bUndo').onclick=function(){if(!hist.length)return;S=JSON.parse(hist.pop());save();sel=null;build();inspect()};
+$('bReset').onclick=function(){if(this.dataset.arm!=='1'){this.dataset.arm='1';this.textContent='Clique de novo para confirmar';var b=this;setTimeout(function(){b.dataset.arm='0';b.textContent='Voltar ao original'},3000);return}
+  this.dataset.arm='0';this.textContent='Voltar ao original';push();S={shots:clone(D.shots),caps:clone(D.caps),ch:clone(D.ch),cards:clone(D.cards),broll:clone(D.broll)};upl={};sel=null;build();inspect()};
+$('bExp').onclick=function(){
+  var data=JSON.stringify({video:'Rockefeller_Video1',dur:D.dur,edicao:S},null,1);$('expBox').hidden=false;$('out').value=data;$('expMsg').textContent='Se o download não abrir, copie o texto abaixo e cole no chat.';
+  claude.use('downloads').then(function(d){if(!d)return;return d.save({filename:'edicao_rockefeller.json',data:data}).then(function(){$('expMsg').textContent='Arquivo salvo. Envie ele aqui no chat.'})}).catch(function(){});
+};
+})();
+</script>

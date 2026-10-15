@@ -1,0 +1,70 @@
+BW|The Great Chicago Fire burning a downtown street at night, 1871
+COLOR|Flames engulfing a city skyline against a red sky
+3D|Cinematic 3D render of a burning city with a single glowing doorway
+BW|A merchant standing in the ruins of a store, 1871
+COLOR|Smoke rising from ruined marble columns
+BW|A poor New England farm with stone walls, 1840
+COLOR|A farm road in Massachusetts in autumn
+BW|A young clerk measuring cloth in a dry goods store, 1852
+COLOR|Bolts of colorful fabric in a shop
+3D|Cinematic 3D render of folded fabric glowing in a dark shop
+BW|A train station with a young man and a small bag, 1856
+COLOR|A steam train heading west across the prairie
+BW|A booming muddy Chicago street, 1856
+COLOR|A busy Chicago riverfront with ships
+BW|A wholesale dry goods warehouse with stacked cloth, 1860
+COLOR|A salesman showing fabric to a country merchant
+BW|A young salesman working late at a desk, 1862
+COLOR|A ledger and a lamp in a quiet office
+BW|A real estate man talking to two merchants, 1865
+COLOR|A store sign changing hands
+BW|A grand dry goods store on State Street, 1868
+COLOR|Marble columns and shop windows
+3D|Cinematic 3D render of a marble department store glowing at dusk
+BW|A fixed price tag and a refund policy sign, 1868
+COLOR|A shopper's hand holding a purchased bag
+BW|A well-dressed woman shopping in a bright store, no face, 1870
+COLOR|A clerk bowing politely to a customer
+BW|A thriving store full of customers, 1870
+COLOR|Oil paintings and fine goods on display
+BW|A barn in a Chicago neighborhood where a fire starts, 1871
+COLOR|A glowing barn at night
+BW|Crowds fleeing across a bridge as flames rise, 1871
+COLOR|A wagon loaded with stock fleeing the fire
+BW|A streetcar barn turned into a temporary store, 1871
+COLOR|A queue of customers at a barn door
+BW|A new store rising from ruins, 1873
+COLOR|Scaffolding on a stone facade
+BW|A second fire destroying a store, 1877
+COLOR|A fire brigade pumping water at night
+BW|Two partners arguing in an office, 1881
+COLOR|A buyout contract on a desk
+BW|A new sole owner proudly inspecting his store, 1881
+COLOR|A shop sign reading Marshall Field and Company
+BW|A bright department store with floors of goods, 1890
+COLOR|A tea room with white tablecloths
+3D|Cinematic 3D render of a department store atrium with golden light
+BW|A bargain basement full of bargain hunters, 1895
+COLOR|A bridal registry book on a table
+BW|Visitors at the World's Fair in Chicago, 1893
+COLOR|A fairgrounds with a giant wheel at night
+BW|A great clock on a street corner outside a store, 1900
+COLOR|A Christmas window with toys and lights
+BW|A mosaic glass ceiling in a store, 1907
+COLOR|A restaurant with elegant diners
+3D|Cinematic 3D render of a Tiffany mosaic dome glowing in gold
+BW|A railroad investment office with maps, 1890
+COLOR|A natural history museum hall with a dinosaur skeleton
+BW|A lonely rich man in a study, 1895
+COLOR|A winter garden outside a mansion
+BW|A military post being built near Chicago, 1887
+COLOR|A tall tower of a fort at sunset
+BW|A university campus on the lakeshore, 1900
+COLOR|Students walking on a stone quadrangle
+BW|A golf course in winter, 1906
+COLOR|An empty golf bag in the snow
+BW|A funeral with a long procession in Chicago, 1906
+COLOR|A candle in a dark church
+BW|The store through the decades with a crowd outside, 1950
+COLOR|A famous green mint box on a table
+3D|Cinematic 3D render of a golden key on a department store ledger

@@ -1,0 +1,5 @@
+bezos|Jeff_Bezos
+mackenzie|MacKenzie_Scott
+miguel|Mike_Bezos
+jacklyn|Jacklyn_Bezos
+musk|Elon_Musk

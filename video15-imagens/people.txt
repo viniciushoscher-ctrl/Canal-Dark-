@@ -1,0 +1,6 @@
+sam|Sam_Walton
+helen|Helen_Walton
+rob|Rob_Walton
+jim|Jim_Walton
+alice|Alice_Walton
+bush|George_H._W._Bush

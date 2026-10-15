@@ -1,0 +1,76 @@
+BW|A man alone in a bare corporate office with an empty desk, 1985
+COLOR|A closed boardroom door with a light underneath
+3D|Cinematic 3D render of a lone chair in a vast empty office with a spotlight
+BW|A suburban garage with workbench and tools, 1960
+COLOR|A garage workbench lit by a single bulb
+BW|A Silicon Valley orchard with a small tract house, 1962
+COLOR|An orange grove at dusk with a distant house
+3D|Cinematic 3D render of a glowing apple resting on a workbench
+BW|A mechanic building a wooden cabinet, 1962
+COLOR|The back of a beautiful cabinet with fine joinery
+BW|A high school hallway with lockers, 1971
+COLOR|A student building electronics on a bench
+BW|A college campus in Oregon with a quiet lawn, 1973
+COLOR|A calligraphy poster on a wall with fine letters
+3D|Cinematic 3D render of elegant calligraphy letters glowing on dark paper
+BW|A young man with long hair walking barefoot on a campus, 1974
+BW|A video game arcade in the seventies
+COLOR|An arcade machine glowing in a dark room
+BW|An Indian temple road with monks and a monk's robes, 1974
+COLOR|A monk meditating at sunrise on a mountain
+BW|A homebrew computer club meeting in a garage, 1976
+COLOR|A circuit board with soldered chips on a bench
+3D|Cinematic 3D render of a circuit board glowing like a city at night
+BW|A Volkswagen van parked in front of a house, 1976
+COLOR|An electronic calculator and a van key on a table
+BW|Two young men assembling computers in a garage, silhouettes, 1976
+COLOR|A rainbow-striped logo on a beige computer
+BW|A venture capitalist's office with a business plan, 1977
+COLOR|A check for a quarter million dollars on a desk
+BW|A computer expo with a crowd around a booth, 1977
+COLOR|A beige personal computer on a table
+BW|A stock exchange celebrating a tech public offering, 1980
+COLOR|A rising chart and stock certificate
+3D|Cinematic 3D render of a golden apple among falling dollar bills
+BW|A Super Bowl stadium with a giant screen, 1984
+COLOR|A woman with a hammer running through a gray corridor
+3D|Cinematic 3D render of a hammer shattering a giant screen
+BW|A small beige computer with a mouse on a desk, 1984
+COLOR|A mouse and a graphical window on a screen
+BW|Engineers arguing in a conference room, 1984
+COLOR|A swirling distortion around a man's silhouette
+BW|A boardroom vote with raised hands, 1985
+COLOR|A resignation letter on a desk
+3D|Cinematic 3D render of a door closing on a lit office
+BW|A workstation lab with a black cube computer, 1988
+COLOR|A black cube computer on a stand
+BW|A graphics studio with early animators at computers, 1990
+COLOR|An early computer graphics render of a toy cowboy
+3D|Cinematic 3D render of a toy cowboy silhouette in front of a glowing cloud sky
+BW|A movie theater audience watching an animated film, 1995
+COLOR|A toy-filled bedroom lit by moonlight
+BW|A company about to run out of cash with empty desks, 1997
+COLOR|A calendar page with ninety days circled
+3D|Cinematic 3D render of an hourglass nearly empty with a glowing apple
+BW|A handshake between two rival executives on a stage, 1997
+COLOR|A large screen with a smiling face during a keynote
+BW|A bright translucent computer on a white table, 1998
+COLOR|A colorful translucent computer in a stark white room
+BW|A person with a portable music player on a city street, 2001
+COLOR|White earphones and a click wheel in a hand
+3D|Cinematic 3D render of a white music player with earphones glowing in the dark
+BW|A music store with shelves of CDs, 2003
+COLOR|A glowing iTunes-like store on a laptop
+BW|A keynote stage with a spotlight and a black sweater, 2007
+COLOR|A touchscreen phone glowing on a stage
+3D|Cinematic 3D render of a glowing glass smartphone floating in a dark hall
+BW|A crowd waiting outside a store for a new phone, 2007
+COLOR|People holding up smartphones at night
+BW|A hospital corridor with soft light, 2009
+COLOR|A garden bench in autumn light
+BW|A man waving from a stage, silhouette, 2011
+COLOR|An apple left on a bench in a glowing glass store
+3D|Cinematic 3D render of a bitten apple glowing in an empty dark room
+BW|Mourners leaving flowers at a glass store, 2011
+COLOR|A glowing storefront with candles and notes
+3D|Cinematic 3D render of a golden key on a white keyboard

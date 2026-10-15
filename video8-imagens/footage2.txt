@@ -1,0 +1,12 @@
+oil|oil derrick film 1920s
+oil2|oil field gusher film
+desert|desert caravan film 1950s
+rome|Rome street film 1960s
+mansion|English country house film
+newspaper|newspaper printing press film
+money|banking money film 1950s
+crowd|crowd street 1970s film
+car|automobile film 1950s
+plane|airplane film 1950s
+train|train film 1900s
+ship|oil tanker ship film

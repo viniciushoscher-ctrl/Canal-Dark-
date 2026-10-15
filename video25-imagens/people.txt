@@ -1,0 +1,8 @@
+stanford|Leland_Stanford
+jane|Jane_Stanford
+judah|Theodore_Judah
+huntington|Collis_Potter_Huntington
+hopkins|Mark_Hopkins_(railroad_executive)
+crocker|Charles_Crocker
+muybridge|Eadweard_Muybridge
+lincoln|Abraham_Lincoln

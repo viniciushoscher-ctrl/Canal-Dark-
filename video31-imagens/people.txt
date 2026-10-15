@@ -1,0 +1,10 @@
+mccormick|Cyrus_McCormick
+hussey|Obed_Hussey
+ogden|William_Butler_Ogden
+nettie|Nettie_Fowler_McCormick
+lincoln|Abraham_Lincoln
+stanton|Edwin_Stanton
+morgan|J._P._Morgan
+cyrusjr|Cyrus_McCormick_Jr.
+robert|Robert_McCormick_(inventor)
+logo|International_Harvester

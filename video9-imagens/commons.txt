@@ -1,0 +1,32 @@
+a1|John Jacob Astor portrait
+a2|John Jacob Astor painting
+a3|John Jacob Astor engraving
+a4|John Jacob Astor old
+walldorf|Walldorf Baden 18th century
+astoria|Fort Astoria 1813
+astoria2|Astoria Oregon founding 1811
+tonquin|Tonquin ship 1811
+furtrade|fur trade beaver pelts 19th century
+amfur|American Fur Company
+amfur2|American Fur Company post
+beaver|beaver hat felt 19th century
+nyc1|New York 1830 Broadway
+nyc2|Manhattan 1800 map
+nyc3|New York City 1840 view
+astorhouse|Astor House hotel New York
+library|Astor Library New York
+library2|Astor Library Lafayette Street
+sarah|Sarah Todd Astor
+william|William Backhouse Astor Sr.
+jjiv|John Jacob Astor IV
+waldorf|Waldorf Astoria hotel 1893
+waldorf2|Waldorf Hotel 1897
+titanic|RMS Titanic departure
+irving|Washington Irving portrait
+trapper|fur trapper 19th century painting
+canoe|voyageur canoe fur trade painting
+montreal|Montreal 1800s harbor
+mackinac|Mackinac Island fur trade
+fifth|Fifth Avenue mansions 1890
+columbia|Columbia River mouth 1810
+bank|New York panic 1837

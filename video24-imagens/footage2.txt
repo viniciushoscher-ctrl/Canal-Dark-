@@ -1,0 +1,10 @@
+train|train film 1900s
+florida|Florida film 1910s
+beach|beach film 1900s
+storm|hurricane film
+bridge|railway bridge film
+hotel|hotel film 1900s
+crowd|crowd film 1900s
+ocean|ocean waves film
+city|city street film 1900s
+oil|oil refinery film 1900s

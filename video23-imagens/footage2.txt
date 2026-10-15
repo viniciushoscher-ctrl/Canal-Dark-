@@ -1,0 +1,10 @@
+train|train film 1900s
+power|power plant film
+electric|electric lights film 1900s
+fair|world's fair film 1893
+factory|factory film 1900s
+niagara|Niagara Falls film 1900s
+crowd|crowd film 1900s
+city|city street film 1900s
+war|Civil War film
+street|trolley film 1900s

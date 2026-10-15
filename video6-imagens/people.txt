@@ -1,0 +1,13 @@
+gould|Jay_Gould
+fisk|James_Fisk
+drew|Daniel_Drew
+vanderbilt|Cornelius_Vanderbilt
+grant|Ulysses_S._Grant
+corbin|Abel_Corbin
+helen|Helen_Miller_Gould
+george|George_Jay_Gould_I
+powderly|Terence_V._Powderly
+logo|Union_Pacific_Railroad
+wu|Western_Union
+cyrus|Cyrus_West_Field
+sage|Russell_Sage

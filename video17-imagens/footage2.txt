@@ -1,0 +1,10 @@
+stock|stock exchange film 1950s
+omaha|Nebraska film 1930s
+crash|stock market crash film
+bubble|dot-com bubble film
+candy|candy factory film
+office|office film 1950s
+crowd|crowd film 1950s
+nyc|New York film 1950s
+diner|diner film 1950s
+tv|television 1950s film

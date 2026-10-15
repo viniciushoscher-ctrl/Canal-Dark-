@@ -1,0 +1,34 @@
+gould1|Jay Gould portrait
+gould2|Jay Gould photograph 1880
+gould3|Jay Gould caricature Puck
+gould4|Jay Gould Wall Street cartoon
+gould5|Jay Gould old age
+fisk|Jim Fisk portrait
+drew|Daniel Drew portrait
+vanderbilt|Cornelius Vanderbilt portrait
+erie1|Erie Railroad 1860s locomotive
+erie2|Erie Railway headquarters 1868
+blackfriday|Black Friday 1869 gold panic Wall Street
+blackfriday2|Gold Room New York 1869
+grant|Ulysses S. Grant portrait 1869
+corbin|Abel Corbin
+gouldfarm|Jay Gould birthplace Roxbury New York
+roxbury|Roxbury New York 19th century
+unionpacific|Union Pacific locomotive 1870s
+upmap|Union Pacific Railroad map 1880
+westernunion|Western Union telegraph office 1880
+telegraph|telegraph operator 1870s
+elevated|New York elevated railway 1880s
+nyworld|New York World newspaper 1880s
+strike|Great Southwest railroad strike 1886
+knights|Knights of Labor 1886
+terence|Terence Powderly
+helen|Helen Miller Gould portrait
+george|George Jay Gould I portrait
+lyndhurst|Lyndhurst mansion Tarrytown
+funeral|Jay Gould funeral 1892
+orchid|Lyndhurst greenhouse
+wallstreet1|Wall Street 1880s street
+wallstreet2|New York Stock Exchange 1880s
+puck|Puck magazine Gould cartoon
+gouldrail|Jay Gould railroad empire cartoon

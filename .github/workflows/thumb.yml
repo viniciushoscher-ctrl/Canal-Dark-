@@ -1,0 +1,20 @@
+name: thumb
+on:
+  push:
+    paths: ['video2-thumb/url.txt']
+permissions:
+  contents: write
+jobs:
+  dl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: curl -sSL -o video2-thumb/Thumbnail_Video2.png "$(cat video2-thumb/url.txt)"
+      - run: |
+          git config user.name Claude
+          git config user.email noreply@anthropic.com
+          git rm -q --cached video2-thumb/url.txt
+          rm video2-thumb/url.txt
+          git add video2-thumb
+          git commit -qm "Video 2 thumbnail [skip ci]"
+          git push

@@ -1,0 +1,7 @@
+pullman|George_Pullman
+debs|Eugene_V._Debs
+cleveland|Grover_Cleveland
+olney|Richard_Olney
+beman|Solon_Spencer_Beman
+randolph|A._Philip_Randolph
+lincoln|Abraham_Lincoln

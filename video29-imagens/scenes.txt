@@ -1,0 +1,73 @@
+BW|A model factory town with brick houses and a clock tower, 1885
+COLOR|Rows of identical brick houses on a tree-lined street
+3D|Cinematic 3D render of a perfect brick company town glowing at dusk
+BW|Striking workers marching with banners outside a factory, 1894
+COLOR|A thin child holding an empty bowl at a table
+BW|A federal troop camp near a railroad yard in Chicago, 1894
+COLOR|Soldiers with rifles lined up in a smoky street
+BW|A carpenter lifting a house on jackscrews in a country village, 1840
+COLOR|A wooden frame house on rollers
+BW|A young man working at a cabinetmaker's bench, 1847
+COLOR|A workshop with wood shavings in lamplight
+BW|A canal widening project with workers and mules, 1854
+COLOR|A canal boat on a narrow waterway
+BW|Chicago streets being raised on jackscrews, 1857
+COLOR|A brick hotel lifted with hundreds of screws
+3D|Cinematic 3D render of a hotel lifted by hundreds of glowing jackscrews
+BW|A swampy muddy Chicago street in the 1850s
+COLOR|Wooden sidewalks above a mud street
+BW|A cramped overnight train coach with sleeping passengers, 1857
+COLOR|A hard wooden seat in a dim rail car
+BW|Two old coaches converted into sleeping cars, 1858
+COLOR|Folding upper berths in a rail car
+BW|A luxurious new railroad car with plush interior, 1864
+COLOR|Velvet seats and polished wood in a train car
+3D|Cinematic 3D render of a luxury train car interior glowing with warm light
+BW|A president's funeral train rolling through the prairie, 1865
+COLOR|A black draped locomotive at dusk
+BW|A sleeping car company office with ledgers, 1867
+COLOR|A leasing contract on a desk
+BW|A dining car with white tablecloths and a waiter, 1870
+COLOR|Silverware and crystal on a moving train
+BW|A Black railroad porter in uniform at a train step, 1890
+COLOR|A porter's cap and a polished shoe brush
+BW|A parlor car with armchairs and passengers, 1880
+COLOR|A glass vestibule between two train cars
+BW|A mansion in Chicago on Prairie Avenue, 1885
+COLOR|A grand dinner party table
+BW|A lakeside land survey for a factory town, 1880
+COLOR|An architect's plan of a model town
+BW|A factory with tall chimneys by a lake, 1884
+COLOR|Smoke over a brick factory at dusk
+BW|A company town market and arcade building, 1885
+COLOR|A library reading room with gas lamps
+3D|Cinematic 3D render of a model town seen from above at golden hour
+BW|A company rent receipt deducted from a pay envelope, 1893
+COLOR|A pay envelope with a few cents inside
+BW|A financial panic with a closed bank on a city street, 1893
+COLOR|A factory with its gate locked
+BW|A delegation of workers talking to an unsmiling boss, 1894
+COLOR|A foreman's finger pointing at a door
+BW|Four thousand workers on strike in a town square, 1894
+COLOR|A union banner in the wind
+3D|Cinematic 3D render of a crowd with a banner under a stormy sky
+BW|A labor leader speaking from a platform, 1894
+COLOR|A boycott poster on a wall
+BW|Railroad cars burning in a Chicago rail yard, 1894
+COLOR|A burning boxcar in the night
+BW|A court order handed to a labor leader, 1894
+COLOR|A prison cell door with a small window
+BW|A federal commission hearing, 1894
+COLOR|A report cover on a polished table
+BW|A company town being sold off, 1898
+COLOR|A For Sale sign on a brick house
+BW|A lonely rich man in a dark study, 1896
+COLOR|A letter with a threat on a desk
+BW|A funeral with a steel-lined grave, 1897
+COLOR|A heavy slab of concrete over a vault
+3D|Cinematic 3D render of a steel vault door sealed in concrete
+BW|Porters organizing a union meeting, 1925
+COLOR|A union card on a table
+BW|A historic factory building as a national monument, 2015
+COLOR|A restored brick clock tower in sunlight
+3D|Cinematic 3D render of a golden key lying on a railroad tie

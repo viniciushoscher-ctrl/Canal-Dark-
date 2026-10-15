@@ -1,0 +1,6 @@
+flagler|Henry_Flagler
+rock|John_D._Rockefeller
+tuttle|Julia_Tuttle
+tiffany|Louis_Comfort_Tiffany
+edison|Thomas_Edison
+mary_lily|Mary_Lily_Kenan_Flagler

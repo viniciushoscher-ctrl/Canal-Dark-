@@ -1,0 +1,26 @@
+j1|Steve Jobs portrait
+j2|Steve Jobs photograph 1980s
+j3|Steve Jobs iPhone 2007
+j4|Steve Jobs young
+woz|Steve Wozniak
+garage|Jobs family garage Los Altos
+paul|Paul Jobs
+reed|Reed College
+atari|Atari 1976
+apple1|Apple I
+apple2|Apple II
+markkula|Mike Markkula
+mac|Macintosh 128K
+sculley|John Sculley
+ad1984|1984 Apple commercial
+next|NeXT Computer
+pixar|Pixar Animation Studios
+toy|Toy Story 1995
+lucas|George Lucas
+gates|Bill Gates portrait
+imac|iMac G3
+ipod|iPod 2001
+iphone|iPhone 2007 keynote
+ipad|iPad 2010
+store|Apple Store
+cupertino|Apple Park Cupertino

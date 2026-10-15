@@ -1,0 +1,80 @@
+BW|A rocket on a launch pad on a tiny Pacific island at dawn, 2008
+COLOR|A rocket engine firing with white flames at night
+3D|Cinematic 3D render of a rocket lifting off from a tropical island at night
+BW|Engineers watching a launch countdown on screens, 2008
+COLOR|A mission control room with glowing screens
+BW|An empty bank account statement on a desk in the dark, 2008
+COLOR|A man alone on a friend's couch with a laptop at night
+3D|Cinematic 3D render of a lone figure at a window overlooking a rocket
+BW|A South African suburb with palm trees and a school, 1980
+COLOR|A boy reading an encyclopedia in a dim room
+BW|A young boy at a computer typing code, 1983
+COLOR|A floppy disk and a simple pixel video game
+BW|A school playground with bullies, no faces, 1984
+COLOR|A hospital corridor at night
+BW|A teenager with a backpack arriving at a Canadian airport, 1989
+COLOR|A university campus in winter
+BW|The University of Pennsylvania campus, 1992
+COLOR|A physics lab blackboard with equations
+BW|Silicon Valley startup office in 1995 with a futon, 1995
+COLOR|A cramped office with computers and sleeping bags
+3D|Cinematic 3D render of a glowing computer in a dark cramped office
+BW|A YMCA locker room, 1995
+COLOR|A map on a screen of an online city guide
+BW|An internet bank startup team celebrating, 2000
+COLOR|A checkout button on a monitor
+3D|Cinematic 3D render of a golden payment symbol floating in the dark
+BW|An auction company headquarters, 2002
+COLOR|A stack of money and a lawyer's contract
+BW|A Russian rocket factory with a missile on display, 2001
+COLOR|A table with two men in a cold meeting room
+3D|Cinematic 3D render of a rocket blueprint glowing on a dark table
+BW|An aerospace workshop in a Los Angeles warehouse, 2003
+COLOR|A rocket engine on a test stand
+BW|A failed rocket launch with smoke trail, 2006
+COLOR|A rocket debris on a beach
+BW|A rocket explosion in the sky, 2007
+COLOR|Engineers' faces in despair, no faces visible, at a console
+3D|Cinematic 3D render of a rocket breaking into pieces in the sky
+BW|An electric sports car in a workshop, 2008
+COLOR|A red electric sports car on a road
+3D|Cinematic 3D render of a glowing electric car on a dark road
+BW|A factory floor with unfinished cars, 2008
+COLOR|A payroll check bouncing on a desk
+BW|A divorce attorney's office, 2008
+COLOR|A friend's couch with a blanket
+BW|A rocket reaching orbit as the engines cut off, 2008
+COLOR|A celebration in a mission control room
+3D|Cinematic 3D render of a rocket in orbit above the Earth
+BW|A NASA building with a flag, 2008
+COLOR|A contract with NASA letterhead
+BW|A stock exchange bell ringing for a car company, 2010
+COLOR|A car factory in California
+BW|A capsule docking with a space station, 2012
+COLOR|A space station orbiting above Earth
+3D|Cinematic 3D render of a capsule approaching a space station
+BW|A rocket landing upright on a pad, 2015
+COLOR|A rocket booster landing with fire in the dusk
+3D|Cinematic 3D render of a rocket booster landing on a pad with fire
+BW|A rocket booster flying again, 2017
+COLOR|A fleet of reusable rockets in a hangar
+BW|A red sports car floating in space, 2018
+COLOR|A mannequin in a spacesuit in a car with Earth behind
+3D|Cinematic 3D render of a red car floating in space with Earth behind
+BW|A factory with robots building cars, 2018
+COLOR|A man sleeping on a factory floor
+BW|Short sellers in a trading room, 2019
+COLOR|A chart with red bars crossing a screen
+BW|A fleet of electric cars in a giant lot, 2020
+COLOR|A charging station at dusk
+3D|Cinematic 3D render of glowing electric cars lined up to the horizon
+BW|A brain scan with electrodes, 2020
+COLOR|A tunnel boring machine under a city
+BW|A social network logo on a phone screen, 2022
+COLOR|A big corporate sign being removed from a building
+BW|Satellites launching in a train in the night sky, 2020
+COLOR|A satellite dish on a remote village roof
+3D|Cinematic 3D render of a chain of satellites glowing over Earth
+BW|A red planet surface with dust, 2030
+COLOR|A rocket landing on Mars at sunset
+3D|Cinematic 3D render of a golden key lying on the red surface of Mars

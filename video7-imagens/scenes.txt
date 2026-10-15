@@ -1,0 +1,77 @@
+BW|A burning small airplane wreck in a quiet Beverly Hills street at dusk, smoke rising, 1946
+COLOR|Orange flames and black smoke over suburban rooftops at dusk
+3D|Cinematic 3D render of an experimental aircraft tumbling through the air above suburban houses at sunset
+BW|A suburban street with damaged rooftops and neighbors' empty lawns, 1946
+COLOR|A smoking wreck on a lawn with scattered metal and warm fire glow
+BW|A dark hotel room with blackout curtains and a single projector beam
+COLOR|A dim hotel room with taped windows and a glowing projector, lonely
+3D|Cinematic 3D render of a sealed hotel suite with a lone figure silhouette and a ray of light through curtains, no face
+BW|A Houston oil derrick field at dawn, 1910
+COLOR|An oil derrick against a golden Texas sunrise
+BW|A steel rotary drill bit with sharp cone teeth on a workbench, 1909
+3D|Cinematic 3D render of a giant steel tricone drill bit glowing on a dark table
+BW|A cluttered garage workshop with a motorized bicycle, a boy's tools, 1917
+BW|A large empty Victorian house in Houston with a porch and lamp, 1924
+COLOR|An empty courtroom bench with a stack of legal papers, warm light
+BW|A Hollywood film studio backlot with camera cranes, 1928
+COLOR|A film camera on a tripod and a spotlight in a dark soundstage
+3D|Cinematic 3D render of a vintage movie camera and film reels on a dark stage with spotlight
+BW|Rows of First World War biplanes parked on an airfield, 1929
+COLOR|Biplanes taking off at sunrise from a grass airfield
+3D|Cinematic 3D render of a squadron of biplanes in a dramatic cloudy sky
+BW|A film editing room with rolls of film and a projector, 1930
+BW|A crowded movie theater with an empty screen glowing, 1931
+COLOR|A red velvet theater curtain opening with golden light
+3D|Cinematic 3D render of a golden film strip spiraling around a dark theater
+BW|An aircraft design office with blueprints pinned to the wall and drafting tables, 1932
+COLOR|A blueprint of a sleek racing airplane under a desk lamp
+3D|Cinematic 3D render of a smooth silver racing aircraft in a dark hangar with rim light
+BW|A sleek single-engine racing aircraft on a runway at dawn, 1935
+COLOR|A silver airplane in flight above golden clouds
+BW|A metal rivet row on a polished aircraft wing, extreme close-up
+3D|Cinematic 3D render of a world map with a glowing flight route circling the earth
+BW|A cheering crowd of hats and confetti on a New York street, ticker tape parade, 1938
+COLOR|Confetti falling in golden light over skyscrapers
+3D|Cinematic 3D render of a trophy and an old aviator helmet on a dark table with spotlight
+BW|A wartime aircraft factory with an enormous empty wooden hangar, 1943
+COLOR|A giant wooden flying boat hull inside a hangar, warm light
+3D|Cinematic 3D render of a colossal wooden flying boat above the sea, golden hour
+BW|A Senate hearing room with an empty witness table and microphones, 1947
+COLOR|A microphone on a witness table in a bright hearing room
+BW|A giant flying boat on calm water at Long Beach harbor, 1947
+COLOR|Water spray around a huge aircraft hull in sunlight
+3D|Cinematic 3D render of a giant wooden flying boat skimming above the water, dramatic light
+BW|A hospital room with a bed and mechanical controls, 1946
+3D|Cinematic 3D render of an adjustable hospital bed with glowing mechanical controls in a dark room
+COLOR|A glass of milk and a chocolate bar on a bedside table in dim light
+BW|A white glove resting on a metal doorknob, close-up
+COLOR|A box of white tissues and a doorknob in cold blue light
+3D|Cinematic 3D render of floating glowing bacteria around a doorknob, dark clinical atmosphere
+BW|An airline office with airplane models on a wooden counter, 1966
+COLOR|A model airplane with TWA style red details on a desk, warm light
+3D|Cinematic 3D render of a pile of cash and a model airplane on a dark desk
+BW|Las Vegas strip at night with neon casino lights, 1967
+COLOR|Neon lights of a casino sign glowing on a desert night
+3D|Cinematic 3D render of a glowing hotel tower rising above the Nevada desert at night
+BW|A penthouse floor with blacked out windows above a casino, 1968
+BW|A room full of film reels and a projector running, 1970
+COLOR|A projector beam in a dark room with swirling dust
+BW|A giant ship in a harbor, mysterious, 1974
+3D|Cinematic 3D render of a huge deep-sea ship over dark water with a mechanical claw descending
+COLOR|The deck of a huge ship at dusk with cranes silhouetted
+BW|A small private jet on a dark runway at night, 1976
+COLOR|An airplane landing lights glowing on a runway at night
+BW|A hospital corridor with a single light, 1976
+BW|A stack of handwritten pages and a pen on a desk, a mysterious will
+COLOR|A yellowed handwritten letter beside a magnifying glass in lamplight
+3D|Cinematic 3D render of a mysterious paper document with a red wax seal floating above a dark desk
+BW|A courtroom with rows of empty wooden benches, 1978
+COLOR|A judge's gavel on a polished bench in warm light
+BW|A pair of long fingernails and a flickering candle on a dark table
+BW|An empty armchair in a darkened room, a single lamp
+COLOR|A doorknob in a dark hallway with a thin strip of golden light under the door
+3D|Cinematic 3D render of a golden door slightly ajar in an endless dark hallway
+BW|A flying boat in a museum hangar under spotlights
+COLOR|A huge aircraft wing under museum lights
+BW|An open road leading to an airfield at sunrise
+3D|Cinematic 3D render of a lone silver airplane flying toward a bright horizon

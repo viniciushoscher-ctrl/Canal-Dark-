@@ -1,0 +1,10 @@
+theater|movie theater film 1930s
+train|train film 1920s
+cartoon|early animation cartoon film
+hollywood|Hollywood film 1930s
+crowd|crowd film 1930s
+war|world war one film
+park|amusement park film 1950s
+tv|television 1950s film
+florida|Florida film 1960s
+street|city street 1920s film

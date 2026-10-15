@@ -1,0 +1,10 @@
+steel|steel mill film 1900s
+coal|coal mine film 1900s
+train|train film 1900s
+pitt|Pittsburgh film 1900s
+river|river barge film
+crowd|crowd street film 1900s
+wall|Wall Street 1900s film
+nyc|New York Fifth Avenue film 1910s
+art|museum paintings film
+soldiers|soldiers marching film 1900s

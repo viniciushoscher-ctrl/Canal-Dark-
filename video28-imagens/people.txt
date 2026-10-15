@@ -1,0 +1,7 @@
+hill|James_J._Hill
+stephen|George_Stephen,_1st_Baron_Mount_Stephen
+smith|Donald_Smith,_1st_Baron_Strathcona_and_Mount_Royal
+stevens|John_Frank_Stevens
+harriman|E._H._Harriman
+morgan|J._P._Morgan
+roosevelt|Theodore_Roosevelt

@@ -1,0 +1,6 @@
+edison|Thomas_Edison
+tesla|Nikola_Tesla
+westinghouse|George_Westinghouse
+morgan|J._P._Morgan
+mina|Mina_Miller_Edison
+ford|Henry_Ford

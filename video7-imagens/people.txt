@@ -1,0 +1,12 @@
+hughes|Howard_Hughes
+hepburn|Katharine_Hepburn
+gardner|Ava_Gardner
+harlow|Jean_Harlow
+brewster|Owen_Brewster
+trippe|Juan_Trippe
+henry|Henry_J._Kaiser
+mayer|Louis_B._Mayer
+logo|Hughes_Aircraft
+twa|Trans_World_Airlines
+noah|Noah_Dietrich
+jean|Jean_Peters

@@ -1,0 +1,22 @@
+name: thumb3
+on:
+  push:
+    paths: ['video3-thumb/up.txt', 'video3-thumb/dl.txt']
+permissions:
+  contents: write
+jobs:
+  go:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: upload
+        if: hashFiles('video3-thumb/up.txt') != ''
+        run: |
+          if [ -f video3-thumb/up.txt ] && [ ! -f video3-thumb/resposta.json ]; then curl -sS -X POST -H "Content-Type: application/octet-stream" --data-binary @video3-fotos/carnegie_retrato.png "$(cat video3-thumb/up.txt)" -o video3-thumb/resposta.json; fi
+      - name: download
+        run: |
+          if [ -f video3-thumb/dl.txt ]; then curl -sSL -o video3-thumb/Thumbnail_Video3.png "$(cat video3-thumb/dl.txt)"; fi
+      - run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          rm -f video3-thumb/up.txt video3-thumb/dl.txt
+          git add -A video3-thumb && git commit -m "thumb3 [skip ci]" && git pull --rebase -q && git push

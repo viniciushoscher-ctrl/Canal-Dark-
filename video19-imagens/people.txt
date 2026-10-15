@@ -1,0 +1,7 @@
+jobs|Steve_Jobs
+woz|Steve_Wozniak
+sculley|John_Sculley
+markkula|Mike_Markkula
+lucas|George_Lucas
+gates|Bill_Gates
+ive|Jony_Ive

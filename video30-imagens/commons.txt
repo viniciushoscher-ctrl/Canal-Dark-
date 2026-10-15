@@ -1,0 +1,26 @@
+m1|Marshall Field portrait
+m2|Marshall Field photograph
+m3|Marshall Field old
+conway|Conway Massachusetts
+pittsfield|Pittsfield Massachusetts 1850
+chicago1856|Chicago 1856
+cooley|Cooley Wadsworth dry goods Chicago
+palmer|Potter Palmer
+leiter|Levi Leiter
+fieldleiter|Field Leiter and Company
+state|State Street Chicago 1870
+fire|Great Chicago Fire 1871
+fire2|Chicago after the fire 1871
+barn|Field Leiter streetcar barn 1871
+mfield|Marshall Field and Company building
+clock|Marshall Field clock State Street
+walnut|Walnut Room Marshall Field
+tiffany|Tiffany mosaic ceiling Marshall Field
+fair|World's Columbian Exposition 1893
+museum|Field Museum of Natural History
+sheridan|Fort Sheridan
+univ|University of Chicago 1900
+nannie|Nannie Scott Field
+mfieldjr|Marshall Field Jr.
+frango|Frango mints
+macys|Macy's State Street Chicago

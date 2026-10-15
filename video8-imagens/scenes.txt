@@ -1,0 +1,81 @@
+BW|A narrow Roman street at night with a parked dark car and a single streetlamp, 1973
+COLOR|Rain on a dark Roman cobblestone street, headlights glowing
+3D|Cinematic 3D render of a dark car on an empty Roman street with a faint streetlamp halo
+BW|An envelope and a typed ransom letter on a wooden table in lamplight
+COLOR|A heavy brown envelope on a desk beside a phone, tense light
+3D|Cinematic 3D render of a giant stack of cash and an empty chair in a dark mansion
+BW|A newspaper office at night with typewriters and stacks of paper, 1973
+BW|An English Tudor mansion in the mist with lit windows, 1970
+COLOR|A grand old English mansion at dusk with golden windows
+BW|A Minneapolis street with horse carts and brick buildings, 1895
+COLOR|A strict Victorian dining room with a long table and one lamp
+BW|A university quadrangle in Oxford at dusk, 1913
+BW|An Oklahoma oil field with wooden derricks and mud, 1916
+COLOR|Oil derricks silhouetted against a red sunset on the Oklahoma plains
+3D|Cinematic 3D render of a wooden oil derrick spouting black oil under a dramatic sky
+BW|A muddy boarding house room with a bed and a lamp, 1916
+BW|A gusher of oil spraying into the sky with workers' tools abandoned, 1916
+COLOR|Black oil spraying toward a golden sky
+BW|A Los Angeles palm-lined boulevard at night with a convertible, 1920
+COLOR|A glamorous Los Angeles nightclub entrance with neon glow
+BW|A ledger book and balance sheets on a desk, 1925
+3D|Cinematic 3D render of a ledger book glowing with golden numbers in the dark
+BW|A bankrupt oil company office with a sign taken down and papers on the floor, 1932
+COLOR|A dusty boardroom with a long table and one light, depression era
+BW|Rows of shuttered storefronts on an empty street, 1932
+3D|Cinematic 3D render of an oil barrel collapsing in value, falling arrows glowing
+BW|An empty trading floor with shares and ticker tape, 1933
+BW|A desert landscape with sand dunes and a single truck, Arabia, 1949
+COLOR|Golden sand dunes at sunrise with a lone jeep
+3D|Cinematic 3D render of a map of the Middle East with a glowing neutral zone between countries
+BW|A tent camp in the desert with drilling equipment, 1950
+COLOR|A desert drilling rig under a starry night
+BW|A king's palace hall with carpets and empty cushions, Arabia, 1949
+COLOR|A rich carpet and a stack of gold coins in lamplight
+3D|Cinematic 3D render of a golden contract with a sealed ribbon on a dark desk
+BW|A dry drilling rig in the sand with nothing coming out, 1951
+COLOR|Dust and sunlight around an empty oil derrick
+3D|Cinematic 3D render of a deep drill pipe descending into dark earth, dim glowing light at the bottom
+BW|A gusher of oil in the desert spraying against a pale sky, 1953
+COLOR|A black oil fountain against a vivid desert sunset
+3D|Cinematic 3D render of a huge oil fountain erupting in a desert with golden light
+BW|A magazine cover pile and a stack of money on a desk, 1957
+COLOR|A heap of gold coins on a desk in lamplight
+3D|Cinematic 3D render of a golden crown on a pile of oil barrels
+BW|A pay telephone mounted in a mansion hallway with a coin slot, 1960
+COLOR|A brass pay phone on a wooden wall in a grand hall, warm light
+3D|Cinematic 3D render of a golden pay phone in a dark marble hall with floating coins
+BW|A grand English library with leather books and a fireplace, 1960
+BW|A Roman villa replica with columns and a reflecting pool in Malibu, 1974
+COLOR|Marble statues in a sunlit Roman style garden
+3D|Cinematic 3D render of an ancient Greek marble statue in a dark museum with a spotlight
+BW|A wedding cake and a wedding ring on a table, divorce papers beside it
+COLOR|Five wedding rings arranged on a dark table, sad light
+BW|A small hotel room with a sink and laundry hanging, 1965
+COLOR|A worn suit jacket being mended on a wooden table, lamplight
+3D|Cinematic 3D render of a golden coin on a scale tipping against a heart
+BW|A bookshelf with a thick book called How to Be Rich, lamplight
+COLOR|A cold empty bedroom with a guard dog silhouette
+BW|A boy's empty school desk in a quiet classroom, 1973
+COLOR|An empty chair at a family dinner table with four candles
+3D|Cinematic 3D render of a family dining table with one empty chair in the dark
+BW|A phone ringing on a desk in a dark room, 1973
+COLOR|A phone off the hook on a polished desk
+BW|A remote Italian mountain hillside in Calabria with a lone stone hut, 1973
+COLOR|A stone hut on a green hillside at dusk
+3D|Cinematic 3D render of a small stone hut on a rocky mountain at night under a crescent moon
+BW|A sealed envelope on a newspaper office desk, 1973
+BW|A courtroom or negotiation table with papers and a pen, 1973
+COLOR|A tax form and a pen on a desk under a harsh light
+3D|Cinematic 3D render of a stack of cash being counted by a mechanical hand in the dark
+BW|A hospital bed with a window and gray light, 1976
+BW|An empty mansion hallway at night with a pay phone and a single light, 1976
+COLOR|Snow on the grounds of an old English mansion at twilight
+BW|A museum entrance with columns and visitors' empty benches, 1976
+COLOR|A grand villa courtyard at golden hour
+3D|Cinematic 3D render of a golden Roman style museum glowing at night above the Pacific coast
+BW|An oil refinery at dawn with flares and steam
+3D|Cinematic 3D render of an hourglass filled with oil dripping into the dark
+COLOR|A lone oil derrick on a hill at sunrise
+BW|A silver coin on a ledger beside a lamp
+3D|Cinematic 3D render of a golden coin resting alone on a vast empty table

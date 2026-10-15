@@ -1,0 +1,10 @@
+cattle|cattle drive film
+steam|steamboat film 1900s
+wall|Wall Street film 1900s
+train|train film 1900s
+church|church film 1900s
+court|courtroom film 1900s
+crowd|crowd film 1900s
+river|river film 1900s
+street|city street film 1900s
+farm|farm film 1900s

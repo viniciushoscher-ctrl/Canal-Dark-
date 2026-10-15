@@ -1,0 +1,10 @@
+fire|Great Chicago fire film
+chicago|Chicago film 1900s
+store|department store film 1900s
+train|train film 1900s
+crowd|crowd film 1900s
+fair|world's fair film 1893
+street|Chicago street film 1900s
+shopping|shopping film 1900s
+christmas|Christmas shopping film
+fashion|fashion film 1900s

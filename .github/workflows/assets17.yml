@@ -1,0 +1,21 @@
+name: assets17
+on:
+  workflow_dispatch:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['video17-imagens/people.txt', 'video17-imagens/footage2.txt', 'assets4/*.py']
+permissions:
+  contents: write
+jobs:
+  a:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install -y -qq ffmpeg
+      - run: python3 assets4/people.py video17-imagens/people.txt video17-commons/people || true
+      - run: python3 assets4/footage.py video17-imagens/footage2.txt video17-footage || true
+      - if: always()
+        run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add video17-commons video17-footage && git commit -m "Pessoas e filmagens do Commons para o video 4 [skip ci]" && for i in 1 2 3 4; do git pull --rebase -q && git push && break; sleep 5; done

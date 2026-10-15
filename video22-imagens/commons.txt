@@ -1,0 +1,26 @@
+e1|Thomas Edison portrait
+e2|Thomas Edison photograph
+e3|Thomas Edison phonograph
+e4|Thomas Edison old
+milan|Milan Ohio Edison birthplace
+porthuron|Port Huron Edison
+nancy|Nancy Elliott Edison
+newark|Newark New Jersey 1870
+menlo|Menlo Park laboratory
+menlo2|Edison Menlo Park interior
+phono|Edison phonograph 1877
+bulb|Edison light bulb 1879
+filament|Edison bamboo filament
+pearl|Pearl Street Station
+morgan|J. P. Morgan portrait
+tesla|Nikola Tesla portrait
+westinghouse|George Westinghouse portrait
+chair|electric chair 1890
+ge|General Electric 1892
+kinetoscope|Kinetoscope
+blackmaria|Black Maria studio
+mina|Mina Miller Edison
+orange|West Orange laboratory
+funeral|Edison funeral 1931
+telegraph|telegraph operator 1860s
+ticker|stock ticker 1870

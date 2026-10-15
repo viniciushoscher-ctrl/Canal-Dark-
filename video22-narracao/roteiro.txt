@@ -1,0 +1,65 @@
+### 00_hook
+December, eighteen seventy-nine. In a small laboratory in Menlo Park, New Jersey, a thirty-two-year-old inventor sits in front of a glass bulb with a thin carbon thread inside. The power is switched on. The thread glows. It does not burn out. It glows for hours, and then for days. By the end of the week, the news spreads to every newspaper in New York, and thousands of people travel by train to see it.
+
+The inventor has failed thousands of times to get here. He has tested materials from bamboo to the beard hair of a friend. And when a reporter asks him how it feels to fail so often, he replies that he has not failed. He has just found ten thousand ways that will not work.
+
+His name is Thomas Edison. And this is the story of how a deaf, half-schooled boy turned invention into a business, and built the first modern research laboratory, a company that would become General Electric, and a feud that electrified America.
+
+### 01_cap1
+Thomas Alva Edison was born on February eleventh, eighteen forty-seven, in Milan, Ohio. He was the youngest of seven children. His family moved to Port Huron, Michigan, when he was seven. At school, he was restless and curious. A teacher called him addled, and he came home crying. His mother, a former teacher, pulled him out and taught him herself.
+
+She was patient, and she gave him books to read. At nine, he read a science book and began to carry out experiments in the basement. He built a small chemistry lab, with bottles marked poison to keep out his family.
+
+At twelve, he took a job selling newspapers and candy on the train between Port Huron and Detroit. He set up a laboratory in the baggage car, until a chemical fire got him thrown off the train. A conductor boxed his ears so hard that his hearing started to fade. Edison later said that he was almost deaf, and that it helped him concentrate.
+
+### 02_cap2
+At sixteen, he became a telegraph operator. He traveled across the Midwest, working night shifts. The job gave him a love of electricity. He also learned the value of invention. In eighteen sixty-nine, he moved to New York, penniless, and a stroke of luck changed his life. A stock ticker machine broke at a brokerage, and he fixed it in minutes.
+
+He was hired, and soon he improved the machine himself. In eighteen seventy, he sold his stock-ticker invention to a company for forty thousand dollars, a fortune. He used the money to build a factory in Newark, New Jersey, where he employed fifty workers to make telegraph equipment.
+
+In eighteen seventy-six, he made the decision that defined his career. He sold the factory, and moved to a quiet village in New Jersey, called Menlo Park. There he built a new kind of place, a laboratory dedicated to invention. He called it his invention factory, and he promised to deliver a minor invention every ten days, and a big thing every six months.
+
+### 03_cap3
+Visitors to Menlo Park found a strange scene. Men worked through the night at long benches, surrounded by jars of chemicals, a pipe organ, and a pile of half-finished machines. Edison himself often slept on a workbench, and he sometimes ate pie for breakfast. The lab never closed.
+
+The Menlo Park laboratory was the first industrial research lab. Edison hired mechanics, chemists, and mathematicians, and gave them a single goal, which was to create products that people would pay for.
+
+In eighteen seventy-seven, he invented the phonograph, a machine that could record and play back the human voice. He recited the nursery rhyme Mary had a little lamb into the horn, and then the machine repeated it. The public was stunned. Newspapers called him the Wizard of Menlo Park.
+
+The phonograph made him famous, but he wanted something bigger. He wanted to bring electric light to every home. Gas lighting was smoky and dangerous. Electric arc lamps were too bright and too expensive. Others had tried to make a small, safe, long-lasting electric bulb, and failed.
+
+Edison and his team tested thousands of materials for the filament, the thin wire inside the bulb that glows. They tried platinum, paper, and cotton thread. At last, in October eighteen seventy-nine, a carbonized cotton thread lasted for thirteen and a half hours. Later, a bamboo filament lasted over a thousand.
+
+### 04_cap4
+Edison later said that he had never invented anything that nobody wanted. His goal, he said, was not to make a clever toy, but a product that would sell by the million. That was the discipline that separated him from many inventors before him.
+
+But a light bulb was not enough. Edison understood that people needed a complete system. He designed the generators, the wiring, the sockets, and the meters. On September fourth, eighteen eighty-two, he switched on the Pearl Street Station in lower Manhattan, the first commercial power plant in the world. It lit up four hundred lamps, in about eighty-five buildings, including the offices of J. P. Morgan.
+
+Morgan had invested in Edison's company, and he became a key backer. The firm that grew out of it, Edison General Electric, soon employed thousands of people.
+
+But there was a problem. Edison's system used direct current, which could not travel more than about a mile. Another inventor had a better idea. Nikola Tesla, a Serbian engineer, had worked for Edison, and left after a dispute over payment. Tesla developed alternating current, which could travel hundreds of miles. George Westinghouse, a rival industrialist, bought Tesla's patents.
+
+### 05_cap5
+The result was the war of the currents. Edison launched a campaign to convince the public that alternating current was deadly. He held public demonstrations in which animals were electrocuted with Westinghouse's system. He even supported the use of alternating current in the first electric chair, hoping that the public would link it with death.
+
+It was an ugly campaign, and it failed. Alternating current was cheaper and more efficient. In eighteen ninety-two, J. P. Morgan merged Edison's company with a rival, and removed Edison's name from the title. It became General Electric. Edison lost control of the company he started.
+
+He then turned to other ventures. He invented the movie camera, called the Kinetoscope, and built the first film studio in America, called the Black Maria. He improved the telephone, and built a battery for electric cars. He fought over patents constantly, and often lost.
+
+In his later years, Edison poured money into a failed iron ore business. He lost a fortune. But he never stopped working. He slept only a few hours a night, in short naps.
+
+### 06_cap6
+In eighteen eighty-six, after the death of his first wife, Mary, he married Mina Miller, the daughter of a wealthy inventor. They had three children, and lived in a large house in West Orange, New Jersey, close to his huge new laboratory.
+
+Edison's inventions changed the world. He held a record one thousand and ninety-three U.S. patents. His inventions, including the phonograph, the electric light and power system, and the motion picture camera, created entire industries.
+
+Was he a genius, or a clever businessman who took credit for others' work? Historians still debate it. He was often ruthless with his employees, and he used his team's inventions as his own. But he also built the system that turned ideas into products, which is perhaps the greatest invention of all.
+
+Edison died on October eighteenth, nineteen thirty-one, at age eighty-four. On the night of his funeral, American cities dimmed their lights for one minute, in his honor.
+
+### 07_lesson
+Thomas Edison's story holds two lessons. The first is that persistence is a method. He treated failure as data, and he kept testing until the light came on. Genius, he said, is one percent inspiration, and ninety-nine percent perspiration.
+
+The second is that invention alone is not enough. Edison won because he built the whole system, the lab, the factory, the power plant, and the company. An idea becomes powerful when it can be sold, copied, and scaled.
+
+If you enjoyed this story, subscribe, because tomorrow at six, another file opens.

@@ -1,0 +1,12 @@
+nyc|New York City street 1900s film
+wall|Wall Street 1900s film
+broadway|Broadway New York 1903 film
+train|railroad train 1900s film
+steel|steel mill film 1900s
+ships|ocean liner 1900s film
+edison|Edison Manufacturing Company film 1900
+crowd|crowd street 1900s film
+horse|horse carriage street film 1900
+bank|bank money 1900s film
+tower|skyscraper New York 1900s film
+power|power station electricity film

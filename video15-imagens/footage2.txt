@@ -1,0 +1,10 @@
+store|department store film 1950s
+farm|farm film 1930s
+war|world war two film
+truck|trucks highway film 1960s
+town|small town main street film 1950s
+plane|small airplane film 1950s
+crowd|shoppers crowd film 1960s
+tv|television 1960s film
+computer|computer room film 1970s
+street|American street film 1960s
