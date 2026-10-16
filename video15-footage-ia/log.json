@@ -1,33 +1,60 @@
 [
  {
-  "tag": "office",
-  "id": "DontBeaS1947",
-  "title": "Don't Be a Sucker",
-  "year": 1947,
-  "dur": 1041.4,
+  "tag": "store",
+  "id": "OutofThi1954",
+  "title": "Out of This World",
+  "year": 1954,
+  "dur": 1349.61,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DontBeaS1947"
+  "url": "https://archive.org/details/OutofThi1954"
  },
  {
-  "tag": "office",
-  "id": "Despotis1946",
-  "title": "Despotism",
-  "year": 1946,
-  "dur": 596.73,
+  "tag": "store",
+  "id": "Americas1955",
+  "title": "America's Distribution of Wealth",
+  "year": 1955,
+  "dur": 754.42,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Despotis1946"
+  "url": "https://archive.org/details/Americas1955"
  },
  {
-  "tag": "office",
-  "id": "Corvairi1960",
-  "title": "Corvair in Action, The",
-  "year": 1960,
-  "dur": 388.38,
+  "tag": "store",
+  "id": "American1962_2",
+  "title": "American Thrift (Part II)",
+  "year": 1962,
+  "dur": 749.21,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Corvairi1960"
+  "url": "https://archive.org/details/American1962_2"
  },
  {
-  "tag": "omaha",
+  "tag": "town",
+  "id": "0731_Wonderful_World_19_01_23_00",
+  "title": "Wonderful World",
+  "year": 1959,
+  "dur": 2600.04,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0731_Wonderful_World_19_01_23_00"
+ },
+ {
+  "tag": "town",
+  "id": "Townandt1950",
+  "title": "Town and the Telephone, The",
+  "year": 1950,
+  "dur": 1642.2,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Townandt1950"
+ },
+ {
+  "tag": "town",
+  "id": "Nationat1951",
+  "title": "Nation at Your Fingertips, The",
+  "year": 1951,
+  "dur": 653.22,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Nationat1951"
+ },
+ {
+  "tag": "truck",
   "id": "American1955",
   "title": "American Harvest (Part I)",
   "year": 1955,
@@ -36,210 +63,129 @@
   "url": "https://archive.org/details/American1955"
  },
  {
-  "tag": "omaha",
-  "id": "American1955_2",
-  "title": "American Harvest (Part II)",
+  "tag": "truck",
+  "id": "GiveYour1954",
+  "title": "Give Yourself the Green Light",
+  "year": 1954,
+  "dur": 1337.23,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/GiveYour1954"
+ },
+ {
+  "tag": "truck",
+  "id": "0007_American_Frontier_07_30_37_00",
+  "title": "American Frontier",
+  "year": 1953,
+  "dur": 1704.17,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0007_American_Frontier_07_30_37_00"
+ },
+ {
+  "tag": "shop",
+  "id": "OutofThi1954",
+  "title": "Out of This World",
+  "year": 1954,
+  "dur": 1349.61,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/OutofThi1954"
+ },
+ {
+  "tag": "shop",
+  "id": "FromDawn1937",
+  "title": "From Dawn to Sunset (Part I)",
+  "year": 1937,
+  "dur": 538.87,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/FromDawn1937"
+ },
+ {
+  "tag": "shop",
+  "id": "FromDawn1937_2",
+  "title": "From Dawn to Sunset (Part II)",
+  "year": 1937,
+  "dur": 623.99,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/FromDawn1937_2"
+ },
+ {
+  "tag": "farm",
+  "id": "American1955",
+  "title": "American Harvest (Part I)",
   "year": 1955,
-  "dur": 999.56,
+  "dur": 791.75,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/American1955_2"
+  "url": "https://archive.org/details/American1955"
  },
  {
-  "tag": "omaha",
-  "id": "200445_West_Coast_1968_004896",
-  "title": "West Coast 1968: 004896",
-  "year": null,
-  "dur": 1615.54,
+  "tag": "retail",
+  "id": "FromDawn1937",
+  "title": "From Dawn to Sunset (Part I)",
+  "year": 1937,
+  "dur": 538.87,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/200445_West_Coast_1968_004896"
+  "url": "https://archive.org/details/FromDawn1937"
  },
  {
-  "tag": "family",
-  "id": "HaveITol1958",
-  "title": "Have I Told You Lately That I Love You?",
-  "year": 1958,
-  "dur": 901.43,
+  "tag": "retail",
+  "id": "FromDawn1937_2",
+  "title": "From Dawn to Sunset (Part II)",
+  "year": 1937,
+  "dur": 623.99,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/HaveITol1958"
+  "url": "https://archive.org/details/FromDawn1937_2"
  },
  {
-  "tag": "family",
-  "id": "Experime1940",
-  "title": "Experiments in the Revival of Organisms",
-  "year": 1940,
-  "dur": 1172.07,
+  "tag": "retail",
+  "id": "0744_Television_commercials_Toothpaste_hair_care_deodorant_05_14_30_00",
+  "title": "[Television commercials: Toothpaste, hair care, deodorant]",
+  "year": 1960,
+  "dur": 1256.05,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Experime1940"
+  "url": "https://archive.org/details/0744_Television_commercials_Toothpaste_hair_care_deodorant_05_14_30_00"
  },
  {
-  "tag": "family",
-  "id": "DontBeaS1947",
-  "title": "Don't Be a Sucker",
-  "year": 1947,
-  "dur": 1041.4,
+  "tag": "military",
+  "id": "ArmyNurs1945",
+  "title": "Army Nurse, The",
+  "year": 1945,
+  "dur": 968.2,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DontBeaS1947"
+  "url": "https://archive.org/details/ArmyNurs1945"
  },
  {
-  "tag": "factory",
-  "id": "DontBeaS1947",
-  "title": "Don't Be a Sucker",
-  "year": 1947,
-  "dur": 1041.4,
+  "tag": "military",
+  "id": "ArmBehin1942",
+  "title": "Arm Behind the Army, The",
+  "year": 1942,
+  "dur": 622.32,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DontBeaS1947"
+  "url": "https://archive.org/details/ArmBehin1942"
  },
  {
-  "tag": "factory",
-  "id": "WhyPlayL1949",
-  "title": "Why Play Leap Frog?",
-  "year": 1949,
-  "dur": 579.44,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/WhyPlayL1949"
- },
- {
-  "tag": "factory",
-  "id": "Miracleo1955",
-  "title": "Miracle on the Delaware",
-  "year": 1955,
-  "dur": 571.73,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Miracleo1955"
- },
- {
-  "tag": "newspaper",
-  "id": "DayofTha1951",
-  "title": "Day of Thanksgiving, A",
+  "tag": "football",
+  "id": "0159_Home_Economics_Story_The_E00036_01_16_28_00",
+  "title": "Home Economics Story, The",
   "year": 1951,
-  "dur": 748.51,
+  "dur": 1505.56,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DayofTha1951"
+  "url": "https://archive.org/details/0159_Home_Economics_Story_The_E00036_01_16_28_00"
  },
  {
-  "tag": "newspaper",
-  "id": "Printing1947",
-  "title": "Printing",
-  "year": 1947,
-  "dur": 640.94,
+  "tag": "football",
+  "id": "FreedomH1956",
+  "title": "Freedom Highway (Part I)",
+  "year": 1956,
+  "dur": 1265.43,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Printing1947"
+  "url": "https://archive.org/details/FreedomH1956"
  },
  {
-  "tag": "newspaper",
-  "id": "Journali1940",
-  "title": "Journalism",
-  "year": 1940,
-  "dur": 638.3,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Journali1940"
- },
- {
-  "tag": "bank",
-  "id": "right_to_health_1",
-  "title": "Right to Health, A (Part I)",
-  "year": null,
-  "dur": 935.53,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/right_to_health_1"
- },
- {
-  "tag": "bank",
-  "id": "Usingthe1947",
-  "title": "Using the Bank",
-  "year": 1947,
-  "dur": 624.32,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Usingthe1947"
- },
- {
-  "tag": "bank",
-  "id": "ClassicT1948",
-  "title": "Classic Television Commercials (Part I)",
-  "year": 1948,
-  "dur": 536.5,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/ClassicT1948"
- },
- {
-  "tag": "money",
-  "id": "Usingthe1947",
-  "title": "Using the Bank",
-  "year": 1947,
-  "dur": 624.32,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Usingthe1947"
- },
- {
-  "tag": "money",
-  "id": "MakeMine1948",
-  "title": "Make Mine Freedom",
-  "year": 1948,
-  "dur": 570.17,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/MakeMine1948"
- },
- {
-  "tag": "money",
-  "id": "TripDown1905",
-  "title": "[Trip Down Market Street Before the Fire, A]",
-  "year": 1906,
-  "dur": 832.8,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/TripDown1905"
- },
- {
-  "tag": "school",
-  "id": "Sleepfor1950",
-  "title": "Sleep for Health",
+  "tag": "football",
+  "id": "Choosing1950",
+  "title": "Choosing for Happiness",
   "year": 1950,
-  "dur": 644.27,
+  "dur": 766.03,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Sleepfor1950"
- },
- {
-  "tag": "school",
-  "id": "JoanAvoi1947",
-  "title": "Joan Avoids a Cold",
-  "year": 1947,
-  "dur": 625.39,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/JoanAvoi1947"
- },
- {
-  "tag": "school",
-  "id": "DuckandC1951",
-  "title": "Duck and Cover",
-  "year": 1951,
-  "dur": 555.38,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DuckandC1951"
- },
- {
-  "tag": "house",
-  "id": "DuckandC1951",
-  "title": "Duck and Cover",
-  "year": 1951,
-  "dur": 555.38,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DuckandC1951"
- },
- {
-  "tag": "house",
-  "id": "DateWith1950",
-  "title": "Date With Your Family, A",
-  "year": 1950,
-  "dur": 600.13,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DateWith1950"
- },
- {
-  "tag": "house",
-  "id": "ToNewHor1940",
-  "title": "To New Horizons",
-  "year": 1940,
-  "dur": 1380.58,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/ToNewHor1940"
+  "url": "https://archive.org/details/Choosing1950"
  }
 ]
