@@ -1,0 +1,88 @@
+### 00_hook
+September, nineteen forty-five. Tokyo lies in ruins. Whole neighborhoods have been burned flat, and people are fighting for food. In the top floor of a bombed department store, in the district of Nihonbashi, twenty men are crowded around a workbench. They have no money, no factory, and almost no tools. They have a sign on the wall that says Tokyo Telecommunications Engineering Corporation.
+
+Their first product is an electric rice cooker, and it is a disaster. It burns the rice, or leaves it raw. Their second product is a pad for warming beds. It, too, is a flop.
+
+Less than forty years later, the same company will be one of the most famous brands on earth. It will invent the pocket radio, the Trinitron screen, the Walkman, and the compact disc player. Its name will be printed on millions of boxes in every country.
+
+The man who ran it was the heir of a family of sake brewers, who walked away from the family business to build electronics. This is the story of Akio Morita, and the company called Sony.
+
+### 01_cap1
+Akio Morita was born on the twenty-sixth of January, nineteen twenty-one, in Nagoya, Japan. His family had been making sake for fourteen generations, since the sixteen hundreds, under the brand name Kosugi. As the eldest son, he was expected to become the fifteenth head of the business. His father trained him from a young age, and took him to company meetings, to prepare him.
+
+But Akio had a different passion. He loved machines. As a boy he built a radio, took apart a phonograph, and spent hours with electric circuits in his room. His mother, who loved music, bought him a phonograph, and he studied how it worked. At school, he was a good student, curious and cheerful, but not a conformist.
+
+His father did not stop him. Morita later said that his father allowed him to follow science, even though it meant breaking with tradition. It was a generosity that shaped his whole outlook.
+
+He studied physics at Osaka Imperial University, and graduated in nineteen forty-four, in the middle of the war. Instead of going to the front, he joined the Navy as a technical officer and was assigned to a research group on heat seeking weapons. There, he met a man who would change his life.
+
+### 02_cap2
+The man was Masaru Ibuka, an electrical engineer who was thirteen years older, and already a famous inventor. He was a quiet genius, who loved to solve problems that nobody else had attempted. Morita admired him, and they became friends.
+
+When the war ended, in August nineteen forty-five, Japan was in shambles. Most of the factories were destroyed, and millions were homeless. Ibuka started a small company in Tokyo to repair radios and make small electrical items. He called it Tokyo Tsushin Kogyo, or Totsuko, and he opened it on the third floor of a burned out department store.
+
+Morita was still in Nagoya, but Ibuka wrote to him. He asked him to join. In nineteen forty-six, the two men registered the company officially, with about twenty employees and a starting capital of one hundred and ninety thousand yen. Ibuka would be the engineer, and Morita would be the salesman.
+
+Ibuka wrote the founding document, a prospectus with a famous line. It spoke of creating a workplace where engineers could feel the joy of technology, and where they could work to the best of their abilities for the benefit of Japanese culture. It was written in the middle of rubble, and it was one of the best mission statements ever written.
+
+### 03_cap3
+The first years were a struggle. After the rice cooker failed, the company made voltmeters and radio converters, barely surviving. Then, in nineteen fifty, they found their first real success. A tape recorder.
+
+Magnetic tape was a new technology, and almost nobody in Japan had seen it. Ibuka's team built the first Japanese tape recorder, a large and heavy machine. It was a technical marvel. But it did not sell. The first model was too heavy and too expensive, and companies and offices did not see a use for it.
+
+Morita solved the problem the way a salesman does. He started to go to schools, and to courts, and to government offices. He showed them how a recorder could help to teach children English, and to record court testimony. He did hundreds of demonstrations. Slowly, the orders began to arrive.
+
+It was a lesson that Morita never forgot. A new invention is not a product until someone understands why they need it. It was his job to teach the world.
+
+In nineteen fifty-three, he took a trip to the United States and Europe. In New York, he learned that Western Electric, the inventor of a tiny new device called the transistor, was willing to license it. The price was twenty-five thousand dollars, a huge sum for a small company. Morita spent days convincing his bosses at the Japanese government to let him send that money abroad. It was a gamble that would transform the company.
+
+### 04_cap4
+At the time, the transistor was used mainly in hearing aids. Everyone believed it was too weak for a radio. Ibuka and Morita decided to prove them wrong.
+
+After two years of hard work, in nineteen fifty-five, the company released the TR-55, the first Japanese transistor radio. It was a hit. But Morita wanted more. He wanted a radio small enough to fit in a pocket, and in nineteen fifty-seven they launched the TR-63, the smallest transistor radio ever built.
+
+There was a joke at the time that it was a pocket radio only if the pocket was big enough. Morita liked the story, and it is said that he had his salesmen wear shirts with larger pockets. The radio sold millions of copies, and for the first time, the world noticed a small Japanese company.
+
+But there was a problem. Nobody in the West could pronounce the name Totsuko. Morita did not want a name that sounded foreign, and in nineteen fifty-eight, the company chose a new one. It came from the Latin word for sound, sonus, and from the English word sonny, a friendly nickname for a boy. The name was short, easy to say, and it meant the same in every language. They called it Sony.
+
+### 05_cap5
+Morita understood something that most Japanese executives of his time did not. To succeed, he had to win in America. In nineteen sixty, he opened the Sony Corporation of America in New York. In nineteen sixty-three, he moved his own family to the city, and lived for a time on Fifth Avenue, so he could learn how Americans lived and how they bought.
+
+He insisted that the Sony name should be placed on every product, even when a big American retailer offered to buy thousands of radios if Sony would put the store's name on them. Morita refused. He said that a brand was something to be built over fifty years, and that he would not sell it for a quick profit.
+
+He was right. In nineteen sixty-eight, Sony released the Trinitron, a color television with a bright, sharp picture that became a world standard. In nineteen seventy, Sony became the first Japanese company to list its shares on the New York Stock Exchange.
+
+But not every bet worked. In nineteen seventy-five, Sony launched the Betamax, the first home video recorder. It had better quality than its rival, VHS, but it could record only an hour, and the rival format won the war. It was Morita's most painful defeat. He learned that quality does not always beat convenience.
+
+### 06_cap6
+Then came the invention that made Sony a household name.
+
+One day in nineteen seventy-nine, Masaru Ibuka, who loved music and traveled a lot, asked his engineers to build him a small stereo to take on airplanes. One of the engineers took a portable tape recorder, removed the recording function, and added a headset. It was small and light, and it played music in stereo.
+
+Morita tried it, and he was thrilled. But his own marketing team thought it would fail. Who would buy a tape player that could not record? Morita overruled them. He said that he was certain that millions of people would want to carry their music with them wherever they went.
+
+The product was called the Walkman. It went on sale on the first of July, nineteen seventy-nine, and the first batch of thirty thousand units sold out in a few months. People walked, jogged, and rode trains with headphones. The Walkman created a new way to listen to music, and became a cultural icon. Over the years, hundreds of millions of Walkman players were sold.
+
+In nineteen eighty-two, working with Philips, Sony also launched the first compact disc player, and helped to create a new era of digital music.
+
+### 07_cap7
+By the nineteen eighties, Akio Morita was one of the most famous businessmen in the world. In nineteen eighty-six, he published his memoir, Made in Japan, which became an international best seller. He appeared on television, spoke to presidents, and became the face of Japan's economic miracle.
+
+He wanted Sony to be more than a hardware company. In nineteen eighty-eight, Sony bought CBS Records, the biggest record company in the world, for about two billion dollars. In nineteen eighty-nine, it bought Columbia Pictures for about three point four billion dollars. The deals shocked America, where many feared that Japan was buying the country's culture. They also turned out to be hard to manage, and Sony took huge losses on the studio.
+
+In nineteen ninety-three, Morita was playing tennis, one of his great hobbies, when he suffered a stroke. He resigned as chairman of Sony and spent his last years in poor health.
+
+Akio Morita died on the third of October, nineteen ninety-nine, at the age of seventy-eight. He left behind a company that had changed the sound and the picture of the modern world, and a belief that a small country could create a great global brand.
+
+### 08_lesson
+So what can we learn from Akio Morita?
+
+The first lesson is to start from a problem, not a product. Sony began with rubble and no money, but it had a clear idea. Make something that nobody has made before.
+
+The second lesson is that a great product needs a great story. Morita did not just sell tape recorders. He taught schools why they needed them. He did not just sell the Walkman. He sold a new way of living.
+
+The third lesson is to trust your instincts over your experts. Almost everyone at Sony thought the Walkman would fail. Morita believed in it anyway, and he was right.
+
+And the last lesson is to build a brand that lasts. He turned down quick money so that one name could be trusted all over the planet.
+
+He started in the ruins of a department store. If this story inspired you, subscribe, and tell us in the comments which businessman we should cover next.

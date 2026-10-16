@@ -1,0 +1,12 @@
+radio|Transistor_radio
+tokyo|Tokyo
+japanmiracle|Japanese_economic_miracle
+nyse|New_York_Stock_Exchange
+fifthave|Fifth_Avenue
+heatseeking|Imperial_Japanese_Navy
+ricecooker|Rice_cooker
+hearingaid|Hearing_aid
+occupation|Occupied_Japan
+jpn1950|Economy_of_Japan
+japanimport|Japan–United_States_relations
+tennis|Tennis
