@@ -1,0 +1,20 @@
+a1|Charlie Munger portrait
+a2|Charlie Munger Berkshire annual meeting
+a3|Warren Buffett Charlie Munger
+a4|Berkshire Hathaway annual meeting Omaha
+a5|Omaha Nebraska 1930s
+a6|See's Candies store
+a7|Benjamin Franklin portrait
+a8|Pasadena California 1950s
+a9|Los Angeles 1960s street
+a10|Army Air Corps weather officer 1940s
+a11|Caltech campus 1940s
+a12|Harvard Law School 1940s
+a13|Berkshire Hathaway headquarters Omaha
+a14|Coca-Cola 1980s bottle
+a15|Wells Fargo bank building
+a16|Burlington Northern Santa Fe train
+a17|Geico gecko office
+a18|Poor Charlie's Almanack book
+a19|Santa Barbara California
+a20|Daily Journal Los Angeles

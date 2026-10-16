@@ -1,0 +1,8 @@
+airforce|United_States_Army_Air_Forces
+leukemia|Leukemia
+amex|American_Express
+gillette|Gillette
+losangeles|Los_Angeles
+wwii|World_War_II
+reading|Reading
+meteorology|Meteorology
