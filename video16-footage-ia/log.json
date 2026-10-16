@@ -1,57 +1,147 @@
 [
  {
-  "tag": "office",
-  "id": "DontBeaS1947",
-  "title": "Don't Be a Sucker",
-  "year": 1947,
-  "dur": 1041.4,
+  "tag": "burger",
+  "id": "AsOthers1953",
+  "title": "As Others See Us",
+  "year": 1953,
+  "dur": 256.12,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DontBeaS1947"
+  "url": "https://archive.org/details/AsOthers1953"
  },
  {
-  "tag": "office",
-  "id": "Despotis1946",
-  "title": "Despotism",
-  "year": 1946,
-  "dur": 596.73,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Despotis1946"
- },
- {
-  "tag": "office",
-  "id": "Corvairi1960",
-  "title": "Corvair in Action, The",
-  "year": 1960,
-  "dur": 388.38,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Corvairi1960"
- },
- {
-  "tag": "omaha",
-  "id": "American1955",
-  "title": "American Harvest (Part I)",
-  "year": 1955,
-  "dur": 791.75,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/American1955"
- },
- {
-  "tag": "omaha",
-  "id": "American1955_2",
-  "title": "American Harvest (Part II)",
-  "year": 1955,
-  "dur": 999.56,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/American1955_2"
- },
- {
-  "tag": "omaha",
-  "id": "200445_West_Coast_1968_004896",
-  "title": "West Coast 1968: 004896",
+  "tag": "burger",
+  "id": "201978_Coonradt_Collection_004722",
+  "title": "Home Movie: Coonradt Collection: 004722",
   "year": null,
-  "dur": 1615.54,
+  "dur": 379.25,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/200445_West_Coast_1968_004896"
+  "url": "https://archive.org/details/201978_Coonradt_Collection_004722"
+ },
+ {
+  "tag": "burger",
+  "id": "202872_Home_Movie_098615",
+  "title": "Home Movie: 098615",
+  "year": null,
+  "dur": 847.5,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/202872_Home_Movie_098615"
+ },
+ {
+  "tag": "shake",
+  "id": "0411_Tornado_06_00_36_00",
+  "title": "Tornado",
+  "year": 1955,
+  "dur": 873.92,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0411_Tornado_06_00_36_00"
+ },
+ {
+  "tag": "kitchen",
+  "id": "HomeEcon1951",
+  "title": "Home Economics Story, The (Part I)",
+  "year": 1951,
+  "dur": 748.42,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/HomeEcon1951"
+ },
+ {
+  "tag": "kitchen",
+  "id": "MarkofWh1964",
+  "title": "Mark of Wholesome Meat, A",
+  "year": 1964,
+  "dur": 1119.85,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/MarkofWh1964"
+ },
+ {
+  "tag": "kitchen",
+  "id": "Progress1960",
+  "title": "Progress Parade",
+  "year": 1960,
+  "dur": 795.59,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Progress1960"
+ },
+ {
+  "tag": "diner",
+  "id": "ThisisCo1961",
+  "title": "This is Coffee",
+  "year": 1961,
+  "dur": 752.18,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/ThisisCo1961"
+ },
+ {
+  "tag": "diner",
+  "id": "0724_Summer_of_63_20_01_01_22",
+  "title": "Summer of '63",
+  "year": 1963,
+  "dur": 1253.27,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0724_Summer_of_63_20_01_01_22"
+ },
+ {
+  "tag": "salesman",
+  "id": "MakeMine1948",
+  "title": "Make Mine Freedom",
+  "year": 1948,
+  "dur": 570.17,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/MakeMine1948"
+ },
+ {
+  "tag": "salesman",
+  "id": "FromDawn1937",
+  "title": "From Dawn to Sunset (Part I)",
+  "year": 1937,
+  "dur": 538.87,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/FromDawn1937"
+ },
+ {
+  "tag": "salesman",
+  "id": "FromDawn1937_2",
+  "title": "From Dawn to Sunset (Part II)",
+  "year": 1937,
+  "dur": 623.99,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/FromDawn1937_2"
+ },
+ {
+  "tag": "highway",
+  "id": "ClassicT1948_2",
+  "title": "Classic Television Commercials (Part II)",
+  "year": 1948,
+  "dur": 715.11,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/ClassicT1948_2"
+ },
+ {
+  "tag": "highway",
+  "id": "FreedomH1956_2",
+  "title": "Freedom Highway (Part II)",
+  "year": 1956,
+  "dur": 820.42,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/FreedomH1956_2"
+ },
+ {
+  "tag": "highway",
+  "id": "Rocheste1963",
+  "title": "Rochester: A City of Quality (Part I)",
+  "year": 1963,
+  "dur": 694.39,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Rocheste1963"
+ },
+ {
+  "tag": "family",
+  "id": "Sleepfor1950",
+  "title": "Sleep for Health",
+  "year": 1950,
+  "dur": 644.27,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Sleepfor1950"
  },
  {
   "tag": "family",
@@ -64,182 +154,47 @@
  },
  {
   "tag": "family",
-  "id": "Experime1940",
-  "title": "Experiments in the Revival of Organisms",
-  "year": 1940,
-  "dur": 1172.07,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Experime1940"
- },
- {
-  "tag": "family",
-  "id": "DontBeaS1947",
-  "title": "Don't Be a Sucker",
-  "year": 1947,
-  "dur": 1041.4,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DontBeaS1947"
- },
- {
-  "tag": "factory",
-  "id": "DontBeaS1947",
-  "title": "Don't Be a Sucker",
-  "year": 1947,
-  "dur": 1041.4,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DontBeaS1947"
- },
- {
-  "tag": "factory",
-  "id": "WhyPlayL1949",
-  "title": "Why Play Leap Frog?",
-  "year": 1949,
-  "dur": 579.44,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/WhyPlayL1949"
- },
- {
-  "tag": "factory",
-  "id": "Miracleo1955",
-  "title": "Miracle on the Delaware",
-  "year": 1955,
-  "dur": 571.73,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Miracleo1955"
- },
- {
-  "tag": "newspaper",
-  "id": "DayofTha1951",
-  "title": "Day of Thanksgiving, A",
+  "id": "GoodEati1951",
+  "title": "Good Eating Habits",
   "year": 1951,
-  "dur": 748.51,
+  "dur": 585.51,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DayofTha1951"
+  "url": "https://archive.org/details/GoodEati1951"
  },
  {
-  "tag": "newspaper",
-  "id": "Printing1947",
-  "title": "Printing",
-  "year": 1947,
-  "dur": 640.94,
+  "tag": "assembly",
+  "id": "MyJapan1945",
+  "title": "My Japan",
+  "year": 1945,
+  "dur": 963.46,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Printing1947"
+  "url": "https://archive.org/details/MyJapan1945"
  },
  {
-  "tag": "newspaper",
-  "id": "Journali1940",
-  "title": "Journalism",
-  "year": 1940,
-  "dur": 638.3,
+  "tag": "assembly",
+  "id": "Conquerb1943",
+  "title": "Conquer by the Clock",
+  "year": 1943,
+  "dur": 640.54,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Journali1940"
+  "url": "https://archive.org/details/Conquerb1943"
  },
  {
-  "tag": "bank",
-  "id": "right_to_health_1",
-  "title": "Right to Health, A (Part I)",
-  "year": null,
-  "dur": 935.53,
+  "tag": "assembly",
+  "id": "WhiteWon1958",
+  "title": "White Wonder",
+  "year": 1958,
+  "dur": 1657.82,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/right_to_health_1"
+  "url": "https://archive.org/details/WhiteWon1958"
  },
  {
-  "tag": "bank",
-  "id": "Usingthe1947",
-  "title": "Using the Bank",
-  "year": 1947,
-  "dur": 624.32,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Usingthe1947"
- },
- {
-  "tag": "bank",
-  "id": "ClassicT1948",
-  "title": "Classic Television Commercials (Part I)",
+  "tag": "franchise",
+  "id": "1593PartnersinProsperity",
+  "title": "Partners in Prosperity",
   "year": 1948,
-  "dur": 536.5,
+  "dur": 764.23,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/ClassicT1948"
- },
- {
-  "tag": "money",
-  "id": "Usingthe1947",
-  "title": "Using the Bank",
-  "year": 1947,
-  "dur": 624.32,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Usingthe1947"
- },
- {
-  "tag": "money",
-  "id": "MakeMine1948",
-  "title": "Make Mine Freedom",
-  "year": 1948,
-  "dur": 570.17,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/MakeMine1948"
- },
- {
-  "tag": "money",
-  "id": "TripDown1905",
-  "title": "[Trip Down Market Street Before the Fire, A]",
-  "year": 1906,
-  "dur": 832.8,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/TripDown1905"
- },
- {
-  "tag": "school",
-  "id": "Sleepfor1950",
-  "title": "Sleep for Health",
-  "year": 1950,
-  "dur": 644.27,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Sleepfor1950"
- },
- {
-  "tag": "school",
-  "id": "JoanAvoi1947",
-  "title": "Joan Avoids a Cold",
-  "year": 1947,
-  "dur": 625.39,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/JoanAvoi1947"
- },
- {
-  "tag": "school",
-  "id": "DuckandC1951",
-  "title": "Duck and Cover",
-  "year": 1951,
-  "dur": 555.38,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DuckandC1951"
- },
- {
-  "tag": "house",
-  "id": "DuckandC1951",
-  "title": "Duck and Cover",
-  "year": 1951,
-  "dur": 555.38,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DuckandC1951"
- },
- {
-  "tag": "house",
-  "id": "DateWith1950",
-  "title": "Date With Your Family, A",
-  "year": 1950,
-  "dur": 600.13,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DateWith1950"
- },
- {
-  "tag": "house",
-  "id": "ToNewHor1940",
-  "title": "To New Horizons",
-  "year": 1940,
-  "dur": 1380.58,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/ToNewHor1940"
+  "url": "https://archive.org/details/1593PartnersinProsperity"
  }
 ]
