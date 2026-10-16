@@ -1,0 +1,20 @@
+a1|Masayoshi Son portrait
+a2|Masayoshi Son SoftBank speech
+a3|SoftBank headquarters Tokyo
+a4|Tosu Saga Japan
+a5|Jack Ma Masayoshi Son
+a6|iPhone 2007 launch Steve Jobs
+a7|Vodafone Japan SoftBank shop
+a8|Sprint store
+a9|ARM Holdings Cambridge
+a10|WeWork office
+a11|Yahoo Japan 1990s
+a12|Berkeley campus Sather Tower
+a13|1970s Japan arcade game
+a14|dot-com bubble Nasdaq 2000
+a15|SoftBank Vision Fund
+a16|SoftBank Pepper robot
+a17|Fukushima 2011 tsunami
+a18|Tokyo 1990s Shibuya
+a19|Alibaba New York Stock Exchange 2014
+a20|Kyushu Fukuoka 1960s

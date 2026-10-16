@@ -1,0 +1,8 @@
+zainichi|Zainichi_Koreans
+ryoma|Sakamoto_Ry%C5%8Dma
+uber|Uber
+openai|OpenAI
+stargate|Stargate_LLC
+fukushima|Fukushima_nuclear_accident
+pachinko|Pachinko
+arcade|Arcade_game

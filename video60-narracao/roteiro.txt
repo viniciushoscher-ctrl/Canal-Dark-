@@ -1,0 +1,84 @@
+### 00_hook
+December, two thousand. In a small conference room in Beijing, a tall, balding Japanese man, in a rumpled suit, sits across from a Chinese schoolteacher whom he has never met before. The teacher, who runs a tiny company called Alibaba, has been talking for six minutes. He has no business plan. He has no financial statements. He barely has any revenue.
+
+The Japanese man listens, and then he interrupts. He says, I want to invest. He asks the teacher how much he needs. The teacher says he wants a few million. The Japanese man says, no. I will give you twenty million dollars.
+
+He decides in six minutes, by instinct, by looking into the eyes of the founder. It will turn out to be one of the greatest investments in the history of capital. Those twenty million dollars will become more than sixty billion.
+
+The man is Masayoshi Son, and he is known as the gambler of Japan. He has made, and lost, more money than almost anyone alive. In the dot-com crash, he lost seventy billion dollars on paper, the largest personal loss in history. And then he came back. This is the story of the man who bets on the future.
+
+### 01_cap1
+Masayoshi Son was born on the eleventh of August, nineteen fifty-seven, in Tosu, a small city on the island of Kyushu in Japan. His family were Korean by origin, descendants of immigrants who had come to Japan during the Second World War. They were ethnic Koreans, called zainichi, and they faced prejudice. They lived in a shack on a patch of unregistered land, near a railway line, and raised pigs and goats.
+
+His grandfather came from Korea, and his father, Mitsunori, worked in many jobs, from selling liquor to running pachinko parlors, and eventually became a rich man. But the family never got rid of the stigma. The young Masayoshi used a Japanese name, Yasumoto, at school. He was bullied, and a boy once threw a rock at him.
+
+He later said that the experience made him strong. At sixteen, he read a book that changed his life, a novel about the Japanese hero, Ryoma Sakamoto, who helped to end the old feudal system. He decided that he, too, would change the world.
+
+At sixteen, against his family's wishes, he left Japan for the United States, to study. He wanted to learn where the future was being made.
+
+### 02_cap2
+He enrolled in a high school in California, and passed his exams in a few weeks, and moved to the University of California, Berkeley. There, he studied economics and computer science. He lived a frugal student life, and he worked hard.
+
+He was always a dreamer, with big ideas. He developed a system for inventing. He set himself a goal to come up with one new invention each day, for five minutes. After a year, he had about two hundred and fifty ideas. One was a pocket-sized translator, with a speech synthesizer and a small display. He sold it to Sharp for about one million seven hundred thousand dollars. He was nineteen.
+
+With the money, he started a company that imported used arcade video games from Japan, and put them in American college dorms. He made more money. By the time he graduated in nineteen eighty, he was already a small-time millionaire.
+
+He then returned to Japan, and in nineteen eighty-one, at the age of twenty-four, he started a software company. The name was SoftBank, which implied that the company would be a bank for software. The company had two employees, who were part-time. And Son stood on an apple crate, and told them that in thirty years, it would be worth trillions of yen.
+
+### 03_cap3
+The early years were hard. Soon after founding SoftBank, Son was diagnosed with a serious liver disease, hepatitis, and had to be hospitalized for three years. He ran the business from his hospital bed, and read thousands of books. He recovered, thanks to a new medicine.
+
+In the nineteen eighties, SoftBank became a distributor of software, and grew quickly. It also started to publish computer magazines. By nineteen ninety-four, SoftBank was listed on the Tokyo Stock Exchange.
+
+Then Son made a big move. He had seen the future of the internet, and in nineteen ninety-six, he invested two million dollars in a young start-up in California called Yahoo. It was a gamble, but it worked. He ended up owning about one third of Yahoo, and when it went public, the value of his shares exploded. He then created Yahoo Japan, which became the leading portal in Japan.
+
+SoftBank invested in dozens of internet companies, including E-Trade, and many others. In the dot-com bubble, in the years nineteen ninety-nine and two thousand, Son became, for a short time, the richest man in the world, for a few days, with a fortune of about seventy-eight billion dollars.
+
+### 04_cap4
+The bubble burst. In two thousand and one, the Nasdaq crashed, and SoftBank's shares fell by ninety-nine percent. Son lost almost all his paper wealth, about seventy billion dollars, and the company was in serious trouble. Many commentators said he was finished.
+
+But he had one great bet still alive, in China. In December two thousand, he had invested twenty million dollars in Alibaba, the company of Jack Ma. And in the following years, Alibaba grew into a giant. When it went public in two thousand and fourteen, Son's stake was worth about fifty-eight billion dollars.
+
+In two thousand and six, he took a risk in Japan's telecommunications industry. He bought the Japanese arm of Vodafone, for about fifteen billion dollars, a huge sum and mostly borrowed. It was a risky deal. But Son had a secret weapon. In two thousand and seven, Apple launched the iPhone, and Son managed to persuade Steve Jobs to give SoftBank the exclusive right to sell it in Japan.
+
+The iPhone changed everything. SoftBank became a leader in Japanese mobile. In two thousand and thirteen, he bought the American carrier Sprint, for about twenty-two billion dollars, which later proved to be a troubled investment.
+
+### 05_cap5
+In two thousand and sixteen, Son made a new bet. He bought ARM Holdings, a British chip design company, for about thirty-two billion dollars. He said that ARM chips would be in every device, from phones to cars, and in the coming age of artificial intelligence.
+
+In the same year, he created the Vision Fund, a gigantic venture capital fund, with about one hundred billion dollars. The fund drew money from Saudi Arabia, Abu Dhabi, and big technology companies. He used it to invest in firms such as Uber, DoorDash, Grab, and WeWork.
+
+The Vision Fund was the biggest technology fund in history. Son was investing at a speed and a scale never seen before. He wrote very large checks, often after a short meeting, and he followed his instinct. He said he looked for founders with passion, and a plan to change the world.
+
+The approach brought big wins, and spectacular failures. The most famous was WeWork, the office-sharing company. SoftBank invested about ten billion dollars. In two thousand and nineteen, WeWork's IPO collapsed, after its founder, Adam Neumann, was exposed for erratic behavior. The company's value fell by ninety percent. Son admitted that he had made a mistake, and said he had been foolish.
+
+### 06_cap6
+Then came the pandemic, and a long downturn in tech. In two thousand and twenty-one and two thousand and twenty-two, technology stocks fell sharply, and the Vision Fund recorded enormous losses. For the fiscal year to March two thousand and twenty-three, SoftBank reported a loss of about seven billion dollars.
+
+Son, then sixty-five, said that he had been too aggressive, and that he was in a defensive posture. He also admitted that he had lost about seventy billion dollars in a few years. He started to sell some of his holdings, including a large part of his stake in Alibaba, and he took ARM public in September two thousand and twenty-three, in one of the biggest listings of the year.
+
+Yet, as the market for artificial intelligence boomed, SoftBank found its footing again. ARM's shares soared, and Son said that he had a new mission, to make AI the most important technology in history. He announced that he wanted to invest hundreds of billions of dollars, in AI infrastructure, with partners such as OpenAI, and the Stargate project.
+
+At the age of sixty-seven, he was back on the offensive.
+
+### 07_cap7
+Masayoshi Son has a wife, Masami Owaki, and two children. He lives in Tokyo. He is known for his optimism, his huge appetite for risk, and his dream of a three hundred year plan. He has said that he wants SoftBank to last for three centuries, and that he wants to see the age of the singularity, when machines are smarter than humans.
+
+His fortune moves with the market. At its peak, it was about eighty billion dollars. At its low, it was a fraction of that. He is a man who rides a roller coaster, and does not mind.
+
+His philanthropy is notable. In two thousand and eleven, after the Fukushima disaster, he pledged to donate about one hundred million dollars, and his salary for life, to support the survivors. He has funded renewable energy, and education.
+
+To admirers, Masayoshi Son is a visionary, who sees the future earlier than anyone. To critics, he is a reckless gambler, who confuses boldness with wisdom. Probably, he is both.
+
+### 08_lesson
+So what can we learn from Masayoshi Son?
+
+The first lesson is to think very big. Son declared that SoftBank would be worth trillions, when it had two part-time employees. A huge vision attracts huge resources.
+
+The second lesson is to bet on people. He wrote twenty million dollars to Jack Ma in six minutes, because he trusted the man. A great founder is worth more than a perfect plan.
+
+The third lesson is to survive the fall. He lost seventy billion dollars, and he came back. In the long run, resilience beats comfort.
+
+And the final lesson is a warning. Boldness without discipline can destroy fortunes. WeWork shows that even a visionary can be fooled by charm.
+
+He began with a dream, and an apple crate. If this story inspired you, subscribe, and tell us in the comments which businessman we should cover next.
