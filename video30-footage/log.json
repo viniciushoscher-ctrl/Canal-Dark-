@@ -6,6 +6,12 @@
   "lic": "Public domain"
  },
  {
+  "tag": "train",
+  "title": "File:Surreal Old Timey Film Of New York City In 1911.webm",
+  "dur": 433.399,
+  "lic": "Public domain"
+ },
+ {
   "tag": "crowd",
   "title": "File:Funeral of Hiram Cronk.ogv",
   "dur": 234.100533,
@@ -15,18 +21,6 @@
   "tag": "christmas",
   "title": "File:Christmas shopping Centre in Ljubljana.webm",
   "dur": 61.796,
-  "lic": "CC BY 3.0"
- },
- {
-  "tag": "christmas",
-  "title": "File:Christmas Shopping Centre in Ljubljana; Christmas - shopping trollies part 2.webm",
-  "dur": 62.353,
-  "lic": "CC BY 3.0"
- },
- {
-  "tag": "christmas",
-  "title": "File:Embroiding; Christmas Shopping Centre in Ljubljana.webm",
-  "dur": 80.697,
   "lic": "CC BY 3.0"
  }
 ]
