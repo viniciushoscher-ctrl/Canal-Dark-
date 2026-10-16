@@ -1,0 +1,10 @@
+rocket|rocket launch
+space|space exploration
+computer|computer programmer
+factory|automobile factory
+electric|electric car
+tunnel|tunnel construction
+school|school children
+africa|South Africa
+internet|internet web
+money|bank money

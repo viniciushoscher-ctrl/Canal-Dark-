@@ -1,0 +1,10 @@
+train|Southern Pacific railroad
+ship|shipyard
+hardware|hardware store tools
+sierra|Sierra Nevada mountains
+panama|Panama jungle
+tunnel|railroad tunnel
+sacramento|Sacramento
+coal|coal mining
+steamship|steamship
+city|New York City

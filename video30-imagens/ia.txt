@@ -1,0 +1,10 @@
+store|department store
+chicago|Chicago
+fire|city fire
+shopper|women shopping
+counter|store counter clerk
+museum|natural history museum
+street|State Street
+fabrics|textile fabrics
+delivery|delivery wagon
+hotel|hotel dining

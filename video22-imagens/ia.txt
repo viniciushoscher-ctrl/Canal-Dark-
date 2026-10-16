@@ -1,0 +1,10 @@
+lamp|electric light bulb
+telegraph|telegraph operator
+train|steam train railway
+lab|laboratory experiment
+power|power plant electricity
+film|motion picture camera
+phono|phonograph record
+city|city street night lights
+factory|factory workers
+newspaper|newspaper press

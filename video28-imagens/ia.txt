@@ -1,0 +1,10 @@
+train|Great Northern railway
+plains|prairie wheat
+steamboat|steamboat Mississippi
+mountain|Rocky Mountains
+bridge|railroad bridge
+seattle|Seattle
+farm|farmers wheat harvest
+stpaul|Saint Paul Minnesota
+snow|snow train
+locomotive|steam locomotive

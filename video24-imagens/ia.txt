@@ -1,0 +1,10 @@
+florida|Florida beach hotel
+train|railroad train Florida
+hotel|grand hotel resort
+miami|Miami
+bridge|railroad bridge ocean
+oil|oil refinery
+palm|Palm Beach
+keys|Florida Keys
+construction|construction workers
+steamship|steamship

@@ -1,0 +1,10 @@
+train|transcontinental railroad
+gold|gold mining California
+horse|horse racing
+campus|university campus
+snow|snow mountains railroad
+sanfrancisco|San Francisco
+desert|Utah desert
+telegraph|telegraph
+store|general store
+locomotive|steam locomotive

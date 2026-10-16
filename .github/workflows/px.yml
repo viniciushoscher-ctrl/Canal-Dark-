@@ -12,7 +12,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        n: [14, 15, 16, 17, 18, 19, 20]
+        n: [21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
     steps:
       - uses: actions/checkout@v4
       - run: sudo apt-get install -y -qq ffmpeg

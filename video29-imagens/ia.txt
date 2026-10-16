@@ -1,0 +1,10 @@
+train|passenger train
+sleeper|sleeping car train
+chicago|Chicago
+porter|train porter
+factory|railcar factory
+strike|strike workers
+town|company town
+canal|Erie Canal
+construction|building construction
+troops|soldiers

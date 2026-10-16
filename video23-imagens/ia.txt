@@ -1,0 +1,10 @@
+train|steam locomotive
+brake|railroad brakes
+power|hydroelectric power plant
+niagara|Niagara Falls
+wires|electric transmission lines
+mill|steel mill
+lamp|electric lamps
+city|city lights night
+pittsburgh|Pittsburgh
+factory|factory machines
