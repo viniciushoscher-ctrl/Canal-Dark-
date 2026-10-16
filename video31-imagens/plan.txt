@@ -1,0 +1,106 @@
+# hookmontage
+fotos/reaper1_0
+wiki/scythe_9
+wiki/mccormick_1
+fotos/reaper3_1
+wiki/crystal_1
+fotos/lincoln_3
+fotos/chicago5_0
+fotos/reaper5_3
+wiki/panic_1
+fotos/haymarket_0
+wiki/harvest_7
+wiki/ironworks_1
+fotos/chicago4_1
+wiki/mech_3
+# hook
+wiki/harvest_7
+wiki/scythe_9
+wiki/mech_3
+wiki/mccormick_1
+fotos/chicago5_0
+# cap1
+wiki/rockbridge_4
+fotos/walnut_0
+fotos/a4_3
+wiki/ironworks_4
+wiki/shenandoah_3
+wiki/scythe_5
+wiki/wheat_2
+wiki/scythe_6
+wiki/mech_0
+wiki/mccormick_3
+# cap2
+wiki/mccormick_2
+fotos/reaper3_0
+fotos/reaper1_0
+fotos/reaper4_1
+fotos/reaper3_1
+people/hussey
+wiki/hussey_0
+wiki/patent_1
+# cap3
+wiki/ironworks_5
+wiki/ironworks_6
+wiki/panic_2
+wiki/panic_1
+fotos/panic_2
+wiki/reaping_6
+fotos/a2_1
+fotos/reaper5_3
+wiki/threshing_3
+fotos/reaper3_3
+wiki/cincinnati_9
+wiki/ironworks_0
+# cap4
+wiki/chicago_2
+wiki/chicagoriver_2
+wiki/plains_2
+wiki/plains_3
+wiki/railroad_0
+wiki/ogden_1
+wiki/ogden_0
+wiki/chicago_3
+wiki/mccormick_4
+wiki/homestead_0
+# cap5
+wiki/expo_5
+wiki/crystal_1
+wiki/londonexpo_3
+wiki/expo_7
+wiki/londonexpo_0
+fotos/paris_2
+fotos/paris_0
+fotos/paris_3
+# cap6
+fotos/lincoln_1
+fotos/stanton_1
+wiki/unionarmy_5
+wiki/civilwar_9
+fotos/lincoln_3
+wiki/reaping_5
+wiki/copperhead_3
+wiki/civilwar_1
+wiki/unionarmy_1
+# cap7
+wiki/nettie_1
+fotos/chicago5_2
+fotos/chicago4_0
+wiki/fire_1
+fotos/chicago4_2
+fotos/a3_0
+fotos/haymarket_0
+people/morgan
+fotos/harvester_1
+wiki/combine_1
+wiki/combine_0
+# lesson
+fotos/a3_1
+wiki/ukraine_4
+wiki/chicago_5@0.45,0.45,3
+wiki/wheat_4
+wiki/chicago_4@0.5,0.5,4
+wiki/ukraine_7
+wiki/harvest_4
+wiki/ukraine_8
+wiki/harvest_6

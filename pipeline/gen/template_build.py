@@ -9,7 +9,7 @@ AUD = R + "/video6-narracao/audio"
 IMG = sorted(glob.glob(os.environ.get("V3IMG", B + "/bright") + "/*.jpg"))
 NAMES = re.findall(r"^### (\S+)", open(R + "/video6-narracao/roteiro.txt", encoding="utf-8").read(), re.M)
 PLAN = None
-HK = []
+HK = []; HOOK_T = 30.0
 TLIM = float(os.environ.get("TLIM", "0")) or None
 FR = 25
 os.chdir(B)
