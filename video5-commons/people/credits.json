@@ -35,13 +35,6 @@
   "author": ""
  },
  {
-  "file": "video5-commons/people/dodge2.jpg",
-  "wiki": "Horace_Elgin_Dodge",
-  "image": "Horace_Elgin_Dodge.jpg",
-  "license": "Public domain",
-  "author": "Unknown authorUnknown author"
- },
- {
   "file": "video5-commons/people/winton.jpg",
   "wiki": "Alexander_Winton",
   "image": "Alexander_Winton.png",
@@ -61,5 +54,12 @@
   "image": "Henry_Leland.jpg",
   "license": "Public domain",
   "author": ""
+ },
+ {
+  "file": "video5-commons/people/reuther.jpg",
+  "wiki": "Walter_Reuther",
+  "image": "Walter_Reuther.jpg",
+  "license": "Public domain",
+  "author": "Detroit Free Press Archives &amp; Wayne State University"
  }
 ]
