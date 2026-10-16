@@ -1,0 +1,12 @@
+computer_0_0
+computer_2_0
+office_1_0
+phone_1_0
+plane_0_0
+plane_1_0
+plane_2_0
+city_1_0
+city_2_0
+factory_1_0
+student_1_0
+tech_1_0

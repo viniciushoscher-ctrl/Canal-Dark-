@@ -1,0 +1,8 @@
+argentina_1_0
+liner_2_0
+refinery_1_0
+tanker_0_0
+yacht_0_0
+yacht_2_0
+harbor_2_0
+argentina_2_0

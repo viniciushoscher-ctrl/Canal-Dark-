@@ -1,0 +1,13 @@
+monaco_2_0
+refinery_0_0
+refinery_1_0
+tanker_1_0
+greece_0_0
+tobacco_0_0
+yacht_1_0
+harbor_0_0
+liner_0_0
+liner_2_0
+argentina_0_0
+ship_2_0
+monaco_0_0
