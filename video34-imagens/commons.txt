@@ -1,0 +1,30 @@
+a1|Alfred P. Sloan portrait
+a2|Alfred Sloan General Motors 1920s
+a3|Alfred Sloan Time magazine
+a4|General Motors Building Detroit
+a5|William Durant General Motors founder
+a6|Pierre du Pont 1920s
+a7|Chevrolet 1925 advertisement
+a8|Cadillac 1927 advertisement
+a9|Buick 1920s advertisement
+a10|Oldsmobile 1920s advertisement
+a11|LaSalle 1927 car
+a12|Harley Earl design
+a13|Flint sit-down strike 1937
+a14|General Motors strikers Flint Fisher Body
+a15|Ford Model T 1920s
+a16|Ford Model T assembly line
+a17|Detroit automobile factory 1920s
+a18|General Motors Acceptance Corporation advertisement
+a19|automobile showroom 1920s
+a20|Chevrolet Superior 1923
+a21|Oakland automobile 1920s
+a22|Pontiac 1926
+a23|Hyatt roller bearing advertisement
+a24|Charles Kettering 1920s
+a25|MIT campus 1890s
+a26|Alfred Sloan Foundation
+a27|General Motors Technical Center
+a28|Great Depression Detroit
+a29|Henry Ford 1920s
+a30|My Years with General Motors book

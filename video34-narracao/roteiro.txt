@@ -1,0 +1,106 @@
+### 00_hook
+Nineteen twenty-one. Henry Ford sells more than half of all the cars in America, and he has one rule. You can have any color you want, as long as it is black. His Model T is cheap, simple, and everywhere. Nobody believes anyone can beat him.
+
+Down the road, a rival company is a mess. It is a patchwork of car brands that compete against each other, run by men who barely talk. Its founder has been thrown out twice. Its bankers have taken over, and it is close to collapse.
+
+Then a quiet engineer, with a cold, careful mind, writes a plan that nobody asked him to write. In it, he proposes a new way to run a giant company, and a new way to sell cars, one that will last for a hundred years.
+
+Within ten years, that company will pass Ford. And it will become the largest industrial company in the world.
+
+This is the story of Alfred Sloan, the man who built General Motors.
+
+### 01_cap1
+Alfred Pritchard Sloan Junior was born on May twenty-third, eighteen seventy-five, in New Haven, Connecticut. His father ran a wholesale business that imported coffee and tea, and the family soon moved to Brooklyn, in New York. Alfred was the oldest of five children, and he grew up in a comfortable home, in a household that valued discipline and learning.
+
+From an early age, he loved machines. He was a tidy, serious boy, who liked to understand how things worked. He did not want to inherit a trading firm. He wanted to build something with his own hands.
+
+He entered the Massachusetts Institute of Technology, and he studied electrical engineering. He was so determined that he completed the four year program in three, and graduated in eighteen ninety-five, at the age of twenty. It was the first sign of his main talent. He could look at a big task, cut away everything that was not essential, and finish it faster than anyone expected.
+
+After graduating, he took a job as a draftsman at a small company in Newark, New Jersey, called the Hyatt Roller Bearing Company. It made bearings, the small, hard parts that allow wheels and shafts to spin smoothly. It was not glamorous work. But it was a perfect place to learn how industry works, from the bottom up.
+
+And soon, the company ran into trouble.
+
+### 02_cap2
+By eighteen ninety-nine, the Hyatt Company was close to bankruptcy. It had few customers, and it had unpaid bills. The owners wanted to get out. Sloan, who was only twenty-four, saw something that others did not see. He believed the product was good, and that it only needed to be sold.
+
+He talked his father into helping. His father and a business partner put up about five thousand dollars to keep the company alive, and young Alfred took over as its general manager. He worked long hours, and he went out looking for orders. His first big idea was simple. The new gasoline automobiles needed bearings, and the companies that built them would pay for quality.
+
+Sloan went to Detroit. He visited the automobile makers one by one, and he sold them on the idea that his bearings would make their cars run longer. One customer, above all, changed the fate of the company. Henry Ford. Ford's cars needed thousands of bearings, and Hyatt supplied them.
+
+The company grew quickly. By the early nineteen tens, it had hundreds of workers, and it was profitable. Sloan had turned a failing business into a supplier to the whole automobile industry. He had also learned something important. He had learned how the car makers thought, how they bought, and where they were weak.
+
+In nineteen sixteen, the owner of a new group, United Motors, wanted to buy his company. It was part of a merger of several parts makers. Sloan agreed to sell for about thirteen and a half million dollars. At forty-one, he was a rich man.
+
+### 03_cap3
+He might have retired. Instead, he stayed on as president of United Motors. And in nineteen eighteen, United Motors was bought by a much bigger company. General Motors.
+
+General Motors had been founded in nineteen oh eight by a restless wheeler dealer named William Durant. Durant had a talent for buying companies, and he had bought dozens of them, including Buick, Oldsmobile, Cadillac, and Chevrolet. But he was a poor manager. His empire was a sprawling mess. The brands competed with each other, and nobody knew which cars made money.
+
+Sloan joined the General Motors board, and became one of its vice presidents. From the inside, he was horrified. There was no plan. There were no clear financial reports. Each division did what it wanted, and a car might be sold by two brands at almost the same price.
+
+In nineteen twenty, the postwar economy collapsed. Car sales fell off a cliff. Durant, who had been secretly buying General Motors stock with borrowed money to prop up its price, lost control. The company's bankers, led by the du Pont family and J.P. Morgan, stepped in. Durant was forced out, for the second and last time.
+
+Pierre du Pont took over as president. He knew chemistry and finance, but not cars. He needed a man who could bring order. He turned to the quiet engineer.
+
+### 04_cap4
+In nineteen twenty, Sloan wrote a study about how General Motors should be organized. It was called the Organizational Study. It was not a flashy document. But it contained a revolutionary idea.
+
+His idea was to split the difference between two extremes. At Ford, everything was controlled from the top, by one man. At General Motors under Durant, everything was left to the divisions, and nobody led. Sloan proposed a middle path. Each division, such as Chevrolet or Buick, would run its own business, with its own managers. But the headquarters would set the overall strategy, and it would watch the financial results very closely.
+
+He called it decentralized operations with coordinated control. Today, this is the model of almost every large company on earth. Back then, it was almost unheard of.
+
+Pierre du Pont read the study, and he liked it. In nineteen twenty-three, Sloan became the president of General Motors. He was forty-eight years old.
+
+He immediately did something that surprised the industry. He began to measure everything. He worked with a gifted finance man named Donaldson Brown to build a system that tracked the return on every dollar invested, in every division. Managers had to show results in numbers. For the first time, a giant company could see exactly which parts of it were working, and which were failing.
+
+Now he needed a strategy to beat Ford.
+
+### 05_cap5
+Sloan looked at the market, and he saw that Ford was fighting a one-product war. The Model T was cheap, but it was old, and customers were ready for something more. They wanted comfort, style, and a choice.
+
+So Sloan created a ladder. At the bottom, Chevrolet, for the buyer with the least money. Above it, Oakland, which later became Pontiac. Then Oldsmobile, then Buick, and at the top, Cadillac. As buyers earned more money, he wanted them to climb that ladder, staying inside the General Motors family. His slogan became famous. A car for every purse and purpose.
+
+He added more weapons. In nineteen nineteen, General Motors had founded its own finance company, which let customers buy a car on installment credit. A family could drive away with a new car by paying a little each month. Ford, who hated debt, resisted the idea for years.
+
+Then there was the yearly model change. Every year, the cars changed their look, so that last year's model felt old. Critics called it wasteful. But it worked. Buying a car became a statement of status.
+
+To design those cars, Sloan hired a stylist from California, Harley Earl, and created a department of art and color. It was the first design studio inside a major carmaker. In nineteen twenty-seven, the LaSalle, designed by Earl, became the first mass produced car shaped by a stylist.
+
+The same year, Ford stopped making the Model T. The man who had put America on wheels was beaten by a man who sold choice.
+
+### 06_cap6
+By the end of the nineteen twenties, General Motors was the leader of the American car industry. By nineteen thirty-one, it was selling more cars than Ford, and it would keep the top place for most of the next seventy years.
+
+Sloan was the opposite of the flamboyant founder. He was thin, formal, and reserved. He wore a high collar, and he spoke in a quiet voice. He was a workaholic, who ran the company from a plain office, and he dealt in numbers and committees. His critics called him cold. His admirers said that his real genius was his clarity.
+
+He treated management as a system, and he trusted the system more than any single person. Meetings at General Motors were calm, and the decisions were recorded. In the years when other companies depended on a single genius, General Motors depended on a method, and the method outlasted him.
+
+But there was a difficult side. Sloan disliked labor unions, and he fought them for years. In the winter of nineteen thirty-six, autoworkers in Flint, Michigan, occupied the General Motors plants in a sit-down strike. It lasted forty-four days. In the end, in February nineteen thirty-seven, General Motors agreed to recognize the United Auto Workers, a historic victory for American labor. For Sloan, it was one of the great defeats of his career.
+
+He also drew criticism for the company's close ties to the du Pont family, and for decisions that favored cars over public transit. His legacy is not simple.
+
+### 07_cap7
+Sloan stepped down as president in nineteen thirty-seven, and stayed on as chairman for almost twenty years. In nineteen fifty-five, General Motors became the first American company to earn more than one billion dollars in a single year.
+
+By then, Sloan and his wife, Irene, who had no children, had decided what to do with his fortune. In nineteen thirty-four, he had created the Alfred P. Sloan Foundation, which would fund science, technology, and education. In nineteen forty-five, with his friend, the inventor Charles Kettering, he gave millions to found the Sloan-Kettering Institute for cancer research, in New York. In nineteen fifty-two, he gave a large gift to the Massachusetts Institute of Technology, his old school, which created the Sloan School of Management.
+
+In nineteen sixty-three, he published his memoir, called My Years with General Motors. It became one of the most influential business books ever written. It is a long, dry, and extremely clear account of how he built the company, and why.
+
+Alfred Sloan died on February seventeenth, nineteen sixty-six, in New York City, at the age of ninety. General Motors would remain a giant for decades. It would also, in the end, show the limits of his system. In two thousand nine, the company filed for bankruptcy.
+
+But the ideas he created, the divisions, the financial controls, the price ladder, and the yearly model, shaped the modern corporation.
+
+### 08_lesson
+So what can we learn from Alfred Sloan?
+
+The first lesson is that structure beats genius. Durant was a brilliant dealmaker, but he could not run what he built. Sloan was no showman, and yet his system made a giant company run for decades. A good organization lets ordinary people do extraordinary work.
+
+The second lesson is to measure what matters. Sloan forced every division to show its numbers. Without clear information, even the best managers make mistakes.
+
+The third lesson is to understand your customer's ambition. Ford sold a car. Sloan sold a way to move up in life, from the Chevrolet to the Cadillac, one step at a time.
+
+And the last lesson is a warning. A system that works can turn into a habit. General Motors stayed loyal to Sloan's way long after the world had changed, and in the end, that loyalty cost it dearly. Great strategies need to be updated.
+
+Alfred Sloan began as a draftsman, in a failing bearing company. He ended up building the model of the modern corporation. If you ever work in a big company, you work inside an idea that he helped to invent.
+
+If you enjoyed this story, subscribe, because tomorrow we continue with another great name.
