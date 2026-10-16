@@ -1,0 +1,272 @@
+[
+ {
+  "tag": "lamp",
+  "id": "MakeMine1948",
+  "title": "Make Mine Freedom",
+  "year": 1948,
+  "dur": 570.17,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/MakeMine1948"
+ },
+ {
+  "tag": "lamp",
+  "id": "OnGuard1956",
+  "title": "On Guard! The Story of SAGE",
+  "year": 1956,
+  "dur": 735.33,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/OnGuard1956"
+ },
+ {
+  "tag": "lamp",
+  "id": "0772_On_Guard_The_Story_of_SAGE_18_48_05_00",
+  "title": "On Guard! The Story of SAGE",
+  "year": 1956,
+  "dur": 738.11,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0772_On_Guard_The_Story_of_SAGE_18_48_05_00"
+ },
+ {
+  "tag": "telegraph",
+  "id": "HowtoUse1927",
+  "title": "How to Use the Dial Phone",
+  "year": 1927,
+  "dur": 427.02,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/HowtoUse1927"
+ },
+ {
+  "tag": "telegraph",
+  "id": "Nationat1951",
+  "title": "Nation at Your Fingertips, The",
+  "year": 1951,
+  "dur": 653.22,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Nationat1951"
+ },
+ {
+  "tag": "telegraph",
+  "id": "0655_America_For_Me",
+  "title": "America For Me",
+  "year": 2026,
+  "dur": 1867.03,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0655_America_For_Me"
+ },
+ {
+  "tag": "train",
+  "id": "0007_American_Frontier_07_30_37_00",
+  "title": "American Frontier",
+  "year": 1953,
+  "dur": 1704.17,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0007_American_Frontier_07_30_37_00"
+ },
+ {
+  "tag": "train",
+  "id": "EnglishC1949",
+  "title": "English Children: Life in the City",
+  "year": 1949,
+  "dur": 637.2,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/EnglishC1949"
+ },
+ {
+  "tag": "train",
+  "id": "American1953",
+  "title": "American Frontier (Part I)",
+  "year": 1953,
+  "dur": 805.63,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/American1953"
+ },
+ {
+  "tag": "lab",
+  "id": "Tobaccoa1954",
+  "title": "Tobacco and the Human Body",
+  "year": 1954,
+  "dur": 893.26,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Tobaccoa1954"
+ },
+ {
+  "tag": "lab",
+  "id": "Story_of_Television_The",
+  "title": "Story of Television, The",
+  "year": 1956,
+  "dur": 1561.99,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Story_of_Television_The"
+ },
+ {
+  "tag": "lab",
+  "id": "ProjectD1960",
+  "title": "Project Dugout",
+  "year": 1960,
+  "dur": 490.25,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/ProjectD1960"
+ },
+ {
+  "tag": "power",
+  "id": "isforAto1953",
+  "title": "A is for Atom",
+  "year": 1953,
+  "dur": 882.78,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/isforAto1953"
+ },
+ {
+  "tag": "power",
+  "id": "MasterHa1936",
+  "title": "Master Hands (Part I)",
+  "year": 1936,
+  "dur": 296.09,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/MasterHa1936"
+ },
+ {
+  "tag": "power",
+  "id": "PowertoS1957",
+  "title": "Power to Serve, The",
+  "year": 1957,
+  "dur": 1257.92,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/PowertoS1957"
+ },
+ {
+  "tag": "film",
+  "id": "CaseofSp1940",
+  "title": "Case of Spring Fever, A",
+  "year": 1940,
+  "dur": 496.66,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/CaseofSp1940"
+ },
+ {
+  "tag": "film",
+  "id": "Preventi1940",
+  "title": "Preventing the Spread of Disease",
+  "year": 1940,
+  "dur": 648.08,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Preventi1940"
+ },
+ {
+  "tag": "film",
+  "id": "PrivateL1947",
+  "title": "Private Life of a Cat",
+  "year": 1947,
+  "dur": 1321.42,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/PrivateL1947"
+ },
+ {
+  "tag": "phono",
+  "id": "CommandP1942",
+  "title": "Command Performance",
+  "year": 1942,
+  "dur": 1138.9,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/CommandP1942"
+ },
+ {
+  "tag": "phono",
+  "id": "LivingSt1958",
+  "title": "Living Stereo",
+  "year": 1958,
+  "dur": 462.43,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/LivingSt1958"
+ },
+ {
+  "tag": "phono",
+  "id": "SoundAndTheS",
+  "title": "Sound And The Story",
+  "year": 1956,
+  "dur": 1422.89,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/SoundAndTheS"
+ },
+ {
+  "tag": "city",
+  "id": "0731_Wonderful_World_19_01_23_00",
+  "title": "Wonderful World",
+  "year": 1959,
+  "dur": 2600.04,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0731_Wonderful_World_19_01_23_00"
+ },
+ {
+  "tag": "city",
+  "id": "Greenwic1960",
+  "title": "Greenwich Village Sunday",
+  "year": 1960,
+  "dur": 749.78,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Greenwic1960"
+ },
+ {
+  "tag": "city",
+  "id": "WeDriver1936",
+  "title": "We Drivers (1935 edition)",
+  "year": 1936,
+  "dur": 630.49,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/WeDriver1936"
+ },
+ {
+  "tag": "factory",
+  "id": "WhyPlayL1949",
+  "title": "Why Play Leap Frog?",
+  "year": 1949,
+  "dur": 579.44,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/WhyPlayL1949"
+ },
+ {
+  "tag": "factory",
+  "id": "Despotis1946",
+  "title": "Despotism",
+  "year": 1946,
+  "dur": 596.73,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Despotis1946"
+ },
+ {
+  "tag": "factory",
+  "id": "Miracleo1955",
+  "title": "Miracle on the Delaware",
+  "year": 1955,
+  "dur": 571.73,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Miracleo1955"
+ },
+ {
+  "tag": "newspaper",
+  "id": "DayofTha1951",
+  "title": "Day of Thanksgiving, A",
+  "year": 1951,
+  "dur": 748.51,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/DayofTha1951"
+ },
+ {
+  "tag": "newspaper",
+  "id": "Despotis1946",
+  "title": "Despotism",
+  "year": 1946,
+  "dur": 596.73,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Despotis1946"
+ },
+ {
+  "tag": "newspaper",
+  "id": "17DaysTh1945",
+  "title": "17 Days: The Story of Newspaper History in the Making",
+  "year": 1945,
+  "dur": 993.46,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/17DaysTh1945"
+ }
+]
