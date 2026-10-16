@@ -1,0 +1,115 @@
+# hookmontage
+wiki/tokyo1945_0
+wiki/tokyo1945_6
+wiki/nihonbashi_6
+wiki/shirokiya_0
+wiki/ricecooker_3
+wiki/tr63_3
+fotos/a4_1
+wiki/tape_5
+wiki/sony_8
+wiki/betamax_1
+wiki/cdplayer_5
+fotos/a9_0
+wiki/tokyo1945_9
+wiki/morita_1
+# hook
+fotos/a9_1
+fotos/a9_2
+wiki/nihonbashi_9
+wiki/ricecooker_1
+fotos/a9_3
+# cap1
+wiki/nagoya_1
+wiki/sake_0
+wiki/sake_5
+wiki/sake_9
+wiki/osaka_6
+wiki/osaka_7
+wiki/heatseeking_8
+wiki/heatseeking_9
+fotos/a16_0
+fotos/a14_2
+fotos/a14_3
+# cap2
+fotos/a24_0
+fotos/a24_1
+wiki/nihonbashi_8
+wiki/nihonbashi_7
+wiki/ricecooker_2
+wiki/occupation_0
+wiki/occupation_5
+wiki/occupation_7
+wiki/tokyo1945_1
+fotos/a10_0
+# cap3
+wiki/tape_7
+wiki/tape_8
+wiki/tape_9
+wiki/tape_1
+wiki/tape_6
+fotos/a20_0
+fotos/a4_0
+wiki/occupation_8
+wiki/tape_3
+wiki/tape_4
+# cap4
+fotos/a4_2
+fotos/a4_3
+fotos/a5_0
+fotos/a5_3
+wiki/radio_0
+wiki/radio_1
+wiki/radio_2
+wiki/tr63_1
+wiki/tr63_5
+wiki/radio_5
+wiki/radio_3
+# cap5
+wiki/fifthave_3
+wiki/fifthave_8
+wiki/fifthave_0
+wiki/nyse_1
+wiki/nyse_6
+wiki/nyse_3
+fotos/a7_0
+fotos/a7_2
+fotos/a8_0
+wiki/betamax_0
+wiki/betamax_3
+wiki/betamax_5
+# cap6
+wiki/sony_7
+wiki/cdplayer_1
+fotos/a21_1
+fotos/a21_0
+wiki/cdplayer_8
+wiki/cdplayer_4
+fotos/a20_3
+fotos/a20_1
+wiki/philips_9
+wiki/philips_5
+wiki/philips_8
+fotos/a24_2
+# cap7
+wiki/columbia_1
+wiki/columbia_0
+wiki/columbia_4
+wiki/columbia_3
+wiki/tennis_1
+wiki/tennis_2
+wiki/morita_0
+fotos/a18_2
+fotos/a18_3
+fotos/a11_0
+fotos/a11_2
+wiki/japanmiracle_1
+# lesson
+wiki/sony_2
+fotos/a12_0
+wiki/sony_3
+fotos/a23_1
+fotos/a18_0
+fotos/a18_1
+wiki/tennis_0
+wiki/tr63_0
