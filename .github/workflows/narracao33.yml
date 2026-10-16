@@ -1,0 +1,16 @@
+name: narracao33
+on:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['video33-narracao/**']
+permissions:
+  contents: write
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install edge-tts && cd video33-narracao && python gerar.py
+      - run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add video33-narracao/audio && git commit -m "Add Video 33 narration audio [skip ci]" && for i in 1 2 3 4; do git pull --rebase -q && git push && break; sleep 5; done

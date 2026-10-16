@@ -1,0 +1,102 @@
+# hookmontage
+wiki/titanic_3
+wiki/titanic_0
+wiki/hershey_1
+fotos/chicago_0
+wiki/depression_0
+wiki/centennial_7
+wiki/hershey_0
+fotos/factory_1
+fotos/farm_0
+fotos/rationd_0
+wiki/park_5
+wiki/stockcrash_1
+wiki/orphanage_6
+fotos/strike_0
+# hook
+wiki/titanic_8
+wiki/titanic_1
+wiki/town_2
+wiki/town_3
+wiki/orphanage_5
+# cap1
+wiki/pennsylvaniadutch_1
+wiki/pennsylvaniadutch_0
+fotos/farm_0
+wiki/pennsylvaniadutch_4
+fotos/printing_0
+wiki/printing_2
+wiki/icecream_1
+people/lancaster
+# cap2
+wiki/centennial_2
+wiki/centennial_7
+wiki/centennial_8
+wiki/philadelphia_0
+wiki/philadelphia_8
+wiki/centennial_4
+wiki/hershey_0
+# cap3
+wiki/denver_8
+wiki/denver_7
+fotos/denver_2
+wiki/newyork_2
+wiki/newyork_7
+wiki/dairy_7
+wiki/newyork_4
+# cap4
+wiki/lancaster_3
+wiki/lancaster_4
+wiki/lancaster_5
+wiki/caramel_1
+fotos/caramel_3
+wiki/trolley_4
+people/hershey
+# cap5
+fotos/chicago_0
+fotos/chicago_2
+fotos/chicago_3
+wiki/chocolatepress_1
+wiki/vanhouten_2
+wiki/chocolate_2
+people/peter
+people/kitty
+wiki/swiss_1
+# cap6
+people/hershey_town
+wiki/park_5
+wiki/park_6
+fotos/factory_0
+fotos/hershey_town_0
+wiki/town_1
+fotos/kisses_1
+fotos/trolley_0
+# cap7
+fotos/school_0
+people/school
+wiki/orphanage_6
+wiki/orphanage_8
+wiki/orphanage_2
+wiki/orphanage_3
+wiki/hershey_1
+# cap8
+wiki/stockcrash_1
+wiki/breadline_9
+wiki/hotelhershey_0
+fotos/theatre_0
+wiki/sitdown_3
+fotos/strike_2
+fotos/rationd_0
+fotos/rationd_2
+wiki/ww2_2
+fotos/rationd_1
+# lesson
+fotos/bar_1
+fotos/kisses_0
+wiki/cocoa_8
+wiki/swiss_9
+fotos/hershey_town_2
+wiki/park_7
+wiki/hersheyarena_3
+wiki/milk_3
+wiki/town_0

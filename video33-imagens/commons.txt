@@ -1,0 +1,30 @@
+a1|Harvey Firestone portrait
+a2|Harvey S. Firestone
+a3|Harvey Firestone Henry Ford Thomas Edison
+a4|Firestone Tire Akron factory
+a5|Firestone Tire and Rubber Company advertisement
+a6|Firestone Liberia rubber plantation
+a7|Firestone Harbel Liberia 1930s
+a8|rubber tapping Liberia
+a9|Akron Ohio 1900s rubber factory
+a10|Akron Ohio 1920s street
+a11|Ford Model T 1910
+a12|Indianapolis 500 1911 Ray Harroun
+a13|Ford Edison Firestone Burroughs camping
+a14|Vagabonds camping trip 1921
+a15|rubber tire carriage 1890s
+a16|horse buggy 1890s
+a17|Firestone Park Akron houses
+a18|Voice of Firestone radio
+a19|Columbiana Ohio history
+a20|Firestone farm Columbiana
+a21|rubber plantation workers Liberia 1920s
+a22|Monrovia Liberia 1920s
+a23|early automobile tire 1900s
+a24|tire factory workers 1920s
+a25|Goodrich Akron factory
+a26|Harvey Firestone Jr.
+a27|Firestone Library Princeton
+a28|Henry Ford 1920s portrait
+a29|Thomas Edison 1920s portrait
+a30|Men and Rubber Firestone book
