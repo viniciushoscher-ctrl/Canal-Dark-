@@ -7,7 +7,7 @@ R = "/home/claude/canal-dark-"
 B = "/home/claude/video_build6"
 AUD = R + "/video6-narracao/audio"
 IMG = sorted(glob.glob(os.environ.get("V3IMG", B + "/bright") + "/*.jpg"))
-NAMES = ["00_hook","01_cap1","02_cap2","03_cap3","04_cap4","05_cap5","06_cap6","07_lesson"]
+NAMES = re.findall(r"^### (\S+)", open(R + "/video6-narracao/roteiro.txt", encoding="utf-8").read(), re.M)
 PLAN = None
 TLIM = float(os.environ.get("TLIM", "0")) or None
 FR = 25
@@ -86,13 +86,25 @@ for ci in range(len(NAMES)):
     bnd.append(b0)
     for q, k in enumerate(ks):
         a_, b_ = bnd[q], bnd[q + 1]
-        n = max(1, int(round((b_ - a_) / 3.7)))
+        n = 1  # regra 16/10: um zoom por imagem, nunca dois seguidos na mesma
         sub = [a_]
         for i in range(1, n):
             tg = a_ + (b_ - a_) * i / n; j = int(np.argmin(abs(WS - tg)))
             sub.append(float(WS[j]) if abs(WS[j] - tg) < 0.6 and WS[j] > sub[-1] + 1.5 else tg)
         sub.append(b_)
         for i in range(n): SHOTS.append((k, i, sub[i], sub[i + 1], i == 0, ci))
+HOOK_T = 30.0  # regra 16/10: hook de 30 s em b-roll rapido com imagens do proprio video (pode repetir cada imagem 1x)
+if T > HOOK_T + 20:
+    _rest = [s for s in SHOTS if s[3] - HOOK_T > 2.0]
+    _rest[0] = (_rest[0][0], _rest[0][1], HOOK_T, _rest[0][3], _rest[0][4], _rest[0][5])
+    _pool = [s[0] for s in SHOTS if s[5] > 0]
+    _nh = 11; _pick = [_pool[int(i * (len(_pool) - 1) / (_nh - 1))] for i in range(_nh)]
+    _seq = []
+    for _k in [SHOTS[0][0]] + _pick:
+        if not _seq or _seq[-1] != _k: _seq.append(_k)
+    _seq = _seq + [x for x in _seq[:2] if x != _seq[-1]]  # repeticao permitida so aqui
+    _d = HOOK_T / len(_seq)
+    SHOTS = [(_k, 0, i * _d, (i + 1) * _d, True, 0) for i, _k in enumerate(_seq)] + _rest
 if TLIM:
     SHOTS = [s for s in SHOTS if s[2] < TLIM]
     s_ = SHOTS[-1]; SHOTS[-1] = (s_[0], s_[1], s_[2], min(s_[3], TLIM), s_[4], s_[5])
@@ -468,15 +480,8 @@ for n_, (k, i, a_, b_, first, ci) in enumerate(SHOTS):
     ov = OV[n_][1] if OV[n_] else 0.0
     d = b_ - a_ + ov; nf = max(int(round(d * FR)), 3); out = f"clips3/c{n_+1:03d}.mp4"
     u = f"(on/{nf})"; e = f"(3*{u}*{u}-2*{u}*{u}*{u})"
-    mv = (k + i * 3 + n_) % 7
-    zs = {0: f"1+0.26*{e}", 1: f"1.26-0.26*{e}", 2: "1.24", 3: "1.24", 4: "1.28", 5: "1.28", 6: f"1+0.3*{e}"}[mv]
-    xs = {0: "iw/2-(iw/zoom/2)", 1: "iw/2-(iw/zoom/2)", 2: f"(iw-iw/zoom)*{e}", 3: f"(iw-iw/zoom)*(1-{e})", 4: "iw/2-(iw/zoom/2)",
-          5: "iw/2-(iw/zoom/2)", 6: f"(iw-iw/zoom)*(0.3+0.5*{e})"}[mv]
-    ys = {0: "ih/2-(ih/zoom/2)", 1: "ih/2-(ih/zoom/2)", 2: "ih/2-(ih/zoom/2)", 3: "ih/2-(ih/zoom/2)", 4: f"(ih-ih/zoom)*(1-{e})",
-          5: f"(ih-ih/zoom)*{e}", 6: f"(ih-ih/zoom)*(0.6-0.4*{e})"}[mv]
-    if i % 2 == 0: pre = "crop=iw*0.94:ih*0.94:0:0"
-    else:
-        rx, ry = REG[(k + i) % 5]; pre = f"crop=iw*0.66:ih*0.66:iw*{rx}:ih*{ry}"
+    zs = f"1.22-0.22*{e}"; xs = "iw/2-(iw/zoom/2)"; ys = "ih/2-(ih/zoom/2)"  # so zoom out, centrado
+    pre = "crop=iw*0.96:ih*0.96"
     vf = (f"{pre},scale=1920:1080:flags=bicubic,zoompan=z='{zs}':x='{xs}':y='{ys}':d={nf}:s=1280x720:fps={FR},"
           f"unsharp=5:5:0.6,format=yuv420p")
     jobs.append((out, f"ffmpeg -y -v error -loop 1 -i '{IMG[k]}' -vf \"{vf}\" -frames:v {nf} -c:v libx264 -preset veryfast -crf 17 {out}"))

@@ -17,7 +17,7 @@ def year(s):
             if b in U and U[b] >= 10: return a + U[b]
     return None
 def norm(s, n=5): return " ".join(re.sub(r"[^a-z0-9' -]", "", s.lower()).split()[:n])
-KEY = set(); cards = []; trg = []; moods = ["tense", "sad", "drive", "wonder", "triumph", "dark", "reflect", "reflect"]
+KEY = set(); cards = []; trg = []; moods = ["tense", "sad", "drive", "wonder", "triumph", "dark", "sad", "wonder", "reflect", "reflect"]; moods = moods[:len(secs) - 1] + ["reflect"]
 sents = []
 for ci, sec in enumerate(secs):
     ss = [x.strip() for x in re.split(r"(?<=[.!?])\s+", sec.strip().replace("\n", " ")) if x.strip()]
@@ -28,11 +28,11 @@ for ci, sec in enumerate(secs):
         y = year(x)
         if y and len(cards) < 9 and ci > 0 and (not cards or cards[-1][0] != ci):
             ents = re.findall(r"[A-Z][a-z]{3,}(?: [A-Z][a-z]+)*", x[1:]); cards.append((ci, norm(x, 7), str(y), (ents[0] if ents else "THE STORY").upper()[:24], x[:34].rstrip(" ,.")))
-CH = [("CHAPTER %d" % (i + 1) if i < 6 else "THE LESSON", t[0].strip(), t[1].strip()) for i, t in enumerate(titles)]
+CH = [("CHAPTER %d" % (i + 1) if i < len(titles) - 1 else "THE LESSON", t[0].strip(), t[1].strip()) for i, t in enumerate(titles)]
 out = "#--KEY\nKEY = %r\n#--CH\nCH = %r\nCARDS = %s\n" % (sorted(KEY)[:50], CH, "[" + ",\n ".join("(%r, %r, %r, %r, None)" % (c[1], c[2], c[3], c[4]) for c in cards) + "]")
 out += "#--BRT\nMAPBRT = []\nBRT = []\nAUTO = []\nif os.path.exists(\"autobrt.txt\"):\n    for _l in open(\"autobrt.txt\", encoding=\"utf-8\"):\n        if \"|\" in _l:\n            _p, _f = _l.rstrip(\"\\n\").split(\"|\", 1); AUTO.append((_p, g_foot(_f), 5.0))\nBRT = BRT + AUTO\nBRT = [b for b in BRT if b[1] is not None]\n"
 out += "#--PHOTOS\nPHOTOS = []\n#--EMPH\nEMPH = []\n"
-out += "#--MUSIC\nDEF = %r\nTRG = %r\nTWISTS = []\n" % ({i: moods[i] for i in range(8)}, trg)
+out += "#--MUSIC\nDEF = %r\nTRG = %r\nTWISTS = []\n" % ({i: moods[i] for i in range(len(secs))}, trg)
 out += "#--NSC\n74\n#--MAP\nMAPBRT = []\n#--KW\n{}\n"
 open(f"{R}/pipeline/gen/cfg/cfg{N}.py", "w", encoding="utf-8").write(out)
 open(f"{R}/pipeline/gen/cfg/gfx{N}.py", "w", encoding="utf-8").write("# graficos especificos: nenhum\n")
