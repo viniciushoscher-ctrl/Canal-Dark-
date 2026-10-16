@@ -1,0 +1,24 @@
+a1|Li Ka-shing portrait
+a2|Li Ka-shing 1980s
+a3|Hong Kong 1950s refugees
+a4|Hong Kong 1940s street
+a5|Hong Kong 1967 riots
+a6|Hong Kong 1960s skyline
+a7|Hong Kong container terminal Kwai Chung
+a8|Hutchison House Hong Kong
+a9|plastic flowers 1960s
+a10|Chaozhou old street
+a11|Hong Kong Central 1970s
+a12|Hong Kong Stock Exchange 1980s
+a13|Hongkong Electric power station
+a14|Orange mobile phone 1990s
+a15|3 mobile network launch
+a16|Hong Kong handover 1997
+a17|Hong Kong industrial building 1950s
+a18|Hong Kong 1941 Japanese occupation
+a19|Hong Kong squatter huts 1950s
+a20|Cheung Kong Center
+a21|Shantou University
+a22|Hong Kong Island ferry 1950s
+a23|Hong Kong Watsons store
+a24|HSBC building Hong Kong

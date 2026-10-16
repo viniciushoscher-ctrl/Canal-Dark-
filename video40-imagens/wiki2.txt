@@ -1,0 +1,15 @@
+tuberculosis|Tuberculosis
+refugees|Second_Sino-Japanese_War
+colony|British_Hong_Kong
+handover|Handover_of_Hong_Kong
+kowloon|Kowloon
+plastic|Plastic
+italy|Italy
+yangtze|Yangtze
+stocks|Hong_Kong_Stock_Exchange
+cement|Cement
+containerport|Container_port
+telecom|Mobile_phone
+wanchai|Wan_Chai
+victoriaharbour|Victoria_Harbour
+foundation|Li_Ka_Shing_Foundation
