@@ -1,0 +1,14 @@
+dyslexia|Dyslexia
+mailorder|Mail_order
+milktruck|Milk_float
+swedishfarm|Agriculture_in_Sweden
+swedishdesign|Scandinavian_design
+stockholm|Stockholm
+hamburg|Hamburg
+philadelphia|Philadelphia
+warsaw|Warsaw
+gdansk|Gdańsk
+liechtenstein|Liechtenstein
+netherlands|Netherlands
+vadstena|Småland_Stenar
+growingpine|Swedish_forests

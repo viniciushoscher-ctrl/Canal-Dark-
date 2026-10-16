@@ -1,0 +1,26 @@
+a1|Ingvar Kamprad portrait
+a2|IKEA first store Älmhult
+a3|IKEA catalogue 1950s
+a4|IKEA store 1970s
+a5|Småland farm landscape
+a6|Elmtaryd Agunnaryd
+a7|Älmhult IKEA museum
+a8|Billy bookcase
+a9|IKEA flat pack box
+a10|Swedish farm 1930s
+a11|Småland stone wall farm
+a12|Poland 1960s furniture factory
+a13|Stockholm 1965
+a14|IKEA Kungens kurva
+a15|Swedish matches 1940
+a16|bicycle Sweden 1930s
+a17|IKEA Lack table
+a18|Swedish milk truck
+a19|Switzerland Lausanne 1970s
+a20|IKEA warehouse
+a21|IKEA logo
+a22|Volvo 240 1990s
+a23|Swedish fascism 1940s
+a24|Swedish furniture 1950s design
+a25|IKEA Philadelphia store 1985
+a26|flea market Sweden
