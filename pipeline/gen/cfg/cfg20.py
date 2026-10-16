@@ -17,6 +17,12 @@ def FFg(tag, idx=0):
 BRT = [("web usage was growing at twenty-three hundred", g_growth, 5.5), ("the stock fell from over a hundred dollars", g_stock, 5.5), ("fortune of over a hundred and fifty billion", g_fortune, 5.5),
        ("a mental trick", FFg("nyc"), 5.0), ("packages to the post office", FFg("truck"), 5.5), ("rent computing power", FFg("data"), 5.5),
        ("blue origin", FFg("rocket"), 5.5), ("edge of space", FFg("space"), 5.5), ("moved to seattle", FFg("seattle"), 5.0)] + MAPBRT
+AUTO = []
+if os.path.exists("autobrt.txt"):
+    for _l in open("autobrt.txt", encoding="utf-8"):
+        if "|" in _l:
+            _p, _f = _l.rstrip("\n").split("|", 1); AUTO.append((_p, g_foot(_f), 5.0))
+BRT = BRT + AUTO
 BRT = [b for b in BRT if b[1] is not None]
 #--PHOTOS
 PHOTOS = [

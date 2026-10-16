@@ -1,0 +1,16 @@
+kitchen_0_0
+kitchen_1_0
+kitchen_2_0
+burger_0_0
+franchise_0_0
+salesman_2_0
+omaha_1_0
+omaha_1_1
+omaha_1_2
+bank_1_0
+house_1_1
+school_1_2
+newspaper_1_0
+newspaper_1_1
+money_0_0
+money_2_0

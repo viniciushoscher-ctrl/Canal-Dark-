@@ -16,6 +16,12 @@ def FFg(tag, idx=0):
     return g_foot(fl[idx % len(fl)]) if fl else None
 BRT = [("for about fifty thousand dollars", g_dos, 5.5), ("worth about three hundred million", g_ipo, 5.5), ("over a hundred billion dollars", g_peak, 5.5),
        ("waited in line at midnight", FFg("crowd"), 5.5), ("sued microsoft", FFg("court"), 5.5), ("rolling stones", FFg("tv"), 5.0), ("microsoft was growing fast", FFg("office"), 5.0)] + MAPBRT
+AUTO = []
+if os.path.exists("autobrt.txt"):
+    for _l in open("autobrt.txt", encoding="utf-8"):
+        if "|" in _l:
+            _p, _f = _l.rstrip("\n").split("|", 1); AUTO.append((_p, g_foot(_f), 5.0))
+BRT = BRT + AUTO
 BRT = [b for b in BRT if b[1] is not None]
 #--PHOTOS
 PHOTOS = [
