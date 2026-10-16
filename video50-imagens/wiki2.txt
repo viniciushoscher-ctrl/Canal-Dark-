@@ -1,0 +1,8 @@
+francis1|Francis_I_of_France
+mainz|Albert_of_Brandenburg
+electors|Prince-elector
+holyroman|Holy_Roman_Empire
+florin|Florin
+cannons|Cannon
+fondaco|Fondaco_dei_Tedeschi
+wittenberg|Wittenberg

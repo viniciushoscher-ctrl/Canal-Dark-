@@ -1,0 +1,20 @@
+a1|Jakob Fugger Durer portrait
+a2|Fuggerei Augsburg houses
+a3|Augsburg Rathaus Renaissance
+a4|Venice Rialto 16th century
+a5|Fondaco dei Tedeschi Venice
+a6|Maximilian I Holy Roman Emperor portrait
+a7|Charles V Titian portrait
+a8|Martin Luther 95 theses Wittenberg
+a9|medieval silver mine Tyrol Schwaz
+a10|copper smelting medieval woodcut
+a11|medieval merchant counting house painting
+a12|Pope Julius II Raphael portrait
+a13|Swiss Guard Vatican Renaissance
+a14|Fugger chapel St Anne Augsburg
+a15|16th century Antwerp Bourse
+a16|Augsburg 16th century engraving
+a17|Fugger palace Augsburg
+a18|medieval florin gold coins
+a19|Albrecht Durer Fugger
+a20|sixteenth century banker painting Quentin Matsys
