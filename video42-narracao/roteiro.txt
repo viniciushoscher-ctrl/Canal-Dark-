@@ -1,0 +1,88 @@
+### 00_hook
+September, two thousand and thirteen. In San Francisco Bay, two sleek racing catamarans are battling for the most famous trophy in sailing, the America's Cup. One of them, the American boat, is losing badly. The score is eight races to one. The challenger from New Zealand needs just one more win, and the champagne is already on ice.
+
+The American team is funded by a man who dropped out of college twice, who was adopted as a baby, and who once said that he never listens to anyone who says that something cannot be done. He does not panic. He changes the boat's design, gives the crew new orders, and the American team wins one race, then another, then another, nine in a row.
+
+The comeback becomes one of the greatest in sports history.
+
+It was the same pattern as his whole life. Down, nearly out, and then back from the dead. His name is Larry Ellison, and he built Oracle, one of the largest software companies on earth, on a single idea he found in a scientific paper.
+
+### 01_cap1
+Lawrence Joseph Ellison was born on the seventeenth of August, nineteen forty-four, in New York City. His mother, Florence Spellman, was a nineteen-year-old unmarried woman, and she could not raise him. When he was nine months old, she gave him to her aunt and uncle in Chicago, Lillian and Louis Ellison, who adopted him.
+
+He grew up in a modest apartment in the South Side of Chicago. His adoptive mother, Lillian, was loving. His adoptive father, Louis, a Russian Jewish immigrant who worked in real estate and as an auditor, was a harsh man. Louis told him again and again that he would never amount to anything. Later, Ellison said that these words made him furious, and gave him a lifelong need to prove them wrong.
+
+He was a bright, restless boy, with a rebellious streak. He liked science and math, and he hated authority. He argued with teachers, and he refused to follow rules that made no sense to him.
+
+He enrolled at the University of Illinois at Urbana-Champaign, but he dropped out after two years, when his adoptive mother died. He then spent a summer at the University of Chicago, studying physics and math, before he left again. He was twenty-two, with no degree and no plan. He packed his belongings, and drove to California.
+
+### 02_cap2
+In nineteen sixty-six, California was a land of opportunity. In the Bay Area, the first computer companies were being born, in what would one day be called Silicon Valley. Ellison did odd jobs, and he taught himself to program. He worked at several firms, and he moved around frequently, always restless.
+
+In the early nineteen seventies, he landed a job at a company called Ampex, which made tape recorders. There, he worked on a project to build a giant database for the Central Intelligence Agency. The project had a code name. Oracle.
+
+At that time, storing and finding information in a computer was slow, awkward, and different for every machine. Then, in nineteen seventy, a researcher at IBM, Edgar Codd, published a paper on a new way of organizing data, called the relational model. Data could be arranged in simple tables, and a user could search it with a simple language. It was elegant, and it was powerful.
+
+IBM did not follow it up. The company had a profitable older product, and its managers did not want to threaten it. Codd's paper sat in the library, and few people understood it.
+
+Ellison read it, and he saw its meaning at once. This was the future. He was sure that whoever built a commercial relational database first would own the market.
+
+### 03_cap3
+In nineteen seventy-seven, at the age of thirty-two, Ellison and two colleagues from Ampex, Bob Miner and Ed Oates, founded a small company. They called it Software Development Laboratories. They put up a total of two thousand dollars, and Ellison contributed twelve hundred of it. They set out to build the product that IBM had refused to sell.
+
+They chose a bold plan. They would copy the language described in IBM's published papers, and sell a database that worked on many different computers. In nineteen seventy-nine, they released their first product. They called it version two, though there was no version one. Ellison believed that nobody would buy a brand new, unproven first version of software.
+
+It was a clever bit of marketing, and the product worked. Their first customer was the Central Intelligence Agency, the same client from the project that gave the company its future name. Soon, other government agencies and corporations bought it. In nineteen eighty-two, the company renamed itself Oracle.
+
+Ellison was a master salesman. He promised features that did not yet exist, and his engineers worked all night to deliver them. He loved to say that his competitors would lose, and he said it with a smile. He built a culture of speed and aggression, and Oracle grew fast.
+
+### 04_cap4
+Oracle went public in March nineteen eighty-six. Its sales grew from millions to hundreds of millions of dollars, and Ellison became a billionaire on paper. Then, in nineteen ninety, the empire almost collapsed.
+
+The company had grown too fast. Its salespeople had booked sales that were not yet complete, and when the books were checked, it became clear that profits had been overstated. Oracle reported its first loss. The stock price collapsed. Rival companies spread the word that Oracle was finished. Banks refused to lend.
+
+He was shaken, but he did not give up. He fired managers, cut costs, and rebuilt the finances and the company's controls. He forced the sales team to follow rules. Within two years, Oracle had recovered, and its software was better than ever.
+
+In the nineteen nineties, Oracle became the standard for databases around the world. Banks, airlines, governments, and online stores all stored their data in Oracle. When the internet boom began, Ellison saw that every website needed a database, and he pushed Oracle to the web.
+
+In the later years, a pattern emerged. Whenever Oracle was threatened, Ellison fought back harder. He seemed to need an enemy.
+
+### 05_cap5
+Ellison was famous for his friendship with Steve Jobs. They met in the nineteen eighties, and they shared a love of design, and a taste for large ideas. In nineteen ninety-seven, when Jobs returned to Apple, Ellison joined its board, and he offered to help to buy the company if the board wanted him to lead a takeover. He said that he would rather see Jobs return.
+
+He was also a famous rival of Microsoft and Bill Gates. He mocked Microsoft in public, and he called for a different future, a small, cheap computer that would simply connect to the internet. The idea was too early, and it failed.
+
+In the two thousands, Ellison went on a spree of acquisitions. In two thousand and four, after an exhausting eighteen month fight, Oracle bought PeopleSoft, a business software company, for more than ten billion dollars. Then Siebel Systems, Hyperion, and BEA. In two thousand and ten, it bought Sun Microsystems for about seven billion dollars, which gave Oracle the Java language and the MySQL database.
+
+Each deal was a chess move. Oracle was no longer just a database company. It was a giant in business software, cloud services, and computer hardware, and one of the largest technology firms in the world.
+
+### 06_cap6
+Meanwhile, Ellison built a life that was as bold as his business. He owned fighter jets, which he flew himself. He bought huge houses, and a collection of yachts. He raced sailboats, and he ran a racing team for the America's Cup. In two thousand and ten, his team won the Cup for the first time, in a huge trimaran, off Valencia, in Spain.
+
+Then came the comeback in San Francisco, in two thousand and thirteen. His team was behind eight to one, and he did not let them give up. Ellison told the team to keep their heads. They made adjustments, learned how to fly the huge foiling boat, and they won the Cup, nine races to eight.
+
+In two thousand and twelve, he made a stunning purchase. He bought about ninety eight percent of the Hawaiian island of Lanai, for a reported three hundred million dollars. He said he wanted to turn it into a model of sustainable living.
+
+He was also married and divorced several times, and he was known as a flamboyant, controversial man. His critics said he was arrogant and ruthless. His admirers said he was simply honest about what he wanted.
+
+### 07_cap7
+In two thousand and fourteen, at the age of sixty-nine, Ellison stepped down as chief executive of Oracle, and handed the job to two co-leaders, Safra Catz and Mark Hurd. He remained the chairman and the chief technology officer, and the largest shareholder. He joined the board of Tesla in two thousand and eighteen, a friend and supporter of Elon Musk.
+
+The business he started with a loan of twelve hundred dollars grew into a company worth hundreds of billions. He became one of the five richest people in the world, with a fortune that reached into the hundreds of billions of dollars at times. He also became a major philanthropist, and he funded medical research, and created the Ellison Institute of Technology in Oxford, England.
+
+Oracle still sits at the heart of the digital world. Almost every time you book a flight, use a bank, or make a purchase online, your data passes through one of its databases.
+
+When people asked him about his secret, he said it was simple. He kept going when others quit, and he never accepted that something was impossible.
+
+### 08_lesson
+So what can we learn from Larry Ellison?
+
+The first lesson is to spot a good idea that others ignore. IBM had the relational database in its own lab, and did nothing. Ellison read the paper, and built a company on it. Opportunity often sits in plain sight.
+
+The second lesson is to move fast. Ellison shipped before the product was perfect, and fixed it later. Speed beats polish when the market is new.
+
+The third lesson is that a crisis can be a teacher. In nineteen ninety, Oracle nearly died, because the company sold faster than it could manage. He fixed the controls, and the company grew stronger than ever.
+
+And the last lesson is to hate the word impossible. Eight to one down, with the cup nearly gone, he still found a way to win.
+
+He started with a paper in a library. If this story inspired you, subscribe, and tell us in the comments which businessman we should cover next.

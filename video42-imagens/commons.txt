@@ -1,0 +1,20 @@
+a1|Larry Ellison portrait
+a2|Larry Ellison Oracle OpenWorld
+a3|Oracle headquarters Redwood Shores
+a4|Chicago South Side 1950s
+a5|Chicago 1950s apartment
+a6|Ampex 1960s tape recorder
+a7|IBM mainframe 1970s
+a8|Edgar Codd
+a9|Oracle Database 1980s
+a10|Silicon Valley 1970s
+a11|America's Cup 2013 San Francisco
+a12|Oracle Team USA AC72
+a13|BMW Oracle Racing trimaran 2010
+a14|Lanai Hawaii
+a15|Steve Jobs 1997
+a16|Sun Microsystems campus
+a17|PeopleSoft headquarters
+a18|University of Illinois Urbana 1960s
+a19|Oracle stock 1990
+a20|computer room 1970s database

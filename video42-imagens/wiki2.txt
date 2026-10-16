@@ -1,0 +1,14 @@
+chicago|South_Shore,_Chicago
+uillinois|University_of_Illinois_Urbana-Champaign
+uchicago|University_of_Chicago
+ibm|IBM
+database|Database
+networkcomputer|Network_computer
+catamaran|AC72
+valencia|Valencia
+sanfrancisco|San_Francisco_Bay
+oxford|Oxford
+redwoodshores|Redwood_Shores,_California
+dotcom|Dot-com_bubble
+yacht|Rising_Sun_(yacht)
+fighterjet|Aero_L-39_Albatros
