@@ -3,80 +3,61 @@ October, eighteen ninety-three. On the shore of Lake Michigan, in Chicago, a swi
 
 Nearly everyone assumes it is the work of the famous inventor, Thomas Edison. It is not. The power system behind the fair belongs to his greatest rival. A tall, bearded, restless businessman, who offered the lowest bid, and won the contract to light the largest fair in history.
 
-He was a farmer's son who had been told to give up. Banks refused him. Edison attacked him. Experts laughed at him. And yet he built an empire that brought electricity to every home in America.
-
-His name is George Westinghouse. And this is the story of the man who actually won the war of the currents.
+He was a farmer's son who had been told to give up. Banks refused him. Edison attacked him. And yet he built an empire that brought electricity to every home in America. His name is George Westinghouse. And this is the story of the man who actually won the war of the currents.
 
 ### 01_cap1
-George Westinghouse Junior was born on October sixth, eighteen forty-six, in Central Bridge, New York. His father owned a machine shop that built agricultural equipment, and George grew up among lathes, engines, and tools. The family later moved to the town of Schenectady, where the shop grew, and the boy spent every free hour among the machines. By the age of ten he could repair a broken engine on his own.
+George Westinghouse Junior was born on October sixth, eighteen forty-six, in Central Bridge, New York. His father owned a machine shop that built agricultural equipment, and George grew up among lathes, engines, and tools. He spent every free hour in the shop, and by the age of ten he could repair machines on his own.
 
-His father was a strict man, but he saw his son's talent, and he let him work in the shop. George was not a good student. He found schoolbooks boring, and he preferred to take things apart and put them together again. At fifteen, he built a small steam engine of his own.
+When the Civil War started, he was only fifteen. He ran away to join the Union army, but his father brought him back. At sixteen, he tried again, and enlisted in the cavalry. Later, he transferred to the Navy as an engineer.
 
-When the Civil War started, he was only fifteen. He ran away to join the Union army, but his father brought him back. At sixteen, he tried again, and enlisted in the cavalry. Later, he transferred to the Navy as an assistant engineer.
-
-After the war, he returned home and enrolled at Union College, but he lasted only three months. He had no interest in lectures. He wanted to invent. At nineteen, he made his first patent, a rotary steam engine. It was not a success, but it showed his talent, and an appetite for invention that never faded. In eighteen sixty-seven, he married Marguerite Walker, who would stand beside him for the rest of his life.
+After the war, he returned home and enrolled at Union College, but he lasted only three months. He had no interest in lectures. He wanted to invent. At nineteen, he made his first patent, a rotary steam engine. It was not a success, but it showed his talent, and an appetite for invention that never faded.
 
 ### 02_cap2
-The idea that made him famous came by accident. In eighteen sixty-nine, he was traveling on a train in New York when it stopped suddenly because of a wreck ahead. Two trains had collided head-on, and the crews had been unable to brake in time. Brakes at that time were handled by hand, with brakemen running along the roof of the cars, turning wheels one by one.
+The idea that made him famous came by accident. In eighteen sixty-nine, he was traveling on a train in New York when it stopped suddenly because of a wreck ahead. Two locomotives had collided head-on, and the crew had been unable to brake in time. Brakes at that time were handled by hand, with brakemen running along the roof of the cars, turning wheels.
 
-Westinghouse saw the problem at once. He imagined a brake using compressed air, controlled by the engineer, that would stop every car in the train at the same time. Experts laughed at him. A railroad tycoon, reportedly Cornelius Vanderbilt, told him that he had no time to waste on a fool who wanted to stop trains with wind.
+Westinghouse saw the problem at once. He imagined a brake using compressed air that could be controlled by the engineer. Experts laughed at him. A railroad tycoon, Cornelius Vanderbilt, reportedly told him that he had no time to waste on a fool who wanted to stop trains with wind.
 
-He was stubborn. He once said that he would never turn down a problem, because a problem was just an invention waiting to be born.
+He was stubborn. He once said that he would never turn down a problem, because a problem was just an invention waiting to be born. He also built the first real laboratory of his own, where young engineers worked on ideas that no company wanted.
 
-Westinghouse persisted. A railroad in Pittsburgh agreed to a trial, and he demonstrated the brake on a passenger train. The test was a success. As the train rolled along, a wagon suddenly appeared on the tracks. The engineer applied the brake, and the train stopped just a few feet before the wagon. He was twenty-two. He patented the air brake in eighteen sixty-nine, and founded the Westinghouse Air Brake Company in Pittsburgh.
+Westinghouse persisted. He built a prototype, and demonstrated it on a train in Pittsburgh. The test was a success, when the engineer braked just before a wagon crossed the tracks. He was twenty-two. He patented the air brake in eighteen sixty-nine, and founded the Westinghouse Air Brake Company.
 
 ### 03_cap3
-Railroads adopted the air brake because it made trains safer, and soon it became the standard around the world. Over the next years, he improved it, creating an automatic version that stopped the train on its own if a car came loose. Westinghouse became wealthy, but he was not satisfied. He continued to invent.
+Railroads adopted the air brake because it made trains safer, and soon it became the standard around the world. Westinghouse became wealthy, but he was not satisfied. He continued to invent. He developed railroad signals, which prevented crashes. He improved natural gas distribution, and he invented a system to bring gas safely into houses.
 
-He developed railroad signals, which prevented crashes, and a system of switches that let a signalman control a whole yard. He founded a company, Union Switch and Signal, to build them. He also turned to natural gas. He drilled a gas well in his own backyard in Pittsburgh, and then he invented a system to bring gas safely into houses, with pressure regulators that prevented explosions.
+Westinghouse was unusual among tycoons. He treated his workers well. He introduced a half-day on Saturday, years before other factories. He built a model town for his employees, with houses and gardens. He offered pensions, and he paid fair wages. He once said that a man who works for you is not a machine, but a partner.
 
-Westinghouse was unusual among tycoons. He treated his workers well. He introduced a half-day on Saturday, years before other factories did. He built a model town for his employees, with houses and gardens. He offered pensions, and he paid fair wages. He once said that a man who works for you is not a machine, but a partner.
-
-In the eighteen eighties, he turned his attention to electricity. He had read about the work of Thomas Edison, but he also knew its limits. Edison's direct current system could only supply a small area, about a mile around the power station. Westinghouse believed that alternating current could be transmitted for miles, at high voltage, and reduced to safe levels at the customer's door.
+In the eighteen eighties, he turned his attention to electricity. He had read about the work of Thomas Edison, but he also knew its limits. Edison's direct current system could only supply a small area. Westinghouse believed that alternating current could be transmitted for miles, at high voltage, and reduced to safe levels at the customer's door.
 
 ### 04_cap4
-He hired a young engineer, William Stanley, who built a working transformer system. In eighteen eighty-six, in the town of Great Barrington, Massachusetts, they lit up the main street with alternating current. It was the first demonstration of its kind. That same year, Westinghouse founded the Westinghouse Electric Company.
+He hired a young engineer, William Stanley, who built a working transformer system. Then he bought the patents of a brilliant inventor from Serbia, Nikola Tesla, who had developed the alternating current motor. He paid Tesla cash and stock, plus a royalty on every horsepower of alternating current sold.
 
-Then he bought the patents of a brilliant inventor from Serbia, Nikola Tesla, who had developed the alternating current motor. He paid Tesla cash and stock, plus a royalty on every horsepower of alternating current sold.
-
-Edison was furious. For years, the two men fought a bitter battle, which became known as the war of the currents. Edison's allies spread fear, claiming that alternating current was deadly. They electrocuted animals in public, and pushed to use alternating current in the first electric chair, in eighteen ninety. Westinghouse hated the campaign, and he refused to sell generators to the state for the chair. But the state bought them secretly through a third party.
+Edison was furious. For years, the two men fought. Edison's allies spread fear, claiming that alternating current was deadly. They electrocuted animals in public, and pushed to use alternating current in the first electric chair. Westinghouse hated the campaign, and he refused to sell generators to the state for the chair. But the state bought them secretly through a third party.
 
 At the same time, Westinghouse faced a financial crisis. In eighteen ninety, his company was low on cash, and the panic of the next year hit hard. The royalty contract with Tesla was draining his funds. He asked Tesla to release him from it. According to the famous story, Tesla tore up the contract out of gratitude, giving up royalties that would have been worth a fortune.
 
 ### 05_cap5
 In eighteen ninety-three, Westinghouse won the contract for the World's Columbian Exposition in Chicago. He had underbid General Electric by nearly half. The company provided power for a hundred thousand lamps. It was the biggest electrical display the world had ever seen, and it proved that alternating current was safe and practical.
 
-Then came an even bigger project. A group of investors wanted to harness the power of Niagara Falls. After years of debate, they chose alternating current, and they chose Westinghouse. In eighteen ninety-five, his company installed enormous generators at Niagara, designed with Tesla's patents. The next year, the plant sent electricity twenty-six miles to the city of Buffalo, New York. Other cities soon copied the system.
+Then came an even bigger project. In eighteen ninety-five, Westinghouse built the first great hydroelectric power plant at Niagara Falls, which sent electricity twenty-six miles to the city of Buffalo, New York. Other cities soon copied the system.
 
 The war of the currents was over. Alternating current had won. Today, almost every electrical outlet in the world uses it. Edison's company, now merged into General Electric, switched to alternating current too.
 
-Westinghouse's company grew into an industrial giant. It built turbines, generators, motors, and electric trains. By the early twentieth century, it employed tens of thousands of workers around the world, and its steam turbines powered ships and power stations.
+Westinghouse's company grew into an industrial giant. It built turbines, generators, motors, and electric trains. By the early twentieth century, it employed tens of thousands of workers around the world.
 
 ### 06_cap6
-But the end of his career was cruel. In the panic of nineteen oh seven, a financial crisis shook Wall Street. Westinghouse's company ran out of cash, and bankers forced him out of the firm he had founded. He was sixty years old. They pushed him aside, and took control.
+But the end of his career was cruel. In the panic of nineteen-oh-seven, a financial crisis shook Wall Street. Westinghouse's company ran out of cash, and bankers forced him out of the firm he had founded. He was sixty years old. They pushed him aside, and took control.
 
-He did not retire. He started a smaller company, and continued to invent, working on steam turbines, gears, and a shock absorber for cars. But his health declined. He died on March twelfth, nineteen fourteen, at the age of sixty-seven. His wife Marguerite died just three months later.
+He did not retire. He started a smaller company, and continued to invent, working on steam turbines and gears. But his health declined. He died on March twelfth, nineteen fourteen, at age sixty-seven. His wife Marguerite died just three months later.
 
 He was buried in Arlington National Cemetery, as a veteran of the Civil War. At the time of his death, he held more than three hundred patents.
 
 He was remembered, too, for the quiet way he lived. He disliked publicity, and he never wrote a memoir. His employees, many of whom stayed with him for decades, said that he knew the name of every foreman in his plants. When he left the company, workers lined the street to say goodbye.
 
-### 07_cap7
-His legacy has outlived the man. In nineteen twenty, six years after his death, a Westinghouse engineer in Pittsburgh started the world's first commercial radio station, KDKA, and broadcast the results of a presidential election. The company went on to build household appliances, nuclear reactors, and elevators.
+Westinghouse's name lives on. The company he founded became a symbol of American industry. Though its glory days are over, its inventions, the air brake and the alternating current system, continue to shape the world.
 
-Westinghouse's name lives on. The company he founded became a symbol of American industry. Though its glory days are over, its inventions, the air brake and the alternating current system, continue to shape the world. Every time a train stops safely, and every time you plug in a lamp, you are using his ideas.
+### 07_lesson
+George Westinghouse's story holds two lessons. The first is that the best idea does not always win through marketing. Edison was the more famous inventor, but Westinghouse had the better technology, and it won in the end.
 
-There is a memorial to him in Schenley Park, in Pittsburgh, built with donations from thousands of the men and women who worked for his companies.
+The second is that how you treat people matters. He built a company known for fairness, and Tesla was loyal to him until the end. In a ruthless age, he proved that a gentleman could also build an empire.
 
-### 08_lesson
-So what can we learn from George Westinghouse?
-
-The first lesson is that the best idea does not always win through marketing. Edison was the more famous inventor, but Westinghouse had the better technology, and it won in the end. Patience and engineering beat noise.
-
-The second lesson is to treat a problem as an invention waiting to be born. A wreck on a train gave him the air brake. A crowded city gave him alternating current. He looked at what annoyed people, and he solved it.
-
-The third lesson is that how you treat people matters. He built a company known for fairness, and Tesla was loyal to him until the end. In a ruthless age, he proved that a gentleman could also build an empire.
-
-And the last is a warning. Westinghouse grew too fast, and borrowed too much, and in the end, the bankers took his company. Even the best inventor must respect cash.
-
-If you enjoyed this story, subscribe, and tell us in the comments which businessman we should cover next.
+If you enjoyed this story, subscribe, because tomorrow at six, another file opens.

@@ -1,20 +1,26 @@
-a1|Marshall Field portrait
-a2|Marshall Field store State Street 1890
-a3|Marshall Field's clock State Street
-a4|Great Chicago Fire 1871
-a5|Chicago ruins 1871
-a6|Chicago State Street 1880
-a7|Marshall Field building 1902
-a8|Marshall Field wholesale store Chicago
-a9|Field Museum 1893 building
-a10|Conway Massachusetts 19th century
-a11|Pittsfield Massachusetts 1850
-a12|Chicago 1856 street
-a13|Potter Palmer
-a14|Walnut Room Marshall Field
-a15|Marshall Field's Tiffany mosaic dome
-a16|Chicago World's Columbian Exposition 1893
-a17|Fort Sheridan
-a18|Marshall Field's Christmas window
-a19|Chicago 1890 department store interior
-a20|Frango mints
+m1|Marshall Field portrait
+m2|Marshall Field photograph
+m3|Marshall Field old
+conway|Conway Massachusetts
+pittsfield|Pittsfield Massachusetts 1850
+chicago1856|Chicago 1856
+cooley|Cooley Wadsworth dry goods Chicago
+palmer|Potter Palmer
+leiter|Levi Leiter
+fieldleiter|Field Leiter and Company
+state|State Street Chicago 1870
+fire|Great Chicago Fire 1871
+fire2|Chicago after the fire 1871
+barn|Field Leiter streetcar barn 1871
+mfield|Marshall Field and Company building
+clock|Marshall Field clock State Street
+walnut|Walnut Room Marshall Field
+tiffany|Tiffany mosaic ceiling Marshall Field
+fair|World's Columbian Exposition 1893
+museum|Field Museum of Natural History
+sheridan|Fort Sheridan
+univ|University of Chicago 1900
+nannie|Nannie Scott Field
+mfieldjr|Marshall Field Jr.
+frango|Frango mints
+macys|Macy's State Street Chicago
