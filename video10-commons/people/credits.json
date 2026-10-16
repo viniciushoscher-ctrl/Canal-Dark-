@@ -35,6 +35,13 @@
   "author": "Harris &amp; Ewing, photographer"
  },
  {
+  "file": "video10-commons/people/coolidge.jpg",
+  "wiki": "Calvin_Coolidge",
+  "image": "President_Calvin_Coolidge,_1924_portrait_photograph_(3x4_cropped_2).jpeg",
+  "license": "Public domain",
+  "author": "Harris &amp; Ewing"
+ },
+ {
   "file": "video10-commons/people/hoover.jpg",
   "wiki": "Herbert_Hoover",
   "image": "President_Hoover_portrait.jpg",
@@ -59,15 +66,15 @@
   "file": "video10-commons/people/ailsa.jpg",
   "wiki": "Ailsa_Mellon_Bruce",
   "image": "Alisa_Mellon,_5-16-23_LOC_npcc.08535_(cropped)_(cropped).jpg",
-  "license": "Public domain",
-  "author": "National Photo Company Collection"
+  "license": "",
+  "author": ""
  },
  {
   "file": "video10-commons/people/logo.jpg",
   "wiki": "Mellon_Financial",
   "image": "Pittsburgh-mellon-center-2007-night.jpg",
-  "license": "",
-  "author": ""
+  "license": "Public domain",
+  "author": "Derek Jensen (Tysto)"
  },
  {
   "file": "video10-commons/people/ng.jpg",
