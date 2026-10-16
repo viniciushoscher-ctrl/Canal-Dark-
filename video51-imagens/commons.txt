@@ -1,0 +1,20 @@
+a1|Mayer Amschel Rothschild portrait
+a2|Nathan Mayer Rothschild portrait
+a3|Frankfurt Judengasse 18th century
+a4|Battle of Waterloo painting
+a5|Royal Exchange London 19th century
+a6|Rothschild bank New Court London
+a7|Waddesdon Manor
+a8|Chateau Lafite Rothschild
+a9|Suez Canal 1869 opening
+a10|early railway 1840s locomotive
+a11|Benjamin Disraeli portrait
+a12|Duke of Wellington portrait
+a13|Napoleon Bonaparte painting
+a14|Rothschild family five brothers
+a15|Lionel de Rothschild House of Commons
+a16|Vienna 19th century Rothschild palace
+a17|gold coins 18th century
+a18|carrier pigeon 19th century
+a19|Paris Bourse 19th century
+a20|Rothschild coat of arms five arrows
