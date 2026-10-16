@@ -28,6 +28,13 @@
   "author": "Brady-Handy Photograph Collection, Library of Congress"
  },
  {
+  "file": "video6-commons/people/helen.jpg",
+  "wiki": "Helen_Miller_Gould",
+  "image": "Helen_Miller_Gould_Shepard_in_1915.jpg",
+  "license": "Public domain",
+  "author": "Bain"
+ },
+ {
   "file": "video6-commons/people/george.jpg",
   "wiki": "George_Jay_Gould_I",
   "image": "George_Jay_Gould_cph.3b12036.jpg",
@@ -54,12 +61,5 @@
   "image": "Western_Union_Telegraph_Building_lithograph.jpg",
   "license": "Public domain",
   "author": "The Hatch Lith. Co. 32 &amp; 34 Vesey St., N.Y."
- },
- {
-  "file": "video6-commons/people/cyrus.jpg",
-  "wiki": "Cyrus_West_Field",
-  "image": "CyrusField4.jpg",
-  "license": "Public domain",
-  "author": "Napoleon Sarony"
  }
 ]
