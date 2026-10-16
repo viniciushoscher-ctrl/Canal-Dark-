@@ -1,0 +1,114 @@
+# hookmontage
+fotos/a3_0
+fotos/a27_1
+fotos/a27_3
+fotos/a20_2
+wiki/chrysler_2
+wiki/vanalen_0
+wiki/wall40_1
+fotos/a24_3
+wiki/oelwein_0
+wiki/locomobile_4
+wiki/airflow_1
+fotos/a28_0
+wiki/greatdep_1
+wiki/alco_5
+# hook
+fotos/a3_0
+wiki/wall40_1
+fotos/a27_1
+fotos/a4_0
+fotos/a20_2
+# cap1
+wiki/ellis_3
+wiki/ellis_2
+wiki/unionpacific_0
+wiki/unionpacific_2
+wiki/locomotive_8
+wiki/locomotive_2
+wiki/machinist_3
+fotos/a16_0
+fotos/a16_1
+wiki/ellis_1
+# cap2
+wiki/oelwein_0
+wiki/chicagogw_3
+wiki/chicagogw_4
+wiki/chicagogw_5
+wiki/chicagogw_6
+wiki/locomobile_4
+wiki/locomobile_5
+wiki/locomobile_3
+wiki/locomobile_8
+wiki/locomobile_6
+fotos/a30_0
+# cap3
+wiki/alco_8
+wiki/alco_3
+wiki/alco_7
+fotos/a17_0
+wiki/nash_1
+wiki/buick_4
+wiki/buick_5
+wiki/buick_3
+wiki/buick_9
+wiki/durant_0
+fotos/a1_0
+# cap4
+wiki/willys_9
+wiki/willys_2
+wiki/willys_3
+wiki/willys_5
+wiki/maxwell_3
+wiki/maxwell_4
+wiki/maxwell_5
+wiki/elizabeth_2
+fotos/a7_0
+fotos/a14_0
+fotos/a10_0
+# cap5
+fotos/a13_0
+wiki/plymouth_0
+wiki/desoto_9
+wiki/desoto_6
+wiki/dodge_0
+wiki/dodge_1
+fotos/a19_0
+fotos/a19_1
+wiki/timemag_0
+fotos/a25_0
+fotos/a2_0
+fotos/a10_1
+# cap6
+wiki/vanalen_1
+wiki/chryslerbldg_3
+fotos/a6_3
+fotos/a6_0
+fotos/a5_3
+fotos/a4_1
+wiki/chryslerbldg_2
+wiki/wall40_0
+wiki/wall40_2
+fotos/a27_0
+wiki/empirestate_0
+# cap7
+wiki/greatdep_0
+wiki/greatdep_3
+wiki/greatdep_4
+wiki/airflow_0
+wiki/airflow_6
+fotos/a12_1
+fotos/a12_0
+wiki/greatneck_2
+wiki/greatneck_0
+wiki/chryslerbldg_8
+wiki/nyc1930_8
+# lesson
+wiki/chrysler_2
+fotos/a2_1
+wiki/machinist_0
+wiki/alco_4
+fotos/a3_1
+wiki/chryslerbldg_0
+fotos/a24_2
+wiki/skyscraper_9
