@@ -17,3 +17,4 @@ async def main():
     for i in range(0,len(parts),2):
         await run(parts[i],parts[i+1])
 asyncio.run(main())
+# run 1792163467
