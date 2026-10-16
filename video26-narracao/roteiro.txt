@@ -1,59 +1,55 @@
 ### 00_hook
-Eighteen sixty-three. A forty-one-year-old hardware merchant stands in a muddy street in Sacramento, California, holding a stack of surveying drawings. Nearly every banker in the city has told him that his plan is insane. He wants to build a railroad over the Sierra Nevada, the highest, snowiest mountain range in the American West, with a few thousand dollars and three business partners.
+Sacramento, California, eighteen sixty. In a small hardware store, four men sit around a table, and listen to an engineer unroll a map. He claims that a railroad can be built across the Sierra Nevada, one of the hardest mountain ranges in America. Almost everyone in the city thinks he is a dreamer. One of the four, a hardware merchant, decides to believe him.
 
-He has no engineering degree. He has no military connections. He is short, stubborn, and famously frugal. He has a deep voice, a fierce will, and a talent that almost no one else on the continent has: he can talk a stranger out of his last dollar, and make him believe it was his idea.
+He will spend the next forty years building railroads, ships, and an empire. He will be called a genius, and a villain, and both of them will be true.
 
-His name is Collis Huntington. In the next thirty years he will build the Central Pacific, the Southern Pacific, and a railroad empire stretching from the Pacific to the Atlantic. And he will be hated by half of California. This is the story of the most feared railroad man in America.
+His name is Collis Huntington. And this is the story of the hardware merchant who built the Southern Pacific.
 
 ### 01_cap1
-Collis Potter Huntington was born on October twenty-second, eighteen twenty-one, in Harwinton, Connecticut. He was the sixth of nine children of a poor tinsmith and farmer. The family could not afford to educate him. At fourteen, he left school to work on a neighbor's farm for seven dollars a month.
+Collis Potter Huntington was born on October twenty-second, eighteen twenty-one, in Harwinton, Connecticut. He was one of nine children, in a poor farming family. At fourteen, he left school to work, and he started selling small goods as a peddler, traveling from town to town.
 
-Huntington was a born trader. At sixteen, he became a peddler, carrying watches and clocks from town to town. He walked the roads of Connecticut and New York, and learned to read customers, to bargain, and to collect debts. He lived on almost nothing, and saved every penny.
+He was a careful, tough worker. He saved his money, and he learned how to bargain. He opened a small business in Oneonta, New York, and slowly grew his savings. He did not drink, and he did not waste a dollar.
 
-By his early twenties, he had saved a few thousand dollars. He set up a small store in Oneonta, New York, with his brother. But then he heard about gold in California.
+In eighteen forty-nine, news of gold in California spread, and Huntington caught the fever. But he had a different idea from most. He would not dig for gold, he would sell to those who did.
 
 ### 02_cap2
-In eighteen forty-nine, Huntington set out for California. The trip, by way of Panama, was dangerous. He was stranded for months in the Panama jungle, where he carried supplies across the isthmus, and bought and sold goods. In his spare time he was a bargain-hunter, trading with travelers. He reached San Francisco in August eighteen fifty, with more money than when he left.
+He sailed from New York to Panama, and crossed the jungle, in a terrible, dangerous journey. It took months. He stopped in Panama, and made money selling goods to travelers who were waiting for a ship. He reached Sacramento, and in eighteen fifty-five, he opened a hardware store with a partner named Mark Hopkins.
 
-He did not go to the mines. Instead, he and his friend Mark Hopkins opened a hardware store in Sacramento, selling picks, shovels, and tools to prospectors. It was a smart move. Few miners struck it rich, but all of them needed equipment. The store became a thriving business.
+The business was a success. The miners needed picks, shovels, and nails, and Huntington and Hopkins supplied them. They were thrifty, honest, and suspicious of risk. Their store became one of the best known in the city.
 
-His weapon was patience. When others lost nerve, he sat in an office and waited, writing letter after letter. He once said that a man could do anything if he refused to quit, and he practiced it every day, even during the worst financial panics, when other tycoons sold out in fear.
-
-Huntington was a hard negotiator, and a frugal man. His partner Hopkins was even more frugal. They said Hopkins would argue over a penny. Together they made a fortune of several hundred thousand dollars, and gained respect.
+Then in eighteen sixty, an engineer named Theodore Judah came to them. He had surveyed a route through the Sierra, and he needed backers.
 
 ### 03_cap3
-In eighteen sixty, a young engineer named Theodore Judah walked into Huntington's store, with a plan for a railroad across the Sierra. Many people had listened to him, and none had acted. Huntington listened carefully. He understood the mountain of risk, but he also saw the reward. The government was ready to subsidize a transcontinental line.
+Huntington listened to Judah, and checked the numbers, and he did not trust anyone's word. But he saw that the survey was real. Together with Hopkins, Leland Stanford, and Charles Crocker, he formed the Central Pacific Railroad. They would later be known as the Big Four.
 
-He gathered three friends: Hopkins, Charles Crocker, and Leland Stanford. They were the Big Four. Each put in a small amount of money. Crocker would build. Stanford would be the public face. Hopkins would keep the books. And Huntington would go to Washington and get the money.
+Huntington's job was the hardest. While Stanford was governor, and Crocker supervised the construction, Huntington went to Washington, and to New York, to raise money, buy iron, and win favors from Congress. He used lobbying and favors to obtain government loans, and he was very good at it.
 
-It was the most important job. Huntington traveled to Washington in eighteen sixty-one, a stranger with a satchel of maps. For months he lobbied Congress, meeting senators, flattering the powerful, and handing out favors. He won the Pacific Railway Act in eighteen sixty-two. Then, with the help of Abraham Lincoln, he secured the loans.
+In eighteen sixty-nine, the Central Pacific met the Union Pacific in Utah. The first transcontinental railroad was finished.
 
 ### 04_cap4
-During the years of construction, Huntington spent most of his time in the East. He bought iron rails, locomotives, and supplies. He negotiated with banks and manufacturers, while the war made prices soar. He lived in a small hotel room, and counted every nickel.
+For many men, that would have been enough. Huntington wanted more. He built the Southern Pacific, a railroad that ran from California across the Southwest. In eighteen eighty-three, it reached New Orleans, and gave the Big Four a route across the whole southern edge of the country.
 
-He was constantly worried about cash. Whenever the Central Pacific ran short of money, he bargained for delays, or borrowed on his own credit. He once persuaded a rail supplier to wait for payment by telling him that the company was on the brink of success. It was not true, but it worked.
+He also looked east. He took control of the Chesapeake and Ohio Railway, which carried coal from West Virginia to the sea. At the end of the line, in Virginia, he founded a town, and a shipyard.
 
-His letters to Hopkins reveal his personality. They are blunt, anxious, and savage. He constantly demanded speed, cheaper labor, and bigger profits. When the railroad was finally completed in eighteen sixty-nine, he wrote that it was a good job well done. But he was already planning the next one.
+That shipyard was Newport News Shipbuilding, which he started in eighteen eighty-six. It grew into one of the greatest shipyards in the world, and it still builds aircraft carriers for the United States Navy.
 
 ### 05_cap5
-After the transcontinental line, Huntington looked south. He pushed the Southern Pacific across Arizona and New Mexico, to Texas. He bought up rivals, and in the eighteen eighties, he built a line through the Deep South to New Orleans. He also built a railroad from Virginia to the Ohio River, the Chesapeake and Ohio. He even bought a shipyard in Newport News, Virginia, which became one of the greatest in the world.
+Huntington's methods made him many enemies. In California, farmers and small businessmen called the Southern Pacific the Octopus, because its tentacles reached into every part of their lives. The railroad charged high rates, and it controlled the legislature. He was famously blunt, and he did not hide it.
 
-The Chesapeake and Ohio line opened up the coal fields of West Virginia to the Atlantic, and Huntington's shipyard built warships for the US Navy. By the late eighteen nineties, a traveler could cross the whole continent on tracks that he owned or controlled, from San Francisco to Virginia.
+The most famous fight was over the Port of Los Angeles. Huntington wanted the Southern Pacific to control the harbor at Santa Monica, but the people of Los Angeles wanted a free harbor, at San Pedro. After years of struggle, in eighteen ninety-six, the government chose San Pedro, and Huntington lost.
 
-He fought constantly with competitors, with rival tycoons, and with the government. He used lobbying, bribes, and political favors. In eighteen seventy-five, the railroad and the city of San Francisco clashed over taxes. Newspapers published his private letters, which revealed the extent of his bribes. He defended them, saying that if you have to pay money to have the right thing done, it is only just and fair.
-
-Farmers and merchants hated him. Years later, the novelist Frank Norris published a famous book called The Octopus, which made the railroad a symbol of corporate greed. Huntington shrugged it off.
+It was a rare defeat. It also showed how much the public hated monopoly.
 
 ### 06_cap6
-His private life was complicated. His first wife, Elizabeth, died in eighteen eighty-three. Soon after, he married Arabella, a wealthy widow with a mysterious past, who had long been his companion. She spent his money on art, and became one of the greatest collectors of her day.
+In his later years, Huntington lived in New York, in a large mansion on Fifth Avenue. He had married twice. His first wife Elizabeth died in eighteen eighty-three, and he married Arabella, who became a famous art collector.
 
-Huntington became wealthy beyond measure. By his death, he owned a fortune of about fifty million dollars. But he lived frugally. He ate simple meals, and took the trolley. He insisted on a lifetime of hard work, and said that a man had to love his job to succeed.
+Collis Huntington died on August thirteenth, nineteen hundred, at his camp in the Adirondack Mountains. He was seventy-eight. His nephew Henry Huntington inherited a part of his business, and later built a library and an art museum, in California.
 
-He died on August thirteenth, nineteen hundred, at his camp in the Adirondack Mountains, at age seventy-eight. His nephew Henry Huntington took over his transportation business, and later built the Huntington Library in California, where the great paintings and books of the family now rest.
+The railroad he built is now part of Union Pacific. The shipyard he founded is still working. And the Sierra route he financed is still the path of trains today.
 
 ### 07_lesson
-Collis Huntington's story holds two lessons. The first is that you do not have to be the engineer to build a railroad. Huntington knew that the person who controls the money, and the access to power, is just as important as the one who lays the track.
+Huntington teaches that the person who sells the shovels can win bigger than the person who digs. He was not the engineer, or the face of the company. He was the one who found the money, and made the deals.
 
-The second is that persistence beats pedigree. A poor boy from a Connecticut farm, with no education, built one of the largest fortunes in America. He did it by working harder, saving more, and bargaining longer than anyone else.
+He also teaches a hard lesson. Power without limits creates enemies, and eventually rules. Build something that lasts, but build it in a way that the public can live with.
 
-If you enjoyed this story, subscribe, because tomorrow at six, another file opens.
+If you enjoyed this story, subscribe, and tell us in the comments who we should cover next.
