@@ -1,10 +1,10 @@
-stock|stock market brokers
-office|business office 1950s
-omaha|Nebraska farm
-family|American family 1950s
-factory|factory production
-newspaper|newspaper printing press
-bank|bank
-money|money savings
-school|school classroom
-house|suburban home
+store|supermarket grocery store
+dime|five and dime variety store
+town|small town main street America
+truck|pickup truck rural
+shop|shoppers department store
+farm|Arkansas farm rural
+warehouse|warehouse distribution trucks
+retail|retail clerk customer
+military|army training camp 1942
+football|college football

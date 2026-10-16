@@ -1,10 +1,10 @@
-stock|stock market brokers
-office|business office 1950s
-omaha|Nebraska farm
-family|American family 1950s
-factory|factory production
-newspaper|newspaper printing press
-bank|bank
-money|money savings
-school|school classroom
-house|suburban home
+computer|computer data processing
+office|office machines typewriter
+tech|electronics laboratory
+phone|telephone switchboard
+plane|airplane travel
+student|college students
+factory|electronics factory
+city|city traffic seattle
+future|future technology
+tv|television broadcast
