@@ -1,0 +1,109 @@
+# hookmontage
+wiki/ford_5
+wiki/assembly_3
+wiki/sloan_1
+wiki/chevy1920_1
+wiki/detroit_5
+wiki/depression_1
+wiki/cad1920_4
+wiki/earl_0
+wiki/sitdown_3
+wiki/tanks_0
+fotos/a13_1
+wiki/modelt_2
+wiki/flint_2
+fotos/a1_2
+# hook
+wiki/ford_7
+wiki/assembly_0
+wiki/detroit_8
+wiki/chevy1920_0
+fotos/a1_0
+# cap1
+wiki/newhaven_3
+wiki/newhaven_4
+wiki/newhaven_0
+fotos/a1_2
+wiki/newhaven_7
+wiki/mitsloan_3
+wiki/mitsloan_6
+wiki/brooklyn_8
+# cap2
+wiki/hyatt_1
+wiki/hyatt_0
+wiki/hyatt_2
+wiki/newark_8
+wiki/detroit_1
+wiki/detroit_4
+fotos/a16_0
+fotos/a25_1
+fotos/a6_0
+fotos/a6_1
+# cap3
+wiki/durant_0
+fotos/a5_0
+wiki/oakland_6
+wiki/buick_4
+wiki/unitedmotors_0
+wiki/unitedmotors_1
+wiki/kettering_0
+wiki/kettering_1
+wiki/buickroad_0
+fotos/a1_1
+# cap4
+wiki/dupont_1
+fotos/a4_0
+fotos/a4_2
+wiki/detroit_2
+wiki/detroit_3
+wiki/detroit_9
+fotos/a25_2
+fotos/a25_0
+wiki/drucker_0
+fotos/a4_3
+# cap5
+wiki/chevy1920_2
+wiki/oakland_4
+wiki/oldsmobile_1
+wiki/buickroad_1
+wiki/cad1920_3
+wiki/cad1920_6
+wiki/cadillac_4
+wiki/cadillac_8
+fotos/a8_0
+fotos/a19_1
+fotos/a20_0
+wiki/annualmodel_0
+# cap6
+wiki/earl_4
+wiki/buick_7
+wiki/lasalle_4
+wiki/lasalle_9
+wiki/carstyling_7
+wiki/sitdown_0
+wiki/sitdown_2
+wiki/uaw_2
+wiki/uaw_1
+wiki/unions_1
+wiki/flint_3
+wiki/carstyling_8
+# cap7
+wiki/sloan_2
+fotos/a26_0
+wiki/sloankettering_8
+wiki/sloankettering_3
+wiki/sloankettering_4
+wiki/sloankettering_9
+wiki/tanks_5
+fotos/a27_0
+wiki/renaissance_9
+wiki/depression_0
+# lesson
+wiki/sloan_0
+wiki/ford_9
+wiki/ford_6
+fotos/a29_0
+wiki/gm_7
+fotos/a13_1
+wiki/earl_2
+wiki/wallstreet_1
