@@ -1,0 +1,13 @@
+bonds|Bond_(finance)
+trading|Trading_floor
+nyse|New_York_Stock_Exchange
+subway|New_York_City_Subway
+bikelane|Bike_lane
+school|New_York_City_Department_of_Education
+gracie|Gracie_Mansion
+citycouncil|New_York_City_Council
+termlimits|Term_limits_in_the_United_States
+computer1980|Mainframe_computer
+keyboard|Computer_keyboard
+dairy|Dairy
+republican|Republican_Party_(United_States)

@@ -1,0 +1,20 @@
+a1|Michael Bloomberg portrait
+a2|Michael Bloomberg mayor 2000s
+a3|Bloomberg terminal 1990
+a4|Bloomberg terminal keyboard
+a5|Wall Street trading floor 1970s
+a6|Salomon Brothers building
+a7|Medford Massachusetts 1950
+a8|Johns Hopkins University Gilman Hall
+a9|Harvard Business School 1960s
+a10|New York City 1980s skyline
+a11|New York mayor Bloomberg 2002
+a12|Bloomberg Tower 731 Lexington
+a13|September 11 2001 New York
+a14|New York subway 1980s
+a15|Bloomberg newsroom
+a16|Bloomberg 2020 campaign
+a17|New York City Hall
+a18|Bloomberg Philanthropies
+a19|New York Stock Exchange 1980
+a20|computer terminal 1980s trading

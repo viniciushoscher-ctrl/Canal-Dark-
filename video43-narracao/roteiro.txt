@@ -1,0 +1,84 @@
+### 00_hook
+August, nineteen eighty-one. A thirty-nine-year-old Wall Street partner walks into the office of his company as he does every morning, and is called into a meeting. The firm has just been sold. He is no longer needed. He is fired, with a check for ten million dollars, and a hand shake.
+
+He has been at Salomon Brothers for fifteen years. He is the head of trading and technology. He started as a clerk, and he worked until he made partner. Now everything he built is gone in one morning.
+
+Most people in that situation would take the money and look for another job. He does something different. He rents a small room, hires a handful of engineers, and builds a computer that no one has asked for. A machine that will give traders what they have always dreamed of, every price, every number, every news story, in one place, in seconds.
+
+Within a decade, nearly every important trader in the world would have his machine on their desks. And thirty years later, he would be the mayor of New York City. This is the story of Michael Bloomberg.
+
+### 01_cap1
+Michael Rubens Bloomberg was born on the fourteenth of February, nineteen forty-two, in Boston, Massachusetts. He grew up in a modest home in Medford, a middle class suburb. His father, William Henry Bloomberg, was a bookkeeper for a dairy company. His mother, Charlotte, was a housewife. They were Jewish, and they lived on a small budget. The family never had much, and his father worked hard to give his son an education.
+
+Young Michael was a quiet, serious boy. He was an Eagle Scout, and he worked after school in the neighborhood, as a parking attendant and as a worker in a restaurant. His mother taught him a lesson that he never forgot. Nothing in life is free. If you want something, you work for it.
+
+His father died in nineteen sixty-four, when Michael was twenty-two. It was a serious blow. William had never earned a large salary, and he had paid for his son's school. Michael graduated from Johns Hopkins University that year with a degree in electrical engineering. He then went to Harvard Business School, graduating in nineteen sixty-six, with an MBA. He carried debts, and he needed a job quickly.
+
+### 02_cap2
+In nineteen sixty-six, Bloomberg was hired by Salomon Brothers, a Wall Street firm that traded bonds and stocks. His first job was in the basement, in a section called the cage. He counted stock certificates, and filed paperwork. It was the lowest job in the building, and he did it with energy.
+
+He did not stay there long. He was curious, and he asked questions of everyone. He learned how the traders worked, and how the firm made money. He volunteered for extra work, he stayed late, and he made himself useful to the partners. He moved to the trading desk, and then to sales.
+
+By nineteen seventy-two, he was a partner at Salomon, at the age of thirty. He worked in the equity department, and became its head. He was a gifted manager. He listened to people, he kept the doors open, and he made sure everyone could see what the others were doing. He sat in the middle of an open floor, with no private office.
+
+But he also had a special interest. He saw that computers could transform trading. At that time, traders relied on paper reports and phone calls. Bloomberg pushed Salomon to build computer systems. He was put in charge of the firm's technology department. It was a hint of what was to come.
+
+### 03_cap3
+Then, in nineteen eighty-one, his world collapsed. A large commodity trading company, Phibro, bought Salomon Brothers. In the shake-up, Bloomberg was pushed aside. He was fired, at the age of thirty-nine, with a payoff of about ten million dollars, for his share of the partnership.
+
+He was shocked, but also free. He had a large sum of money, a great deal of knowledge about how traders thought, and a huge idea. He believed that he could build a system that would give Wall Street all the information it needed, instantly.
+
+In nineteen eighty-one, he founded a company called Innovative Market Systems, with three other former Salomon colleagues. They rented a small office, hired programmers, and started to work.
+
+His idea was simple, and bold. Traders needed to see financial data, prices, bond yields, and analysis, all in one place. They also wanted to run calculations on it. Existing services sold only raw numbers. Bloomberg would build a computer terminal that could display the data and also analyze it. It would be like having a team of analysts at every desk.
+
+He needed a customer. And he found the best one in the world. Merrill Lynch.
+
+### 04_cap4
+Merrill Lynch, one of the largest firms on Wall Street, was interested. Its managers saw the potential. In nineteen eighty-two, Merrill agreed to buy twenty-two terminals, and to invest about thirty million dollars in the new company, for a thirty percent share. It was the start.
+
+Bloomberg's engineers worked day and night. They built the first terminal in a small room, and they delivered it in nineteen eighty-two. It was a clunky machine, in a black box, with a keyboard of colored keys. But it worked, and it gave traders something that nobody else offered. Bond calculators. Price histories. News.
+
+Word spread. Other banks wanted the machine, and the company grew quickly. It had a clever business model. Customers did not buy the terminal. They leased it, for a flat monthly fee, which was high and didn't change. The more customers, the more money, with almost no extra cost. Years later, Bloomberg bought back the share that Merrill Lynch had taken.
+
+In nineteen ninety, he made another bold move. He launched Bloomberg News, a news service for the terminal, so his customers could see stories and prices side by side. Skeptics said that a news service from a computer company would never work. Soon, it had hundreds of reporters, and offices around the world.
+
+### 05_cap5
+By the end of the nineteen nineties, Bloomberg was the standard tool of finance. Every trader, banker, and fund manager had a Bloomberg terminal on the desk. Hundreds of thousands of people paid about two thousand dollars a month for the service. The company was worth billions, and Michael Bloomberg owned most of it.
+
+He ran the company in an unusual way. There were no private offices, not even for him. Everyone sat in an open space, near each other, with glass walls. He liked to say that people should talk to each other. He gave his employees free food, because he wanted them to stay in the office. He was famous for his rules and his demands. He expected total loyalty, and he insisted that every customer's call be answered.
+
+He also published a memoir, in nineteen ninety-seven, called Bloomberg by Bloomberg. In it, he explained the principles of the company. He was honest about his weaknesses, and he made fun of himself. He was a billionaire, but he still rode the subway, and he said he enjoyed it.
+
+He also gave away money. He gave to his alma mater, Johns Hopkins University, to hospitals, and to arts groups. He said that the point of making money was to give it back, and he gave away hundreds of millions of dollars in those years.
+
+### 06_cap6
+In two thousand and one, Bloomberg decided to try something new. He wanted to run for mayor of New York City. He had never held office, and he had no political base. He switched from the Democratic party to the Republican party, because the Democratic field was crowded, and he spent about seventy-four million dollars of his own money on the campaign.
+
+Then came the attacks of September eleventh. New York was in shock. The city needed a leader who could manage a crisis, and Bloomberg, a famous manager, seemed to fit. He won the election in November, with a narrow margin.
+
+He ran New York as he ran his company. He used data and measured results. He pushed for a ban on smoking in restaurants and bars, which angered many but reduced smoking rates. He improved the public school system, expanded bicycle lanes, and rebuilt neighborhoods. He gave the city a new system of fighting crime and fires, using numbers and maps. He gave away his salary of one dollar a year.
+
+He was reelected twice, and in two thousand and eight, he changed the city's term limits to allow himself a third term. Critics attacked this decision. But he served until two thousand and thirteen.
+
+### 07_cap7
+After he left office, Bloomberg returned to run his company. He also devoted himself to charity. Through Bloomberg Philanthropies, he gave money to fight smoking, to help cities fight climate change, and to improve public health. In two thousand and eighteen, he gave one point eight billion dollars to Johns Hopkins University, the largest gift ever made to a university in America. He has given away well over ten billion dollars in his lifetime.
+
+In two thousand and twenty, at the age of seventy-seven, Bloomberg launched a campaign for the Democratic nomination for president. He spent about a billion dollars of his own money on advertising, and he made a strong start. But his performance in the debates was weak, and he dropped out after only three months.
+
+He remains one of the richest people in the world, with a fortune estimated at close to one hundred billion dollars. And his company, Bloomberg L.P., is still at the center of global finance.
+
+He once said that he had been lucky, and that luck had given him a chance, which he took. But the secret of his success, he said, was that when the door closed, he opened a window.
+
+### 08_lesson
+So what can we learn from Michael Bloomberg?
+
+The first lesson is to start at the bottom and learn everything. He counted stock certificates in a basement, and became a partner at thirty. He did not despise the small jobs. He learned every part of the business.
+
+The second lesson is to turn a firing into a launch. He lost his job at thirty-nine, and he used the money and the freedom to start something new. A setback can be a beginning.
+
+The third lesson is to solve a problem that people really have. Traders did not ask for a terminal. But they needed data. Bloomberg gave it to them, and they paid whatever he asked.
+
+And the last lesson is to build a business with a steady subscription and total focus on the customer. The terminal made money every month, and the company never forgot who paid its bills.
+
+He started with a cage and a pile of paper. If this story helped you, subscribe, and tell us in the comments which businessman we should cover next.
