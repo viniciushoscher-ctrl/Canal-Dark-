@@ -1,0 +1,60 @@
+s000|Milton Hershey 1910s
+s001|Milton Hershey
+s002|Kitty
+s002|ship
+s003|Pennsylvania
+s004|Titanic
+s005|Atlantic
+s009|factory
+s011|America
+s014|Milton Snavely Hershey
+s014|Derry Township
+s014|Milton Hershey 1850s
+s015|German-speaking
+s015|Pennsylvania Dutch
+s016|Fanny
+s016|Mennonite
+s017|Henry
+s018|Henry Hershey
+s019|oil
+s021|Young Milton
+s025|German-language
+s025|newspaper
+s027|Milton
+s027|Lancaster
+s027|Milton Hershey 1870s
+s031|United States
+s031|Centennial Exposition
+s034|Philadelphia
+s037|Hershey
+s041|Milton Hershey 1880s
+s048|Denver
+s048|Colorado
+s053|Chicago
+s053|New Orleans
+s054|New York City
+s058|train
+s065|Lancaster Caramel Company
+s067|bank
+s070|An English
+s070|England
+s080|World Columbian Exposition
+s080|Milton Hershey 1890s
+s089|store
+s091|Swiss
+s093|Catherine Sweeney
+s099|Now Hershey
+s108|Hersheypark
+s121|Hershey Industrial School
+s127|Hershey Chocolate Company
+s130|stock 1920s
+s130|Milton Hershey 1920s
+s135|hotel
+s138|factory 1930s
+s138|Milton Hershey 1930s
+s141|United States Army
+s145|Called the Ration
+s146|hospital 1940s
+s146|Milton Hershey 1940s
+s149|Milton Hershey School
+s152|New York

@@ -1,0 +1,10 @@
+candy|candy making kitchen
+chocolate|chocolate factory
+cocoa|cocoa beans
+farm|Pennsylvania farm
+train|steam train
+depression|Great Depression breadline
+orphan|orphanage boys school
+trolley|trolley street car
+soldier|world war 2 soldiers
+amusement|amusement park
