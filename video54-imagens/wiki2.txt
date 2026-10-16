@@ -1,0 +1,8 @@
+boxster|Porsche_Boxster
+cayenne|Porsche_Cayenne
+jamesdean|James_Dean
+liberec|Liberec
+vienna|Vienna
+paris1900|Exposition_Universelle_(1900)
+forcedlabor|Nazi_use_of_slave_labor
+kdf|KdF-Wagen
