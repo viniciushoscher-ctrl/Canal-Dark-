@@ -1,0 +1,20 @@
+a1|Cosimo de Medici portrait Pontormo
+a2|Palazzo Vecchio Florence
+a3|Florence Cathedral dome Brunelleschi
+a4|Palazzo Medici Riccardi courtyard
+a5|Donatello David bronze
+a6|San Lorenzo Florence church
+a7|Florence 15th century map Chain
+a8|Medici coat of arms
+a9|Florentine florin gold coin
+a10|Renaissance bank money changers painting
+a11|Fra Angelico fresco San Marco
+a12|Lorenzo the Magnificent portrait
+a13|Marsilio Ficino
+a14|Medici Chapel Florence
+a15|Villa Medici Careggi
+a16|Venice San Giorgio Maggiore
+a17|Medici family Journey of the Magi Gozzoli
+a18|Peace of Lodi 1454
+a19|Florence Ponte Vecchio
+a20|Medici Library Laurentian
