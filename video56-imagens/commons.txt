@@ -1,0 +1,20 @@
+a1|Alfred Krupp portrait
+a2|Krupp factory Essen 19th century
+a3|Villa Hugel Essen
+a4|Krupp cannon 1860s steel gun
+a5|Krupp Crystal Palace 1851 steel block
+a6|Krupp three rings logo
+a7|Big Bertha howitzer 1914
+a8|Franco-Prussian War Sedan 1870
+a9|Krupp Essen steelworks 1900
+a10|Alfried Krupp Nuremberg trial
+a11|Krupp railway tire wheel
+a12|Krupp workers 1900 Essen
+a13|Essen Ruhr 1850 lithograph
+a14|Gustav Krupp von Bohlen und Halbach
+a15|Krupp steel works 1920s
+a16|Krupp Gruson tank 1930s
+a17|Friedrich Krupp portrait
+a18|Krupp colony workers houses Essen
+a19|Zollverein Essen
+a20|Krupp artillery shell factory

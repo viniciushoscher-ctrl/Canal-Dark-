@@ -1,0 +1,8 @@
+prussia|Kingdom_of_Prussia
+versailles|Treaty_of_Versailles
+forcedlabor|Forced_labour_under_German_rule_during_World_War_II
+wilhelm|Wilhelm_I,_German_Emperor
+bessemer|Bessemer_process
+krupparmor|Krupp_armour
+sheffield|Sheffield
+zeche|Zollverein_Coal_Mine_Industrial_Complex
