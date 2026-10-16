@@ -1,0 +1,20 @@
+a1|Phil Knight Nike founder
+a2|Phil Knight portrait
+a3|Bill Bowerman coach Oregon
+a4|Nike swoosh logo store
+a5|Nike store storefront
+a6|Nike headquarters Beaverton
+a7|Michael Jordan Chicago Bulls 1980s
+a8|Air Jordan 1 sneakers
+a9|waffle iron rubber shoe sole
+a10|Hayward Field Eugene track meet
+a11|1970s running boom jogging
+a12|Onitsuka Tiger shoes vintage
+a13|Kobe Japan 1960s
+a14|Portland Oregon 1960s
+a15|track and field mile race 1950s
+a16|Nike advertisement Just Do It
+a17|Tiger Woods Nike
+a18|sweatshop factory Vietnam sneakers
+a19|Shoe Dog Phil Knight book
+a20|Nike Air Max shoes

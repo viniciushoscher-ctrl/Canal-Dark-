@@ -1,0 +1,14 @@
+lebron|LeBron_James
+serena|Serena_Williams
+oregontrack|Hayward_Field
+santamonica|Santa_Monica,_California
+aerobics|Aerobics
+nba|National_Basketball_Association
+cleveland|Cleveland_High_School_(Portland,_Oregon)
+plymouth|Plymouth_Valiant
+nikegoddess|Nike_(mythology)
+beaverton|Beaverton,_Oregon
+olympic1972|1972_Summer_Olympics
+carolyn|Carolyn_Davidson
+bankoforegon|First_National_Bank_of_Oregon
+ronaldo|Cristiano_Ronaldo
