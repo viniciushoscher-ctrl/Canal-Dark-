@@ -1,0 +1,15 @@
+farm_1_0
+farm_0_0
+plains_0_0
+plains_2_0
+mountain_0_0
+mountain_1_0
+mountain_2_0
+locomotive_2_0
+steamboat_0_0
+snow_1_0
+snow_2_0
+stpaul_0_0
+train_1_0
+bridge_1_0
+bridge_2_0

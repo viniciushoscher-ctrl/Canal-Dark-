@@ -1,0 +1,8 @@
+chicago_0_0
+chicago_1_0
+store_1_0
+store_2_0
+shopper_1_0
+fabrics_0_0
+street_2_0
+counter_1_0
