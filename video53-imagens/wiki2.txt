@@ -1,0 +1,8 @@
+ferrari125|Ferrari_125_S
+colombo|Gioacchino_Colombo
+gonzalez|Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+silverstone|Silverstone_Circuit
+daytona|Ferrari_365_GTB/4
+bologna|Bologna
+turin|Turin
+influenza|1918_flu_pandemic

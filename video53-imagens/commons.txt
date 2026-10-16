@@ -1,0 +1,20 @@
+a1|Enzo Ferrari portrait
+a2|Enzo Ferrari 1950s
+a3|Ferrari prancing horse logo
+a4|Ferrari factory Maranello
+a5|Ferrari 125 S 1947
+a6|Alberto Ascari Ferrari 1952
+a7|Tazio Nuvolari Alfa Romeo
+a8|Mille Miglia 1950s race
+a9|Le Mans 24 hours 1960s Ferrari
+a10|Ford GT40 Le Mans 1966
+a11|Ferrari 250 GTO
+a12|Ferrari F40
+a13|Ferrari Testarossa
+a14|Modena Italy 1930s
+a15|Formula One 1950s Grand Prix
+a16|Alfa Romeo 1920s racing car
+a17|Ferrari Dino 246
+a18|Francesco Baracca airplane
+a19|Silverstone 1951 Ferrari
+a20|Ferrari Formula One 1960s
