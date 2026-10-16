@@ -1,0 +1,10 @@
+stock|stock market brokers
+office|business office 1950s
+omaha|Nebraska farm
+family|American family 1950s
+factory|factory production
+newspaper|newspaper printing press
+bank|bank
+money|money savings
+school|school classroom
+house|suburban home

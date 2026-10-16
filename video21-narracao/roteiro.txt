@@ -1,61 +1,55 @@
 ### 00_hook
-Two thousand eight. A rocket sits on a tiny island in the Pacific, called Omelek. It is the fourth attempt of a small company called SpaceX to reach orbit. The first three have failed. The company has run out of money, and the man who founded it has put in his last dollars. He has told his friends that if this launch fails, the company is finished.
+September twenty-eighth, two thousand eight. A man stands in a control room in the Pacific Ocean, watching a rocket climb into the sky. The last three launches of his company all ended in explosions. His money is almost gone. His electric car company is days away from bankruptcy. If this fourth rocket fails, both companies die, and so does his dream.
 
-At the same time, his electric car company, Tesla, is weeks away from bankruptcy. His marriage has ended. Newspapers call him a rich kid playing with rockets, and his friends are begging him to quit.
+The rocket reaches orbit. Three months later, NASA gives him a contract worth one point six billion dollars. And on Christmas Eve, he saves his car company with a last-minute deal.
 
-On September twenty-eighth, the rocket lifts off, and this time it reaches orbit. It becomes the first privately built liquid-fuel rocket to do so. That night, he cries with relief. His name is Elon Musk. And this is the story of how a man bet his entire fortune on two impossible dreams, nearly lost everything, and became the richest person on Earth.
+His name is Elon Musk. And this is the story of the man who bet everything, twice, and won.
 
 ### 01_cap1
-Elon Reeve Musk was born on June twenty-eighth, nineteen seventy-one, in Pretoria, South Africa. His father, Errol, was an engineer. His mother, Maye, was a dietitian and model. His parents divorced when he was a child, and Elon grew up mostly with his father, a decision he would later regret.
+Elon Reeve Musk was born on June twenty-eighth, nineteen seventy-one, in Pretoria, South Africa. His mother, Maye, was a model and a dietitian. His father, Errol, was an engineer. The marriage ended when Elon was about ten years old, and he went to live with his father, a choice he would later describe as a hard one.
 
-He was a shy, bookish boy. He read for ten hours a day, devoured encyclopedias, and taught himself to code. At twelve, he sold the source code of a video game called Blastar to a magazine for five hundred dollars. At school he was bullied so badly that he spent a week in the hospital after being thrown down a flight of stairs.
+He was a quiet, bookish child, who read for hours, sometimes ten hours a day. At about ten, he taught himself to program a computer. At twelve, he wrote a video game called Blastar, and sold the code to a magazine for about five hundred dollars.
 
-At seventeen, to escape South Africa and its military draft, Musk moved to Canada, and later to the University of Pennsylvania. He studied physics and economics. After graduation, he started a PhD at Stanford, but left after just two days, to join the internet boom.
+School was painful. He was bullied badly, and once he was beaten so severely that he ended up in the hospital. He wanted out. At seventeen, he left South Africa for Canada, with almost no money, to find his mother's relatives.
 
 ### 02_cap2
-He was also, by his own account, relentless with himself. He worked a hundred hours a week, and he lived for years on a dollar a day for food, to prove that a person could survive on little while building a business. In nineteen ninety-five, Musk and his brother Kimbal started a company called Zip2, which provided online city guides to newspapers. They slept in the office, and showered at the YMCA. In nineteen ninety-nine, Compaq bought Zip2 for three hundred and seven million dollars. Musk, at twenty-eight, received about twenty-two million.
+In Canada, he worked odd jobs. He cleaned out a boiler room. He worked on a farm. Then he studied at Queen's University, and later moved to the University of Pennsylvania, where he earned two degrees, one in economics and one in physics.
 
-He did not retire. He put almost all of the money into a new venture, an online bank called X dot com. It merged with a competitor, and became PayPal. After a power struggle, Musk was removed as CEO. But when eBay bought PayPal in two thousand two for one point five billion dollars, he collected about a hundred and eighty million.
+In nineteen ninety-five, he was accepted for a doctorate at Stanford. He lasted two days. The internet was exploding, and he did not want to watch it from a classroom. He quit, and started a company with his younger brother, Kimbal.
 
-By thirty-one, Musk was a multi-millionaire. Most people would have enjoyed it. Instead, he decided to use the money on the two things that he cared about most: making humanity a multi-planetary species, and ending the world's dependence on fossil fuels.
+The company was called Zip2. It built online city guides and maps for newspapers. The brothers slept in their small office and showered at the YMCA. In nineteen ninety-nine, Compaq bought Zip2 for about three hundred and seven million dollars. Elon was twenty-seven, and his share was about twenty-two million dollars.
 
 ### 03_cap3
-In two thousand two, Musk founded SpaceX. He wanted to reduce the cost of rockets by a factor of ten. He traveled to Russia to buy a used missile, but the Russians laughed and insulted him, and demanded millions. On the flight home, he did the math in his head. He realized that he could build a rocket himself, for a fraction of the price.
+Most people would have rested. Musk put almost all of the money into a new idea, an online bank called X dot com. In two thousand, it merged with a rival company, and became PayPal. Musk was pushed out as chief executive while he was on a flight to a honeymoon, but he kept his shares.
 
-Everyone told him he was crazy. Rocket science was the job of governments. The first rocket, the Falcon One, failed in two thousand six, and again in two thousand seven, and again in two thousand eight. By the third failure, SpaceX had almost no cash. Musk had spent about a hundred million dollars of his own money.
+In two thousand two, eBay bought PayPal for one point five billion dollars. Musk's share was about one hundred and seventy-five million dollars. He was thirty-one years old, and he was rich.
 
-Meanwhile, in two thousand four, he invested in an electric car startup called Tesla. He became its chairman, and later its CEO. The Roadster, in two thousand eight, was a sports car with a battery that went two hundred miles. But development was slow, costs exploded, and the company was running out of cash.
+Then he did something that his friends thought was crazy. He decided to build rockets. He had read that a rocket was thousands of times cheaper to build than it was to buy, because almost everything was thrown away after one use. He wanted to land them and use them again.
 
 ### 04_cap4
-December two thousand eight was the darkest month of his life. Tesla could not make payroll. SpaceX had one more rocket. Musk was going through a divorce. He was sleeping on friends' couches, and borrowing money from them to pay his personal bills.
+In March of two thousand two, he founded SpaceX, and put in about a hundred million dollars of his own money. Experts laughed. The engineers he hired were young, and the budget was small.
 
-Then, on September twenty-eighth, the fourth Falcon One reached orbit. A few months later, on Christmas Eve, NASA announced a contract for one point six billion dollars to resupply the International Space Station. SpaceX was saved. On the same day, Tesla closed a last-minute investment of just forty million dollars, hours before payroll would have bounced.
+In two thousand four, he also invested in a little car company called Tesla, and became its chairman. Soon he was running both companies, and paying for both.
 
-Musk later said that those days nearly broke him. He told an interviewer that he had been ready to give up, and that he had chosen to put every last dollar in, because anything less would have meant that neither company survived.
-
-The next ten years were a different battle. In two thousand ten, Tesla went public. In two thousand twelve, the SpaceX Dragon capsule became the first private spacecraft to dock with the station. In two thousand fifteen, one of its rockets landed upright on a pad, after launching. Nobody had ever done it before.
+Then the failures began. The first Falcon 1 rocket, in two thousand six, burned up seconds after liftoff. The second, in two thousand seven, did not reach orbit. The third, in August of two thousand eight, failed too. The financial crisis hit at the same moment. Tesla was running out of cash, and Musk was running out of his own. He later said that he had money for just one more try.
 
 ### 05_cap5
-Musk's rockets were now reusable. Where other rockets were thrown away after each flight, like a jumbo jet discarded after every trip, Falcon Nine boosters flew again and again. The cost of reaching orbit fell dramatically. In two thousand eighteen, he launched his own red Tesla Roadster into space, with a mannequin in a spacesuit at the wheel. The photograph went around the world.
+That was the launch on September twenty-eighth, two thousand eight. Falcon 1 reached orbit, and became the first privately built liquid-fuel rocket to do it. Two months later, NASA awarded SpaceX a contract worth one point six billion dollars to carry cargo to the International Space Station.
 
-Meanwhile, Tesla hit a wall known as production hell. The Model Three, a mass-market electric car, was so hard to build that Musk slept on the factory floor. Short sellers bet billions that Tesla would go bankrupt. But in two thousand twenty, the company delivered half a million cars, and turned an annual profit for the first time.
+Days before Christmas, Tesla was almost out of cash. On Christmas Eve, two thousand eight, investors agreed to put in new money, and Tesla survived by only a few days.
 
-Its stock soared. In two thousand twenty, Tesla became the most valuable car company in the world. By the end of two thousand twenty-one, Musk was the richest person on Earth, worth over three hundred billion dollars.
+From there, the climb began. Tesla went public in two thousand ten. In two thousand twelve, a SpaceX capsule docked with the space station. In December of two thousand fifteen, a Falcon 9 rocket landed upright after reaching space, something that many experts had called impossible.
 
 ### 06_cap6
-He kept making bold bets. In two thousand sixteen, he cofounded Neuralink to connect brains to computers. He founded The Boring Company to dig tunnels. And in two thousand twenty-two, he bought the social network Twitter for forty-four billion dollars, then renamed it X.
+The road stayed rough. In two thousand seventeen and two thousand eighteen, Tesla struggled to build its Model 3, and Musk slept at the factory. In two thousand twenty, Tesla became the most valuable car company in the world. In January of two thousand twenty-one, Musk became the richest person on Earth.
 
-Behind the achievements was a style of management that he called first principles. He asked engineers to ignore what had always been done, and to reduce a problem to its basic physics. A rocket, he said, is just metal, fuel, and labor, so why should it cost more than that?
+In October of two thousand twenty-two, he bought Twitter for forty-four billion dollars, a deal that drew as much criticism as praise. He also kept pushing Starship, a giant rocket meant to carry people to Mars.
 
-His methods have been controversial. Critics say that he overpromises, treats employees harshly, and makes erratic statements online. Regulators have investigated him many times. His political activity has divided public opinion.
-
-But even critics admit that he has done what most people said was impossible. SpaceX now launches more tonnage into orbit than the rest of the world combined. Starlink, its satellite network, provides internet to millions. And Tesla has pushed every other carmaker to go electric.
-
-Musk now speaks about colonizing Mars. He has said that he wants to die on Mars, but not on impact.
+He is a controversial man, and his critics are many. But few people in history have started or transformed so many industries, and few have risked so much money while doing it.
 
 ### 07_lesson
-Elon Musk's story holds two lessons. The first is to bet on the things you care about, and to keep betting even when the world says no. He invested nearly everything in two impossible companies, at the same time, and survived by only a few days.
+The lesson is simple, and it is not easy. Musk risked everything he had, not once, but twice, on ideas that most people called impossible. He did not win because he had no fear. He won because he kept going after three explosions, when quitting would have been reasonable.
 
-The second is that extreme ambition requires extreme persistence. Musk failed again and again, and he kept going. Whether you admire him or not, the story shows that the line between a visionary and a fool is often success.
+If a goal is worth chasing, expect failures, and decide in advance that they are not the end. The ones who win are often the ones who are still in the game after everyone else has left.
 
-If you enjoyed this story, subscribe, because tomorrow at six, another file opens.
+If this story gave you something to think about, subscribe, and tell us in the comments who we should cover next.
