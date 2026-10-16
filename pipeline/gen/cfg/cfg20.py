@@ -28,7 +28,6 @@ BRT = [b for b in BRT if b[1] is not None]
 PHOTOS = [
  ('his name is jeff bezos', 'people/bezos.jpg', '1964 –', 'JEFF BEZOS', 'the man who quit Wall Street for books', True, 0),
  ('a cuban immigrant named miguel bezos', 'fotos/miguel_0.jpg', '1960s', 'MIGUEL BEZOS', 'his adoptive father', True, 0),
- ('a circus unicyclist', 'fotos/unicycle_0.jpg', '1964', 'THE UNICYCLIST', 'his biological father', True, 0),
  ('princeton', 'fotos/princeton_0.jpg', '1986', 'PRINCETON', 'electrical engineering', True, 0),
  ('d e shaw', 'fotos/deshaw_0.jpg', '1990', 'D. E. SHAW', 'the Wall Street job he left', True, 0),
  ('his wife mackenzie', 'people/mackenzie.jpg', '1993', 'MACKENZIE BEZOS', 'the co-founder who drove', True, 0),
