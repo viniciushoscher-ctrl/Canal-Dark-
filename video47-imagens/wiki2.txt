@@ -6,3 +6,5 @@ losangeles|Los_Angeles
 wwii|World_War_II
 reading|Reading
 meteorology|Meteorology
+mungerb|Charles_T._Munger
+wescob|Wesco_Financial

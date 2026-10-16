@@ -18,3 +18,7 @@ a17|Geico gecko office
 a18|Poor Charlie's Almanack book
 a19|Santa Barbara California
 a20|Daily Journal Los Angeles
+a21|Charles Munger
+a22|Charlie Munger Daily Journal annual meeting
+a23|Charles T. Munger Berkshire vice chairman
+a24|Munger Warren Buffett Charlie
