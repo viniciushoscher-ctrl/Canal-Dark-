@@ -31,14 +31,26 @@
  },
  {
   "tag": "nyc",
+  "title": "File:Longines Chronicles with Leo Mates 1954 ARC-96010.ogv",
+  "dur": 686.986987,
+  "lic": "Public domain"
+ },
+ {
+  "tag": "nyc",
   "title": "File:Longines Chronicles with Admiral Arthur Dewey Struble 1953 ARC-96074.ogv",
   "dur": 730.463797,
   "lic": "Public domain"
  },
  {
-  "tag": "nyc",
-  "title": "File:Longines Chronicles with Leo Mates 1954 ARC-96010.ogv",
-  "dur": 686.986987,
+  "tag": "tv",
+  "title": "File:Camera Operators, Television, Video, & Film at My Next Move.webm",
+  "dur": 90.2,
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "tag": "tv",
+  "title": "File:Longines Chronicles with Admiral Arthur Dewey Struble 1953 ARC-96074.ogv",
+  "dur": 730.463797,
   "lic": "Public domain"
  }
 ]
