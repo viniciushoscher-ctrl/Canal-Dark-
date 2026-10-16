@@ -1,0 +1,20 @@
+a1|Jack Welch portrait
+a2|Jack Welch General Electric chairman
+a3|General Electric factory 1980s
+a4|General Electric logo building
+a5|Pittsfield Massachusetts 1960s
+a6|Peabody Massachusetts 1940s
+a7|plastics laboratory 1960s chemical engineer
+a8|General Electric appliances refrigerator 1950s
+a9|GE jet engine factory
+a10|RCA building New York
+a11|NBC studio 1980s
+a12|factory layoffs 1980s workers
+a13|Six Sigma
+a14|GE Capital headquarters Stamford
+a15|Fortune magazine cover
+a16|Jeff Immelt
+a17|Wall Street 1990s
+a18|Reg Jones General Electric
+a19|Stamford Connecticut
+a20|Rockefeller Center GE Building

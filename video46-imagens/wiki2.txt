@@ -1,0 +1,8 @@
+rockcenter|30_Rockefeller_Plaza
+appliance|Home_appliance
+jetengine|General_Electric_GE90
+lightbulb|Incandescent_light_bulb
+railroad|Railroad_conductor
+nuclear|Boiling_water_reactor
+sept11|September_11_attacks
+financialcrisis|Financial_crisis_of_2007%E2%80%932008
