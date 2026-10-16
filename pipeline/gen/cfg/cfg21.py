@@ -17,6 +17,12 @@ def FFg(tag, idx=0):
 BRT = [("compaq bought zip2 for three hundred", g_zip2, 5.5), ("one point six billion dollars", g_nasa, 5.5), ("the first rocket the falcon one failed", g_fail, 6.0),
        ("a rocket sits on a tiny island", FFg("rocket"), 5.5), ("dragon capsule", FFg("space"), 5.5), ("an electric car startup", FFg("car"), 5.5),
        ("slept on the factory floor", FFg("factory"), 5.5), ("satellite network", FFg("satellite"), 5.5), ("colonizing mars", FFg("mars"), 5.5), ("mission control", FFg("mission"), 5.0)] + MAPBRT
+AUTO = []
+if os.path.exists("autobrt.txt"):
+    for _l in open("autobrt.txt", encoding="utf-8"):
+        if "|" in _l:
+            _p, _f = _l.rstrip("\n").split("|", 1); AUTO.append((_p, g_foot(_f), 5.0))
+BRT = BRT + AUTO
 BRT = [b for b in BRT if b[1] is not None]
 #--PHOTOS
 PHOTOS = [
