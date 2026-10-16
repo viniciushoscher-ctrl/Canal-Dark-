@@ -1,0 +1,25 @@
+name: px
+on:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['pipeline/gen/run_px.txt', 'assets4/pixabay_footage.py']
+permissions:
+  contents: write
+jobs:
+  a:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        n: [14, 15, 16, 17, 18, 19, 20]
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install -y -qq ffmpeg
+      - env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: python3 assets4/pixabay_footage.py video${{ matrix.n }}-imagens/ia.txt video${{ matrix.n }}-footage-px || true
+      - if: always()
+        run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add video${{ matrix.n }}-footage-px && git commit -m "Clipes Pixabay V${{ matrix.n }} [skip ci]" && for i in 1 2 3 4 5 6; do git pull --rebase -q && git push && break; sleep $((RANDOM%8+3)); done
