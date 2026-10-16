@@ -1,0 +1,8 @@
+boston|Boston
+barnstable|Barnstable,_Massachusetts
+cudahy|Cudahy_Packing_Company
+morris|Nelson_Morris
+coldchain|Cold_chain
+sausage|Sausage
+pork|Pork
+methodist|Methodism

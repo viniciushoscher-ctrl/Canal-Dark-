@@ -1,0 +1,20 @@
+a1|Gustavus Swift portrait
+a2|Union Stock Yards Chicago 1900
+a3|Swift and Company packing plant Chicago
+a4|refrigerator railcar Swift ice
+a5|cattle drive Texas longhorns
+a6|Chicago meatpacking workers 1900
+a7|Swift premium ham advertisement
+a8|Cape Cod Sandwich Massachusetts 1800s
+a9|Chicago 1880s street
+a10|Upton Sinclair The Jungle
+a11|Chicago stockyards gate
+a12|butcher shop 1890s
+a13|railroad cattle cars 1880s
+a14|Swift branch house cold storage
+a15|Armour packing house
+a16|cattle slaughter 1900 Chicago hog
+a17|Boston Brighton cattle market
+a18|Great Plains cattle ranch 1880s
+a19|Chicago River 1890s
+a20|meat inspection 1906 Chicago
