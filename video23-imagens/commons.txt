@@ -1,25 +1,20 @@
-w1|George Westinghouse portrait
-w2|George Westinghouse photograph
-w3|George Westinghouse old
-w4|George Westinghouse 1890s
-central|Central Bridge New York
-airbrake|Westinghouse air brake
-wreck|railroad accident 1869
-vanderbilt|Cornelius Vanderbilt
-signal|railway signal Westinghouse
-town|Westinghouse Air Brake Company Wilmerding
-stanley|William Stanley transformer
-tesla|Nikola Tesla portrait
-edison|Thomas Edison portrait
-chair|electric chair 1890
-fair|World's Columbian Exposition 1893
-fair2|Columbian Exposition lights
-niagara|Niagara Falls power station 1895
-adams|Adams Power Plant Niagara
-buffalo|Buffalo New York 1896
-turbine|Westinghouse steam turbine
-marguerite|Marguerite Walker Westinghouse
-arlington|Westinghouse grave Arlington
-panic|Panic of 1907
-pittsburgh|Westinghouse Electric Pittsburgh
-ge|General Electric 1892
+a1|George Westinghouse portrait
+a2|George Westinghouse Pittsburgh
+a3|Westinghouse air brake 1870s
+a4|Westinghouse Electric factory East Pittsburgh
+a5|Niagara Falls power plant 1895
+a6|World's Columbian Exposition night 1893
+a7|Great Barrington 1886
+a8|Westinghouse transformer 1890s
+a9|steam locomotive 1870
+a10|Pittsburgh 1900
+a11|railroad accident 1860s
+a12|Westinghouse Memorial Schenley Park
+a13|Tesla induction motor Westinghouse
+a14|Adams power station Niagara generators
+a15|Westinghouse Air Brake factory Wilmerding
+a16|Edison Menlo Park
+a17|KDKA 1920 radio
+a18|electric chair 1890
+a19|Union Switch Signal Swissvale
+a20|Civil War cavalry 1863
