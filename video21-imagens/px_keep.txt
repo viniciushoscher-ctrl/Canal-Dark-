@@ -1,0 +1,11 @@
+africa_1_0
+computer_0_0
+computer_2_0
+factory_0_0
+factory_1_0
+internet_0_0
+money_0_0
+school_0_0
+rocket_1_0
+space_0_0
+electric_2_0

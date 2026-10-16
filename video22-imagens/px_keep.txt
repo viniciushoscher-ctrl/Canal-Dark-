@@ -1,0 +1,10 @@
+lamp_0_0
+lamp_1_0
+lamp_2_0
+phono_0_0
+phono_1_0
+phono_2_0
+train_1_0
+lab_1_0
+newspaper_2_0
+film_2_0
