@@ -1,0 +1,117 @@
+# hookmontage
+fotos/a1_0
+wiki/election_9
+wiki/election_0
+fotos/a18_1
+fotos/a17_3
+wiki/crash_1
+wiki/rko_4
+wiki/swanson_2
+wiki/london_8
+fotos/a13_0
+wiki/prohibition_3
+wiki/fdr_2
+fotos/a15_0
+wiki/hyannis_1
+# hook
+wiki/hyannis_0
+fotos/a25_0
+wiki/jfk_6
+wiki/crash_0
+fotos/a1_1
+# cap1
+wiki/famine_0
+wiki/famine_5
+wiki/irish_0
+wiki/eastboston_2
+wiki/eastboston_4
+wiki/pjkennedy_0
+wiki/bostonlatin_4
+wiki/bostonlatin_1
+wiki/harvard_0
+wiki/harvard_1
+fotos/a10_0
+fotos/a26_1
+# cap2
+wiki/honeyfitz_1
+wiki/honeyfitz_0
+wiki/fore_0
+wiki/fore_1
+wiki/fore_8
+wiki/fore_9
+wiki/bethlehem_7
+wiki/bethlehem_0
+fotos/a13_1
+fotos/a13_2
+fotos/a22_0
+# cap3
+wiki/rko_2
+wiki/fbo_1
+wiki/fbo_4
+wiki/fbo_6
+wiki/rko_6
+wiki/rko_7
+wiki/rko_8
+wiki/talkies_0
+wiki/talkies_1
+wiki/swanson_6
+wiki/swanson_0
+wiki/swanson_3
+# cap4
+wiki/crash_2
+wiki/depression_1
+wiki/depression_2
+wiki/depression_3
+wiki/depression_4
+wiki/talkies_3
+fotos/a8_2
+fotos/a8_3
+fotos/a9_0
+wiki/depression_7
+# cap5
+wiki/fdr_9
+wiki/fdr_7
+wiki/prohibition_0
+wiki/prohibition_2
+wiki/prohibition_5
+wiki/prohibition_9
+wiki/repeal_0
+fotos/a17_2
+wiki/sec_8
+fotos/a17_1
+wiki/fdr_8
+wiki/prohibition_6
+# cap6
+wiki/maritime_0
+wiki/chamberlain_6
+wiki/chamberlain_9
+wiki/chamberlain_2
+wiki/appeasement_2
+wiki/appeasement_3
+wiki/appeasement_5
+wiki/london_4
+wiki/london_5
+wiki/london_6
+wiki/london_7
+wiki/chamberlain_8
+# cap7
+wiki/jrjoe_2
+wiki/jrjoe_1
+wiki/rosemary_1
+fotos/a25_2
+wiki/merchandise_3
+wiki/merchandise_5
+wiki/merchandise_7
+wiki/jfk_5
+wiki/jfk_0
+wiki/jfk_3
+wiki/kennedy_8
+# lesson
+wiki/kennedy_2
+wiki/kennedy_3
+wiki/sec_9
+wiki/crash_3
+wiki/rko_1
+wiki/fdr_6
+wiki/appeasement_1
+wiki/jfk_2
