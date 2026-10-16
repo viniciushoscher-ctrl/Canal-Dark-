@@ -1,0 +1,11 @@
+metaverse|Metaverse
+yahoo|Yahoo!
+moskovitz|Dustin_Moskovitz
+hughes|Chris_Hughes
+ftc|Federal_Trade_Commission
+newsfeed|News_Feed
+dobbs|Dobbs_Ferry,_New_York
+atari|Atari_800
+napster|Napster
+nasdaq|Nasdaq
+mercy|Mercy_College_(New_York)

@@ -1,0 +1,92 @@
+### 00_hook
+October, two thousand and three. A nineteen-year-old Harvard sophomore sits alone in his dorm room, late at night, with a laptop, a few cans of soda, and a plan he is almost ashamed of. He hacks into the university's computer networks, copies the photographs of students from the residence houses, and builds a website where people can vote on who is more attractive.
+
+The site goes viral within hours. Twenty-two thousand votes pour in before the servers crash. And the next day, the university's administrators call him in, and threaten to expel him.
+
+He should have been finished. Instead, three months later, he launches something else. A simple website, with a blue bar and a white page, where students can find each other.
+
+That young man is Mark Zuckerberg. His website will connect more than three billion people, make him one of the richest humans alive, and spark a fight over privacy and power that is still going on today. This is the story of how a college prank became the most powerful social network in history.
+
+### 01_cap1
+Mark Elliot Zuckerberg was born on the fourteenth of May, nineteen eighty-four, in White Plains, New York, and raised in the quiet suburb of Dobbs Ferry. His father, Edward, was a dentist, and his mother, Karen, was a psychiatrist. They were a close, intellectual family, and they encouraged their four children to be curious.
+
+Mark was a prodigy with computers. When he was around ten years old, his father bought him an Atari, and then a computer. He started writing code. By the age of twelve, he had built a messaging program called Zucknet, which his father used in the dental office so that the receptionist could tell the dentist a patient had arrived without shouting across the room. Soon it was a family chat system.
+
+His father hired a private tutor, a software developer, who found that Mark was so quick he could barely keep up. He sent him to take classes at Mercy College while he was still in high school.
+
+At Phillips Exeter Academy, one of the most elite boarding schools in America, Mark excelled in fencing, in Latin, and in programming. Before he graduated, he built a music player that used artificial intelligence to learn what songs a user liked. Microsoft and AOL both offered him a job, and a large sum of money. He turned them down, and went to Harvard.
+
+### 02_cap2
+At Harvard in two thousand and two, Zuckerberg was a quiet, awkward student with a gift for coding. He lived in Kirkland House, studied computer science, and spent most of his time building small programs for fun. One was called Coursematch, to help students pick classes. Another, in October two thousand and three, was Facemash.
+
+Facemash was a disaster, and also a revelation. The university shut it down, and Zuckerberg faced a disciplinary hearing, and apologized. But he had noticed something. In just a few hours, thousands of students had flooded onto a website, simply to look at faces. People wanted to see each other, and the university had no good way to let them.
+
+Around that time, three other Harvard students, the twin brothers Cameron and Tyler Winklevoss and a classmate named Divya Narendra, asked Zuckerberg to help them build a social website for Harvard students. He agreed, and then he did something that would follow him forever. He delayed their project, and secretly started his own.
+
+On the fourth of February, two thousand and four, from his dorm room, he launched a website called The Facebook. Within twenty-four hours, about a thousand students had signed up. Within a month, half of Harvard's undergraduates were on it.
+
+### 03_cap3
+He needed help, and he found it. Eduardo Saverin, a friend who was good with money, put up the first investment, about a thousand dollars, and took charge of the business. Dustin Moskovitz, a roommate, helped with the code. Chris Hughes joined to handle the design and the public voice.
+
+The idea spread like a virus. Within a few months, the Facebook opened to other universities, Yale, Stanford, Columbia, and Cornell. In the summer of two thousand and four, Zuckerberg and his friends moved to a rented house in Palo Alto, California, to work on it full time. He dropped out of Harvard. The house had no furniture to speak of, only mattresses, computers, and a zip line in the backyard.
+
+It was in that summer that Zuckerberg met Sean Parker, the young co-founder of Napster, who had been hunted by the music industry. Parker became the first president of the company and introduced him to investors.
+
+One of them was Peter Thiel, the founder of PayPal, who agreed to invest five hundred thousand dollars. In the fall of two thousand and four, the company hit one million users. Zuckerberg had changed the name to just Facebook, and he had a business card with a line he thought was funny: I'm CEO, bitch.
+
+### 04_cap4
+But there were two fights that threatened to destroy the company before it even began.
+
+The first was with Eduardo Saverin. As Facebook grew, Zuckerberg and Parker brought in outside investors, and in the process, the company issued new shares and Saverin's stake was reduced from about thirty percent to less than ten. He was furious, and he sued. The case was settled in two thousand and nine, with an undisclosed amount, and Saverin's name was restored on the company's founder list.
+
+The second was with the Winklevoss twins, who argued that Zuckerberg had stolen their idea. They sued, and after years of legal battles, in two thousand and eight Facebook paid them about sixty-five million dollars in cash and shares. The twins later became early investors in Bitcoin.
+
+In two thousand and ten, a film about these events, The Social Network, was released. It portrayed Zuckerberg as a cold, ambitious genius who betrayed his friends. He said that the film was fiction, but it shaped his image around the world.
+
+Through all these lawsuits, Zuckerberg kept doing one thing. He kept building. By two thousand and six, Facebook was open to anyone with an email address, and it introduced the News Feed, a stream of updates from your friends. People hated it at first. Then they could not stop looking.
+
+### 05_cap5
+In two thousand and six, Yahoo offered to buy Facebook for one billion dollars. It was a staggering sum, and most of his colleagues wanted to take it. Zuckerberg, twenty-two years old, said no.
+
+It was one of the boldest decisions in business history. Microsoft later invested, valuing the company at fifteen billion dollars. By two thousand and eight, Facebook had one hundred million users. It hired Sheryl Sandberg, a seasoned executive from Google, who built the advertising machine that made it profitable.
+
+In two thousand and twelve, Facebook went public. It raised sixteen billion dollars, one of the largest tech listings ever. Zuckerberg, then twenty-eight, became a billionaire many times over.
+
+But he knew that the future was moving to phones. He moved the company to a mobile-first strategy, and he started to buy rivals before they could threaten him. In two thousand and twelve, he bought Instagram for one billion dollars. In two thousand and fourteen, he bought WhatsApp for nineteen billion dollars, a record at the time. He also bought Oculus, a virtual reality company, for two billion dollars.
+
+By the end of the decade, Facebook, Instagram, WhatsApp, and Messenger were used by billions of people every month. Zuckerberg had built the largest network of human beings in history.
+
+### 06_cap6
+But the empire had a dark side, and in two thousand and sixteen it began to show.
+
+During the American presidential election, Facebook was flooded with false news and propaganda, some spread by foreign governments. Then, in March two thousand and eighteen, journalists revealed that a political consulting firm, Cambridge Analytica, had harvested the personal data of up to eighty-seven million Facebook users without their permission.
+
+Zuckerberg was called to testify before the United States Congress. Senators, many of whom seemed unsure how the platform worked, asked him how Facebook made money. He answered, Senator, we run ads. But the hearing marked a turning point. Regulators, lawmakers, and the public began to ask whether one man should hold so much power over what billions of people see.
+
+In two thousand and nineteen, the Federal Trade Commission fined the company five billion dollars for privacy violations, the largest such penalty ever. In two thousand and twenty-one, a former employee, Frances Haugen, leaked internal documents which suggested the company knew that its products could harm teenagers.
+
+Throughout these storms, Zuckerberg did not step aside. He controlled the majority of the voting power, and no investor could force him out.
+
+### 07_cap7
+In October two thousand and twenty-one, Zuckerberg announced that Facebook would change its name to Meta, and that the company would bet its future on the metaverse, a virtual world. Investors were skeptical. The company lost tens of billions of dollars on the project, and in two thousand and twenty-two, its stock fell by more than sixty percent.
+
+But Zuckerberg adapted again. He cut thousands of jobs in what he called a year of efficiency, and he turned the company to artificial intelligence. By two thousand and twenty-four, Meta's stock had recovered, and he was among the richest people in the world, with a fortune of more than two hundred billion dollars.
+
+In his personal life, he is private. He married Priscilla Chan, a doctor he met at Harvard, in two thousand and twelve, and they have three daughters. In two thousand and fifteen, they pledged to give away ninety-nine percent of their Facebook shares to charity over their lifetimes, through the Chan Zuckerberg Initiative, which funds science and education.
+
+He still wears a gray T-shirt almost every day, and he explained why. He wanted to spend his energy on decisions that mattered, not on what to wear.
+
+Today, more than three billion people use at least one of his apps every single day.
+
+### 08_lesson
+So what can we learn from Mark Zuckerberg?
+
+The first lesson is to build the thing people secretly want. Zuckerberg did not invent the idea of a social network. He saw that people wanted to see each other, and he gave them a simple way to do it.
+
+The second lesson is to move fast, and to reinvent yourself. When phones took over, he pivoted. When rivals rose, he bought them. When the world changed, he changed his company's name.
+
+The third lesson is a warning. Technology gives you power that few people in history have ever held, and with that power comes responsibility. Zuckerberg's failures with privacy and trust show how costly it is to ignore that responsibility.
+
+And the final lesson is persistence. He faced lawsuits, scandals, and a collapse of his stock, and he never stepped aside.
+
+He started with a prank in a dorm room. If this story made you think, subscribe, and tell us in the comments which businessman we should cover next.
