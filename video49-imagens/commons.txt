@@ -1,0 +1,20 @@
+a1|Mansa Musa Catalan Atlas
+a2|Timbuktu Djinguereber mosque
+a3|Timbuktu Sankore mosque
+a4|Great Mosque of Djenne Mali
+a5|camel caravan Sahara
+a6|Mali Empire map 1350
+a7|gold nuggets ancient African gold
+a8|Timbuktu manuscripts library
+a9|Mecca Kaaba pilgrimage historic
+a10|Cairo medieval Al-Azhar
+a11|Niger River Mali boat
+a12|Sahara desert dunes salt caravan
+a13|Ibn Battuta travels
+a14|West African gold weights Akan
+a15|Gao Askia tomb
+a16|Mali mud brick architecture
+a17|Mansa Musa statue
+a18|Taoudenni salt mine
+a19|Mali soldiers medieval West Africa
+a20|Hajj pilgrims caravan old engraving
