@@ -1,0 +1,4 @@
+office_2_0
+factory_2_0
+tech_0_0
+student_1_0

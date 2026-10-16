@@ -1,0 +1,16 @@
+shop_0_0
+town_1_0
+town_0_0
+town_2_0
+truck_1_0
+military_0_0
+retail_1_0
+store_2_0
+newspaper_1_0
+football_0_0
+bank_1_0
+newspaper_2_0
+omaha_1_1
+money_2_0
+house_1_1
+newspaper_1_2

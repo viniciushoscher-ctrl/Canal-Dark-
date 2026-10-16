@@ -1,0 +1,9 @@
+computer_0_0
+computer_2_0
+office_0_0
+office_1_0
+student_1_0
+tech_0_0
+tech_1_0
+phone_2_0
+plane_0_0

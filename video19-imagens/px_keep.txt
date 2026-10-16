@@ -1,0 +1,11 @@
+phone_0_0
+phone_1_0
+phone_2_0
+computer_0_0
+computer_2_0
+office_0_0
+office_2_0
+tech_0_0
+future_0_0
+student_1_0
+tech_2_0

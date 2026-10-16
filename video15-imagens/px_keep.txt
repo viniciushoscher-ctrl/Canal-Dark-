@@ -1,0 +1,7 @@
+retail_0_0
+store_2_0
+shop_0_0
+town_0_0
+warehouse_0_0
+truck_0_0
+retail_1_0
