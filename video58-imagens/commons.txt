@@ -1,0 +1,20 @@
+a1|Amancio Ortega portrait
+a2|Zara store facade
+a3|Zara first store A Coruna
+a4|Inditex headquarters Arteixo
+a5|A Coruna 1950s street
+a6|Spain 1940s poverty village
+a7|Zara store window fashion
+a8|Zara store New York Fifth Avenue
+a9|clothing factory sewing workers 1970s
+a10|Pull and Bear store
+a11|Massimo Dutti store
+a12|Bershka store
+a13|Inditex logistics center Zaragoza
+a14|Rana Plaza collapse Bangladesh
+a15|Marta Ortega Inditex
+a16|Galicia Spain landscape
+a17|Spanish railway station 1940s
+a18|fashion shop Madrid Gran Via
+a19|Zara Gran Via Madrid
+a20|garment factory sewing machines
