@@ -1,0 +1,25 @@
+name: media
+on:
+  workflow_dispatch:
+    inputs:
+      n:
+        description: numero do video
+        required: true
+permissions:
+  contents: write
+jobs:
+  m:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install -y -qq ffmpeg
+      - run: python shorts/commons2.py video${{ inputs.n }}-imagens/commons_f.txt video${{ inputs.n }}-commons/f || true
+      - run: python3 assets4/ia_footage.py video${{ inputs.n }}-imagens/ia.txt video${{ inputs.n }}-footage-ia || true
+      - env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: python3 assets4/pixabay_footage.py video${{ inputs.n }}-imagens/ia.txt video${{ inputs.n }}-footage-px || true
+      - if: always()
+        run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add video${{ inputs.n }}-commons video${{ inputs.n }}-footage-ia video${{ inputs.n }}-footage-px && git commit -m "Midia V${{ inputs.n }} [skip ci]" && for i in 1 2 3 4 5 6; do git pull --rebase -q && git push && break; sleep $((RANDOM%8+3)); done

@@ -1,0 +1,10 @@
+wheat|wheat field harvest
+reaper|horse drawn reaper farm
+farm|farm Virginia 1800s
+chicago|Chicago city
+fire|city fire
+factory|factory workers 1900s
+train|steam train
+crowd|crowd exhibition
+lincoln|Abraham Lincoln
+bread|baking bread

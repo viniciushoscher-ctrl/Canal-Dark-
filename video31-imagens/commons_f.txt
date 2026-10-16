@@ -1,0 +1,64 @@
+s000|Cyrus Mc 1830s
+s001|Shenandoah Valley of Virginia
+s010|Cyrus McCormick
+s011|factory
+s014|Cyrus Hall McCormick
+s014|Walnut Grove
+s015|Scots-Irish Presbyterian
+s017|Robert McCormick
+s017|Virginia
+s030|Cyrus Mc 1810s
+s034|Cyrus
+s047|Baltimore
+s047|Obed Hussey
+s060|United States
+s061|bank
+s064|Cyrus Mc 1840s
+s080|America
+s081|Lake Michigan
+s082|Chicago
+s086|Illinois
+s086|Wisconsin
+s087|Midwest
+s087|railroad
+s087|ship
+s089|William Ogden
+s102|McCormick
+s103|London
+s103|Crystal Palace
+s103|Cyrus Mc 1850s
+s104|Atlantic
+s106|Times of London
+s108|Essex
+s111|McCormick the Council Medal
+s111|newspaper
+s112|England
+s112|France
+s113|Paris Exposition
+s113|Grand Medal of Honor
+s114|French Academy of Sciences
+s120|Patent Office
+s123|John Manny
+s124|Springfield
+s124|Abraham Lincoln
+s125|Cincinnati
+s127|Pittsburgh
+s127|Edwin Stanton
+s128|Stanton
+s128|Secretary of War
+s129|the Civil War
+s130|North
+s131|Union
+s132|Democrat
+s132|South
+s133|Cyrus Mc 1860s
+s136|Nettie Fowler
+s139|Great Chicago Fire
+s139|Cyrus Mc 1870s
+s144|Nettie
+s147|Cyrus Mc 1880s
+s150|Haymarket
+s152|International Harvester
+s153|Kansas
+s153|Ukraine
+s165|factory 1870s
