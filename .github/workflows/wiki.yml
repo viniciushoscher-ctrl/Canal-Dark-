@@ -13,8 +13,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - id: nn
-        run: echo "n=$(head -1 pipeline/gen/run_wiki.txt | tr -d ' \n')" >> $GITHUB_OUTPUT
-      - run: python3 assets4/wiki_images.py video${{ steps.nn.outputs.n }}-imagens/wiki.txt video${{ steps.nn.outputs.n }}-commons/wiki || true
+        run: |
+          echo "n=$(head -1 pipeline/gen/run_wiki.txt | tr -d ' \n')" >> $GITHUB_OUTPUT
+          echo "l=$(sed -n 2p pipeline/gen/run_wiki.txt | tr -d ' \n')" >> $GITHUB_OUTPUT
+      - run: python3 assets4/wiki_images.py video${{ steps.nn.outputs.n }}-imagens/${{ steps.nn.outputs.l }} video${{ steps.nn.outputs.n }}-commons/wiki || true
       - if: always()
         run: |
           git config user.name Claude && git config user.email noreply@anthropic.com

@@ -9,6 +9,7 @@ AUD = R + "/video6-narracao/audio"
 IMG = sorted(glob.glob(os.environ.get("V3IMG", B + "/bright") + "/*.jpg"))
 NAMES = re.findall(r"^### (\S+)", open(R + "/video6-narracao/roteiro.txt", encoding="utf-8").read(), re.M)
 PLAN = None
+HK = []
 TLIM = float(os.environ.get("TLIM", "0")) or None
 FR = 25
 os.chdir(B)
@@ -30,6 +31,7 @@ print("duracao", round(T, 1), "min", round(T / 60, 2))
 _d = [off[i + 1] - off[i] for i in range(len(NAMES) - 1)] + [T - off[-1]]
 NSC = 90
 PLAN = [max(1, int(round(NSC * x / T))) for x in _d]; PLAN[-1] += NSC - sum(PLAN)
+if os.path.exists("plan_counts.txt"): PLAN = [int(x) for x in open("plan_counts.txt").read().split()]
 print("PLAN", PLAN)
 
 rot = open(R + "/video6-narracao/roteiro.txt", encoding="utf-8").read()
@@ -70,6 +72,7 @@ def find(phrase, after=0.0):
 
 # ================= v3: planos mais curtos, movimentos variados, transicoes xfade =================
 cum = np.cumsum([0] + PLAN)
+HK = [k for k in range(len(IMG)) if "_hook" in os.path.basename(IMG[k])]
 chap_start = off[1:]
 WS = np.array([w[1] for w in WORDS])
 Ea = np.array(E)
@@ -78,6 +81,7 @@ for ci in range(len(NAMES)):
     ks = [k for k in range(len(IMG)) if cum[ci] <= int(re.match(r"(\d+)", os.path.basename(IMG[k])).group(1)) - 1 < cum[ci + 1]]
     if not ks: continue
     a0, b0 = off[ci], (off[ci + 1] if ci + 1 < len(NAMES) else T)
+    if ci == 0 and HK: a0 = off[0] + HOOK_T
     bnd = [a0]
     for q in range(1, len(ks)):
         tg = a0 + (b0 - a0) * q / len(ks)
@@ -93,18 +97,10 @@ for ci in range(len(NAMES)):
             sub.append(float(WS[j]) if abs(WS[j] - tg) < 0.6 and WS[j] > sub[-1] + 1.5 else tg)
         sub.append(b_)
         for i in range(n): SHOTS.append((k, i, sub[i], sub[i + 1], i == 0, ci))
-HOOK_T = 30.0  # regra 16/10: hook de 30 s em b-roll rapido com imagens do proprio video (pode repetir cada imagem 1x)
-if T > HOOK_T + 20:
-    _rest = [s for s in SHOTS if s[3] - HOOK_T > 2.0]
-    _rest[0] = (_rest[0][0], _rest[0][1], HOOK_T, _rest[0][3], _rest[0][4], _rest[0][5])
-    _pool = [s[0] for s in SHOTS if s[5] > 0]
-    _nh = 11; _pick = [_pool[int(i * (len(_pool) - 1) / (_nh - 1))] for i in range(_nh)]
-    _seq = []
-    for _k in [SHOTS[0][0]] + _pick:
-        if not _seq or _seq[-1] != _k: _seq.append(_k)
-    _seq = _seq + [x for x in _seq[:2] if x != _seq[-1]]  # repeticao permitida so aqui
-    _d = HOOK_T / len(_seq)
-    SHOTS = [(_k, 0, i * _d, (i + 1) * _d, True, 0) for i, _k in enumerate(_seq)] + _rest
+HOOK_T = 30.0  # regra 16/10: hook de 30 s em b-roll rapido com imagens do proprio video (pode repetir imagem so aqui)
+if HK:
+    _d = HOOK_T / len(HK)
+    SHOTS = [(_k, 0, i * _d, (i + 1) * _d, True, 0) for i, _k in enumerate(HK)] + SHOTS
 if TLIM:
     SHOTS = [s for s in SHOTS if s[2] < TLIM]
     s_ = SHOTS[-1]; SHOTS[-1] = (s_[0], s_[1], s_[2], min(s_[3], TLIM), s_[4], s_[5])
@@ -480,8 +476,8 @@ for n_, (k, i, a_, b_, first, ci) in enumerate(SHOTS):
     ov = OV[n_][1] if OV[n_] else 0.0
     d = b_ - a_ + ov; nf = max(int(round(d * FR)), 3); out = f"clips3/c{n_+1:03d}.mp4"
     u = f"(on/{nf})"; e = f"(3*{u}*{u}-2*{u}*{u}*{u})"
-    zs = f"1.22-0.22*{e}"; xs = "iw/2-(iw/zoom/2)"; ys = "ih/2-(ih/zoom/2)"  # so zoom out, centrado
-    pre = "crop=iw*0.96:ih*0.96"
+    zs = f"1.16-0.16*{e}"; xs = "iw/2-(iw/zoom/2)"; ys = "ih/2-(ih/zoom/2)"  # so zoom out, centrado
+    pre = "null"
     vf = (f"{pre},scale=1920:1080:flags=bicubic,zoompan=z='{zs}':x='{xs}':y='{ys}':d={nf}:s=1280x720:fps={FR},"
           f"unsharp=5:5:0.6,format=yuv420p")
     jobs.append((out, f"ffmpeg -y -v error -loop 1 -i '{IMG[k]}' -vf \"{vf}\" -frames:v {nf} -c:v libx264 -preset veryfast -crf 17 {out}"))
