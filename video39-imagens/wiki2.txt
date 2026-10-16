@@ -1,0 +1,12 @@
+tokyo1945|Bombing_of_Tokyo
+japan1950|Occupied_Japan
+bicycle|Bicycle
+blacksmith|Blacksmith
+automobile1910|History_of_the_automobile
+taishoautomobile|Taishō_period
+shokai|Hamamatsu_Castle
+nicestpeople|Honda_Motor_Company
+bata|Moped
+isleofman|Isle_of_Man
+racemoto|Grand_Prix_motorcycle_racing
+mikehailwood|Mike_Hailwood
