@@ -1,0 +1,8 @@
+mao|Mao_Zedong
+beijing|Beijing
+yangtze|Yangtze
+ecommerce|E-commerce
+harvard|Harvard_University
+chinaregulators|People%27s_Bank_of_China
+covid|COVID-19_pandemic
+kfc|KFC

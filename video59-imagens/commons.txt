@@ -1,0 +1,20 @@
+a1|Jack Ma portrait
+a2|Jack Ma Alibaba speech
+a3|Hangzhou West Lake
+a4|Alibaba headquarters Hangzhou
+a5|Alibaba IPO New York Stock Exchange 2014
+a6|Singles Day Alibaba 2017 Shanghai
+a7|Taobao website
+a8|Alipay QR payment
+a9|Ant Group building Hangzhou
+a10|Masayoshi Son Jack Ma
+a11|Hangzhou 1970s street China
+a12|China 1980s bicycle street
+a13|Cultural Revolution propaganda poster
+a14|Shanghai Bund 2020
+a15|China e-commerce delivery packages
+a16|Tmall Double 11
+a17|English tourists West Lake 1980s
+a18|Hangzhou Teachers College
+a19|Alibaba Group logo office
+a20|Shanghai financial summit 2020
