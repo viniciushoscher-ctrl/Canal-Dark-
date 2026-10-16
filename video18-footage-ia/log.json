@@ -1,177 +1,141 @@
 [
  {
-  "tag": "office",
-  "id": "DontBeaS1947",
-  "title": "Don't Be a Sucker",
-  "year": 1947,
-  "dur": 1041.4,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DontBeaS1947"
- },
- {
-  "tag": "office",
-  "id": "Despotis1946",
-  "title": "Despotism",
-  "year": 1946,
-  "dur": 596.73,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Despotis1946"
- },
- {
-  "tag": "office",
-  "id": "Corvairi1960",
-  "title": "Corvair in Action, The",
-  "year": 1960,
-  "dur": 388.38,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Corvairi1960"
- },
- {
-  "tag": "omaha",
-  "id": "American1955",
-  "title": "American Harvest (Part I)",
-  "year": 1955,
-  "dur": 791.75,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/American1955"
- },
- {
-  "tag": "omaha",
-  "id": "American1955_2",
-  "title": "American Harvest (Part II)",
-  "year": 1955,
-  "dur": 999.56,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/American1955_2"
- },
- {
-  "tag": "omaha",
-  "id": "200445_West_Coast_1968_004896",
-  "title": "West Coast 1968: 004896",
-  "year": null,
-  "dur": 1615.54,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/200445_West_Coast_1968_004896"
- },
- {
-  "tag": "family",
-  "id": "HaveITol1958",
-  "title": "Have I Told You Lately That I Love You?",
-  "year": 1958,
-  "dur": 901.43,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/HaveITol1958"
- },
- {
-  "tag": "family",
-  "id": "Experime1940",
-  "title": "Experiments in the Revival of Organisms",
-  "year": 1940,
-  "dur": 1172.07,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Experime1940"
- },
- {
-  "tag": "family",
-  "id": "DontBeaS1947",
-  "title": "Don't Be a Sucker",
-  "year": 1947,
-  "dur": 1041.4,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DontBeaS1947"
- },
- {
-  "tag": "factory",
-  "id": "DontBeaS1947",
-  "title": "Don't Be a Sucker",
-  "year": 1947,
-  "dur": 1041.4,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DontBeaS1947"
- },
- {
-  "tag": "factory",
-  "id": "WhyPlayL1949",
-  "title": "Why Play Leap Frog?",
-  "year": 1949,
-  "dur": 579.44,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/WhyPlayL1949"
- },
- {
-  "tag": "factory",
-  "id": "Miracleo1955",
-  "title": "Miracle on the Delaware",
-  "year": 1955,
-  "dur": 571.73,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Miracleo1955"
- },
- {
-  "tag": "newspaper",
-  "id": "DayofTha1951",
-  "title": "Day of Thanksgiving, A",
+  "tag": "computer",
+  "id": "Nationat1951",
+  "title": "Nation at Your Fingertips, The",
   "year": 1951,
-  "dur": 748.51,
+  "dur": 653.22,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DayofTha1951"
+  "url": "https://archive.org/details/Nationat1951"
  },
  {
-  "tag": "newspaper",
-  "id": "Printing1947",
-  "title": "Printing",
-  "year": 1947,
-  "dur": 640.94,
+  "tag": "computer",
+  "id": "0559_Threads_of_Technology",
+  "title": "Threads of Technology",
+  "year": 1970,
+  "dur": 1047.14,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Printing1947"
+  "url": "https://archive.org/details/0559_Threads_of_Technology"
  },
  {
-  "tag": "newspaper",
-  "id": "Journali1940",
-  "title": "Journalism",
-  "year": 1940,
-  "dur": 638.3,
+  "tag": "computer",
+  "id": "6240_System_Technology_01_29_28_19",
+  "title": "System Technology",
+  "year": 1960,
+  "dur": 1572.9,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Journali1940"
+  "url": "https://archive.org/details/6240_System_Technology_01_29_28_19"
  },
  {
-  "tag": "bank",
-  "id": "right_to_health_1",
-  "title": "Right to Health, A (Part I)",
-  "year": null,
-  "dur": 935.53,
+  "tag": "office",
+  "id": "American1958",
+  "title": "American Look (Part I)",
+  "year": 1958,
+  "dur": 491.32,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/right_to_health_1"
+  "url": "https://archive.org/details/American1958"
  },
  {
-  "tag": "bank",
-  "id": "Usingthe1947",
-  "title": "Using the Bank",
-  "year": 1947,
-  "dur": 624.32,
+  "tag": "office",
+  "id": "American1958_2",
+  "title": "American Look (Part II)",
+  "year": 1958,
+  "dur": 538.53,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Usingthe1947"
+  "url": "https://archive.org/details/American1958_2"
  },
  {
-  "tag": "bank",
-  "id": "ClassicT1948",
-  "title": "Classic Television Commercials (Part I)",
+  "tag": "office",
+  "id": "American1958_3",
+  "title": "American Look (Part III)",
+  "year": 1958,
+  "dur": 659.49,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/American1958_3"
+ },
+ {
+  "tag": "tech",
+  "id": "AttheEnd1946_2",
+  "title": "At the End of the Rainbow (Part II)",
+  "year": 1946,
+  "dur": 760.52,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/AttheEnd1946_2"
+ },
+ {
+  "tag": "tech",
+  "id": "0767_ESS_20_00_58_00",
+  "title": "ESS",
+  "year": 1965,
+  "dur": 1530.96,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0767_ESS_20_00_58_00"
+ },
+ {
+  "tag": "tech",
+  "id": "Story_of_Television_The",
+  "title": "Story of Television, The",
+  "year": 1956,
+  "dur": 1561.99,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Story_of_Television_The"
+ },
+ {
+  "tag": "phone",
+  "id": "Townandt1950",
+  "title": "Town and the Telephone, The",
+  "year": 1950,
+  "dur": 1642.2,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Townandt1950"
+ },
+ {
+  "tag": "phone",
+  "id": "0119_Our_Shrinking_World_E00960_09_22_46_18-0019",
+  "title": "Our Shrinking World",
+  "year": 1946,
+  "dur": 623.13,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0119_Our_Shrinking_World_E00960_09_22_46_18-0019"
+ },
+ {
+  "tag": "phone",
+  "id": "0767_ESS_20_00_58_00",
+  "title": "ESS",
+  "year": 1965,
+  "dur": 1530.96,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/0767_ESS_20_00_58_00"
+ },
+ {
+  "tag": "plane",
+  "id": "DuckandC1951",
+  "title": "Duck and Cover",
+  "year": 1951,
+  "dur": 555.38,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/DuckandC1951"
+ },
+ {
+  "tag": "plane",
+  "id": "612Magic1958",
+  "title": "6 1/2 Magic Hours",
+  "year": 1958,
+  "dur": 750.65,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/612Magic1958"
+ },
+ {
+  "tag": "plane",
+  "id": "ClassicT1948_2",
+  "title": "Classic Television Commercials (Part II)",
   "year": 1948,
-  "dur": 536.5,
+  "dur": 715.11,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/ClassicT1948"
+  "url": "https://archive.org/details/ClassicT1948_2"
  },
  {
-  "tag": "money",
-  "id": "Usingthe1947",
-  "title": "Using the Bank",
-  "year": 1947,
-  "dur": 624.32,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Usingthe1947"
- },
- {
-  "tag": "money",
+  "tag": "student",
   "id": "MakeMine1948",
   "title": "Make Mine Freedom",
   "year": 1948,
@@ -180,66 +144,129 @@
   "url": "https://archive.org/details/MakeMine1948"
  },
  {
-  "tag": "money",
-  "id": "TripDown1905",
-  "title": "[Trip Down Market Street Before the Fire, A]",
-  "year": 1906,
-  "dur": 832.8,
+  "tag": "student",
+  "id": "Japanese1943",
+  "title": "Japanese Relocation",
+  "year": 1943,
+  "dur": 568.46,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/TripDown1905"
+  "url": "https://archive.org/details/Japanese1943"
  },
  {
-  "tag": "school",
-  "id": "Sleepfor1950",
-  "title": "Sleep for Health",
-  "year": 1950,
-  "dur": 644.27,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/Sleepfor1950"
- },
- {
-  "tag": "school",
-  "id": "JoanAvoi1947",
-  "title": "Joan Avoids a Cold",
+  "tag": "student",
+  "id": "DontBeaS1947",
+  "title": "Don't Be a Sucker",
   "year": 1947,
-  "dur": 625.39,
+  "dur": 1041.4,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/JoanAvoi1947"
+  "url": "https://archive.org/details/DontBeaS1947"
  },
  {
-  "tag": "school",
-  "id": "DuckandC1951",
-  "title": "Duck and Cover",
-  "year": 1951,
-  "dur": 555.38,
+  "tag": "factory",
+  "id": "SocialCl1957",
+  "title": "Social Class in America",
+  "year": 1957,
+  "dur": 889.72,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DuckandC1951"
+  "url": "https://archive.org/details/SocialCl1957"
  },
  {
-  "tag": "house",
-  "id": "DuckandC1951",
-  "title": "Duck and Cover",
-  "year": 1951,
-  "dur": 555.38,
-  "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DuckandC1951"
- },
- {
-  "tag": "house",
-  "id": "DateWith1950",
-  "title": "Date With Your Family, A",
+  "tag": "factory",
+  "id": "Townandt1950",
+  "title": "Town and the Telephone, The",
   "year": 1950,
-  "dur": 600.13,
+  "dur": 1642.2,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/DateWith1950"
+  "url": "https://archive.org/details/Townandt1950"
  },
  {
-  "tag": "house",
-  "id": "ToNewHor1940",
-  "title": "To New Horizons",
+  "tag": "factory",
+  "id": "Radioand1940",
+  "title": "Radio and Television",
   "year": 1940,
-  "dur": 1380.58,
+  "dur": 631.06,
   "lic": "Prelinger Archives (public domain)",
-  "url": "https://archive.org/details/ToNewHor1940"
+  "url": "https://archive.org/details/Radioand1940"
+ },
+ {
+  "tag": "city",
+  "id": "Century21964",
+  "title": "Century 21 Calling",
+  "year": 1964,
+  "dur": 836.63,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Century21964"
+ },
+ {
+  "tag": "city",
+  "id": "Nationat1951",
+  "title": "Nation at Your Fingertips, The",
+  "year": 1951,
+  "dur": 653.22,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Nationat1951"
+ },
+ {
+  "tag": "city",
+  "id": "GiveYour1954",
+  "title": "Give Yourself the Green Light",
+  "year": 1954,
+  "dur": 1337.23,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/GiveYour1954"
+ },
+ {
+  "tag": "future",
+  "id": "SpotNews1937",
+  "title": "Spot News",
+  "year": 1937,
+  "dur": 555.28,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/SpotNews1937"
+ },
+ {
+  "tag": "future",
+  "id": "DuckandC1951",
+  "title": "Duck and Cover",
+  "year": 1951,
+  "dur": 555.38,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/DuckandC1951"
+ },
+ {
+  "tag": "future",
+  "id": "Experime1940",
+  "title": "Experiments in the Revival of Organisms",
+  "year": 1940,
+  "dur": 1172.07,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Experime1940"
+ },
+ {
+  "tag": "tv",
+  "id": "Televisi1960",
+  "title": "Television Commercials (1950s-1960s)",
+  "year": 1950,
+  "dur": 1515.71,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Televisi1960"
+ },
+ {
+  "tag": "tv",
+  "id": "Wonderfu1960",
+  "title": "Wonderful New World of Fords, A (1960 Ford Spot)",
+  "year": 1960,
+  "dur": 181.88,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/Wonderfu1960"
+ },
+ {
+  "tag": "tv",
+  "id": "LuckyStr1948",
+  "title": "Lucky Strike Cigarette Commercial: Marching Cigarettes",
+  "year": 1948,
+  "dur": 61.22,
+  "lic": "Prelinger Archives (public domain)",
+  "url": "https://archive.org/details/LuckyStr1948"
  }
 ]
