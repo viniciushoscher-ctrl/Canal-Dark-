@@ -1,0 +1,114 @@
+# hookmontage
+wiki/debt1982_1
+wiki/mexicocity_6
+fotos/a17_0
+wiki/telmex_6
+wiki/slim_1
+fotos/a20_1
+wiki/zocalo_3
+wiki/sanborns_1
+wiki/pemex_0
+wiki/revolution_1
+wiki/baseball_9
+wiki/peso1994_1
+wiki/forbes_1
+wiki/telmex_1
+# hook
+wiki/debt1982_0
+wiki/zocalo_2
+wiki/lopezportillo_2
+wiki/mexicocity_9
+wiki/slim_0
+# cap1
+wiki/lebanon_0
+wiki/lebanon_7
+wiki/lebanon_4
+wiki/ottoman_3
+wiki/revolution_0
+wiki/revolution_6
+wiki/zocalo_1
+wiki/mexicocity_4
+wiki/mexico1940_9
+wiki/baseball_5
+wiki/sanborns_2
+# cap2
+wiki/unam_2
+wiki/unam_3
+wiki/unam_6
+wiki/unam_9
+wiki/unam_5
+fotos/a9_0
+fotos/a9_1
+fotos/a4_0
+fotos/a4_1
+wiki/mexicocity_5
+# cap3
+wiki/oil_3
+wiki/oil_1
+wiki/oil_0
+wiki/pemex_3
+wiki/pemex_2
+wiki/lopezportillo_0
+wiki/lopezportillo_1
+wiki/lopezportillo_3
+wiki/mexicocity_3
+wiki/sanborns_0
+wiki/sanborns_6
+wiki/sanborns_9
+# cap4
+wiki/salinas_0
+wiki/salinas_2
+wiki/telmex_0
+wiki/telmex_3
+wiki/telmex_7
+wiki/telephone_7
+wiki/telephone_0
+wiki/southwesternbell_0
+wiki/fiber_1
+wiki/privatization_0
+# cap5
+wiki/peso1994_0
+wiki/americamovil_0
+wiki/mobile_1
+wiki/mobile_9
+wiki/mobile_7
+wiki/fiber_5
+wiki/inbursa_0
+wiki/nyt_3
+wiki/nyt_1
+wiki/forbes_0
+fotos/a10_1
+wiki/telmex_4
+# cap6
+wiki/lebanesemexico_0
+wiki/slim_2
+fotos/a20_0
+fotos/a20_2
+fotos/a7_3
+wiki/rodin_0
+wiki/rodin_1
+wiki/mexicoart_4
+wiki/soumaya_8
+wiki/telmex_5
+# cap7
+fotos/a10_0
+fotos/a17_1
+fotos/a17_3
+wiki/mexicocity_0
+wiki/mexicocity_7
+wiki/mexicocity_8
+fotos/a8_1
+fotos/a8_0
+wiki/baseball_4
+wiki/mexicocity_1
+wiki/zocalo_8
+wiki/mexicoart_6
+# lesson
+wiki/sanborns_5
+wiki/sanborns_3
+wiki/sanborns_4
+wiki/mexicoart_0
+wiki/mexicoart_1
+fotos/a3_0
+fotos/a3_1
+wiki/baseball_2
