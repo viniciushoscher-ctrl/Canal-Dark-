@@ -1,0 +1,11 @@
+cattle_1_0
+railroad_2_0
+steamboat_1_0
+steamboat_0_0
+hudson_2_0
+wallstreet_0_0
+bank_1_0
+cash_0_0
+church_0_0
+tavern_0_0
+crowd_1_0
