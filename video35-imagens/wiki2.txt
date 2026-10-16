@@ -1,0 +1,16 @@
+chicagogw|Chicago_Great_Western_Railway
+locomotive|Steam_locomotive
+machinist|Machinist
+autoshow|New_York_Auto_Show
+nyc1930|Manhattan
+greatdep|Great_Depression
+wallstreet|Wall_Street_Crash_of_1929
+elizabeth|Elizabeth,_New_Jersey
+skyscraper|Skyscraper
+artdeco|Art_Deco
+empirestate|Empire_State_Building
+greatneck|Great_Neck,_New_York
+detroit|History_of_Detroit
+bigthree|Big_Three_(automobile_manufacturers)
+modelt|Ford_Model_T
+chevrolet|Chevrolet

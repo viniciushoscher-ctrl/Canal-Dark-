@@ -1,0 +1,30 @@
+a1|Walter Chrysler portrait
+a2|Walter P. Chrysler 1920s
+a3|Chrysler Building construction 1929
+a4|Chrysler Building spire 1930
+a5|Chrysler Building eagle gargoyle
+a6|Chrysler Building Art Deco lobby
+a7|Chrysler Six 1924
+a8|Chrysler Imperial 1920s
+a9|Plymouth 1928 car
+a10|DeSoto 1929 car
+a11|Dodge Brothers 1920s car
+a12|Chrysler Airflow 1934
+a13|Maxwell car 1920
+a14|Willys Overland 1920s
+a15|Locomobile touring car 1908
+a16|Union Pacific locomotive 1890s
+a17|railroad machine shop 1900
+a18|Buick factory Flint 1910s
+a19|William Durant Buick
+a20|40 Wall Street Manhattan Company building
+a21|Ellis Kansas railroad depot
+a22|Wamego Kansas history
+a23|Detroit Chrysler plant 1920s
+a24|New York skyline 1930
+a25|Chrysler Corporation advertisement 1930s
+a26|Great Depression breadline 1930
+a27|Chrysler Building 1930s photograph
+a28|Highland Park Chrysler plant
+a29|K. T. Keller Chrysler
+a30|Fred Zeder Owen Skelton Carl Breer

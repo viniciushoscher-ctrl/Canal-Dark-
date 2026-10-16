@@ -1,0 +1,98 @@
+# hookmontage
+wiki/liberia_2
+fotos/a6_0
+fotos/a5_0
+wiki/firestone_1
+fotos/a2_2
+wiki/vulcan_1
+fotos/a25_0
+fotos/a13_0
+wiki/indy_3
+wiki/ford_5
+wiki/liberiahist_0
+wiki/rubber_1
+wiki/depression_0
+fotos/a23_0
+# hook
+wiki/liberiahist_0
+fotos/a8_0
+wiki/rubbertree_6
+fotos/a2_0
+wiki/firestone_1
+# cap1
+fotos/a20_0
+wiki/ohio_2
+fotos/a1_0
+wiki/buggy_0
+fotos/a16_0
+wiki/carriage_3
+wiki/buggy_1
+fotos/a16_1
+# cap2
+wiki/bicycle_4
+wiki/bicycle_7
+wiki/motorcar_0
+wiki/chicago_3
+wiki/akron_5
+wiki/goodrich_1
+wiki/goodyear_5
+fotos/a5_2
+# cap3
+wiki/ford_6
+wiki/modelt_0
+wiki/modelt_2
+fotos/a23_0
+wiki/ford_7
+wiki/indy_1
+wiki/raceindy_7
+wiki/vulcan_2
+# cap4
+fotos/a4_2
+fotos/a25_2
+fotos/a25_3
+fotos/a13_0
+fotos/a3_0
+fotos/a1_1
+wiki/burroughs_4
+wiki/edison_3
+wiki/edison_8
+fotos/a2_3
+# cap5
+wiki/sumatra_3
+wiki/britishmalaya_4
+wiki/sumatra_9
+wiki/rubbertree_6
+wiki/philippines_9
+wiki/liberiahist_0
+wiki/liberiahist_9
+fotos/a8_0
+wiki/liberia_1
+# cap6
+fotos/a6_3
+fotos/a8_1
+wiki/liberia_0
+wiki/liberiahist_7
+wiki/league_6
+wiki/league_2
+fotos/a5_0
+wiki/tractor_6
+fotos/a5_1
+# cap7
+wiki/depression_2
+fotos/a26_0
+fotos/a2_2
+wiki/firestone_2
+wiki/miami_1
+wiki/firestone_0
+fotos/a28_0
+wiki/bridgestone_4
+wiki/company_3
+# lesson
+wiki/ford_1
+wiki/edison_9
+fotos/a25_0
+wiki/roads_1
+fotos/a24_0
+fotos/a2_1
+wiki/firestone_0
+wiki/plantation_5
