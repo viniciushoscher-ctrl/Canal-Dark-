@@ -1,0 +1,21 @@
+name: wiki
+on:
+  workflow_dispatch:
+  push:
+    branches: [gerar-imagens-video1]
+    paths: ['pipeline/gen/run_wiki.txt']
+permissions:
+  contents: write
+jobs:
+  w:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - id: nn
+        run: echo "n=$(head -1 pipeline/gen/run_wiki.txt | tr -d ' \n')" >> $GITHUB_OUTPUT
+      - run: python3 assets4/wiki_images.py video${{ steps.nn.outputs.n }}-imagens/wiki.txt video${{ steps.nn.outputs.n }}-commons/wiki || true
+      - if: always()
+        run: |
+          git config user.name Claude && git config user.email noreply@anthropic.com
+          git add video${{ steps.nn.outputs.n }}-commons && git commit -m "Wikipedia imagens V${{ steps.nn.outputs.n }} [skip ci]" && for i in 1 2 3 4 5 6; do git pull --rebase -q && git push && break; sleep $((RANDOM%8+3)); done
