@@ -1,698 +1,68 @@
 [
  {
-  "file": "video32-commons/wiki/hershey_0.jpg",
-  "tag": "hershey",
-  "article": "Milton_S._Hershey",
-  "title": "Catherine and Milton Hershey car.jpg",
-  "desc": "Catherine and Milton Hershey",
-  "license": "Public domain",
-  "w": 600,
-  "h": 600
+  "file": "video32-commons/wiki/candy_0.jpg",
+  "tag": "candy",
+  "article": "Candy",
+  "title": "2018 05 Fudge IMG 1913.JPG",
+  "desc": "Verkaufsstand mit Karamellbonbons, sogenanntes Fudge",
+  "license": "GFDL 1.2",
+  "w": 6000,
+  "h": 3856
  },
  {
-  "file": "video32-commons/wiki/hershey_1.jpg",
-  "tag": "hershey",
-  "article": "Milton_S._Hershey",
-  "title": "Milton S. Hershey c1905.jpg",
-  "desc": "Milton Snavely Hershey (September 13, 1857 – October 13, 1945)",
-  "license": "Public domain",
-  "w": 600,
-  "h": 808
- },
- {
-  "file": "video32-commons/wiki/company_0.jpg",
-  "tag": "company",
-  "article": "The_Hershey_Company",
-  "title": "2019-02-07 14 41 04 An individual snack size milk chocolate Reese's Peanut Butter Pumpkin after being broken into two pieces in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
-  "desc": "An individual snack size milk chocolate Reese's Peanut Butter Pumpkin after being broken into two pieces in the Franklin Farm section of Oak Hill, Fairfax County, Virginia",
-  "license": "CC BY-SA 4.0",
-  "w": 4032,
+  "file": "video32-commons/wiki/candy_1.jpg",
+  "tag": "candy",
+  "article": "Candy",
+  "title": "A candy stand displaying a large variety of liquorice in Jyväskylä, Finland.jpg",
+  "desc": "Liquorice in event Vaajakosken Kohinat 2012, Jyväskylä.",
+  "license": "CC BY-SA 3.0",
+  "w": 3760,
   "h": 3024
  },
  {
-  "file": "video32-commons/wiki/company_1.jpg",
-  "tag": "company",
-  "article": "The_Hershey_Company",
-  "title": "2019-04-07 19 41 53 M&M's in the Dulles section of Sterling, Loudoun County, Virginia.jpg",
-  "desc": "M&amp;M's in the Dulles section of Sterling, Loudoun County, Virginia",
-  "license": "CC BY-SA 4.0",
-  "w": 4032,
-  "h": 3024
- },
- {
-  "file": "video32-commons/wiki/company_2.jpg",
-  "tag": "company",
-  "article": "The_Hershey_Company",
-  "title": "2019-11-16 00 55 13 A packet of Strawberry Twizzlers Twists in the Dulles section of Sterling, Loudoun County, Virginia.jpg",
-  "desc": "A packet of Strawberry Twizzlers Twists in the Dulles section of Sterling, Loudoun County, Virginia",
-  "license": "CC BY-SA 4.0",
-  "w": 4032,
-  "h": 3024
- },
- {
-  "file": "video32-commons/wiki/company_3.jpg",
-  "tag": "company",
-  "article": "The_Hershey_Company",
-  "title": "2020-07-19 11 22 31 A bag of Skinny Pop Popcorn in the Dulles section of Sterling, Loudoun County, Virginia.jpg",
-  "desc": "A bag of Skinny Pop Popcorn in the Dulles section of Sterling, Loudoun County, Virginia",
-  "license": "CC BY-SA 4.0",
-  "w": 3024,
-  "h": 4032
- },
- {
-  "file": "video32-commons/wiki/company_4.jpg",
-  "tag": "company",
-  "article": "The_Hershey_Company",
-  "title": "2021-05-11 20 24 58 A PayDay in the Dulles section of Sterling, Loudoun County, Virginia.jpg",
-  "desc": "A PayDay in the Dulles section of Sterling, Loudoun County, Virginia",
-  "license": "CC BY-SA 4.0",
-  "w": 4032,
-  "h": 3024
- },
- {
-  "file": "video32-commons/wiki/company_5.jpg",
-  "tag": "company",
-  "article": "The_Hershey_Company",
-  "title": "Almond Joy.jpg",
-  "desc": "Almond Joy",
-  "license": "Public domain",
-  "w": 650,
-  "h": 550
- },
- {
-  "file": "video32-commons/wiki/company_6.jpg",
-  "tag": "company",
-  "article": "The_Hershey_Company",
-  "title": "Candy-Mounds-Broken.jpg",
-  "desc": "A Mounds candy bar broken in half.  Made of dark chocolate and coconut.",
-  "license": "Public domain",
-  "w": 2120,
-  "h": 1040
- },
- {
-  "file": "video32-commons/wiki/company_7.jpg",
-  "tag": "company",
-  "article": "The_Hershey_Company",
-  "title": "Candy-Take5-Broken.jpg",
-  "desc": "A Take 5 candy bar broken in half.  Each standard-sized package contains two bars.",
-  "license": "Public domain",
-  "w": 3940,
-  "h": 1900
- },
- {
-  "file": "video32-commons/wiki/company_8.jpg",
-  "tag": "company",
-  "article": "The_Hershey_Company",
-  "title": "Chocolate workers local.jpg",
-  "desc": "Hershey Union Hall",
-  "license": "CC BY-SA 4.0",
-  "w": 4962,
-  "h": 3370
- },
- {
-  "file": "video32-commons/wiki/company_9.jpg",
-  "tag": "company",
-  "article": "The_Hershey_Company",
-  "title": "Hershey's Drops Cookies 'n' Creme China.jpeg",
-  "desc": "A container of Cookies 'n' Creme-flavoured Hershey's Drops purchased in Shenzhen, China",
-  "license": "CC0",
-  "w": 2100,
-  "h": 2020
- },
- {
-  "file": "video32-commons/wiki/town_0.jpg",
-  "tag": "town",
-  "article": "Hershey,_Pennsylvania",
-  "title": "Chocolate Kiss streetlight-wrapped, Hershey PA (cropped).jpg",
-  "desc": "Chocolate Kiss streetlight on Chocolate Avenue wrapped and with the Hershey name tag. Some of the Kiss streetlights are brown (unwrapped) and some are silver (wrapped). The wrapped ones have the nametag. Hershey, Pennsyl",
-  "license": "Public domain",
-  "w": 1896,
-  "h": 1488
- },
- {
-  "file": "video32-commons/wiki/town_1.jpg",
-  "tag": "town",
-  "article": "Hershey,_Pennsylvania",
-  "title": "Hershey, Pennsylvania (cropped).JPG",
-  "desc": "Taken by the author",
-  "license": "CC BY-SA 3.0",
-  "w": 1873,
-  "h": 1452
- },
- {
-  "file": "video32-commons/wiki/town_2.jpg",
-  "tag": "town",
-  "article": "Hershey,_Pennsylvania",
-  "title": "Hershey PA Old Derry PHS261.jpg",
-  "desc": "Old Derry Church near Hershey, Pennsylvania from a pre-1923 postcard.\nThis is an extremely interesting image.  See, [1], the NRHP nomination form for the Derry Session House and Enclosure in Dauphin County, Pennsylvania,",
-  "license": "Public domain",
-  "w": 4528,
-  "h": 2928
- },
- {
-  "file": "video32-commons/wiki/town_3.jpg",
-  "tag": "town",
-  "article": "Hershey,_Pennsylvania",
-  "title": "Hershey Pennsylvania 1976.jpg",
-  "desc": "Hershey Chocolate Factory in Hershey, Pennsylvania.",
-  "license": "CC BY-SA 3.0",
-  "w": 2071,
-  "h": 1532
- },
- {
-  "file": "video32-commons/wiki/park_0.jpg",
-  "tag": "park",
-  "article": "Hersheypark",
-  "title": "Bear and Looper.JPG",
-  "desc": "I took this picture myself.\n=\ngood for you. -__-",
-  "license": "CC BY-SA 3.0",
-  "w": 2592,
-  "h": 1944
- },
- {
-  "file": "video32-commons/wiki/park_1.jpg",
-  "tag": "park",
-  "article": "Hersheypark",
-  "title": "HersheyPark15.JPG",
-  "desc": "I took this picture when I visited Hershey Park this past August.",
-  "license": "CC BY 2.5",
-  "w": 2683,
-  "h": 1968
- },
- {
-  "file": "video32-commons/wiki/park_2.jpg",
-  "tag": "park",
-  "article": "Hersheypark",
-  "title": "Hershey Park - The Boardwalk.JPG",
-  "desc": "This is 'The Boardwalk.' It is the waterpark section of Hershey Park. The Boardwalk was added to Hershey Park in 2007 as a celebration of Hershey Park's 100th anniversary.",
-  "license": "Public domain",
-  "w": 2048,
-  "h": 1536
- },
- {
-  "file": "video32-commons/wiki/park_3.jpg",
-  "tag": "park",
-  "article": "Hersheypark",
-  "title": "Hersheypark-exit.JPG",
-  "desc": "Picture of the Hersheypark exit gate.\n\nI took this photo myself on July 17, 2007 in Hershey, PA.",
-  "license": "Public domain",
-  "w": 2576,
-  "h": 1932
- },
- {
-  "file": "video32-commons/wiki/park_4.jpg",
-  "tag": "park",
-  "article": "Hersheypark",
-  "title": "Hersheypark Entrance 10-2-2022.jpg",
-  "desc": "A photo of Hersheypark's entrance, at night, October 2, 2022.",
-  "license": "CC BY-SA 4.0",
-  "w": 4032,
-  "h": 3024
- },
- {
-  "file": "video32-commons/wiki/park_5.jpg",
-  "tag": "park",
-  "article": "Hersheypark",
-  "title": "Hersheypark aerial view circa 1950.jpg",
-  "desc": "Postcard aerial view of a portion of Hersheypark.  Seen from the air are: the Comet roller coaster, the Whip, the Old Mill Chute, the Bug, the miniature railroad station and the twin ferris wheels.",
-  "license": "Public domain",
-  "w": 678,
-  "h": 415
- },
- {
-  "file": "video32-commons/wiki/park_6.jpg",
-  "tag": "park",
-  "article": "Hersheypark",
-  "title": "Hersheypark swimming pool.JPG",
-  "desc": "Postcard photo of another view of the Hersheypark swimming pool.",
-  "license": "Public domain",
-  "w": 689,
-  "h": 418
- },
- {
-  "file": "video32-commons/wiki/park_7.jpg",
-  "tag": "park",
-  "article": "Hersheypark",
-  "title": "Skyrush Great Bear from Kissing Tower.jpg",
-  "desc": "Hersheypark roller coasters viewed from Kissing Tower",
-  "license": "CC BY 2.0",
-  "w": 5472,
-  "h": 3648
- },
- {
-  "file": "video32-commons/wiki/park_8.jpg",
-  "tag": "park",
-  "article": "Hersheypark",
-  "title": "Sunken Garden (Hersheypark).jpg",
-  "desc": "This area photographed was, from 1932-1972, the Sunken Garden at Hersheypark. This picture was taken a couple of months before construction began  on the roller coaster Skyrush, which did not open until 2012.",
-  "license": "CC BY-SA 3.0",
-  "w": 3264,
-  "h": 2448
- },
- {
-  "file": "video32-commons/wiki/bar_0.jpg",
-  "tag": "bar",
-  "article": "Hershey_bar",
-  "title": "2019-02-07 11 36 37 A Hershey's Milk Chocolate Bar with Almonds with the wrapper still on in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
-  "desc": "A Hershey's Milk Chocolate Bar with Almonds with the wrapper still on in the Franklin Farm section of Oak Hill, Fairfax County, Virginia",
-  "license": "CC BY-SA 4.0",
-  "w": 4032,
-  "h": 3024
- },
- {
-  "file": "video32-commons/wiki/bar_1.jpg",
-  "tag": "bar",
-  "article": "Hershey_bar",
-  "title": "Hershey's Special Dark Miniatures.jpg",
-  "desc": "Miniature-sized Hershey's Special Dark chocolate candy bars",
-  "license": "Public domain",
-  "w": 851,
-  "h": 616
- },
- {
-  "file": "video32-commons/wiki/bar_2.jpg",
-  "tag": "bar",
-  "article": "Hershey_bar",
-  "title": "Hershey-bar-open.JPG",
-  "desc": "A regular Hershey bar, out of the package.",
-  "license": "Public domain",
-  "w": 3920,
-  "h": 1840
- },
- {
-  "file": "video32-commons/wiki/titanic_0.jpg",
-  "tag": "titanic",
-  "article": "Titanic",
-  "title": "19120415 New Liner Titanic Hits an Iceberg - The New York Times.png",
-  "desc": "April 15, 1912 article on the front page of The New York Times reporting collision with iceberg by the w:RMS Titanic. The newspaper went to press before the actual sinking was known.",
-  "license": "Public domain",
-  "w": 1021,
-  "h": 1747
- },
- {
-  "file": "video32-commons/wiki/titanic_1.jpg",
-  "tag": "titanic",
-  "article": "Titanic",
-  "title": "19120415 Titanic and Olympic advertisement - The New York Times.png",
-  "desc": "Newspaper advertisement in The New York Times on the day of the sinking of the w:RMS Titanic, in an issue in which the iceberg collision was known but the sinking was not yet known.",
-  "license": "Public domain",
-  "w": 680,
-  "h": 691
- },
- {
-  "file": "video32-commons/wiki/titanic_2.jpg",
-  "tag": "titanic",
-  "article": "Titanic",
-  "title": "19120416 The Vessel Unsinkable - Titanic - Manchester Guardian quoting Int'l Mercantile Marine Co.jpg",
-  "desc": "Statement of A. S. Franklin, president of the International Merchant Marine Company (The Manchester Guardian, 16 April 1912, p. 9) that the RMS Titanic is \"unsinkable\"\nCitation: Statement of A. S. Franklin, president of ",
-  "license": "Public domain",
-  "w": 1300,
-  "h": 1400
- },
- {
-  "file": "video32-commons/wiki/titanic_3.jpg",
-  "tag": "titanic",
-  "article": "Titanic",
-  "title": "19120420 J. Bruce Ismay Testifying at the Senate Inquiry - The New York Times.png",
-  "desc": "Photograph of English businessman J. Bruce Ismay testifying at a U.S. Senate Inquiry into sinking of the RMS Titanic.",
-  "license": "Public domain",
-  "w": 2521,
-  "h": 2500
- },
- {
-  "file": "video32-commons/wiki/titanic_4.jpg",
-  "tag": "titanic",
-  "article": "Titanic",
-  "title": "1912 voyages planned for Olympic and Titanic.png",
-  "desc": "1912 voyage itinerary for Olympic and Titanic",
-  "license": "Public domain",
-  "w": 740,
-  "h": 1235
- },
- {
-  "file": "video32-commons/wiki/titanic_5.jpg",
-  "tag": "titanic",
-  "article": "Titanic",
-  "title": "1913 Marconi operator room for 5 kilowatt ocean liner station.JPG",
-  "desc": "Photograph of \"The Operator's Room on a liner, showing the Receiving Apparatus for a 5-kw. Station\", which appeared between pages 252 and 253 in the 1913 edition of \"The Year Book of Wireless Telegraphy and Telephony\". (",
-  "license": "Public domain",
-  "w": 677,
-  "h": 495
- },
- {
-  "file": "video32-commons/wiki/titanic_6.jpg",
-  "tag": "titanic",
-  "article": "Titanic",
-  "title": "1stClassLounge.jpg",
-  "desc": "The first class lounge, decorated in Louis XIV style and inspired on the Palace of Versailles, was a cozy place where people could meet, have quick meals, talk and relax.",
-  "license": "Public domain",
-  "w": 4903,
-  "h": 3696
- },
- {
-  "file": "video32-commons/wiki/titanic_7.jpg",
-  "tag": "titanic",
-  "article": "Titanic",
-  "title": "1st Class Á la Carte Restaurant.jpg",
-  "desc": "RMS Olympic's À la Carte Restaurant, located in B-Deck level. Circa May 1911.",
-  "license": "Public domain",
-  "w": 4903,
-  "h": 3696
- },
- {
-  "file": "video32-commons/wiki/titanic_8.jpg",
-  "tag": "titanic",
-  "article": "Titanic",
-  "title": "Californian.jpg",
-  "desc": "zdjęcie przedstawia statek SS Californian.",
-  "license": "Public domain",
-  "w": 1200,
-  "h": 838
- },
- {
-  "file": "video32-commons/wiki/titanic_9.jpg",
-  "tag": "titanic",
-  "article": "Titanic",
-  "title": "EJ Smith.jpg",
-  "desc": "",
-  "license": "Public domain",
-  "w": 545,
-  "h": 700
- },
- {
-  "file": "video32-commons/wiki/centennial_0.jpg",
-  "tag": "centennial",
-  "article": "Centennial_Exposition",
-  "title": "Beaver Falls Cutlery Works (940).jpg",
-  "desc": "Photograph of an outsized carving knife and fork made by Beaver Falls Cutlery Works, Beaver Falls, Pennsylvania. The knife measured 9 feet 7 inches long. The handles were each made from a whole elephant's tusk, and were ",
-  "license": "Public domain",
-  "w": 1136,
-  "h": 1704
- },
- {
-  "file": "video32-commons/wiki/centennial_1.jpg",
-  "tag": "centennial",
-  "article": "Centennial_Exposition",
-  "title": "Centennial Board of Finance 1875.jpg",
-  "desc": "Stock certificate for five shares to finance the Centennial International Exhibition 1876, issued by the Centennial Board of Finance and dated August 18, 1875. The share text is framed by extensive views. They portray th",
-  "license": "Public domain",
-  "w": 4416,
-  "h": 3892
- },
- {
-  "file": "video32-commons/wiki/centennial_2.jpg",
-  "tag": "centennial",
-  "article": "Centennial_Exposition",
-  "title": "Centennial Exhibition, Opening Day.jpg",
-  "desc": "Opening day ceremonies at the Centennial Exhibition at Philadelphia, PA  May 10, 1876.",
-  "license": "Public domain",
-  "w": 2548,
-  "h": 1558
- },
- {
-  "file": "video32-commons/wiki/centennial_3.jpg",
-  "tag": "centennial",
-  "article": "Centennial_Exposition",
-  "title": "Centennial Exhibition monorail (LOC) - crop 02.jpg",
-  "desc": "\nStereograph card depicting the elevated railway (monorail) at the United States Centennial Exhibition, Philadelphia, 1876. \n(Cropped, color and contrast adjusted.)",
-  "license": "Public domain",
-  "w": 2454,
-  "h": 2513
- },
- {
-  "file": "video32-commons/wiki/centennial_4.jpg",
-  "tag": "centennial",
-  "article": "Centennial_Exposition",
-  "title": "Centennialhorthall.jpg",
-  "desc": "1875 - A Century After, picturesque glimpses of Philadelphia and Pennsylvania, edited by Edward Strahan, Published by Allen, Lane &amp; Scott and J. W. Lauderbach, Philadelphia, Pennsylvania, 1875.",
-  "license": "Public domain",
-  "w": 640,
-  "h": 672
- },
- {
-  "file": "video32-commons/wiki/centennial_5.jpg",
-  "tag": "centennial",
-  "article": "Centennial_Exposition",
-  "title": "Collossal hand and torch. Bartholdi's statue of \"Liberty.\", from Robert N. Dennis collection of stereoscopic views.jpg",
-  "desc": "",
-  "license": "Public domain",
-  "w": 2737,
-  "h": 1403
- },
- {
-  "file": "video32-commons/wiki/centennial_6.jpg",
-  "tag": "centennial",
-  "article": "Centennial_Exposition",
-  "title": "EdwardMoran-UnveilingTheStatueofLiberty1886Large.jpg",
-  "desc": "A painting by Edward Moran depicting the unveiling of the Statue of Liberty on October 28, 1886. This was an actual historical event near Bedloe's Island in which thousands of spectators gathered in boats for the dedicat",
-  "license": "Public domain",
-  "w": 1260,
-  "h": 1600
- },
- {
-  "file": "video32-commons/wiki/centennial_7.jpg",
-  "tag": "centennial",
-  "article": "Centennial_Exposition",
-  "title": "Great Sanitary Fair 1864.jpg",
-  "desc": "\"Buildings of the Great Central Fair, in Aid of the U.S. Sanitary Commission, Logan Square, Philadelphia, June 1864.\" Engraving. The intersection in the foreground is 20th &amp; Vine Streets. The large domed building (le",
-  "license": "Public domain",
-  "w": 1024,
-  "h": 614
- },
- {
-  "file": "video32-commons/wiki/centennial_8.jpg",
-  "tag": "centennial",
-  "article": "Centennial_Exposition",
-  "title": "Horticultural Hall, from Robert N. Dennis collection of stereoscopic views 3.jpg",
-  "desc": "",
-  "license": "Public domain",
-  "w": 2737,
-  "h": 1407
- },
- {
-  "file": "video32-commons/wiki/centennial_9.jpg",
-  "tag": "centennial",
-  "article": "Centennial_Exposition",
-  "title": "Hymn for the First Centennial of the American Independence (1876) – cover by Carlos Gomes.jpg",
-  "desc": "Reproduction of the cover of the hymn composed by Carlos Gomes: “To the American People: Hymn for the First Centennial of the American Independence, celebrated at Philadelphia on the 4th of July 1876. Composed by command",
-  "license": "Public domain",
-  "w": 750,
-  "h": 1085
- },
- {
-  "file": "video32-commons/wiki/lancaster_0.jpg",
-  "tag": "lancaster",
-  "article": "Lancaster,_Pennsylvania",
-  "title": "Central Market, Lancaster, PA - IMG 7734.JPG",
-  "desc": "Central Market, Lancaster, Pennsylvania, USA. Exterior view.",
-  "license": "Public domain",
-  "w": 2448,
-  "h": 3264
- },
- {
-  "file": "video32-commons/wiki/lancaster_1.jpg",
-  "tag": "lancaster",
-  "article": "Lancaster,_Pennsylvania",
-  "title": "F&M.jpg",
-  "desc": "Franklin &amp; Marshall",
-  "license": "CC BY-SA 4.0",
-  "w": 549,
-  "h": 367
- },
- {
-  "file": "video32-commons/wiki/lancaster_2.jpg",
-  "tag": "lancaster",
-  "article": "Lancaster,_Pennsylvania",
-  "title": "Infield of Clipper Magazine Stadium (Lancaster, Pennsylvania).png",
-  "desc": "User:JaMikePA",
-  "license": "Public domain",
-  "w": 560,
-  "h": 360
- },
- {
-  "file": "video32-commons/wiki/lancaster_3.jpg",
-  "tag": "lancaster",
-  "article": "Lancaster,_Pennsylvania",
-  "title": "Lancaster, Pennsylvania - Housing. Low-priced houses on Cabbage Hill - rental about $12.00 per month - (umbrella... - NARA - 518455.jpg",
-  "desc": "",
-  "license": "Public domain",
-  "w": 3000,
-  "h": 2135
- },
- {
-  "file": "video32-commons/wiki/lancaster_4.jpg",
-  "tag": "lancaster",
-  "article": "Lancaster,_Pennsylvania",
-  "title": "Lancaster, Pennsylvania - Housing. Stehli mills and houses in row inhabited by Stehli workers - rental $30.00 per month. - NARA - 518453.jpg",
-  "desc": "",
-  "license": "Public domain",
-  "w": 3000,
-  "h": 2141
- },
- {
-  "file": "video32-commons/wiki/lancaster_5.jpg",
-  "tag": "lancaster",
-  "article": "Lancaster,_Pennsylvania",
-  "title": "Lancaster Central Market.JPG",
-  "desc": "The Central Market in Lancaster, PA",
-  "license": "CC BY-SA 3.0",
-  "w": 3648,
-  "h": 2736
- },
- {
-  "file": "video32-commons/wiki/lancaster_6.jpg",
-  "tag": "lancaster",
-  "article": "Lancaster,_Pennsylvania",
-  "title": "Lancaster City Bureau of Fire vehicle - Lancaster, Pennsylvania.jpg",
-  "desc": "Lancaster City Bureau of Fire vehicle traveling on West Orange Street in Lancaster, Pennsylvania.",
-  "license": "CC BY 2.0",
-  "w": 3079,
-  "h": 1683
- },
- {
-  "file": "video32-commons/wiki/lancaster_7.jpg",
-  "tag": "lancaster",
-  "article": "Lancaster,_Pennsylvania",
-  "title": "Lancaster Pennsylvania downtown.jpg",
-  "desc": "Downtown Lancaster, Pennsylvania",
-  "license": "CC BY-SA 3.0",
-  "w": 2011,
-  "h": 1114
- },
- {
-  "file": "video32-commons/wiki/lancaster_8.jpg",
-  "tag": "lancaster",
-  "article": "Lancaster,_Pennsylvania",
-  "title": "Lancaster Soldiers and Sailors Monument - IMG 7743.JPG",
-  "desc": "Soldiers and Sailors Monument, Lancaster, Pennsylvania, USA.",
-  "license": "Public domain",
-  "w": 2448,
-  "h": 3264
- },
- {
-  "file": "video32-commons/wiki/lancaster_9.jpg",
-  "tag": "lancaster",
-  "article": "Lancaster,_Pennsylvania",
-  "title": "North Duke Street Lancaster.jpg",
-  "desc": "North Duke Street in Lancaster, Pennsylvania",
-  "license": "CC BY-SA 3.0",
-  "w": 2816,
-  "h": 2112
- },
- {
-  "file": "video32-commons/wiki/denver_0.jpg",
-  "tag": "denver",
-  "article": "History_of_Denver",
-  "title": "6601-DowntownDenver-E-SE.jpg",
-  "desc": "Denver, Colorado, USA, downtown skyline, looking east-south/east. Taken with a 35mm Automatic Exakta VX SLR, using Ektachrome slide film.",
-  "license": "CC BY-SA 3.0",
-  "w": 1494,
-  "h": 870
- },
- {
-  "file": "video32-commons/wiki/denver_1.jpg",
-  "tag": "denver",
-  "article": "History_of_Denver",
-  "title": "Colo state capitol.jpg",
-  "desc": "Colorado state capitol in downtown Denver. Taken by myself and released into the public domain.",
-  "license": "Public domain",
-  "w": 1775,
-  "h": 1132
- },
- {
-  "file": "video32-commons/wiki/denver_2.jpg",
-  "tag": "denver",
-  "article": "History_of_Denver",
-  "title": "Colorado - Denver - NARA - 23936009 (cropped).jpg",
-  "desc": "",
-  "license": "Public domain",
-  "w": 3399,
-  "h": 2632
- },
- {
-  "file": "video32-commons/wiki/denver_3.jpg",
-  "tag": "denver",
-  "article": "History_of_Denver",
-  "title": "Colorado - Denver - NARA - 23936027 (cropped).jpg",
-  "desc": "",
-  "license": "Public domain",
-  "w": 3390,
-  "h": 2687
- },
- {
-  "file": "video32-commons/wiki/denver_4.jpg",
-  "tag": "denver",
-  "article": "History_of_Denver",
-  "title": "Colorado - Denver - NARA - 23936029 (cropped).jpg",
-  "desc": "",
-  "license": "Public domain",
-  "w": 3369,
-  "h": 2700
- },
- {
-  "file": "video32-commons/wiki/denver_5.jpg",
-  "tag": "denver",
-  "article": "History_of_Denver",
-  "title": "Colorado - Denver - NARA - 23936035 (cropped).jpg",
-  "desc": "",
-  "license": "Public domain",
-  "w": 3395,
-  "h": 2700
- },
- {
-  "file": "video32-commons/wiki/denver_6.jpg",
-  "tag": "denver",
-  "article": "History_of_Denver",
-  "title": "DIA Airport Roof.jpg",
-  "desc": "",
+  "file": "video32-commons/wiki/candy_2.jpg",
+  "tag": "candy",
+  "article": "Candy",
+  "title": "Bar of Guittard chocolate.jpg",
+  "desc": "A bar of Guittard chocolate",
   "license": "CC BY-SA 2.0",
-  "w": 1920,
-  "h": 396
+  "w": 2560,
+  "h": 1920
  },
  {
-  "file": "video32-commons/wiki/denver_7.jpg",
-  "tag": "denver",
-  "article": "History_of_Denver",
-  "title": "Denver 1859.jpg",
-  "desc": "Denver in 2026",
-  "license": "Public domain",
-  "w": 590,
-  "h": 437
+  "file": "video32-commons/wiki/candy_3.jpg",
+  "tag": "candy",
+  "article": "Candy",
+  "title": "Batasha sweets.jpg",
+  "desc": "Batasha, a kind of sweets from Bangladesh.",
+  "license": "GFDL",
+  "w": 768,
+  "h": 576
  },
  {
-  "file": "video32-commons/wiki/denver_8.jpg",
-  "tag": "denver",
-  "article": "History_of_Denver",
-  "title": "Denver Colorado 1898 - LOC - restoration1.jpg",
-  "desc": "Denver, Colorado, circa 1898. View from the top of the Colorado State Capitol, facing northwest looking down 16th St. The intersection of 16th and Broadway is in the foreground. The domed building on the left side is the",
-  "license": "Public domain",
-  "w": 5996,
-  "h": 1916
- },
- {
-  "file": "video32-commons/wiki/denver_9.jpg",
-  "tag": "denver",
-  "article": "History_of_Denver",
-  "title": "Denver Union Station; Front end - October 11, 2004.jpg",
-  "desc": "Front exterior of Union Station in downtown Denver (taken Oct. 11, 2004)\n© 2004 Matthew Trump",
+  "file": "video32-commons/wiki/candy_4.jpg",
+  "tag": "candy",
+  "article": "Candy",
+  "title": "Butterscotch-Candies.jpg",
+  "desc": "Butterscotch hard candies.  Commonly sold in America, these are penny candies wrapped in a nondescript yellow cellophane wrapper.",
   "license": "CC BY-SA 3.0",
-  "w": 600,
-  "h": 359
+  "w": 2160,
+  "h": 1360
  },
  {
-  "file": "video32-commons/wiki/caramel_0.jpg",
-  "tag": "caramel",
-  "article": "Caramel",
-  "title": "Caramel-2.jpg",
-  "desc": "Caramel",
-  "license": "CC BY-SA 3.0",
-  "w": 1861,
-  "h": 1500
+  "file": "video32-commons/wiki/candy_5.jpg",
+  "tag": "candy",
+  "article": "Candy",
+  "title": "Candy in Damascus.jpg",
+  "desc": "Candy at a souq in Damascus, Syria.",
+  "license": "CC BY 2.0",
+  "w": 4752,
+  "h": 3168
  },
  {
-  "file": "video32-commons/wiki/caramel_1.jpg",
-  "tag": "caramel",
-  "article": "Caramel",
+  "file": "video32-commons/wiki/candy_6.jpg",
+  "tag": "candy",
+  "article": "Candy",
   "title": "Caramels.jpg",
   "desc": "A pile of loose caramels.  These are from North America where they are commonly sold in individually-wrapped cellophane.",
   "license": "CC BY-SA 3.0",
@@ -700,9 +70,59 @@
   "h": 1960
  },
  {
-  "file": "video32-commons/wiki/caramel_2.jpg",
-  "tag": "caramel",
-  "article": "Caramel",
+  "file": "video32-commons/wiki/candy_7.jpg",
+  "tag": "candy",
+  "article": "Candy",
+  "title": "Chocolat Bonnat. 100%.jpg",
+  "desc": "A tablet of Bonnat 100% chocolate. The only ingredient is cocoa mass .",
+  "license": "CC BY 2.0",
+  "w": 1024,
+  "h": 687
+ },
+ {
+  "file": "video32-commons/wiki/candy_8.jpg",
+  "tag": "candy",
+  "article": "Candy",
+  "title": "Couverture chocolate and compund chocolate.jpg",
+  "desc": "A comparison of couverture chocolate (upper half) and compound chocolate (lower half), both applied to a ladyfinger biscuit. The couverture is a medium dark variety (55 % cocoa), the compound chocolate is also “dark.”",
+  "license": "CC BY-SA 3.0",
+  "w": 1332,
+  "h": 2664
+ },
+ {
+  "file": "video32-commons/wiki/candy_9.jpg",
+  "tag": "candy",
+  "article": "Candy",
+  "title": "Gummy bears.jpg",
+  "desc": "A heap of HARIBO gummy bears.",
+  "license": "CC BY-SA 2.5",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "file": "video32-commons/wiki/caramel2_0.jpg",
+  "tag": "caramel2",
+  "article": "Caramel_candy",
+  "title": "Caramel-2.jpg",
+  "desc": "Caramel",
+  "license": "CC BY-SA 3.0",
+  "w": 1861,
+  "h": 1500
+ },
+ {
+  "file": "video32-commons/wiki/caramel2_1.jpg",
+  "tag": "caramel2",
+  "article": "Caramel_candy",
+  "title": "Caramels.jpg",
+  "desc": "A pile of loose caramels.  These are from North America where they are commonly sold in individually-wrapped cellophane.",
+  "license": "CC BY-SA 3.0",
+  "w": 3540,
+  "h": 1960
+ },
+ {
+  "file": "video32-commons/wiki/caramel2_2.jpg",
+  "tag": "caramel2",
+  "article": "Caramel_candy",
   "title": "Omar-kaare ja klontti web.jpg",
   "desc": "Omar Cream candy",
   "license": "Public domain",
@@ -710,308 +130,108 @@
   "h": 1600
  },
  {
-  "file": "video32-commons/wiki/chocolate_0.jpg",
-  "tag": "chocolate",
-  "article": "Milk_chocolate",
-  "title": "A suchard on nov 2020 (1).jpg",
-  "desc": "Ad for Milka",
+  "file": "video32-commons/wiki/cocoa_0.jpg",
+  "tag": "cocoa",
+  "article": "Cocoa_bean",
+  "title": "Ateh Eldeno harvesting coacoa.jpg",
+  "desc": "\n\n\n\n\nThis is an image with the theme \"Africa on the Move or Transport\" from: Cameroon \n\n",
   "license": "CC BY-SA 4.0",
-  "w": 760,
-  "h": 1157
+  "w": 960,
+  "h": 1280
  },
  {
-  "file": "video32-commons/wiki/chocolate_1.jpg",
-  "tag": "chocolate",
-  "article": "Milk_chocolate",
-  "title": "Cadbury-Buttons.jpg",
-  "desc": "Cadbury Buttons, simple rounded milk chocolates that are available in the United Kingdom.",
+  "file": "video32-commons/wiki/cocoa_1.jpg",
+  "tag": "cocoa",
+  "article": "Cocoa_bean",
+  "title": "Cacao Beans Drying.JPG",
+  "desc": "Cacao beans drying in Cunday (Tres Esquinas), Colombia",
   "license": "CC BY-SA 3.0",
-  "w": 2660,
-  "h": 1340
+  "w": 3264,
+  "h": 2448
  },
  {
-  "file": "video32-commons/wiki/chocolate_2.jpg",
-  "tag": "chocolate",
-  "article": "Milk_chocolate",
-  "title": "Gala Peter.jpg",
-  "desc": "1905 ad for Gala Peter stating (in French): \"The world's first milk chocolate. D. Peter, Inventor Vevey (Switzerland). Any other brand is an imitation.\"",
+  "file": "video32-commons/wiki/cocoa_2.jpg",
+  "tag": "cocoa",
+  "article": "Cocoa_bean",
+  "title": "Chocolate02.jpg",
+  "desc": "",
+  "license": "CC BY-SA 3.0",
+  "w": 800,
+  "h": 768
+ },
+ {
+  "file": "video32-commons/wiki/cocoa_3.jpg",
+  "tag": "cocoa",
+  "article": "Cocoa_bean",
+  "title": "Cocoa Pods.JPG",
+  "desc": "A cacao tree with fruit pods in various stages of ripening. Taken on the Big Island (Hawaii) in the botanical gardens.",
   "license": "Public domain",
-  "w": 3334,
-  "h": 1843
+  "w": 1024,
+  "h": 1536
  },
  {
-  "file": "video32-commons/wiki/chocolate_3.jpg",
-  "tag": "chocolate",
-  "article": "Milk_chocolate",
-  "title": "Hershey-bar-open.JPG",
-  "desc": "A regular Hershey bar, out of the package.",
-  "license": "Public domain",
-  "w": 3920,
-  "h": 1840
- },
- {
-  "file": "video32-commons/wiki/chocolate_4.jpg",
-  "tag": "chocolate",
-  "article": "Milk_chocolate",
-  "title": "Milka Alpine Milk Chocolate bar 100g with chunks broken off.jpg",
-  "desc": "Milka Alpine Milk Chocolate bar 100g with chunks broken off. (Purchased on UK market in mid-2021).",
+  "file": "video32-commons/wiki/cocoa_4.jpg",
+  "tag": "cocoa",
+  "article": "Cocoa_bean",
+  "title": "Cocoa bean roasted2.jpg",
+  "desc": "",
   "license": "CC BY-SA 4.0",
-  "w": 2960,
-  "h": 1665
+  "w": 3072,
+  "h": 4096
  },
  {
-  "file": "video32-commons/wiki/chocolate_5.jpg",
-  "tag": "chocolate",
-  "article": "Milk_chocolate",
-  "title": "Schokolade-braun.jpg",
-  "desc": "Brown Swiss chocolate. The bar at the bottom is hazelnut chocolate, the bar in the middle contains pistachio nuts, the top bar is chocolate with a milk center.",
+  "file": "video32-commons/wiki/cocoa_5.jpg",
+  "tag": "cocoa",
+  "article": "Cocoa_bean",
+  "title": "Cocoa beans in cocoa pod at El Trapiche, Costa Rica.jpg",
+  "desc": "Cocoa beans in cocoa pod at El Trapiche in Costa Rica",
   "license": "CC BY-SA 3.0",
-  "w": 4280,
-  "h": 2362
+  "w": 6016,
+  "h": 4000
  },
  {
-  "file": "video32-commons/wiki/chocolate_6.jpg",
-  "tag": "chocolate",
-  "article": "Milk_chocolate",
-  "title": "Toblerone-Split.jpg",
-  "desc": "A standard Toblerone, A Swiss-made milk chocolate bar with honey and almond nougat, split in half.",
-  "license": "Public domain",
-  "w": 4060,
-  "h": 1180
+  "file": "video32-commons/wiki/cocoa_6.jpg",
+  "tag": "cocoa",
+  "article": "Cocoa_bean",
+  "title": "Cocoa press cake.jpg",
+  "desc": "press cake of cocoa",
+  "license": "CC BY-SA 3.0",
+  "w": 900,
+  "h": 500
  },
  {
-  "file": "video32-commons/wiki/cuba_0.jpg",
-  "tag": "cuba",
-  "article": "Hershey,_Cuba",
-  "title": "Camilo Cienfuegos (Hershey, OpenStreetMap).png",
-  "desc": "\nThis map  was created from OpenStreetMap project data, collected by the community. This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.",
-  "license": "CC BY-SA 2.0",
-  "w": 1200,
-  "h": 800
+  "file": "video32-commons/wiki/cocoa_7.jpg",
+  "tag": "cocoa",
+  "article": "Cocoa_bean",
+  "title": "Kakaové boby.jpg",
+  "desc": "Cacao beans: in pulp, in skin, and naked.",
+  "license": "CC BY-SA 4.0",
+  "w": 4160,
+  "h": 3120
  },
  {
-  "file": "video32-commons/wiki/cuba_1.jpg",
-  "tag": "cuba",
-  "article": "Hershey,_Cuba",
-  "title": "HERSHEY STATION HERSHEY RAILWAY CUBA DEC 2010 (5252718182).jpg",
-  "desc": "Hershey station, Hershey Electric Railway (Cuba, Dec 2010)",
-  "license": "CC BY-SA 2.0",
-  "w": 3648,
-  "h": 2736
- },
- {
-  "file": "video32-commons/wiki/depression_0.jpg",
-  "tag": "depression",
-  "article": "Great_Depression",
-  "title": "Agence Mondial 1932 - Soupe populaire offerte aux chômeurs en 1932 2.jpg",
-  "desc": "Soupe populaire de la faluche en 1932.",
-  "license": "Public domain",
-  "w": 5889,
-  "h": 4384
- },
- {
-  "file": "video32-commons/wiki/depression_1.jpg",
-  "tag": "depression",
-  "article": "Great_Depression",
-  "title": "Bank of the United States failure NYWTS.jpg",
-  "desc": "Crowd of depositors gather in the rain outside Bank of United States after its failure.",
-  "license": "Public domain",
-  "w": 3432,
-  "h": 1967
- },
- {
-  "file": "video32-commons/wiki/depression_2.jpg",
-  "tag": "depression",
-  "article": "Great_Depression",
-  "title": "Bundesarchiv Bild 102-10246, England, Arbeitslose vor Gewerkschaftshaus.jpg",
-  "desc": "Grosse Arbeitslosigkeit auch in England !\nIm Monat Juli wurden in England über 2 Millionen  Arbeitslose gezählt. Es ist eine Ziffer, wie sie England noch nicht aufzuweisen hatte. \n\nArbeitslose vor dem Gewerkschaftshaus i",
-  "license": "CC BY-SA 3.0 de",
-  "w": 800,
-  "h": 576
- },
- {
-  "file": "video32-commons/wiki/depression_3.jpg",
-  "tag": "depression",
-  "article": "Great_Depression",
-  "title": "Bundesarchiv Bild 102-11008, Hamburg, Arbeitslose Hafenarbeiter im Hafenviertel.jpg",
-  "desc": "\nFor documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Die Not unserer Zeit!\nArbeitslose Hafenarbeiter im Hamburg",
-  "license": "CC BY-SA 3.0 de",
-  "w": 800,
-  "h": 536
- },
- {
-  "file": "video32-commons/wiki/depression_4.jpg",
-  "tag": "depression",
-  "article": "Great_Depression",
-  "title": "Bundesarchiv Bild 102-12509, Italien, Arbeitslose vor Fabrik.jpg",
-  "desc": "\nFor documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Eine Arbeitstelle ist zu vergeben !\nHunderte von italienis",
-  "license": "CC BY-SA 3.0 de",
-  "w": 800,
-  "h": 573
- },
- {
-  "file": "video32-commons/wiki/depression_5.jpg",
-  "tag": "depression",
-  "article": "Great_Depression",
-  "title": "Bundesarchiv Bild 119-11-19-12, Adolf Hitler bei Ortsgruppenfeier der NSDAP Rosenheim.jpg",
-  "desc": "",
-  "license": "CC BY-SA 3.0 de",
-  "w": 800,
-  "h": 569
- },
- {
-  "file": "video32-commons/wiki/depression_6.jpg",
-  "tag": "depression",
-  "article": "Great_Depression",
-  "title": "Civilian Conservation Corps - NARA - 195832.jpg",
-  "desc": "",
-  "license": "Public domain",
-  "w": 1965,
-  "h": 1575
- },
- {
-  "file": "video32-commons/wiki/depression_7.jpg",
-  "tag": "depression",
-  "article": "Great_Depression",
-  "title": "Crowd outside nyse.jpg",
-  "desc": "A solemn crowd gathers outside the Stock Exchange after the crash. 1929.",
-  "license": "Public domain",
-  "w": 718,
-  "h": 1024
- },
- {
-  "file": "video32-commons/wiki/depression_8.jpg",
-  "tag": "depression",
-  "article": "Great_Depression",
-  "title": "Dust Bowl - Dallas, South Dakota 1936.jpg",
-  "desc": "Buried machinery in barn lot in Dallas, South Dakota, United States during the Dust Bowl, an agricultural, ecological, and economic disaster in the Great Plains region of North America in 1936",
-  "license": "Public domain",
-  "w": 2400,
-  "h": 1800
- },
- {
-  "file": "video32-commons/wiki/depression_9.jpg",
-  "tag": "depression",
-  "article": "Great_Depression",
-  "title": "Evictbonusarmy.jpg",
-  "desc": "Shacks, put up by the Bonus Army on the Anacostia flats, Washington, D.C., burning after the battle with the military. The Capitol in the background. 1932.",
-  "license": "Public domain",
-  "w": 1418,
-  "h": 1083
- },
- {
-  "file": "video32-commons/wiki/ww2_0.jpg",
-  "tag": "ww2",
-  "article": "World_War_II",
-  "title": "228 regiment in HK.jpg",
-  "desc": "The Imperial Japanese Army 228th Infantry Regiment of the 38th Division enters Hong Kong on 8 December 1941.",
-  "license": "Public domain",
-  "w": 800,
-  "h": 511
- },
- {
-  "file": "video32-commons/wiki/ww2_1.jpg",
-  "tag": "ww2",
-  "article": "World_War_II",
-  "title": "410th Bombardment Squadron - B-17 Flying Fortress.jpg",
-  "desc": "U.S. Army Air Forces Douglas-Long Beach B-17F-50-DL Flying Fortress (s/n 42-3352), \"Virgin's Delight\", 410th BS, 94th BG, 8th AF, during raid on Marienburg, Germany, in October 1943. It was later shot down by fighters an",
-  "license": "Public domain",
-  "w": 5669,
-  "h": 4062
- },
- {
-  "file": "video32-commons/wiki/ww2_2.jpg",
-  "tag": "ww2",
-  "article": "World_War_II",
-  "title": "Approaching Omaha.jpg",
-  "desc": "Photo #: SC 320901\nNormandy Invasion, June 1944\nTroops in an LCVP landing craft approaching \"Omaha\" Beach on \"D-Day\", 6 June 1944.\nNote helmet netting; faint \"No Smoking\" sign on the LCVP's ramp; and M1903 rifles and M1 ",
-  "license": "Public domain",
-  "w": 3000,
-  "h": 2147
- },
- {
-  "file": "video32-commons/wiki/ww2_3.jpg",
-  "tag": "ww2",
-  "article": "World_War_II",
-  "title": "Bundesarchiv Bild 101I-031-2436-03A, Russland, Hinrichtung von Partisanen retouched.jpg",
-  "desc": "",
-  "license": "CC BY-SA 3.0 de",
-  "w": 794,
-  "h": 497
- },
- {
-  "file": "video32-commons/wiki/ww2_4.jpg",
-  "tag": "ww2",
-  "article": "World_War_II",
-  "title": "Bundesarchiv Bild 101I-646-5188-17, Flugzeuge Junkers Ju 87.jpg",
-  "desc": "\nFor documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. German Stuka dive bombers over the Eastern Front, World Wa",
-  "license": "CC BY-SA 3.0 de",
-  "w": 798,
-  "h": 544
- },
- {
-  "file": "video32-commons/wiki/ww2_5.jpg",
-  "tag": "ww2",
-  "article": "World_War_II",
-  "title": "Bundesarchiv Bild 101I-783-0109-11, Nordafrika, Panzer III in Fahrt.jpg",
-  "desc": "",
-  "license": "CC BY-SA 3.0 de",
-  "w": 741,
-  "h": 452
- },
- {
-  "file": "video32-commons/wiki/ww2_6.jpg",
-  "tag": "ww2",
-  "article": "World_War_II",
-  "title": "Bundesarchiv Bild 102-09042, Genf, Völkerbund, Sitzungssaal.jpg",
-  "desc": "\nFor documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Parlamente aus aller Welt! Das Parlament der Völker. Blick",
-  "license": "CC BY-SA 3.0 de",
-  "w": 795,
-  "h": 528
- },
- {
-  "file": "video32-commons/wiki/ww2_7.jpg",
-  "tag": "ww2",
-  "article": "World_War_II",
-  "title": "Bundesarchiv Bild 146-1978-Anh.026-01, Peenemünde, V2 beim Start.jpg",
-  "desc": "",
-  "license": "CC BY-SA 3.0 de",
-  "w": 800,
-  "h": 554
- },
- {
-  "file": "video32-commons/wiki/ww2_8.jpg",
-  "tag": "ww2",
-  "article": "World_War_II",
-  "title": "Bundesarchiv Bild 183-H27337, Moskau, Stalin und Ribbentrop im Kreml.jpg",
-  "desc": "\nFor documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. ADN-ZB/Archiv\nSowjetunion, August 1939, Im Moskauer Kreml ",
-  "license": "CC BY-SA 3.0 de",
-  "w": 1185,
-  "h": 1562
- },
- {
-  "file": "video32-commons/wiki/ww2_9.jpg",
-  "tag": "ww2",
-  "article": "World_War_II",
-  "title": "Bundesarchiv Bild 183-R76619, Russland, Kesselschlacht Stalingrad.jpg",
-  "desc": "\nFor documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Russland, Kesselschlacht Stalingrad\nADN-ZB/SNB/ II. Weltkr",
-  "license": "CC BY-SA 3.0 de",
-  "w": 800,
-  "h": 544
- },
- {
-  "file": "video32-commons/wiki/derry_0.jpg",
-  "tag": "derry",
-  "article": "Derry_Township,_Dauphin_County,_Pennsylvania",
-  "title": "Hersheypark view from Ferris Wheel, 2013-08-10 (cropped).jpg",
-  "desc": "Hersheypark Ferris Wheel",
+  "file": "video32-commons/wiki/cocoa_8.jpg",
+  "tag": "cocoa",
+  "article": "Cocoa_bean",
+  "title": "Medium close up image of David Kebu Jnr holding cocoa beans drying in the sun. (10703178735).jpg",
+  "desc": "Medium close up image of David Kebu Jnr holding cocoa beans drying in the sun. Photo taken by Irene Scott for AusAID. (13/2529)",
   "license": "CC BY 2.0",
-  "w": 2929,
-  "h": 1514
+  "w": 3872,
+  "h": 2592
  },
  {
-  "file": "video32-commons/wiki/mennonite_0.jpg",
-  "tag": "mennonite",
+  "file": "video32-commons/wiki/cocoa_9.jpg",
+  "tag": "cocoa",
+  "article": "Cocoa_bean",
+  "title": "Roasted Cocoa Bean.JPG",
+  "desc": "A roasted cocoa bean, with the papery skin rubbed loose",
+  "license": "CC BY-SA 3.0",
+  "w": 800,
+  "h": 600
+ },
+ {
+  "file": "video32-commons/wiki/mennonite2_0.jpg",
+  "tag": "mennonite2",
   "article": "Mennonites",
   "title": "A Group of Young Mennonite Ladies at a Youth Group Function.jpg",
   "desc": "A group of Mennonites ladies from the Mid-West Fellowship and one Amish lady at a youth group function",
@@ -1020,8 +240,8 @@
   "h": 1247
  },
  {
-  "file": "video32-commons/wiki/mennonite_1.jpg",
-  "tag": "mennonite",
+  "file": "video32-commons/wiki/mennonite2_1.jpg",
+  "tag": "mennonite2",
   "article": "Mennonites",
   "title": "Alexanderwohl-church.jpg",
   "desc": "Alexanderwohl Mennonite Church, Goessel, Kansas, United States",
@@ -1030,8 +250,8 @@
   "h": 1675
  },
  {
-  "file": "video32-commons/wiki/mennonite_2.jpg",
-  "tag": "mennonite",
+  "file": "video32-commons/wiki/mennonite2_2.jpg",
+  "tag": "mennonite2",
   "article": "Mennonites",
   "title": "Altkirch, Église Évangélique Mennonite.jpg",
   "desc": "Evangelical Mennonite Church in Altkirch, Association of Evangelical Mennonite Churches of France.",
@@ -1040,8 +260,8 @@
   "h": 1295
  },
  {
-  "file": "video32-commons/wiki/mennonite_3.jpg",
-  "tag": "mennonite",
+  "file": "video32-commons/wiki/mennonite2_3.jpg",
+  "tag": "mennonite2",
   "article": "Mennonites",
   "title": "Bethel-administration.jpg",
   "desc": "Administration Building, Bethel College, North Newton Kansas",
@@ -1050,8 +270,8 @@
   "h": 1704
  },
  {
-  "file": "video32-commons/wiki/mennonite_4.jpg",
-  "tag": "mennonite",
+  "file": "video32-commons/wiki/mennonite2_4.jpg",
+  "tag": "mennonite2",
   "article": "Mennonites",
   "title": "Germantown Mennonite Meeting.JPG",
   "desc": "Germantown Mennonite Meeting House, built 1700.  On the NRHP since  July 23, 1973. At 6119 Germantown Avenue.",
@@ -1060,8 +280,8 @@
   "h": 3000
  },
  {
-  "file": "video32-commons/wiki/mennonite_5.jpg",
-  "tag": "mennonite",
+  "file": "video32-commons/wiki/mennonite2_5.jpg",
+  "tag": "mennonite2",
   "article": "Mennonites",
   "title": "Goshen College Music Center.JPG",
   "desc": "Goshen College's Music Center",
@@ -1070,8 +290,8 @@
   "h": 2592
  },
  {
-  "file": "video32-commons/wiki/mennonite_6.jpg",
-  "tag": "mennonite",
+  "file": "video32-commons/wiki/mennonite2_6.jpg",
+  "tag": "mennonite2",
   "article": "Mennonites",
   "title": "Henderson, Nebraska Bethesda Mennonite from SW 1.JPG",
   "desc": "Bethesda Mennonite Church in Henderson, Nebraska; seen from the southwest.",
@@ -1080,8 +300,8 @@
   "h": 1188
  },
  {
-  "file": "video32-commons/wiki/mennonite_7.jpg",
-  "tag": "mennonite",
+  "file": "video32-commons/wiki/mennonite2_7.jpg",
+  "tag": "mennonite2",
   "article": "Mennonites",
   "title": "Jan Woutersz van Cuyck executie.jpg",
   "desc": "Execution of Jan Woutersz van Kuyk and Adriaentje Jans of Molenaarsgraaf, \nDordrecht, 1572. Jan Woutersz van Cuyck is on the left baring his chest to show the marks of his torture and proclaiming he speaks no evil, just ",
@@ -1090,8 +310,8 @@
   "h": 699
  },
  {
-  "file": "video32-commons/wiki/mennonite_8.jpg",
-  "tag": "mennonite",
+  "file": "video32-commons/wiki/mennonite2_8.jpg",
+  "tag": "mennonite2",
   "article": "Mennonites",
   "title": "Mennonite Church P8290029.JPG",
   "desc": "Valparaiso Mennonite Church in Valparaiso, Indiana.",
@@ -1100,8 +320,8 @@
   "h": 2304
  },
  {
-  "file": "video32-commons/wiki/mennonite_9.jpg",
-  "tag": "mennonite",
+  "file": "video32-commons/wiki/mennonite2_9.jpg",
+  "tag": "mennonite2",
   "article": "Mennonites",
   "title": "Mennonite Classroom Pennsylvania 1942.jpg",
   "desc": "Hinkletown, Pennsylvania (vicinity). Mennonite teacher holding class in one-room, eight grade school house.",
@@ -1110,298 +330,1098 @@
   "h": 777
  },
  {
-  "file": "video32-commons/wiki/pennsylvaniadutch_0.jpg",
-  "tag": "pennsylvaniadutch",
-  "article": "Pennsylvania_Dutch",
-  "title": "Baptismal Wish for Catarina Titzlir by the Sussel-Washington Artist.jpg",
-  "desc": "Sussel-Washington Artist (American, active second half of the 18th Century), Baptismal Wish for Catarina Titzlir, c. 1765, pen and brown ink and transparent and opaque watercolor on laid paper, Gift of Edgar William and ",
-  "license": "Public domain",
-  "w": 4000,
-  "h": 3248
+  "file": "video32-commons/wiki/confectionery_0.jpg",
+  "tag": "confectionery",
+  "article": "Confectionery",
+  "title": "2018 05 Fudge IMG 1913.JPG",
+  "desc": "Verkaufsstand mit Karamellbonbons, sogenanntes Fudge",
+  "license": "GFDL 1.2",
+  "w": 6000,
+  "h": 3856
  },
  {
-  "file": "video32-commons/wiki/pennsylvaniadutch_1.jpg",
-  "tag": "pennsylvaniadutch",
-  "article": "Pennsylvania_Dutch",
-  "title": "Conestoga Wagon 1883.jpg",
-  "desc": "Conestoga Wagon (1883) by Newbold Hough Trotter (1827-1898).\nPainting in the State Museum of Pennsylvania",
-  "license": "Public domain",
-  "w": 3422,
-  "h": 2012
+  "file": "video32-commons/wiki/confectionery_1.jpg",
+  "tag": "confectionery",
+  "article": "Confectionery",
+  "title": "2scones.jpg",
+  "desc": "Two cranberry-orange scones with icing",
+  "license": "GFDL 1.2",
+  "w": 3830,
+  "h": 2553
  },
  {
-  "file": "video32-commons/wiki/pennsylvaniadutch_2.jpg",
-  "tag": "pennsylvaniadutch",
-  "article": "Pennsylvania_Dutch",
-  "title": "Deitsch 2015-01.jpg",
-  "desc": "Title Page \"DEITSCH\"",
-  "license": "CC BY-SA 4.0",
-  "w": 874,
-  "h": 1240
- },
- {
-  "file": "video32-commons/wiki/pennsylvaniadutch_3.jpg",
-  "tag": "pennsylvaniadutch",
-  "article": "Pennsylvania_Dutch",
-  "title": "Dwight D Eisenhower2.jpg",
-  "desc": "General of the Army Dwight David Eisenhower when a 4-star General",
-  "license": "Public domain",
-  "w": 1590,
-  "h": 2048
- },
- {
-  "file": "video32-commons/wiki/pennsylvaniadutch_4.jpg",
-  "tag": "pennsylvaniadutch",
-  "article": "Pennsylvania_Dutch",
-  "title": "Ella Josephine Sterling, Pa. German Love Chest, 1935-1942, NGA 15797.jpg",
-  "desc": "",
-  "license": "CC0",
-  "w": 4000,
-  "h": 3117
- },
- {
-  "file": "video32-commons/wiki/pennsylvaniadutch_5.jpg",
-  "tag": "pennsylvaniadutch",
-  "article": "Pennsylvania_Dutch",
-  "title": "German Society.jpg",
-  "desc": "The German Society of Pennsylvania in Philadelphia, Pennsylvania",
-  "license": "CC BY-SA 3.0",
-  "w": 3264,
-  "h": 2448
- },
- {
-  "file": "video32-commons/wiki/pennsylvaniadutch_6.jpg",
-  "tag": "pennsylvaniadutch",
-  "article": "Pennsylvania_Dutch",
-  "title": "Germantown battle, Chew's house Colorized.jpg",
-  "desc": "Germantown battle, Chew's house",
-  "license": "CC BY-SA 4.0",
-  "w": 800,
-  "h": 579
- },
- {
-  "file": "video32-commons/wiki/pennsylvaniadutch_7.jpg",
-  "tag": "pennsylvaniadutch",
-  "article": "Pennsylvania_Dutch",
-  "title": "Herkimer at oriskany.jpg",
-  "desc": "An oil painting titled Herkimer at the Battle of Oriskany.   Although wounded, General Nicholas Herkimer rallies the Tryon County militia at the Battle of Oriskany on August 6, 1777.",
-  "license": "Public domain",
-  "w": 810,
-  "h": 513
- },
- {
-  "file": "video32-commons/wiki/pennsylvaniadutch_8.jpg",
-  "tag": "pennsylvaniadutch",
-  "article": "Pennsylvania_Dutch",
-  "title": "Restaurant operator Fred Horak of Somerville, 1939.jpg",
-  "desc": "Restaurant operator Fred Horak of Somerville, Massachusetts, put this sign on the window of his lunch room, shown March 18, 1939. Horak was a native of Prague, Czechoslovakia. (AP Photo)\n",
-  "license": "Public domain",
-  "w": 1247,
-  "h": 957
- },
- {
-  "file": "video32-commons/wiki/philadelphia_0.jpg",
-  "tag": "philadelphia",
-  "article": "History_of_Philadelphia",
-  "title": "Centennial Exhibition, Opening Day.jpg",
-  "desc": "Opening day ceremonies at the Centennial Exhibition at Philadelphia, PA  May 10, 1876.",
-  "license": "Public domain",
-  "w": 2548,
-  "h": 1558
- },
- {
-  "file": "video32-commons/wiki/philadelphia_1.jpg",
-  "tag": "philadelphia",
-  "article": "History_of_Philadelphia",
-  "title": "Civil Unrest 2020 5C2A6272R.jpg",
-  "desc": "Civil Unrest 2020",
+  "file": "video32-commons/wiki/confectionery_2.jpg",
+  "tag": "confectionery",
+  "article": "Confectionery",
+  "title": "Apple beignets (5492114879).jpg",
+  "desc": "Beignets aux pommes recouvert de sucre glace",
   "license": "CC BY 2.0",
-  "w": 6418,
-  "h": 4279
+  "w": 2272,
+  "h": 1704
  },
  {
-  "file": "video32-commons/wiki/philadelphia_2.jpg",
-  "tag": "philadelphia",
-  "article": "History_of_Philadelphia",
-  "title": "HillsMap1796.jpg",
-  "desc": "\"Plan of the City of Philadelphia\"",
+  "file": "video32-commons/wiki/confectionery_3.jpg",
+  "tag": "confectionery",
+  "article": "Confectionery",
+  "title": "Bakewell Tart (4202808440).jpg",
+  "desc": "Huckleberries, Marcona Almonds, and Créme Fraîche Sherbet",
+  "license": "CC BY 2.0",
+  "w": 3325,
+  "h": 1870
+ },
+ {
+  "file": "video32-commons/wiki/confectionery_4.jpg",
+  "tag": "confectionery",
+  "article": "Confectionery",
+  "title": "Baklava - Turkish special, 80-ply.JPEG",
+  "desc": "80-ply dough baklava (which is usually 40-ply), speciality of Beypazarı district of Ankara,Turkey",
   "license": "Public domain",
-  "w": 2800,
-  "h": 2042
+  "w": 1542,
+  "h": 1024
  },
  {
-  "file": "video32-commons/wiki/philadelphia_3.jpg",
-  "tag": "philadelphia",
-  "article": "History_of_Philadelphia",
-  "title": "Independence Hall from south (rear) Philly.jpg",
-  "desc": "Independence Hall from the rear (south) from the Walnut Street side in Philadelphia",
+  "file": "video32-commons/wiki/confectionery_5.jpg",
+  "tag": "confectionery",
+  "article": "Confectionery",
+  "title": "Besamelas-(La Rosita).jpg",
+  "desc": "Besamelas (LA Rosita) - Madrid",
+  "license": "CC BY 3.0",
+  "w": 3888,
+  "h": 2592
+ },
+ {
+  "file": "video32-commons/wiki/confectionery_6.jpg",
+  "tag": "confectionery",
+  "article": "Confectionery",
+  "title": "Birthday Cake by 'Valentina's Cakes' in Binghamton, New York.jpg",
+  "desc": "Birthday Cake by 'Valentina's Cakes' in Binghamton, New York",
+  "license": "CC BY-SA 3.0",
+  "w": 1451,
+  "h": 1381
+ },
+ {
+  "file": "video32-commons/wiki/confectionery_7.jpg",
+  "tag": "confectionery",
+  "article": "Confectionery",
+  "title": "Biscuiteers Polka Dot Heart Product.jpg",
+  "desc": "Biscuiteers icing techniques",
+  "license": "CC BY-SA 3.0",
+  "w": 5436,
+  "h": 4080
+ },
+ {
+  "file": "video32-commons/wiki/confectionery_8.jpg",
+  "tag": "confectionery",
+  "article": "Confectionery",
+  "title": "Breakfast pizzelle, January 2013 (8505127567).jpg",
+  "desc": "pancakes199575.wordpress.com/?p=9&amp;preview=true",
+  "license": "CC BY 2.0",
+  "w": 800,
+  "h": 533
+ },
+ {
+  "file": "video32-commons/wiki/confectionery_9.jpg",
+  "tag": "confectionery",
+  "article": "Confectionery",
+  "title": "Candied orange slices.jpg",
+  "desc": "Glazed candied orange slices.",
+  "license": "CC BY 4.0",
+  "w": 2544,
+  "h": 1908
+ },
+ {
+  "file": "video32-commons/wiki/icecream_0.jpg",
+  "tag": "icecream",
+  "article": "Ice_cream",
+  "title": "Agnes B Marshall.jpg",
+  "desc": "Print of Agnes Marshall (1855-1905)",
+  "license": "Public domain",
+  "w": 529,
+  "h": 815
+ },
+ {
+  "file": "video32-commons/wiki/icecream_1.jpg",
+  "tag": "icecream",
+  "article": "Ice_cream",
+  "title": "Art of Cookery frontispiece.jpg",
+  "desc": "Title page and frontispiece to Mrs Hannah Glasse's Cookery Book c. 1777",
+  "license": "Public domain",
+  "w": 2536,
+  "h": 1945
+ },
+ {
+  "file": "video32-commons/wiki/icecream_2.jpg",
+  "tag": "icecream",
+  "article": "Ice_cream",
+  "title": "Black sesame soft ice cream.jpg",
+  "desc": "Black sesame soft ice cream in Kakunodate, Akita, Japan.",
+  "license": "CC BY-SA 3.0",
+  "w": 1280,
+  "h": 960
+ },
+ {
+  "file": "video32-commons/wiki/icecream_3.jpg",
+  "tag": "icecream",
+  "article": "Ice_cream",
+  "title": "Children in the Ghetto and the Ice-Cream Man. Chicago Ill. (FRONT).jpeg",
+  "desc": "Children in the Ghetto and the Ice-Cream Man. Chicago Ill. (FRONT)",
+  "license": "Public domain",
+  "w": 3397,
+  "h": 2158
+ },
+ {
+  "file": "video32-commons/wiki/icecream_4.jpg",
+  "tag": "icecream",
+  "article": "Ice_cream",
+  "title": "East Village ice cream truck.jpg",
+  "desc": "New York. East Village. Ice Cream Truck",
+  "license": "CC BY-SA 2.0",
+  "w": 4242,
+  "h": 2794
+ },
+ {
+  "file": "video32-commons/wiki/icecream_5.jpg",
+  "tag": "icecream",
+  "article": "Ice_cream",
+  "title": "GreenSoft icecream.jpg",
+  "desc": "GreenSoft. It is green tea ice cream. It was invented by Gyokurin'en, a Japanese tea maketing company in Wakayama, Japan.\nShooting place is Izumiya, a department store in Wakayama.",
+  "license": "Public domain",
+  "w": 1024,
+  "h": 1365
+ },
+ {
+  "file": "video32-commons/wiki/icecream_6.jpg",
+  "tag": "icecream",
+  "article": "Ice_cream",
+  "title": "Homemade ice cream, à la NASA (9322643051) (cropped).jpg",
+  "desc": "Pictured above, Goddard's astrobiology lab makes cookies and cream ice cream using liquid nitrogen at the Science Jamboree. The NASA Goddard Science Jamboree took place on July 16, 2013. The event allowed the different d",
+  "license": "Public domain",
+  "w": 555,
+  "h": 565
+ },
+ {
+  "file": "video32-commons/wiki/icecream_7.jpg",
+  "tag": "icecream",
+  "article": "Ice_cream",
+  "title": "Ice-cream stand in New Castle, Delaware.jpg",
+  "desc": "Settled by Dutch, overtaken by \"New Sweden\" colonists, and then re-taken by Dutch, the city eventually became the capital of colonial Delaware, which in turn became the free United States' first state.",
+  "license": "Public domain",
+  "w": 6935,
+  "h": 4696
+ },
+ {
+  "file": "video32-commons/wiki/icecream_8.jpg",
+  "tag": "icecream",
+  "article": "Ice_cream",
+  "title": "IceCreamSandwich.jpg",
+  "desc": "a single vanilla ice cream sandwich",
+  "license": "Public domain",
+  "w": 2141,
+  "h": 1362
+ },
+ {
+  "file": "video32-commons/wiki/icecream_9.jpg",
+  "tag": "icecream",
+  "article": "Ice_cream",
+  "title": "Indonesia bike34.JPG",
+  "desc": "Ice cream seller bike (sepeda es krim), Pelabuhan Ratu Indonesia.",
+  "license": "CC BY 2.0",
+  "w": 2560,
+  "h": 1920
+ },
+ {
+  "file": "video32-commons/wiki/printing_0.jpg",
+  "tag": "printing",
+  "article": "Printing_press",
+  "title": "1890 Reliance Printing Press.jpg",
+  "desc": "An ~1890 Reliance Printing Press.",
+  "license": "CC BY-SA 4.0",
+  "w": 3024,
+  "h": 4032
+ },
+ {
+  "file": "video32-commons/wiki/printing_1.jpg",
+  "tag": "printing",
+  "article": "Printing_press",
+  "title": "Cccasarealjf.JPG",
+  "desc": "Casa Real de Malolos, Built in 1580,residence and office of the Gobernadorcillo of Malolos until 1673.It was used as Casa Tribunal of Pueblo de Barasoain in 1859.During American Occupation of Malolos,it was used again as",
+  "license": "CC BY-SA 3.0",
+  "w": 3456,
+  "h": 4608
+ },
+ {
+  "file": "video32-commons/wiki/printing_2.jpg",
+  "tag": "printing",
+  "article": "Printing_press",
+  "title": "Die Buchdruckerei by Daniel Chodowiecki (150289207).jpg",
+  "desc": "Tab. XXI c. Die Buchdruckerei. (Beschreibung lt. Quelle)",
+  "license": "Public domain",
+  "w": 2558,
+  "h": 1972
+ },
+ {
+  "file": "video32-commons/wiki/printing_3.jpg",
+  "tag": "printing",
+  "article": "Printing_press",
+  "title": "Gutenberg Bible, Lenox Copy, New York Public Library, 2009. Pic 01.jpg",
+  "desc": "The Gutenberg Bible\n\n[Bible, Latin Vulgate. Ca. 1455].  Biblia Latina.  [Mainz: Johann Gutenberg, ca. 1455].\nRare Books Division.  From the Lenox Library\n\nThe first substantial printed book is this royal-folio two-volume",
+  "license": "CC BY-SA 2.0",
+  "w": 1920,
+  "h": 1200
+ },
+ {
+  "file": "video32-commons/wiki/printing_4.jpg",
+  "tag": "printing",
+  "article": "Printing_press",
+  "title": "Gutenberg press.png",
+  "desc": "A replica of the Gutenberg Press at the International Printing Museum.",
+  "license": "CC0",
+  "w": 1874,
+  "h": 2499
+ },
+ {
+  "file": "video32-commons/wiki/printing_5.jpg",
+  "tag": "printing",
+  "article": "Printing_press",
+  "title": "Handtiegelpresse von 1811.jpg",
+  "desc": "",
+  "license": "CC BY-SA 3.0",
+  "w": 2304,
+  "h": 3456
+ },
+ {
+  "file": "video32-commons/wiki/printing_6.jpg",
+  "tag": "printing",
+  "article": "Printing_press",
+  "title": "Holzspindelkelter von 1702.jpg",
+  "desc": "Wooden wine press dated to 1702 from Rhodt unter Rietburg, Palatinate, Germany. The press is constructed with oak, pine and apple tree wood. On display at Historisches Museum der Pfalz, Speyer, Rhineland-Palatinate",
+  "license": "CC BY-SA 3.0",
+  "w": 1920,
+  "h": 2560
+ },
+ {
+  "file": "video32-commons/wiki/printing_7.jpg",
+  "tag": "printing",
+  "article": "Printing_press",
+  "title": "Iserlohn-Druckpresse1-Bubo.JPG",
+  "desc": "Erste Druckpresse (Stanhope Press) der Zeitung de:Iserlohner Kreisanzeiger und Zeitung. Exponat des Stadtmuseums in Iserlohn.",
+  "license": "CC BY-SA 3.0",
+  "w": 1288,
+  "h": 1936
+ },
+ {
+  "file": "video32-commons/wiki/printing_8.jpg",
+  "tag": "printing",
+  "article": "Printing_press",
+  "title": "Metal movable type.jpg",
+  "desc": "Letter types in a type case. The plate says \"The quick brown fox jumps over the lazy dog and feels as if he were in the seventh heaven of typography together with Hermann Zapf, the most famous artist of the\"",
+  "license": "CC BY 2.5",
+  "w": 2288,
+  "h": 1520
+ },
+ {
+  "file": "video32-commons/wiki/printing_9.jpg",
+  "tag": "printing",
+  "article": "Printing_press",
+  "title": "Old Threshers Miehle Press Drum.jpg",
+  "desc": "The bed of metal type and print roller of a Miehle Model 00 flat-bed cylinder printing press in operation.  This press, now at the printer's hall of the Old Thresher's Reunion museum, was originally sold to the US Bureau",
+  "license": "CC0",
+  "w": 2158,
+  "h": 1614
+ },
+ {
+  "file": "video32-commons/wiki/trolley_0.jpg",
+  "tag": "trolley",
+  "article": "Tram",
+  "title": "09870-Budapest-1908-Kettenbrücke mit Straßenbahn-Brück & Sohn Kunstverlag.jpg",
+  "desc": "Budapest; Kettenbrücke mit Straßenbahn",
+  "license": "CC0",
+  "w": 1523,
+  "h": 1000
+ },
+ {
+  "file": "video32-commons/wiki/trolley_1.jpg",
+  "tag": "trolley",
+  "article": "Tram",
+  "title": "11 Cable Car on Powell St crop, SF, CA, jjron 25.03.2012.jpg",
+  "desc": "San Francisco cable car number 11 heading south on Powell St, near the corner of Post St alongside Union Square Park. San Francisco, California, USA.",
+  "license": "GFDL 1.2",
+  "w": 1568,
+  "h": 1138
+ },
+ {
+  "file": "video32-commons/wiki/trolley_2.jpg",
+  "tag": "trolley",
+  "article": "Tram",
+  "title": "2022 09 14 Hannings & Kahl point-setting system, Amsterdam CS (cropped).jpg",
+  "desc": "A 3-way Hanning &amp; Kahl point-setting system at Amsterdam Centraal station on 14 September 2022. It automatically sends trams arriving at stand A to the correct platform. The indicator on the right displays \"Lijn 24, ",
+  "license": "CC BY-SA 4.0",
+  "w": 3024,
+  "h": 2471
+ },
+ {
+  "file": "video32-commons/wiki/trolley_3.jpg",
+  "tag": "trolley",
+  "article": "Tram",
+  "title": "Alstom Citadis 100 nr 800 Katowice.JPG",
+  "desc": "Alstom Citadis 100 #800 na Rynku w Katowicach",
+  "license": "CC BY-SA 4.0",
+  "w": 2538,
+  "h": 1704
+ },
+ {
+  "file": "video32-commons/wiki/trolley_4.jpg",
+  "tag": "trolley",
+  "article": "Tram",
+  "title": "Art work of Toledo, Ohio - DPLA - 0a107364e8d8eb430ebc183d28c46463 (page 31) (cropped).jpg",
+  "desc": "\nA twelve-volume set of photographs of Toledo, Ohio published by W.H Parrish Publishing Company in 1895. The set incorporates a narrative of the history of Toledo, into all twelve volumes beginning with Part 1. Includes ",
+  "license": "Public domain",
+  "w": 5583,
+  "h": 3011
+ },
+ {
+  "file": "video32-commons/wiki/trolley_5.jpg",
+  "tag": "trolley",
+  "article": "Tram",
+  "title": "BLT 4204.jpg",
+  "desc": "BLT Be 8/10 4204 in Riehen (Bettingerstrasse)",
+  "license": "CC BY-SA 4.0",
+  "w": 1800,
+  "h": 1200
+ },
+ {
+  "file": "video32-commons/wiki/trolley_6.jpg",
+  "tag": "trolley",
+  "article": "Tram",
+  "title": "Bensinmotorvagn. Trafikerade linjen 19, Karlaplan - Frihamnen 1924 - 1929.JPG",
+  "desc": "Combustion engine powered tram. In service 1924-1929 at the tram line between Karlaplan and Frihamnen in Stockholm, Sweden.",
+  "license": "Public domain",
+  "w": 3856,
+  "h": 2501
+ },
+ {
+  "file": "video32-commons/wiki/trolley_7.jpg",
+  "tag": "trolley",
+  "article": "Tram",
+  "title": "Blackburn and East Lancs MRS - 44th annual exhibition - DSC03803.JPG",
+  "desc": "Photo taken at the 44th annual exhibition of the Blackburn &amp; East Lancs Model Railway Society held in October 2009 at King Georges Hall, Northgate, Blackburn, Lancashire, England.",
+  "license": "CC BY-SA 3.0",
+  "w": 3648,
+  "h": 2736
+ },
+ {
+  "file": "video32-commons/wiki/trolley_8.jpg",
+  "tag": "trolley",
+  "article": "Tram",
+  "title": "Blackpool + zoo 1979 to 1980 (32963118752).jpg",
+  "desc": "Blackpool + zoo 1979 to 1980",
+  "license": "CC BY 2.0",
+  "w": 16682,
+  "h": 10922
+ },
+ {
+  "file": "video32-commons/wiki/trolley_9.jpg",
+  "tag": "trolley",
+  "article": "Tram",
+  "title": "Bordeaux-aps+isolation&joint.jpg",
+  "desc": "A section of APS track showing the neutral sections at the end of the powered segments plus one of the insulating joint boxes which mechanically and electrically join the APS rail segments.\nPhotographed by SPSmiler summe",
+  "license": "Public domain",
+  "w": 2304,
+  "h": 1712
+ },
+ {
+  "file": "video32-commons/wiki/orphanage_0.jpg",
+  "tag": "orphanage",
+  "article": "Orphanage",
+  "title": "01-Levantarse.jpg",
+  "desc": "Niños durmiento en un orfanato de Ucrania",
+  "license": "CC BY-SA 4.0",
+  "w": 1757,
+  "h": 1185
+ },
+ {
+  "file": "video32-commons/wiki/orphanage_1.jpg",
+  "tag": "orphanage",
+  "article": "Orphanage",
+  "title": "9403 - Venezia - Calle della Pietà - Lapide della ex ruota degli esposti -1548- - Foto Giovanni Dall'Orto 12-Aug-2007.jpg",
+  "desc": "Corner of the orphanage of the Chiesa della Pietà in Venice where the foundling wheel once stood. The inscription declares, citing a 12 November 1548 papal bull of Paul III, The Lord God \"sends like lightning bolts maled",
+  "license": "CC BY-SA 2.5 it",
+  "w": 2048,
+  "h": 1360
+ },
+ {
+  "file": "video32-commons/wiki/orphanage_2.jpg",
+  "tag": "orphanage",
+  "article": "Orphanage",
+  "title": "Aleppo Armenian orphanage 1923.jpg",
+  "desc": "Orphan girls at the Aleppo Armenian orphanage 1923",
+  "license": "Public domain",
+  "w": 640,
+  "h": 396
+ },
+ {
+  "file": "video32-commons/wiki/orphanage_3.jpg",
+  "tag": "orphanage",
+  "article": "Orphanage",
+  "title": "Angel Guardian Orphanage (NBY 416184).jpg",
+  "desc": "Angel Guardian Orphanage",
+  "license": "Public domain",
+  "w": 833,
+  "h": 524
+ },
+ {
+  "file": "video32-commons/wiki/orphanage_4.jpg",
+  "tag": "orphanage",
+  "article": "Orphanage",
+  "title": "Armand Pallière Dom Pedro e Dona Leopoldina 1826.jpg",
+  "desc": "Dom Pedro I e Dona Leopoldina visitando a Casa Dos Expostos, atualmente o orfanato Romão Duarte no Flamengo, RJ.",
+  "license": "Public domain",
+  "w": 2289,
+  "h": 2681
+ },
+ {
+  "file": "video32-commons/wiki/orphanage_5.jpg",
+  "tag": "orphanage",
+  "article": "Orphanage",
+  "title": "Berlin Pankow orphanage.jpg",
+  "desc": "Former jewish orphanage in Berlin-Pankow, Germany",
+  "license": "CC BY-SA 3.0",
+  "w": 1770,
+  "h": 1380
+ },
+ {
+  "file": "video32-commons/wiki/orphanage_6.jpg",
+  "tag": "orphanage",
+  "article": "Orphanage",
+  "title": "Children at crumpsall workhouse circa 1895.jpg",
+  "desc": "23 boys at Crumpsall Workhouse, circa 1895-1897",
+  "license": "Public domain",
+  "w": 871,
+  "h": 602
+ },
+ {
+  "file": "video32-commons/wiki/orphanage_7.jpg",
+  "tag": "orphanage",
+  "article": "Orphanage",
+  "title": "Children at the Belovodski Preschool Orphanage in Karabalta.jpg",
+  "desc": "Service member volunteers from the Transit Center at Manas hand out presents to children at the Belovodski Preschool Orphanage in Karabalta, Kyrgyzstan, Dec. 27, 2012. The orphanage houses more than 70 children between t",
+  "license": "Public domain",
+  "w": 3291,
+  "h": 2351
+ },
+ {
+  "file": "video32-commons/wiki/orphanage_8.jpg",
+  "tag": "orphanage",
+  "article": "Orphanage",
+  "title": "Dom Sierot 1940.jpg",
+  "desc": "Children in Dom Sierot orphanage in Warsaw",
+  "license": "Public domain",
+  "w": 5300,
+  "h": 3784
+ },
+ {
+  "file": "video32-commons/wiki/orphanage_9.jpg",
+  "tag": "orphanage",
+  "article": "Orphanage",
+  "title": "Flickr - DVIDSHUB - PRT donates clothing, blankets to Khowst orphanage (Image 2 of 5).jpg",
+  "desc": "A young girl waits to receive a blanket from Afghan National Police during Khowst Provincial Reconstruction Team’s return visit to an orphanage in Khowst City Feb. 1. The orphans also attended a dental hygiene class give",
+  "license": "CC BY 2.0",
+  "w": 1198,
+  "h": 1800
+ },
+ {
+  "file": "video32-commons/wiki/dairy_0.jpg",
+  "tag": "dairy",
+  "article": "Dairy_farming",
+  "title": "2014-07-25 Melkkarussel - Hemme Milch (5).jpg",
+  "desc": "Rotary milking parlours at Hemme Milch Wedemark, Lower Saxony (photographed through the window).",
+  "license": "CC BY-SA 3.0 de",
+  "w": 5184,
+  "h": 3456
+ },
+ {
+  "file": "video32-commons/wiki/dairy_1.jpg",
+  "tag": "dairy",
+  "article": "Dairy_farming",
+  "title": "Bundesarchiv Bild 183-17369-0004, Barby, Bauer eine Melkmaschine präsentierend.jpg",
+  "desc": "\nFor documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Barby, Bauer eine Melkmaschine präsentierend\n\t\nZentralbild",
+  "license": "CC BY-SA 3.0 de",
+  "w": 783,
+  "h": 496
+ },
+ {
+  "file": "video32-commons/wiki/dairy_2.jpg",
+  "tag": "dairy",
+  "article": "Dairy_farming",
+  "title": "Cowmilkproduction.jpg",
+  "desc": "Cow Milk Production by State in 2016",
+  "license": "CC BY-SA 4.0",
+  "w": 1066,
+  "h": 670
+ },
+ {
+  "file": "video32-commons/wiki/dairy_3.jpg",
+  "tag": "dairy",
+  "article": "Dairy_farming",
+  "title": "Dairy.JPG",
+  "desc": "Dairy cows at Comboyne, NSW",
+  "license": "CC BY 3.0",
+  "w": 2910,
+  "h": 766
+ },
+ {
+  "file": "video32-commons/wiki/dairy_4.jpg",
+  "tag": "dairy",
+  "article": "Dairy_farming",
+  "title": "Dairy farm 2.jpg",
+  "desc": "Dairy farm near Bangor, Wisconsin",
   "license": "CC0",
   "w": 4000,
-  "h": 6000
+  "h": 3000
  },
  {
-  "file": "video32-commons/wiki/philadelphia_4.jpg",
-  "tag": "philadelphia",
-  "article": "History_of_Philadelphia",
-  "title": "JosephSClark.jpg",
-  "desc": "Senator Joseph S. Clark",
+  "file": "video32-commons/wiki/dairy_5.jpg",
+  "tag": "dairy",
+  "article": "Dairy_farming",
+  "title": "Deutsches Museum - Vollautomatische Melkmaschine.JPG",
+  "desc": "Vollautomatisches Melksystem für Kühe; Hersteller: Merlin (Fullwood Packo Gruppe)",
   "license": "Public domain",
-  "w": 2102,
-  "h": 2806
+  "w": 1105,
+  "h": 793
  },
  {
-  "file": "video32-commons/wiki/philadelphia_5.jpg",
-  "tag": "philadelphia",
-  "article": "History_of_Philadelphia",
-  "title": "Joseph Ducreux - Portrait of Benjamin Franklin in blue coat and a fur collar.jpg",
+  "file": "video32-commons/wiki/dairy_6.jpg",
+  "tag": "dairy",
+  "article": "Dairy_farming",
+  "title": "Egyptian Domesticated Animals.jpg",
+  "desc": "Old Egyptian hieroglyphic painting showing an early instance of a domesticated animal (cow being milked).",
+  "license": "Public domain",
+  "w": 3200,
+  "h": 1800
+ },
+ {
+  "file": "video32-commons/wiki/dairy_7.jpg",
+  "tag": "dairy",
+  "article": "Dairy_farming",
+  "title": "Karel Dujardin - Woman Milking a Red Cow.jpg",
   "desc": "",
   "license": "Public domain",
-  "w": 2252,
-  "h": 2812
+  "w": 617,
+  "h": 680
  },
  {
-  "file": "video32-commons/wiki/philadelphia_6.jpg",
-  "tag": "philadelphia",
-  "article": "History_of_Philadelphia",
-  "title": "Kartskiss över Nya Sverige.png",
-  "desc": "Map of New Sweden sourced from a sketch by Amandes Johnson",
+  "file": "video32-commons/wiki/dairy_8.jpg",
+  "tag": "dairy",
+  "article": "Dairy_farming",
+  "title": "Kleinpeter Graphic.png",
+  "desc": "This graphic shows the efficiency of 4 different milking parlors, in relation to how many cows they can milk per hour. Key 1=Bali-Style 50 cows/h; 2=Swingover 60 cows/h; 3=Herringbone 75 cows/h; 4=Rotary 250c cows/h",
+  "license": "CC BY-SA 3.0",
+  "w": 900,
+  "h": 600
+ },
+ {
+  "file": "video32-commons/wiki/dairy_9.jpg",
+  "tag": "dairy",
+  "article": "Dairy_farming",
+  "title": "ManureScraper.JPG",
+  "desc": "Automatic manure scraper. Revivim, Israel.",
   "license": "Public domain",
-  "w": 771,
-  "h": 1105
+  "w": 640,
+  "h": 480
  },
  {
-  "file": "video32-commons/wiki/philadelphia_7.jpg",
-  "tag": "philadelphia",
-  "article": "History_of_Philadelphia",
-  "title": "Philadelphia1855.jpg",
+  "file": "video32-commons/wiki/milk_0.jpg",
+  "tag": "milk",
+  "article": "Milk",
+  "title": "A bowl of milk for the shaman rite. Buryatia. Russia.png",
+  "desc": "A bowl of milk for the shaman rite. Buryatia. Russia",
+  "license": "CC BY-SA 4.0",
+  "w": 1038,
+  "h": 807
+ },
+ {
+  "file": "video32-commons/wiki/milk_1.jpg",
+  "tag": "milk",
+  "article": "Milk",
+  "title": "Aesthetic Milk Vehicle.jpg",
+  "desc": "சேலத்தில் பால் வண்டி. Milk transportation in Salem.",
+  "license": "CC BY-SA 4.0",
+  "w": 3648,
+  "h": 2736
+ },
+ {
+  "file": "video32-commons/wiki/milk_2.jpg",
+  "tag": "milk",
+  "article": "Milk",
+  "title": "Bundesarchiv Bild 183-2004-0708-501, Berlin, Milch von Bolle in der Pause.jpg",
+  "desc": "\nFor documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Berlin, Milch von Bolle in der Pause\n\t\nScherl:\nHitze in Be",
+  "license": "CC BY-SA 3.0 de",
+  "w": 540,
+  "h": 799
+ },
+ {
+  "file": "video32-commons/wiki/milk_3.jpg",
+  "tag": "milk",
+  "article": "Milk",
+  "title": "Cow female black white.jpg",
+  "desc": "Holstein-Friesian milk cow\nBecause much of the cost of a cow is the feed and labor needed to maintain her, fewer but higher yielding cows mean lower priced milk. Dairy herd improvement ultimately benefits consumers.\nThat",
+  "license": "Public domain",
+  "w": 2700,
+  "h": 1803
+ },
+ {
+  "file": "video32-commons/wiki/milk_4.jpg",
+  "tag": "milk",
+  "article": "Milk",
+  "title": "Cow milking machine in action DSC04132.jpg",
+  "desc": "A cow milking machine",
+  "license": "CC BY-SA 2.0 fr",
+  "w": 2070,
+  "h": 1760
+ },
+ {
+  "file": "video32-commons/wiki/milk_5.jpg",
+  "tag": "milk",
+  "article": "Milk",
+  "title": "Dairy Crest Semi Skimmed Milk Bottle.jpg",
+  "desc": "A Dairy Crest Semi-Skimmed Milk Bottle.",
+  "license": "CC BY 3.0",
+  "w": 2112,
+  "h": 2816
+ },
+ {
+  "file": "video32-commons/wiki/milk_6.jpg",
+  "tag": "milk",
+  "article": "Milk",
+  "title": "Farm in sogn og fjordane.JPG",
+  "desc": "Modern barn at dairy farm in Sogn og Fjordane, Norway.",
+  "license": "CC BY-SA 3.0",
+  "w": 3504,
+  "h": 2336
+ },
+ {
+  "file": "video32-commons/wiki/milk_7.jpg",
+  "tag": "milk",
+  "article": "Milk",
+  "title": "Four litre bagged milk, Quebec.jpg",
+  "desc": "Four litre bagged milk in Quebec.",
+  "license": "CC BY-SA 2.0",
+  "w": 3661,
+  "h": 1836
+ },
+ {
+  "file": "video32-commons/wiki/milk_8.jpg",
+  "tag": "milk",
+  "article": "Milk",
+  "title": "From Abhisheka To Panchamrutha.jpg",
+  "desc": "The panchamrutha was created after the abhisheka. The order in which all the ingredients were poured onto the shrine was as follows:\nHoney -&gt; Milk -&gt; Curds-&gt; Diced Fruits-&gt; Bananas\n\nAnd then the cleanup, mixi",
+  "license": "CC BY-SA 2.0",
+  "w": 2592,
+  "h": 3872
+ },
+ {
+  "file": "video32-commons/wiki/milk_9.jpg",
+  "tag": "milk",
+  "article": "Milk",
+  "title": "Glass milk bottles.jpg",
+  "desc": "Reusable glass milk bottles used for home delivery service. The used bottles are put out with milk tokens or money and swapped for full bottles with a foil lid. Photo taken by User:Clawed on 28/12/04 and licensed under G",
+  "license": "CC BY-SA 3.0",
+  "w": 500,
+  "h": 610
+ },
+ {
+  "file": "video32-commons/wiki/stockcrash_0.jpg",
+  "tag": "stockcrash",
+  "article": "Wall_Street_Crash_of_1929",
+  "title": "19291030 Crash of '29 - New York Times.jpg",
+  "desc": "Part of front page, and part of page 31, of The New York Times on the day after \"Black Tuesday\" U.S. stock market collapse.\nLink to source: https://timesmachine.nytimes.com/timesmachine/1929/10/30/issue.html\n\"The term of",
+  "license": "Public domain",
+  "w": 3393,
+  "h": 2796
+ },
+ {
+  "file": "video32-commons/wiki/stockcrash_1.jpg",
+  "tag": "stockcrash",
+  "article": "Wall_Street_Crash_of_1929",
+  "title": "1930-67B.png",
+  "desc": "1930-67B: The trading floor of the New York Stock Exchange six months after the crash of 1929.",
+  "license": "Public domain",
+  "w": 683,
+  "h": 540
+ },
+ {
+  "file": "video32-commons/wiki/stockcrash_2.jpg",
+  "tag": "stockcrash",
+  "article": "Wall_Street_Crash_of_1929",
+  "title": "Crowd outside nyse.jpg",
+  "desc": "A solemn crowd gathers outside the Stock Exchange after the crash. 1929.",
+  "license": "Public domain",
+  "w": 718,
+  "h": 1024
+ },
+ {
+  "file": "video32-commons/wiki/stockcrash_3.jpg",
+  "tag": "stockcrash",
+  "article": "Wall_Street_Crash_of_1929",
+  "title": "Harga Saham Wall Street 1929 - 1932 menjunam.png",
+  "desc": "Graf ini menunjukan harga saham Wall Street menjunam dari tahun 1929 hingga tahun 1932 dan merupakan salah satu akibat penyumbang kepada Kegawatan Teruk Amerika pada tahun 1930-an.",
+  "license": "CC BY-SA 4.0",
+  "w": 1273,
+  "h": 798
+ },
+ {
+  "file": "video32-commons/wiki/breadline_0.jpg",
+  "tag": "breadline",
+  "article": "Great_Depression_in_the_United_States",
+  "title": "Dust storm approaching Stratford, Texas.jpg",
+  "desc": "Dust storm approaching Stratford, Texas.",
+  "license": "Public domain",
+  "w": 3248,
+  "h": 2028
+ },
+ {
+  "file": "video32-commons/wiki/breadline_1.jpg",
+  "tag": "breadline",
+  "article": "Great_Depression_in_the_United_States",
+  "title": "Franklin-roosevelt.JPG",
+  "desc": "FDR speaks before a nationwide audience from the East Room of the White House, on the eve of the Sixth War Loan campaign, to urge the people to buy more war bonds. He declared the war is costing $250,000,000 a day.",
+  "license": "Public domain",
+  "w": 2288,
+  "h": 2940
+ },
+ {
+  "file": "video32-commons/wiki/breadline_2.jpg",
+  "tag": "breadline",
+  "article": "Great_Depression_in_the_United_States",
+  "title": "Homeless family of seven, walking the highway from Phoenix, Arizona, 8b33132a.jpg",
+  "desc": "On U.S. 99. Near Brawley, Imperial County. Homeless family of seven, walking the highway from Phoenix, Arizona, where they picked cotton. Bound for San Diego, where the father hopes to get on the relief because he once l",
+  "license": "Public domain",
+  "w": 4257,
+  "h": 4416
+ },
+ {
+  "file": "video32-commons/wiki/breadline_3.jpg",
+  "tag": "breadline",
+  "article": "Great_Depression_in_the_United_States",
+  "title": "Huts and unemployed, West Houston and Mercer St., Manhattan (NYPL b13668355-482853).jpg",
+  "desc": "* Code: III.G.\nMen sit in front of huts made of salvaged materials, some decorated with pictures, cat plays in front near baby carriage.\nCitation/Reference: CNY# 35",
+  "license": "Public domain",
+  "w": 5656,
+  "h": 4456
+ },
+ {
+  "file": "video32-commons/wiki/breadline_4.jpg",
+  "tag": "breadline",
+  "article": "Great_Depression_in_the_United_States",
+  "title": "Industry SAAM-1964.1.92 1.jpg",
+  "desc": "Title\nIndustry\nArtist\nArthur Durston\nDate\n1934\nLocation\nSmithsonian American Art Museum  Luce Foundation Center  4th Floor  35A\nDimensions\n50 x 40 in. (127.0 x 101.6 cm.)\nCredit Line\nSmithsonian American Art Museum\nTrans",
+  "license": "Public domain",
+  "w": 2250,
+  "h": 2819
+ },
+ {
+  "file": "video32-commons/wiki/breadline_5.jpg",
+  "tag": "breadline",
+  "article": "Great_Depression_in_the_United_States",
+  "title": "Lange-MigrantMother02.jpg",
+  "desc": "Portrait shows Florence Thompson with several of her children in a photograph known as \"Migrant Mother\".  The Library of Congress caption reads: \"Destitute pea pickers in California. Mother of seven children. Age thirty-",
+  "license": "Public domain",
+  "w": 6205,
+  "h": 8066
+ },
+ {
+  "file": "video32-commons/wiki/breadline_6.jpg",
+  "tag": "breadline",
+  "article": "Great_Depression_in_the_United_States",
+  "title": "New Deal collage.jpg",
+  "desc": "Top left: The Tennessee Valley Authority, part of the New Deal, being signed into law in 1933.\nTop right: FDR (President Franklin Delano Roosevelt) was responsible for the New Deal.\n\nBottom: A public mural from one of th",
+  "license": "Public domain",
+  "w": 1400,
+  "h": 1102
+ },
+ {
+  "file": "video32-commons/wiki/breadline_7.jpg",
+  "tag": "breadline",
+  "article": "Great_Depression_in_the_United_States",
+  "title": "President Hoover portrait.jpg",
+  "desc": "US President Herbert C. Hoover in 1928",
+  "license": "Public domain",
+  "w": 2174,
+  "h": 2896
+ },
+ {
+  "file": "video32-commons/wiki/breadline_8.jpg",
+  "tag": "breadline",
+  "article": "Great_Depression_in_the_United_States",
+  "title": "US-$10-GC-1922-Fr-1173.jpg",
+  "desc": "$10 Gold certificate, Series of 1922 (Fr. Ref#1173), depicting Michael Hillegas. Engraved signatures of Speelman (Register of the Treasury) and \nWhite (Treasurer of the United States).",
+  "license": "Public domain",
+  "w": 4500,
+  "h": 3902
+ },
+ {
+  "file": "video32-commons/wiki/breadline_9.jpg",
+  "tag": "breadline",
+  "article": "Great_Depression_in_the_United_States",
+  "title": "Unemployed men queued outside a depression soup kitchen opened in Chicago by Al Capone, 02-1931 - NARA - 541927.jpg",
+  "desc": "The storefront sign reads \"Free Soup Coffee &amp; Doughnuts for the Unemployed.\"",
+  "license": "Public domain",
+  "w": 2939,
+  "h": 2392
+ },
+ {
+  "file": "video32-commons/wiki/hotelhershey_0.jpg",
+  "tag": "hotelhershey",
+  "article": "Hotel_Hershey",
+  "title": "HotelHersheyFountainLobby.jpg",
   "desc": "",
-  "license": "PD-US",
-  "w": 603,
-  "h": 761
- },
- {
-  "file": "video32-commons/wiki/philadelphia_8.jpg",
-  "tag": "philadelphia",
-  "article": "History_of_Philadelphia",
-  "title": "Philadelphia 8th & Market 1840.jpg",
-  "desc": "Daguerreotype of Philadelphia, Pennsylvania, at the corner of 8th and Market Streets",
   "license": "Public domain",
-  "w": 544,
-  "h": 650
+  "w": 1600,
+  "h": 1200
  },
  {
-  "file": "video32-commons/wiki/philadelphia_9.jpg",
-  "tag": "philadelphia",
-  "article": "History_of_Philadelphia",
-  "title": "Philadelphia strike 1946.jpg",
-  "desc": "Mounted police clashing with strikers, one carrying an American flag, outside an electrical plant in Philadelphia.",
-  "license": "Public domain",
-  "w": 587,
-  "h": 418
+  "file": "video32-commons/wiki/hersheyarena_0.jpg",
+  "tag": "hersheyarena",
+  "article": "Giant_Center",
+  "title": "GiantCenterBearsGame.jpg",
+  "desc": "Taken before a Hershey Bears game versus the Lake Erie monsters. Used my cell phone camera.",
+  "license": "CC BY-SA 3.0",
+  "w": 1280,
+  "h": 960
  },
  {
-  "file": "video32-commons/wiki/newyork_0.jpg",
-  "tag": "newyork",
-  "article": "History_of_New_York_City",
-  "title": "Anti Civil War Draft Rioters in Lexington Avenue New York 1863.jpg",
-  "desc": "Title: 'New York -- the riot in Lexington Avenue'. Description: rioters attacking a building during the New York anti-draft riots of 1863. Made between 1880 - 1889. Publisher: The New York Public Library, Astor, Lenox, a",
-  "license": "Public domain",
-  "w": 1429,
-  "h": 2034
- },
- {
-  "file": "video32-commons/wiki/newyork_1.jpg",
-  "tag": "newyork",
-  "article": "History_of_New_York_City",
-  "title": "Evacuation Day and Washington's Triumphal Entry.jpg",
-  "desc": "\nTitle: \"Evacuation Day\" and Washington's Triumphal Entry in New York City, Nov. 25th, 1783\nRelated Names: Restein, Edmund P., 1837-1891 , lithographer; Restein, Ludwig, b. ca. 1838 , lithographer\nDate Created/Published:",
-  "license": "Public domain",
-  "w": 9416,
-  "h": 7089
- },
- {
-  "file": "video32-commons/wiki/newyork_2.jpg",
-  "tag": "newyork",
-  "article": "History_of_New_York_City",
-  "title": "George Schlegel - George Degen - New York 1873.jpg",
-  "desc": "Lithograph. Bird's-eye view of New York with Battery Park in the foreground and the Brooklyn Bridge on the right. Restored by Adam Cuerden.",
-  "license": "Public domain",
-  "w": 9768,
-  "h": 7128
- },
- {
-  "file": "video32-commons/wiki/newyork_3.jpg",
-  "tag": "newyork",
-  "article": "History_of_New_York_City",
-  "title": "Johannes Adam Simon Oertel Pulling Down the Statue of King George III, N.Y.C. ca. 1859.jpg",
-  "desc": "Pulling Down the Statue of King George III, N.Y.C. Working decades after the event, the artist depicts an imagined, romanticized image of the scene. The painting shows the Sons of Liberty destroying the statue after the ",
-  "license": "Public domain",
-  "w": 2048,
-  "h": 1597
- },
- {
-  "file": "video32-commons/wiki/newyork_4.jpg",
-  "tag": "newyork",
-  "article": "History_of_New_York_City",
-  "title": "King's Color-graphs of New York City14.png",
-  "desc": "King's Color-graphs of New York City",
-  "license": "Public domain",
-  "w": 4086,
-  "h": 2746
- },
- {
-  "file": "video32-commons/wiki/newyork_5.jpg",
-  "tag": "newyork",
-  "article": "History_of_New_York_City",
-  "title": "Longacre Square, New York City, 1898.jpg",
-  "desc": "South end of Longacre Square (today called Times Square), New York City, 1898, looking northwest down 42nd Street (left) from Broadway.\nThe right half of the picture shows the triangular island between Broadway and 7th A",
-  "license": "Public domain",
-  "w": 607,
-  "h": 385
- },
- {
-  "file": "video32-commons/wiki/newyork_6.jpg",
-  "tag": "newyork",
-  "article": "History_of_New_York_City",
-  "title": "Manatvs gelegen op de Noot Riuier.jpg",
-  "desc": "\n\"Manatvs gelegen op de Noot [sic] Riuier\" - a Dutch map of Manhattan and environs from around 1670, believed to be a copy of a 1639 map often attributed to Johannes Vingboons (a.k.a. Joan Vinckeboons).[1]",
-  "license": "Public domain",
-  "w": 8752,
-  "h": 6288
- },
- {
-  "file": "video32-commons/wiki/newyork_7.jpg",
-  "tag": "newyork",
-  "article": "History_of_New_York_City",
-  "title": "Mulberry Street NYC c1900 LOC 3g04637u edit.jpg",
-  "desc": "Mulberry Street NYC ca.1900. edit of en:Image:Mulberry Street NYC c1900 LOC 3g04637u.jpg by me user debivort. 1px median filtered, and then downsampled.",
-  "license": "Public domain",
-  "w": 2800,
-  "h": 2067
- },
- {
-  "file": "video32-commons/wiki/newyork_8.jpg",
-  "tag": "newyork",
-  "article": "History_of_New_York_City",
-  "title": "NYC 1899 Collage.png",
-  "desc": "Collage of pictures showing lower Manhattan, New York City taken from D. Appleton's 1899 \"New metropolis; 1600-memorable events of three centuries\" book.\n\nSource : https://archive.org/details/newmetropolis16000zeis/page/",
+  "file": "video32-commons/wiki/hersheyarena_1.jpg",
+  "tag": "hersheyarena",
+  "article": "Giant_Center",
+  "title": "Giant Center October 2024.png",
+  "desc": "Giant Center in October 2024",
   "license": "CC BY 4.0",
-  "w": 1460,
-  "h": 1620
+  "w": 889,
+  "h": 400
  },
  {
-  "file": "video32-commons/wiki/newyork_9.jpg",
-  "tag": "newyork",
-  "article": "History_of_New_York_City",
-  "title": "NYC Manhattan 1938 Franz Grasser.jpg",
-  "desc": "Manhattan in the New York City was photographed in 1938 using newly invented Agfacolor process. This photograph was not colorized. General view of the downtown skyline from the Manhattan Bridge.",
+  "file": "video32-commons/wiki/hersheyarena_2.jpg",
+  "tag": "hersheyarena",
+  "article": "Giant_Center",
+  "title": "Ice Shot of GC.jpg",
+  "desc": "Picture of inside Giant Center from the ice",
+  "license": "CC BY-SA 3.0",
+  "w": 960,
+  "h": 540
+ },
+ {
+  "file": "video32-commons/wiki/hersheyarena_3.jpg",
+  "tag": "hersheyarena",
+  "article": "Giant_Center",
+  "title": "Outside Giant Center.jpg",
+  "desc": "Front of Giant Center",
+  "license": "CC BY-SA 3.0",
+  "w": 960,
+  "h": 540
+ },
+ {
+  "file": "video32-commons/wiki/hersheyarena_4.jpg",
+  "tag": "hersheyarena",
+  "article": "Giant_Center",
+  "title": "Panaramic Bears Game.jpg",
+  "desc": "Panoramic Pic of Bears game",
+  "license": "CC BY-SA 3.0",
+  "w": 3584,
+  "h": 1088
+ },
+ {
+  "file": "video32-commons/wiki/hersheyarena_5.jpg",
+  "tag": "hersheyarena",
+  "article": "Giant_Center",
+  "title": "Usa edcp relief location map.png",
+  "desc": "Relief location map of the USA (without Hawaii and Alaska).\nEquiDistantConicProjection :\nCentral  parallel :\n\n* N: 37.0° N\n\nCentral meridian :\n\n* E: 96.0° W\n\nStandard parallels:\n\n* 1: 32.0° N\n* 2: 42.0° N\n\nMade with Natu",
+  "license": "CC BY-SA 3.0",
+  "w": 1181,
+  "h": 731
+ },
+ {
+  "file": "video32-commons/wiki/sugar_0.jpg",
+  "tag": "sugar",
+  "article": "Sugar_industry",
+  "title": "Cut sugarcane.jpg",
+  "desc": "Venezuelan sugar cane (Saccharum) harvested for processing.",
+  "license": "CC BY-SA 2.0",
+  "w": 2304,
+  "h": 1712
+ },
+ {
+  "file": "video32-commons/wiki/sugar_1.jpg",
+  "tag": "sugar",
+  "article": "Sugar_industry",
+  "title": "Sokeritoppa.jpg",
+  "desc": "Old Finnish sugar packaging (\"sokeritoppa\")",
   "license": "Public domain",
-  "w": 1088,
-  "h": 1600
+  "w": 708,
+  "h": 1062
  },
  {
-  "file": "video32-commons/wiki/sitdown_0.jpg",
-  "tag": "sitdown",
+  "file": "video32-commons/wiki/sugar_2.jpg",
+  "tag": "sugar",
+  "article": "Sugar_industry",
+  "title": "StateLibQld 1 235370 Mill house and stables on the Macnade Sugar Plantation, Ingham, ca. 1881.jpg",
+  "desc": "Mill house and stables on the Macnade Sugar Plantation, Ingham, ca. 1881\nFrank Neame was the owner of the Macnade Sugar Plantation and mills at the time of this photograph.",
+  "license": "Public domain",
+  "w": 1000,
+  "h": 822
+ },
+ {
+  "file": "video32-commons/wiki/sugar_3.jpg",
+  "tag": "sugar",
+  "article": "Sugar_industry",
+  "title": "Suedzucker-brottewitz-1.JPG",
+  "desc": "The sugar factory in Brottewitz, Sachsen, Germany. On the left is the cooling tower, to the right of it the lime kiln",
+  "license": "CC BY-SA 3.0",
+  "w": 2436,
+  "h": 1624
+ },
+ {
+  "file": "video32-commons/wiki/sugar_4.jpg",
+  "tag": "sugar",
+  "article": "Sugar_industry",
+  "title": "SugarBeet.jpg",
+  "desc": "Two en:sugar beet roots. The one on the right is a traditional sugar beet. The one on the left, is a cultivated variety call SR96, which has been selected for its smoother root that collects less soil and needs less wash",
+  "license": "Public domain",
+  "w": 1786,
+  "h": 2700
+ },
+ {
+  "file": "video32-commons/wiki/sugar_5.jpg",
+  "tag": "sugar",
+  "article": "Sugar_industry",
+  "title": "Sugar Beet Factory, England.jpg",
+  "desc": "Sugarbeet Processing Plant. It also a major packaging plant for Silver Spoon.",
+  "license": "CC BY 2.0",
+  "w": 3078,
+  "h": 2054
+ },
+ {
+  "file": "video32-commons/wiki/sugar_6.jpg",
+  "tag": "sugar",
+  "article": "Sugar_industry",
+  "title": "TRUCKLOADS OF SUGAR BEETS WILL BE PROCESSED AT THE HOLLY SUGAR CORPORATION PLANT NEAR BRAWLEY IN THE IMPERIAL VALLEY - NARA - 548983.jpg",
+  "desc": "",
+  "license": "Public domain",
+  "w": 3000,
+  "h": 2035
+ },
+ {
+  "file": "video32-commons/wiki/sugar_7.jpg",
+  "tag": "sugar",
+  "article": "Sugar_industry",
+  "title": "Tropenmuseum Royal Tropical Institute Objectnumber 3581-33h Ingekleurde litho voorstellende de oo.jpg",
+  "desc": "Litho. Ingekleurde litho door Petit naar een tekening van Théodore Bray (no. 12/25). Voorstelling van het oogsten van suikerriet op een slavenplantage. Rechts een 'blankofficier', de Europese opzichter. Links op de voorg",
+  "license": "CC BY-SA 3.0",
+  "w": 700,
+  "h": 531
+ },
+ {
+  "file": "video32-commons/wiki/armyww2_0.jpg",
+  "tag": "armyww2",
+  "article": "United_States_Army",
+  "title": "1-175 INF Trains at Fort Dix.jpg",
+  "desc": "U.S. Army Soldiers from Charlie and Delta Company, 1st Battalion, 175th Infantry Regiment, Maryland Army National Guard combine efforts July 24, 2007, during a joint urban cordon and search exercise as part of the army r",
+  "license": "Public domain",
+  "w": 2172,
+  "h": 1455
+ },
+ {
+  "file": "video32-commons/wiki/armyww2_1.jpg",
+  "tag": "armyww2",
+  "article": "United_States_Army",
+  "title": "101st-Airborne-Soldiers-build-elite-Iraqi-force-with-Ranger-Training-7-480x319.jpg",
+  "desc": "A trainer with Company A, 1st Battalion 502nd Infantry Regiment, Task Force Strike, 101st Airborne Division assists Iraqi army ranger students during a room clearing drill at Camp Taji, Iraq July 18, 2016.",
+  "license": "CC BY-SA 4.0",
+  "w": 3216,
+  "h": 2136
+ },
+ {
+  "file": "video32-commons/wiki/armyww2_2.jpg",
+  "tag": "armyww2",
+  "article": "United_States_Army",
+  "title": "11th Airborne Division Insignia 2022.png",
+  "desc": "The official insignia for the 11th Airborne Division. The Army will re-designate U.S. Army Alaska and two Alaska-based brigade combat teams this summer as the 11th Airborne Division Headquarters and the 1st and 2nd Briga",
+  "license": "Public domain",
+  "w": 2136,
+  "h": 3825
+ },
+ {
+  "file": "video32-commons/wiki/armyww2_3.jpg",
+  "tag": "armyww2",
+  "article": "United_States_Army",
+  "title": "173Airborne Brigade Shoulder Patch.png",
+  "desc": "Shoulder Patch of 173rd Airborne Brigade",
+  "license": "Public domain",
+  "w": 600,
+  "h": 894
+ },
+ {
+  "file": "video32-commons/wiki/armyww2_4.jpg",
+  "tag": "armyww2",
+  "article": "United_States_Army",
+  "title": "1 CAV DIV charge.jpg",
+  "desc": "Following the casing of the brigade, battalion and division colors, soldiers assigned to the 1st Cavalry Division Horse Detachment perform a cavalry charge accompanied by a helicopter flyover performed by the 1st Cavalry",
+  "license": "Public domain",
+  "w": 1024,
+  "h": 682
+ },
+ {
+  "file": "video32-commons/wiki/armyww2_5.jpg",
+  "tag": "armyww2",
+  "article": "United_States_Army",
+  "title": "2010 Moscow Victory Day Parade-6.jpeg",
+  "desc": "Military parade dedicated to the 65-year anniversary of Victory in Great Patriotic War.",
+  "license": "CC BY 4.0",
+  "w": 1100,
+  "h": 678
+ },
+ {
+  "file": "video32-commons/wiki/armyww2_6.jpg",
+  "tag": "armyww2",
+  "article": "United_States_Army",
+  "title": "3dACRSSI.PNG",
+  "desc": "3rd Armored Regiment Shoulder Sleeve Insignia",
+  "license": "Public domain",
+  "w": 595,
+  "h": 595
+ },
+ {
+  "file": "video32-commons/wiki/armyww2_7.jpg",
+  "tag": "armyww2",
+  "article": "United_States_Army",
+  "title": "3rd ID M1A1 Abrams TC and Gunner 2008.jpg",
+  "desc": "U.S. Army Sgt. Rice and Spc. Mike Seif, 3rd Infantry Division, both in an M1A1 Abrams tank equipped with a recently updated tank urban survivability kit, conduct a counter improvised explosive device mission in Baghdad, ",
+  "license": "Public domain",
+  "w": 4288,
+  "h": 2848
+ },
+ {
+  "file": "video32-commons/wiki/armyww2_8.jpg",
+  "tag": "armyww2",
+  "article": "United_States_Army",
+  "title": "45thIBCTSSI.png",
+  "desc": "The Shoulder Sleeve Insignia of the 45th Infantry Brigade Combat Team (formerly 45th Infantry Division) of the United States Army.",
+  "license": "Public domain",
+  "w": 1014,
+  "h": 1013
+ },
+ {
+  "file": "video32-commons/wiki/armyww2_9.jpg",
+  "tag": "armyww2",
+  "article": "United_States_Army",
+  "title": "86th BCT (MTN).jpg",
+  "desc": "86th Infantry Brigade Combat Team logo",
+  "license": "Public domain",
+  "w": 879,
+  "h": 1329
+ },
+ {
+  "file": "video32-commons/wiki/strike_0.jpg",
+  "tag": "strike",
   "article": "Sit-down_strike",
   "title": "Fosse Arenberg pendant les grèves de 1936.jpg",
   "desc": "Ravitaillement des grévistes pendant les grèves de 1936.",
@@ -1410,8 +1430,8 @@
   "h": 460
  },
  {
-  "file": "video32-commons/wiki/sitdown_1.jpg",
-  "tag": "sitdown",
+  "file": "video32-commons/wiki/strike_1.jpg",
+  "tag": "strike",
   "article": "Sit-down_strike",
   "title": "Sit-down strikes USA 1936-39.png",
   "desc": "This chart illustrates the number of sit-down labor strikes, and the quantity of workers involved from January 1936 to March 1939, the major and largest waves of such strikes. The blue line traces the number of striker p",
@@ -1420,8 +1440,8 @@
   "h": 1610
  },
  {
-  "file": "video32-commons/wiki/sitdown_2.jpg",
-  "tag": "sitdown",
+  "file": "video32-commons/wiki/strike_2.jpg",
+  "tag": "strike",
   "article": "Sit-down_strike",
   "title": "Sitdown strikers in the Fisher body plant factory number three. Flint, Michigan.jpg",
   "desc": "Sitdown strikers in the Fisher body plant factory number three. Flint, Michigan",
@@ -1430,13 +1450,393 @@
   "h": 685
  },
  {
-  "file": "video32-commons/wiki/sitdown_3.jpg",
-  "tag": "sitdown",
+  "file": "video32-commons/wiki/strike_3.jpg",
+  "tag": "strike",
   "article": "Sit-down_strike",
   "title": "Works Projects Administration women workers in sit-down strike, Los Angeles, circa 1936 (cropped).jpg",
   "desc": "Believed to have been published in 1936 by the Los Angeles Daily News. Represents both the Work Projects and Progress Administration.",
   "license": "CC BY 4.0",
   "w": 4861,
   "h": 3648
+ },
+ {
+  "file": "video32-commons/wiki/swiss_0.jpg",
+  "tag": "swiss",
+  "article": "Swiss_chocolate",
+  "title": "A suchard on nov 2020 (1).jpg",
+  "desc": "Ad for Milka",
+  "license": "CC BY-SA 4.0",
+  "w": 760,
+  "h": 1157
+ },
+ {
+  "file": "video32-commons/wiki/swiss_1.jpg",
+  "tag": "swiss",
+  "article": "Swiss_chocolate",
+  "title": "Chocolat Suchard - Tauzin Louis (1895).jpg",
+  "desc": "Affiche publicitaire pour la compagnie Chocolat Suchard, avec le Cervin en arrière plan",
+  "license": "Public domain",
+  "w": 4431,
+  "h": 6054
+ },
+ {
+  "file": "video32-commons/wiki/swiss_2.jpg",
+  "tag": "swiss",
+  "article": "Swiss_chocolate",
+  "title": "Chocolate Shop.jpg",
+  "desc": "Chocolate shop in Geneva",
+  "license": "CC BY-SA 2.0",
+  "w": 4272,
+  "h": 2848
+ },
+ {
+  "file": "video32-commons/wiki/swiss_3.jpg",
+  "tag": "swiss",
+  "article": "Swiss_chocolate",
+  "title": "Chocolate Train Swiss Montreux Gruyère (20497588141).jpg",
+  "desc": "airoplane.net/",
+  "license": "CC BY-SA 2.0",
+  "w": 5292,
+  "h": 2977
+ },
+ {
+  "file": "video32-commons/wiki/swiss_4.jpg",
+  "tag": "swiss",
+  "article": "Swiss_chocolate",
+  "title": "Chocolate Wall.jpg",
+  "desc": "Chocolate wall (only Frey products) at Migros",
+  "license": "CC BY-SA 2.0",
+  "w": 4912,
+  "h": 3264
+ },
+ {
+  "file": "video32-commons/wiki/swiss_5.jpg",
+  "tag": "swiss",
+  "article": "Swiss_chocolate",
+  "title": "Crémant.jpg",
+  "desc": "Dark chocolate bars from various Swiss brands (Bernrain, Cailler, Lindt). Note the use of the french adjective \"crémant\" for dark chocolate produced in Switzerland.",
+  "license": "CC BY 4.0",
+  "w": 4000,
+  "h": 3000
+ },
+ {
+  "file": "video32-commons/wiki/swiss_6.jpg",
+  "tag": "swiss",
+  "article": "Swiss_chocolate",
+  "title": "Das Frühstück Liotard HUW 30 Alte Pinakothek Munich Germany.jpg",
+  "desc": "\nA servant is presenting a cup of chocolate and a glass of water to a young noble lady",
+  "license": "Public domain",
+  "w": 2486,
+  "h": 2955
+ },
+ {
+  "file": "video32-commons/wiki/swiss_7.jpg",
+  "tag": "swiss",
+  "article": "Swiss_chocolate",
+  "title": "Die Kunst der Confiserie von Grund auf lernen .jpg",
+  "desc": "Die Kunst der Confiserie von Grund auf lernen – auch für Menschen mit Beeinträchtigung.",
+  "license": "CC BY-SA 4.0",
+  "w": 4414,
+  "h": 3311
+ },
+ {
+  "file": "video32-commons/wiki/swiss_8.jpg",
+  "tag": "swiss",
+  "article": "Swiss_chocolate",
+  "title": "Fabrique Rouge Serrières.jpg",
+  "desc": "The \"red factory\", in Serrières, Neuchâtel, Swizerland",
+  "license": "Public domain",
+  "w": 1496,
+  "h": 2256
+ },
+ {
+  "file": "video32-commons/wiki/swiss_9.jpg",
+  "tag": "swiss",
+  "article": "Swiss_chocolate",
+  "title": "Industrial Chocolate.jpg",
+  "desc": "Chocolate bars produced by Lindt and Camille Bloch",
+  "license": "CC0",
+  "w": 3840,
+  "h": 2560
+ },
+ {
+  "file": "video32-commons/wiki/chocolatepress_0.jpg",
+  "tag": "chocolatepress",
+  "article": "Conching",
+  "title": "Fabrique de Chocolat Rod. Lindt fils.jpg",
+  "desc": "Ad for Lindt, 1880s",
+  "license": "Public domain",
+  "w": 1841,
+  "h": 991
+ },
+ {
+  "file": "video32-commons/wiki/chocolatepress_1.jpg",
+  "tag": "chocolatepress",
+  "article": "Conching",
+  "title": "Granite Roller and Granite Base of a Conche.jpg",
+  "desc": "Granite roller and Granite base of a conche used by Hershey in the early 1900s. This is on display as part of the Hershey Story Collection.",
+  "license": "CC BY-SA 3.0",
+  "w": 2330,
+  "h": 1706
+ },
+ {
+  "file": "video32-commons/wiki/chocolatepress_2.jpg",
+  "tag": "chocolatepress",
+  "article": "Conching",
+  "title": "Hershey Conche.jpg",
+  "desc": "Hershey Conche in the early 1900s made by J.M. Lehmann in Dresden / Paris. This machine is on display as part of the Hershey Story Collection.",
+  "license": "CC BY-SA 3.0",
+  "w": 1613,
+  "h": 1896
+ },
+ {
+  "file": "video32-commons/wiki/chocolatepress_3.jpg",
+  "tag": "chocolatepress",
+  "article": "Conching",
+  "title": "Velma Suchard.jpg",
+  "desc": "Velma Suchard chocolate bar, from an advertisement in a German calendar",
+  "license": "Public domain",
+  "w": 1790,
+  "h": 911
+ },
+ {
+  "file": "video32-commons/wiki/vanhouten_0.jpg",
+  "tag": "vanhouten",
+  "article": "Coenraad_Johannes_van_Houten",
+  "title": "Coenraad Johannes van Houten.jpg",
+  "desc": "Tekening van Coenraad Johannes van Houten\n1910",
+  "license": "Public domain",
+  "w": 2155,
+  "h": 2380
+ },
+ {
+  "file": "video32-commons/wiki/vanhouten_1.jpg",
+  "tag": "vanhouten",
+  "article": "Coenraad_Johannes_van_Houten",
+  "title": "Dutch process and natural cocoa.jpg",
+  "desc": "Dutch process cocoa on the left and natural cocoa on the right.",
+  "license": "CC BY 2.0",
+  "w": 1024,
+  "h": 1024
+ },
+ {
+  "file": "video32-commons/wiki/vanhouten_2.jpg",
+  "tag": "vanhouten",
+  "article": "Coenraad_Johannes_van_Houten",
+  "title": "Industries of War - Cocoa - MANUFACTURING COCOA AND CHOCOLAE FOR THE GOVERNMENT; ROCKWOOD AND CO., Brooklyn, New York. Cocoa presses - NARA - 31487961.jpg",
+  "desc": "\nScope and content:  Photographer: Rockwood and Co.",
+  "license": "Public domain",
+  "w": 9890,
+  "h": 6600
+ },
+ {
+  "file": "video32-commons/wiki/cadbury_0.jpg",
+  "tag": "cadbury",
+  "article": "Cadbury",
+  "title": "Blue plaque Richard Cadbury.jpg",
+  "desc": "Blue plaque to Richard Cadbury at 17 Wheeley's Road, Edgbaston, Birmingham, England.  Photographed by me 7 April 2007.  Oosoom",
+  "license": "CC BY-SA 3.0",
+  "w": 694,
+  "h": 734
+ },
+ {
+  "file": "video32-commons/wiki/cadbury_1.jpg",
+  "tag": "cadbury",
+  "article": "Cadbury",
+  "title": "Cadbury's - large office block - geograph.org.uk - 961892.jpg",
+  "desc": "Cadbury's - large office block",
+  "license": "CC BY-SA 2.0",
+  "w": 640,
+  "h": 480
+ },
+ {
+  "file": "video32-commons/wiki/cadbury_2.jpg",
+  "tag": "cadbury",
+  "article": "Cadbury",
+  "title": "Cadbury's Chocolate Factory - geograph.org.uk - 1754017.jpg",
+  "desc": "Cadburys Chocolate Factory Once this was the Fry chocolate factory. This has now been taken over by Kraft Foods, and all production to cease. They are building a new factory to replace this in Poland.",
+  "license": "CC BY-SA 2.0",
+  "w": 1024,
+  "h": 634
+ },
+ {
+  "file": "video32-commons/wiki/cadbury_3.jpg",
+  "tag": "cadbury",
+  "article": "Cadbury",
+  "title": "Cadbury's Christmas selection box (31970925091).jpg",
+  "desc": "Cadbury's Christmas selection box",
+  "license": "CC BY 2.0",
+  "w": 2872,
+  "h": 2051
+ },
+ {
+  "file": "video32-commons/wiki/cadbury_4.jpg",
+  "tag": "cadbury",
+  "article": "Cadbury",
+  "title": "Cadbury-Dairy-Milk-Caramel-Bar.jpg",
+  "desc": "A Cadbury Dairy Milk chocolate bar, filled with caramel (not visible on the illustration).",
+  "license": "Public domain",
+  "w": 3180,
+  "h": 1760
+ },
+ {
+  "file": "video32-commons/wiki/cadbury_5.jpg",
+  "tag": "cadbury",
+  "article": "Cadbury",
+  "title": "Cadbury-Flake-Split.jpg",
+  "desc": "A Cadbury Flake bar that has been split in half.",
+  "license": "Public domain",
+  "w": 4120,
+  "h": 1180
+ },
+ {
+  "file": "video32-commons/wiki/cadbury_6.jpg",
+  "tag": "cadbury",
+  "article": "Cadbury",
+  "title": "Cadbury Dairy Milk.jpg",
+  "desc": "Cadbury Dairy Milk in London Heathrow Airport.",
+  "license": "CC BY-SA 3.0",
+  "w": 2886,
+  "h": 1608
+ },
+ {
+  "file": "video32-commons/wiki/cadbury_7.jpg",
+  "tag": "cadbury",
+  "article": "Cadbury",
+  "title": "Cadbury Egg Hunt in Support of Barnardos! (But Don’t Mention Easter)-112774 (26027101296).jpg",
+  "desc": "Today I thought that it might be a good idea to photograph scenes and events relating to Easter so I visited Merrion Square and I discovered that Cadbury had organised a family friendly Easter Egg hunt in aid of a charit",
+  "license": "CC BY-SA 2.0",
+  "w": 7952,
+  "h": 5304
+ },
+ {
+  "file": "video32-commons/wiki/cadbury_8.jpg",
+  "tag": "cadbury",
+  "article": "Cadbury",
+  "title": "Cadbury Wharf, Knighton, Staffordshire - geograph.org.uk - 1321957.jpg",
+  "desc": "Cadbury Wharf, Knighton, Staffordshire. This building and the wharf were operated by Cadbury's between 1911 and 1961 to process locally collected milk and produce \"chocolate crumb\" which was transported to Cadbury's in B",
+  "license": "CC BY-SA 2.0",
+  "w": 575,
+  "h": 640
+ },
+ {
+  "file": "video32-commons/wiki/cadbury_9.jpg",
+  "tag": "cadbury",
+  "article": "Cadbury",
+  "title": "Cadbury World sign, Bournville.JPG",
+  "desc": "Sign outside Cadbury World, Bournville, Birmingham, England.",
+  "license": "CC BY-SA 3.0",
+  "w": 3648,
+  "h": 2736
+ },
+ {
+  "file": "video32-commons/wiki/marshallfield_0.jpg",
+  "tag": "marshallfield",
+  "article": "Philadelphia_Centennial_Exposition",
+  "title": "Beaver Falls Cutlery Works (940).jpg",
+  "desc": "Photograph of an outsized carving knife and fork made by Beaver Falls Cutlery Works, Beaver Falls, Pennsylvania. The knife measured 9 feet 7 inches long. The handles were each made from a whole elephant's tusk, and were ",
+  "license": "Public domain",
+  "w": 1136,
+  "h": 1704
+ },
+ {
+  "file": "video32-commons/wiki/marshallfield_1.jpg",
+  "tag": "marshallfield",
+  "article": "Philadelphia_Centennial_Exposition",
+  "title": "Centennial Board of Finance 1875.jpg",
+  "desc": "Stock certificate for five shares to finance the Centennial International Exhibition 1876, issued by the Centennial Board of Finance and dated August 18, 1875. The share text is framed by extensive views. They portray th",
+  "license": "Public domain",
+  "w": 4416,
+  "h": 3892
+ },
+ {
+  "file": "video32-commons/wiki/marshallfield_2.jpg",
+  "tag": "marshallfield",
+  "article": "Philadelphia_Centennial_Exposition",
+  "title": "Centennial Exhibition, Opening Day.jpg",
+  "desc": "Opening day ceremonies at the Centennial Exhibition at Philadelphia, PA  May 10, 1876.",
+  "license": "Public domain",
+  "w": 2548,
+  "h": 1558
+ },
+ {
+  "file": "video32-commons/wiki/marshallfield_3.jpg",
+  "tag": "marshallfield",
+  "article": "Philadelphia_Centennial_Exposition",
+  "title": "Centennial Exhibition monorail (LOC) - crop 02.jpg",
+  "desc": "\nStereograph card depicting the elevated railway (monorail) at the United States Centennial Exhibition, Philadelphia, 1876. \n(Cropped, color and contrast adjusted.)",
+  "license": "Public domain",
+  "w": 2454,
+  "h": 2513
+ },
+ {
+  "file": "video32-commons/wiki/marshallfield_4.jpg",
+  "tag": "marshallfield",
+  "article": "Philadelphia_Centennial_Exposition",
+  "title": "Centennialhorthall.jpg",
+  "desc": "1875 - A Century After, picturesque glimpses of Philadelphia and Pennsylvania, edited by Edward Strahan, Published by Allen, Lane &amp; Scott and J. W. Lauderbach, Philadelphia, Pennsylvania, 1875.",
+  "license": "Public domain",
+  "w": 640,
+  "h": 672
+ },
+ {
+  "file": "video32-commons/wiki/marshallfield_5.jpg",
+  "tag": "marshallfield",
+  "article": "Philadelphia_Centennial_Exposition",
+  "title": "Collossal hand and torch. Bartholdi's statue of \"Liberty.\", from Robert N. Dennis collection of stereoscopic views.jpg",
+  "desc": "",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1403
+ },
+ {
+  "file": "video32-commons/wiki/marshallfield_6.jpg",
+  "tag": "marshallfield",
+  "article": "Philadelphia_Centennial_Exposition",
+  "title": "EdwardMoran-UnveilingTheStatueofLiberty1886Large.jpg",
+  "desc": "A painting by Edward Moran depicting the unveiling of the Statue of Liberty on October 28, 1886. This was an actual historical event near Bedloe's Island in which thousands of spectators gathered in boats for the dedicat",
+  "license": "Public domain",
+  "w": 1260,
+  "h": 1600
+ },
+ {
+  "file": "video32-commons/wiki/marshallfield_7.jpg",
+  "tag": "marshallfield",
+  "article": "Philadelphia_Centennial_Exposition",
+  "title": "Great Sanitary Fair 1864.jpg",
+  "desc": "\"Buildings of the Great Central Fair, in Aid of the U.S. Sanitary Commission, Logan Square, Philadelphia, June 1864.\" Engraving. The intersection in the foreground is 20th &amp; Vine Streets. The large domed building (le",
+  "license": "Public domain",
+  "w": 1024,
+  "h": 614
+ },
+ {
+  "file": "video32-commons/wiki/marshallfield_8.jpg",
+  "tag": "marshallfield",
+  "article": "Philadelphia_Centennial_Exposition",
+  "title": "Horticultural Hall, from Robert N. Dennis collection of stereoscopic views 3.jpg",
+  "desc": "",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1407
+ },
+ {
+  "file": "video32-commons/wiki/marshallfield_9.jpg",
+  "tag": "marshallfield",
+  "article": "Philadelphia_Centennial_Exposition",
+  "title": "Hymn for the First Centennial of the American Independence (1876) – cover by Carlos Gomes.jpg",
+  "desc": "Reproduction of the cover of the hymn composed by Carlos Gomes: “To the American People: Hymn for the First Centennial of the American Independence, celebrated at Philadelphia on the 4th of July 1876. Composed by command",
+  "license": "Public domain",
+  "w": 750,
+  "h": 1085
+ },
+ {
+  "file": "video32-commons/wiki/pennsylvania_0.jpg",
+  "tag": "pennsylvania",
+  "article": "Dauphin_County,_Pennsylvania",
+  "title": "Dauphin County Courthouse.jpg",
+  "desc": "The Dauphin County Courthouse in Harrisburg, Pennsylvania.",
+  "license": "CC BY-SA 3.0",
+  "w": 2592,
+  "h": 1764
  }
 ]
