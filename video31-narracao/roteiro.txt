@@ -8,139 +8,93 @@ The young man pulls the horse forward. The blade begins to move. And the wheat f
 His name is Cyrus McCormick. He would fight rivals, lawyers, bankruptcy, and a fire that burned his factory to the ground. And in the end, he would change the way the entire world feeds itself. This is the story of the man who invented the harvest.
 
 ### 01_cap1
-Cyrus Hall McCormick was born on February fifteenth, eighteen oh nine, at Walnut Grove, a farm in Rockbridge County, Virginia. He was the oldest of eight children. His family were Scots-Irish Presbyterians, hard working people, who had been farming that valley for two generations.
+Cyrus Hall McCormick was born on February fifteenth, eighteen oh nine, at Walnut Grove, a farm in Rockbridge County, Virginia. He was the oldest of eight children, in a Scots-Irish Presbyterian family that had farmed that valley for two generations.
 
-Walnut Grove was far more than a farm. It had a blacksmith shop, a grist mill, a sawmill, and a small iron works. His father, Robert McCormick, owned about fifteen hundred acres, and a number of enslaved workers, which was normal for a landowner in Virginia at that time. Robert was also an inventor, with a restless mind and a workshop full of half finished ideas.
+Walnut Grove had a blacksmith shop, a grist mill, a sawmill, and a small iron works. His father, Robert McCormick, owned about fifteen hundred acres and a number of enslaved workers, which was normal for a Virginia landowner at that time. Robert was also an inventor, with a workshop full of half finished ideas. Cyrus grew up surrounded by tools. He learned to forge iron and to fix almost anything that broke.
 
-Cyrus grew up surrounded by tools. He learned to forge iron, to shape wood, and to fix almost anything that broke. But he had little formal schooling. He attended a small local school for a few years, and that was all. What he learned, he learned by watching his father work, and by working with his own hands.
-
-And every summer, he learned something else. He learned how brutal the harvest was. In those days, wheat was cut with a sickle or a cradle, a long curved blade with wooden fingers. A strong man could cut perhaps two acres in a single day, and only if the weather held. Grain that was not cut in time fell to the ground and rotted. A farmer could plant as much as he liked, but he could only plant what he could harvest.
+And every summer, he learned how brutal the harvest was. Wheat was cut with a sickle or a cradle, a long curved blade with wooden fingers. A strong man could cut perhaps two acres in a day, and only if the weather held. Grain that was not cut in time fell to the ground and rotted. A farmer could plant as much as he liked, but he could only plant what he could harvest.
 
 That was the real limit on farming. Not land, not seed, not rain. It was the human arm.
 
-His father knew it. Robert McCormick spent years working on a horse drawn reaper in his shop. He built models, he tested them, he rebuilt them. In eighteen sixteen, he tried again. In eighteen thirty, he tried one last time, and again the machine failed. The grain tangled. The blade clogged. The horse dragged a pile of broken wood across the field.
-
-Robert gave up. But his son was watching.
+His father knew it. Robert spent years building a horse drawn reaper. In eighteen sixteen he failed. In eighteen thirty, he tried one last time, and again the grain tangled, the blade clogged, and the horse dragged a pile of broken wood across the field. Robert gave up. But his son was watching.
 
 ### 02_cap2
-Cyrus was twenty-one years old, and he made a decision that would shape the next fifty years. He would not abandon the idea. He would start over, with a different approach.
+Cyrus was twenty-one years old, and he decided to start over. Where his father had tried to copy the motion of the human arm, Cyrus thought like a mechanic. A reaper had to do four things at once. It had to divide the standing grain, cut the stalks, hold them against the blade, and catch them as they fell.
 
-Where his father had tried to copy the motion of the human arm, Cyrus thought about the problem like a mechanic. What did a reaper really need to do? It needed to do four things at once. It needed to divide the standing grain. It needed to cut the stalks. It needed to hold them against the blade. And it needed to catch them as they fell.
+In the summer of eighteen thirty-one, in the family workshop, he built it. A single horse pulled the machine from behind. A wooden reel swept the grain toward a horizontal blade, which moved back and forth against fixed iron fingers. The cut grain dropped onto a platform, where a worker raked it into piles. It was rough, and it was loud. But it worked.
 
-In the summer of eighteen thirty-one, in the family workshop, he built it. A single horse pulled the machine from behind. A wooden reel swept the grain toward a horizontal blade. The blade moved back and forth, in a quick sawing action, against fixed iron fingers. The cut grain dropped onto a platform, where a worker raked it off into piles.
+His first public test was on a neighbor's farm. The field was sloped and uneven, but the machine cut six acres of oats before sundown. A man with a cradle would have needed three days. The neighbors were amazed.
 
-It was rough. It was loud. But it worked.
-
-His first public test was on a neighbor's field, at a farm owned by a man named John Steele. The slope of the field was bad. The ground was uneven. Cyrus took the machine over it anyway, and it cut six acres of oats before sundown. A man with a cradle would have needed three days.
-
-The neighbors were amazed. And for a short time, Cyrus must have thought that his life was solved.
-
-It was not. Because a working machine is not a business. In eighteen thirty-three, a man in Baltimore named Obed Hussey announced a reaper of his own, and received a patent first. Cyrus rushed to protect his work. In June of eighteen thirty-four, he finally received his own patent. From that day, two men were claiming to have invented the same machine.
-
-It was the beginning of a rivalry that would last for twenty years. And it was the beginning of a lesson that Cyrus would learn again and again. Inventing something was only the first step. Getting people to believe in it, to buy it, and to trust it, would be a much longer fight.
+But a working machine is not a business. In eighteen thirty-three, a man in Baltimore named Obed Hussey announced a reaper of his own, and received a patent first. In June of eighteen thirty-four, Cyrus finally received his. From that day, two men claimed to have invented the same machine, and a rivalry began that would last twenty years. It taught Cyrus a lesson he would learn again and again. Inventing something was only the first step. Getting people to believe in it would be a much longer fight.
 
 ### 03_cap3
 The next decade nearly broke him.
 
-Farmers did not trust the new machine. It was heavy, it was expensive, and it broke down. A farmer who bought a reaper was risking his whole harvest on a design he had never seen work for himself. Most chose to wait. Most chose the old way.
+Farmers did not trust the new machine. It was heavy, expensive, and it broke down. A farmer who bought a reaper was risking his whole harvest on a design he had never seen work. Most chose the old way.
 
-Cyrus tried to make a living in other ways. His father and he went into the iron business, and opened a smelting furnace in the Virginia mountains. They borrowed heavily. They expanded. And then in eighteen thirty-seven, a financial panic swept across the United States. Banks failed. Prices collapsed. The price of iron fell through the floor.
+Cyrus and his father went into the iron business, and opened a furnace in the Virginia mountains. They borrowed heavily. Then in eighteen thirty-seven, a financial panic swept across the United States. Banks failed, and the price of iron fell through the floor. The family was left with enormous debts, and for a while it looked as if they would lose Walnut Grove itself.
 
-The family business was ruined. Cyrus and his father were left with enormous debts. For a while, it looked as if they would lose Walnut Grove itself. Cyrus spent years paying off what was owed.
+During those years, his reaper sat in the shed. In eighteen forty, he sold exactly two machines. In eighteen forty-two, seven. The next year, twenty-nine. These were not the numbers of a rising empire. But every season he rebuilt the reaper, fixed the flaws one by one, and carried the lessons into the next machine.
 
-During all this time, his reaper sat in the shed. In eighteen forty, he sold exactly two machines. In eighteen forty-two, he sold seven. The next year, twenty-nine. Then fifty. These were not the numbers of a rising empire. These were the numbers of a man who was barely surviving.
+And he began to understand something no other inventor around him understood. The problem was not the product. It was the selling. So Cyrus went to the farmers. He drove from county to county, and set up demonstrations in open fields, with crowds watching. He challenged Obed Hussey to public contests. He printed advertisements, which almost no manufacturer was doing then, and he printed letters from satisfied customers.
 
-But look carefully at what he was doing in those years. Every season, he rebuilt the reaper. He fixed the flaws, one by one. He strengthened the frame. He improved the blade. He studied every failure, and he carried those lessons into the next machine.
-
-He also began to understand something that no other inventor around him understood. The problem was not the product. It was the selling.
-
-A farmer would not buy a machine he did not believe in. So Cyrus went to the farmers. He drove from county to county. He set up demonstrations in open fields, with crowds watching. He challenged Obed Hussey to public contests, and sometimes the judges declared one man the winner, sometimes the other. He printed advertisements, which almost no manufacturer was doing then. He collected letters from satisfied customers, and printed those too.
-
-Slowly, the orders began to grow. But there was a new problem. Cyrus was making his machines in Virginia, and he was licensing other factories to build them in other places. The quality was uneven. Some machines broke. Some never worked. And every broken reaper hurt his name.
-
-He realized that if he wanted to build an empire, he had to build it himself, in the right place. And the right place was not Virginia.
+Slowly, the orders grew. But he was licensing other factories to build his machines, and the quality was uneven. Every broken reaper hurt his name. He realized that to build an empire, he had to build it himself, in the right place. And the right place was not Virginia.
 
 ### 04_cap4
 In eighteen forty-seven, Cyrus McCormick looked at a map of America and made the biggest decision of his career. He would move to a small, muddy, fast growing town on the shore of Lake Michigan. The town was called Chicago.
 
-At that time, Chicago had about sixteen thousand people. It had no great factories. But Cyrus saw something that others missed. The wheat was moving west. The great prairies of Illinois, Iowa, and Wisconsin were flat, wide, and endless, the perfect land for a horse drawn reaper. The lake gave him ships. And the new railroads were about to give him a way to reach every farm in the Midwest.
+At that time, Chicago had about sixteen thousand people. But Cyrus saw something that others missed. The wheat was moving west. The prairies of Illinois, Iowa, and Wisconsin were flat, wide, and endless, the perfect land for a horse drawn reaper. The lake gave him ships, and the new railroads were about to reach every farm in the Midwest. He chose the city not because it was big, but because of where it was going to be.
 
-He chose the city, not because it was big, but because of where it was going to be.
+With a partner named William Ogden, the first mayor of Chicago, he built a large factory on the bank of the Chicago River. In its first year it produced about five hundred reapers. Within a few years, it was making thousands.
 
-He found a partner named William Ogden, the first mayor of Chicago, who invested twenty-five thousand dollars in the new venture. Together, they built a large factory on the bank of the Chicago River. In the first year, it produced about five hundred reapers. Nothing like that had ever been done. Within a few years, it was making thousands.
+But the factory was not his greatest invention. His greatest invention was how he sold. First, a written guarantee: if the machine failed, the farmer got his money back. No manufacturer had ever done that. Second, credit: a farmer could pay part when he bought the machine and the rest after the harvest. Third, one fixed price, printed in the catalog, for everyone. And fourth, a network of local agents who demonstrated the reaper, trained farmers, and supplied spare parts.
 
-But the factory was not his greatest invention. His greatest invention was how he sold.
-
-First, he gave every customer a written guarantee. If the machine did not do what he promised, the farmer could return it, and get his money back. No manufacturer had ever done that.
-
-Second, he offered credit. A farmer did not have to pay the full price at once. He could pay a part when he bought the machine, and the rest after the harvest, when the money came in. A farmer who had never had cash in his pocket could now own the most advanced machine of his age.
-
-Third, he set one fixed price, printed in the catalog, for everyone. No haggling.
-
-Fourth, he built a network of local agents. They demonstrated the reaper in the fields, they trained farmers, and they supplied spare parts. If a blade broke in the middle of the harvest, a replacement was only a short ride away.
-
-Guarantees, installment credit, fixed prices, traveling salesmen, and service. Today these things seem ordinary. In eighteen forty-eight, they were revolutionary. Historians would later say that McCormick invented not only a machine, but modern marketing.
-
-The results were stunning. As the prairies filled with settlers, the demand for his reaper exploded. Farms that once needed ten workers for the harvest now needed two. And the freed hands moved to the cities, to the factories, and to the railroads.
+Guarantees, installment credit, fixed prices, and service. Today they seem ordinary. In eighteen forty-eight, they were revolutionary. Historians would later say that McCormick invented not only a machine, but modern marketing.
 
 ### 05_cap5
-In eighteen fifty-one, the world's first great international fair opened in London. It was called the Great Exhibition, and it was held inside the Crystal Palace, an enormous building of glass and iron. Thousands of inventions from around the world were on display. McCormick sent his reaper across the Atlantic.
+In eighteen fifty-one, the world's first great international fair opened in London, inside the Crystal Palace, an enormous building of glass and iron. McCormick sent his reaper across the Atlantic.
 
-The British were not impressed. The Times of London mocked the machine, calling it a cross between a wheelbarrow, a flying machine, and a circus chariot. The crowd walked past it. Newspapers laughed. For a few days, the reaper sat alone in a corner.
+The British were not impressed. The Times of London mocked the machine, calling it a cross between a wheelbarrow, a flying machine, and a circus chariot. The crowd walked past it.
 
-Then came a test. A group of English farmers and judges gathered at a wheat field in Essex, to compare the American machine with a British rival. The British machine jammed and clogged in the thick wet grain. McCormick's reaper kept cutting, cleanly, mile after mile.
+Then came a test. English farmers and judges gathered at a wheat field in Essex, to compare the American machine with a British rival. The British machine jammed in the thick wet grain. McCormick's reaper kept cutting, cleanly, mile after mile. The same newspaper now wrote that the reaper alone was worth more than the whole cost of the exhibition, and the jury awarded McCormick the Council Medal, the highest prize of the fair.
 
-The same newspaper that had laughed now changed its tone. The Times wrote that the reaper alone was worth more than the whole cost of the exhibition. The jury awarded McCormick the Council Medal, the highest prize of the fair.
+Orders came in from England, France, Russia, and Germany. In eighteen fifty-five, at the Paris Exposition, he won the Grand Medal of Honor. Years later, the French Academy of Sciences elected him a member, saying he had done more for agriculture than any other living man.
 
-It was a turning point. Orders came in from England, from France, from Russia, from Germany. In eighteen fifty-five, at the Paris Exposition, he won the Grand Medal of Honor. He was now being called the most important name in farming. Governments in Europe studied his methods. Years later, the French Academy of Sciences elected him a member, saying he had done more for agriculture than any other living man.
-
-At home, the wheat fields of the West were being cut by his machines. As the Civil War approached, he was already a very wealthy man.
-
-But success had a price. With every victory, enemies grew. Rival manufacturers copied his designs. Some even claimed the reaper had been invented by someone else. And Cyrus, a man of stubborn pride, did not know how to ignore an insult. He would go to court. Again, and again, and again.
+But success had a price. Rival manufacturers copied his designs, and Cyrus, a man of stubborn pride, did not know how to ignore an insult. He would go to court. Again, and again, and again.
 
 ### 06_cap6
 Between eighteen forty-eight and the middle of the eighteen fifties, McCormick fought one of the great patent wars in American history.
 
-He had received his patent in eighteen thirty-four. When it was about to expire, he asked the Patent Office to extend it. The request was refused. Rival makers copied his machine freely, because the law no longer protected him. He asked again in eighteen fifty-two, and was refused again. He spent a fortune in legal fees trying to hold the line.
+When his patent was about to expire, he asked the Patent Office to extend it. The request was refused. Rival makers copied his machine freely, and he spent a fortune in legal fees trying to hold the line.
 
-The most famous case was held in eighteen fifty-five, against a manufacturer from Illinois named John Manny. McCormick's rivals needed a strong lawyer, and they hired a tall, awkward attorney from Springfield, Illinois, named Abraham Lincoln.
+The most famous case was in eighteen fifty-five, against a manufacturer from Illinois named John Manny. Manny's side hired a tall, awkward attorney from Springfield named Abraham Lincoln. Lincoln traveled to Cincinnati and prepared a careful argument. But when he arrived, he was pushed aside by a more famous, more polished team. A Pittsburgh lawyer named Edwin Stanton treated the country lawyer with open contempt, and Lincoln was never even asked to speak in court. He went home hurt. Years later, as president, he chose Stanton to be his Secretary of War, because Stanton was brilliant.
 
-Lincoln traveled to Cincinnati, where the trial was held. He had studied the case deeply, and prepared a careful argument. But when he arrived, he was shoved aside by a more famous, more polished team. A Pittsburgh lawyer named Edwin Stanton looked at the country lawyer and treated him with open contempt. Lincoln was not even asked to speak in court. He went home hurt. He would never forget it.
+When the Civil War came, the reaper became more important than anyone had imagined. Millions of young men left the farms for the army, yet the North's farms kept producing, because machines were doing the work of the missing hands. Wheat from the Midwest fed the Union armies and was shipped to Europe for gold.
 
-Years later, Lincoln became president, and he chose Edwin Stanton to be his Secretary of War, because Stanton was brilliant. McCormick, in the end, lost some of the patent battles. But the machine was already everywhere.
-
-And when the Civil War came, the reaper became more important than anyone had imagined. Millions of young men left the farms for the army. The North's farms kept producing, because the machines were doing the work of the missing hands. Wheat from the Midwest fed the Union armies, and was shipped to Europe for gold. Some historians have even said that the reaper helped win the war. It has been said that the reaper was to the North what slavery was to the South.
-
-McCormick himself, however, was a Democrat. He had strong sympathies for the South, where he had grown up. He bought a Chicago newspaper to promote his views, and in eighteen sixty-four he ran for Congress. He lost. His opponents called him a traitor and a Copperhead. For the first time, the great businessman learned that fortune did not buy popularity.
+McCormick himself, however, was a Democrat with strong sympathies for the South, where he had grown up. In eighteen sixty-four he ran for Congress, and he lost. His opponents called him a traitor. For the first time, the great businessman learned that fortune did not buy popularity.
 
 ### 07_cap7
-In eighteen fifty-eight, at the age of forty-nine, Cyrus married a young woman named Nettie Fowler. She was twenty-three. She was clever, patient, and deeply religious. In the years that followed, she became his closest advisor, and when he was exhausted, she kept the family strong.
+In eighteen fifty-eight, at the age of forty-nine, Cyrus married a young woman named Nettie Fowler. She was twenty-three, clever, patient, and deeply religious. She became his closest advisor.
 
-Then, in October of eighteen seventy-one, came the Great Chicago Fire. For three days, flames swept the city. Whole neighborhoods vanished. The McCormick factory, the great engine of his fortune, was burned to the ground.
+Then, in October of eighteen seventy-one, came the Great Chicago Fire. For three days, flames swept the city. The McCormick factory, the engine of his fortune, was burned to the ground. Cyrus was sixty-two years old. Many men would have retired. Instead, with Nettie beside him, he told his family that he would rebuild, bigger than before. Within a year, the new factory was running, larger and more advanced than the old one. The fire, which should have destroyed him, became the start of a second empire.
 
-Cyrus was sixty-two years old. He had lost his plant, his tools, and a huge amount of stock. Many men would have retired. Instead, with Nettie beside him, he made another choice. He told his family that he would rebuild, bigger than before.
+He died on May thirteenth, eighteen eighty-four, at the age of seventy-five, in his home in Chicago. He left a fortune of around ten million dollars, and a company selling tens of thousands of machines a year.
 
-Within a year, the new factory was running. It was larger, better, and more advanced than the old one. The company was producing more machines than ever, and soon it was selling around the world. The fire, which should have destroyed him, became the start of a second empire.
+The story did not end there. In eighteen eighty-six, a bitter labor dispute at the McCormick works led to the Haymarket affair, one of the most famous labor tragedies in American history. And in nineteen oh two, the company merged with its rivals, in a deal arranged by J.P. Morgan, to form International Harvester.
 
-In his later years, he turned to giving. A devout Presbyterian, he gave large sums to the church and to education. He supported a theological seminary in Chicago, which would later carry the family name.
-
-He died on May thirteenth, eighteen eighty-four, at the age of seventy-five, in his home in Chicago. He left a fortune of around ten million dollars, and a company that was selling many tens of thousands of machines a year.
-
-The story did not end there. Two years later, in eighteen eighty-six, a bitter labor dispute at the McCormick works in Chicago led to violence, and then to the Haymarket affair, one of the most famous labor tragedies in American history. His son, Cyrus Junior, ran the company then. And in nineteen oh two, the McCormick company merged with its rivals, in a deal arranged by J.P. Morgan, to form International Harvester, one of the largest industrial companies in the world.
-
-Today, the combine harvesters that roll across the fields of Kansas, Ukraine, and Brazil are the grandchildren of a wooden machine built in a Virginia workshop. One man with one modern machine can do the work of hundreds of people from the age of the cradle. That is why so few of us now work the land, and why so many of us can eat.
+Today, the combine harvesters that roll across Kansas, Ukraine, and Brazil are the grandchildren of a wooden machine built in a Virginia workshop. One man with one modern machine can do the work of hundreds from the age of the cradle. That is why so few of us now work the land, and why so many of us can eat.
 
 ### 08_lesson
 So what can we learn from Cyrus McCormick?
 
-The first lesson is that an invention is not a business. McCormick built a working reaper at twenty-two, but he did not become rich until he was nearly forty. The difference between the two was selling. The guarantee, the credit, the agents, the demonstrations, the catalogs. He understood that you have to make a customer feel safe before he will take a risk.
+The first lesson is that an invention is not a business. McCormick built a working reaper at twenty-two, but he did not become rich until he was nearly forty. The difference was selling. The guarantee, the credit, the agents, the demonstrations, the catalogs. He understood that you have to make a customer feel safe before he will take a risk.
 
-The second is that failure can be a teacher. His father built a reaper and failed. Cyrus studied that failure, found out why, and began again. The panic of eighteen thirty-seven crushed his finances. The fire of eighteen seventy-one crushed his factory. Each time, he rebuilt, and each time he was stronger. Many people are not defeated by one big blow. They are defeated by quitting after it.
+The second is that failure can be a teacher. His father failed, and Cyrus studied why. The panic of eighteen thirty-seven crushed his finances. The fire of eighteen seventy-one crushed his factory. Each time, he rebuilt, and each time he was stronger.
 
 The third is to go where the future is going. He left Virginia for a muddy town on a lake because he could see what Chicago would become. He did not choose the place that was best today. He chose the place that would be best in twenty years.
 
-And the last is a warning. Cyrus was stubborn, proud, and always at war with someone. He fought his rivals, he fought the courts, and sometimes he fought the whole world. That stubbornness built his empire. But it also cost him friends, and it left behind a company that could not understand its own workers.
+And the last is a warning. Cyrus was stubborn, proud, and always at war with someone. That stubbornness built his empire, but it also left behind a company that could not understand its own workers.
 
-He started with one wooden machine, and a field of wheat that fell. He ended by changing how humanity eats. If you ever eat a slice of bread, remember the young man in Virginia who looked at a harvest and decided that it did not have to be so hard.
+He started with one wooden machine, and a field of wheat that fell. He ended by changing how humanity eats. If you ever eat a slice of bread, remember the young man in Virginia who decided that the harvest did not have to be so hard.
 
 Thanks for watching.
