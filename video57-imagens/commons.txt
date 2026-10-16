@@ -1,0 +1,20 @@
+a1|Bernard Arnault portrait
+a2|Bernard Arnault LVMH
+a3|Louis Vuitton store Paris
+a4|Dior boutique avenue Montaigne
+a5|Christian Dior 1947 New Look
+a6|Roubaix textile mill 1970s
+a7|Fondation Louis Vuitton Paris
+a8|LVMH headquarters avenue Montaigne
+a9|Moet Hennessy champagne cellar
+a10|Le Bon Marche Paris department store
+a11|Tiffany Fifth Avenue New York
+a12|Louis Vuitton trunk vintage
+a13|Francois Mitterrand 1981
+a14|Ecole Polytechnique Palaiseau
+a15|Gucci store
+a16|Fendi Rome palazzo
+a17|Sephora store
+a18|Hennessy cognac Cognac France
+a19|Notre-Dame de Paris fire 2019
+a20|luxury fashion show Paris Dior

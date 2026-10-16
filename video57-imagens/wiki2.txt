@@ -1,0 +1,8 @@
+galliano|John_Galliano
+marcjacobs|Marc_Jacobs
+bulgari|Bulgari
+celine|Celine_(brand)
+luxury|Luxury_goods
+paris|Paris
+newyork|Manhattan
+forbes|Forbes
