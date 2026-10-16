@@ -12,6 +12,12 @@
   "lic": "Public domain"
  },
  {
+  "tag": "train",
+  "title": "File:Surreal Old Timey Film Of New York City In 1911.webm",
+  "dur": 433.399,
+  "lic": "Public domain"
+ },
+ {
   "tag": "city",
   "title": "File:Surreal Old Timey Film Of New York City In 1911.webm",
   "dur": 433.399,
@@ -28,17 +34,5 @@
   "title": "File:Duke of York at Montreal and Quebec 1901.ogv",
   "dur": 227.0268,
   "lic": "Public domain"
- },
- {
-  "tag": "crowd",
-  "title": "File:Funeral of Hiram Cronk.ogv",
-  "dur": 234.100533,
-  "lic": "Public domain"
- },
- {
-  "tag": "soldiers",
-  "title": "File:Coney Island (ca. 1940s).ogv",
-  "dur": 559.192526,
-  "lic": "Public Domain"
  }
 ]
