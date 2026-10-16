@@ -62,6 +62,14 @@ def plate(year, t1, t2):
     if year: d.text((640, 300), str(year), font=ImageFont.truetype(FB, 36), fill=(245, 197, 66), anchor="mm"); d.line((590, 330, 690, 330), fill=(245, 197, 66), width=3)
     d.text((640, 385), t1[:26].upper(), font=ImageFont.truetype(FB, 44), fill=(240, 240, 240), anchor="mm")
     d.text((640, 450), t2[:30], font=ImageFont.truetype(FI, 26), fill=(190, 190, 190), anchor="mm"); return im
+STK = []
+for _t, _d in (("ia_keep", "footage-ia"), ("px_keep", "footage-px")):
+    _kp = R + f"/video{N}-imagens/{_t}.txt"
+    if os.path.exists(_kp):
+        for _k in open(_kp).read().split():
+            _c = R + f"/video{N}-{_d}/clips/{_k}.mp4"
+            if os.path.exists(_c): STK.append(_c)
+nstk = 0
 flip = 0
 def pick(k, sent):
     for d in (0, 1, -1, 2, -2):
@@ -94,7 +102,12 @@ for c, (items, P) in enumerate(zip(chs, PLAN)):
         f = pick(k, sent); y = yr(sent)
         if f: used.add(f); recent.append(f); cnt[f] = cnt.get(f, 0) + 1; im = fit(ImageOps.autocontrast(Image.open(f).convert("RGB"), cutoff=0.3)); nf += 1; log.append((scene, "foto", os.path.basename(f), sent[:50]))
         else:
-            ents = re.findall(r"[A-Z][a-z]{3,}(?: [A-Z][a-z]+)*", sent[1:]); im = plate(y, ents[0] if ents else "THE STORY", sent); log.append((scene, "CARTAO", "", sent[:50]))
+            if STK:
+                _c = STK[nstk % len(STK)]; nstk += 1; _t = f"/tmp/stk_{N}.jpg"
+                subprocess.run(["ffmpeg", "-y", "-v", "error", "-ss", "3", "-i", _c, "-frames:v", "1", "-vf", "scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720", _t])
+                im = Image.open(_t).convert("RGB"); log.append((scene, "CARTAO", os.path.basename(_c)[:-4], sent[:50]))
+            else:
+                ents = re.findall(r"[A-Z][a-z]{3,}(?: [A-Z][a-z]+)*", sent[1:]); im = plate(y, ents[0] if ents else "THE STORY", sent); log.append((scene, "CARTAO", "", sent[:50]))
         bright(im).save(dst + f"/{scene:03d}_real.jpg", quality=93)
 open(f"/home/claude/video_build{N}/auto_log.txt", "w").write("\n".join("%03d %s %s | %s" % x for x in log))
 print("cenas", scene, "fotos", nf, "cartoes", scene - nf)
