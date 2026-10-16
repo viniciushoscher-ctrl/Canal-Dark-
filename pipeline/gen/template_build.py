@@ -561,7 +561,7 @@ while t0 < TT - 0.01:
     ins_ = ""
     for nm, st, en in sel:
         ins_ += (f"-itsoffset {st - t0:.2f} -i {nm} " if st >= t0 else f"-ss {t0 - st:.2f} -i {nm} ")
-    ch = f"[1:v]scale=1280:720[dd];[0:v]{GR}[g0];[g0][dd]blend=c0_mode=screen:c0_opacity=0.30:c1_mode=normal:c1_opacity=0:c2_mode=normal:c2_opacity=0[b0]"; last = "b0"
+    ch = f"[1:v]scale=1280:720[dd];[0:v]{GR}[g0];[g0][dd]blend=c0_mode=screen:c0_opacity=0.30:c1_mode=normal:c1_opacity=1:c2_mode=normal:c2_opacity=1[b0]"; last = "b0"
     for j, (nm, st, en) in enumerate(sel):
         ch += f";[{2 + j}:v]scale=1280:720[o{j}];[{last}][o{j}]overlay=enable='between(t,{max(st - t0, 0):.2f},{en - t0:.2f})':eof_action=pass[b{j + 1}]"; last = f"b{j + 1}"
     ch += f";[{last}]ass=cap_{k_}.ass[v]"
