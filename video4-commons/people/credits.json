@@ -35,13 +35,6 @@
   "author": "Bain News Service, publisher\nRestoration by Adam Cuerden"
  },
  {
-  "file": "video4-commons/people/wvanderbilt.jpg",
-  "wiki": "William_Henry_Vanderbilt",
-  "image": "William_Henry_Vanderbilt_-_Egyptian_Obelisks_(cropped).jpg",
-  "license": "Public domain",
-  "author": "Edward Bierstadt (credit reads \"Artotype, E. Bierstadt NY\")"
- },
- {
   "file": "video4-commons/people/edison.jpg",
   "wiki": "Thomas_Edison",
   "image": "Thomas_Edison2.jpg",
@@ -70,11 +63,11 @@
   "author": "Adam Cuerden"
  },
  {
-  "file": "video4-commons/people/pujo.jpg",
-  "wiki": "Arsène_Pujo",
-  "image": "Arsene_Pujo.jpg",
+  "file": "video4-commons/people/cortelyou.jpg",
+  "wiki": "George_B._Cortelyou",
+  "image": "Cortelyou-george-bruce.jpg",
   "license": "Public domain",
-  "author": "American Press Association"
+  "author": "US Postal service"
  },
  {
   "file": "video4-commons/people/jpjr.jpg",
@@ -105,10 +98,10 @@
   "author": ""
  },
  {
-  "file": "video4-commons/people/logo.jpg",
-  "wiki": "JPMorgan_Chase",
-  "image": "270parkave_from_empirestate_03_14_2025_(cropped).jpg",
-  "license": "CC BY-SA 4.0",
-  "author": "Jfendi"
+  "file": "video4-commons/people/fed.jpg",
+  "wiki": "Federal_Reserve_Act",
+  "image": "Great_Seal_of_the_United_States_(obverse).svg",
+  "license": "Public domain",
+  "author": "U.S. Government"
  }
 ]
