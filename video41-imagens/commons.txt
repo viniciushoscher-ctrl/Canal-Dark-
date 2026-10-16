@@ -1,0 +1,20 @@
+a1|Carlos Slim portrait
+a2|Carlos Slim 2000s
+a3|Telmex building Mexico City
+a4|Mexico City 1940s street
+a5|Mexico City downtown 1950
+a6|Sanborns House of Tiles Mexico City
+a7|Museo Soumaya Mexico City
+a8|Mexico 1982 crisis
+a9|Mexico City 1960s skyline
+a10|Torre Telmex
+a11|America Movil logo
+a12|Mexican peso 1982 devaluation
+a13|Lebanese immigrants Mexico 1900
+a14|Mexico City UNAM University City 1950s
+a15|Mexico City stock exchange 1980s
+a16|Telmex telephone 1960s Mexico
+a17|Mexico 1910 revolution street Mexico City
+a18|Inbursa tower
+a19|Carlos Salinas Telmex privatization 1990
+a20|Mexico City Plaza Carso
