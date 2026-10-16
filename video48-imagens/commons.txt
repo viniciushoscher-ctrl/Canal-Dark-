@@ -1,0 +1,20 @@
+a1|George Soros portrait
+a2|George Soros speaking Davos
+a3|Black Wednesday 1992 London
+a4|Bank of England building
+a5|Budapest 1944 street
+a6|Budapest Jewish 1944 deportation
+a7|London School of Economics 1950s
+a8|Karl Popper
+a9|Wall Street 1970s trading
+a10|Pound sterling banknotes
+a11|Central European University Budapest
+a12|Berlin Wall fall 1989
+a13|Mahathir Mohamad
+a14|Viktor Orban Budapest
+a15|Hungary 1940s children war
+a16|London 1947 street
+a17|currency trading floor 1990s
+a18|Open Society Foundations
+a19|Norman Lamont 1992
+a20|Quantum Fund hedge fund
