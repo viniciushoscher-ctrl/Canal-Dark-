@@ -1,0 +1,13 @@
+desert_0_0
+desert_2_0
+gold_0_0
+gold_2_0
+horse_0_0
+horse_1_0
+locomotive_2_0
+locomotive_1_0
+snow_0_0
+snow_1_0
+snow_2_0
+sanfrancisco_2_0
+campus_0_0
