@@ -1,0 +1,28 @@
+name: shorts
+on:
+  workflow_dispatch:
+    inputs: {dry: {description: "so simular", default: "false"}}
+  schedule:
+    - cron: "0 12 * * *"   # 09:00 BRT: agenda os 2 Shorts do dia (12:00 e 21:00 BRT)
+permissions: {contents: write}
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: main}
+      - uses: actions/checkout@v4
+        with: {ref: shorts-media, path: media}
+      - run: pip install google-api-python-client google-auth
+      - name: agendar
+        working-directory: media
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python ../main/shorts-verticais/postar_shorts.py . ordem.md --n 2 $([ "${{ inputs.dry }}" = "true" ] && echo --dry)
+      - name: salvar estado
+        working-directory: media
+        run: |
+          git config user.name shorts-bot; git config user.email bot@users.noreply.github.com
+          git add posted.json && git commit -m "estado shorts" && git push || true
