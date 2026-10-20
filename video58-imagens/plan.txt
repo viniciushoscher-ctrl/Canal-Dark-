@@ -1,0 +1,114 @@
+# hookmontage
+wiki/spaincivilwar_9
+wiki/galicia_8
+wiki/zara_3
+wiki/zara_4
+wiki/zara_1
+wiki/nyc5th_6
+wiki/inditex_0
+wiki/bershka_2
+wiki/arteixo_0
+wiki/porto_3
+fotos/a20_1
+wiki/forbes_1
+wiki/zarahome_0
+wiki/zara_5
+# hook
+wiki/spaincivilwar_0
+fotos/a17_1
+wiki/galicia_2
+fotos/a20_2
+wiki/madrid_3
+# cap1
+wiki/spaincivilwar_1
+wiki/spaincivilwar_8
+wiki/spaincivilwar_4
+wiki/spaincivilwar_9
+fotos/a17_0
+fotos/a17_2
+fotos/a16_3
+fotos/a16_1
+wiki/galicia_5
+wiki/railway_0
+wiki/galicia_7
+fotos/a5_0
+# cap2
+fotos/a20_0
+fotos/a20_1
+fotos/a20_3
+fotos/a14_2
+wiki/galicia_0
+wiki/galicia_6
+wiki/galicia_3
+wiki/madrid_4
+fotos/a11_1
+fotos/a2_1
+# cap3
+wiki/zara_0
+wiki/zara_3
+wiki/zara_4
+wiki/zara_1
+fotos/a19_0
+fotos/a19_1
+fotos/a19_3
+fotos/a2_0
+wiki/zara_2
+wiki/fastfashion_2
+wiki/fastfashion_3
+fotos/a8_0
+# cap4
+wiki/inditex_0
+wiki/porto_3
+wiki/porto_5
+wiki/nyc5th_3
+wiki/nyc5th_6
+wiki/nyc5th_8
+fotos/a8_2
+wiki/massimo_1
+wiki/bershka_1
+fotos/a12_1
+fotos/a10_1
+wiki/oysho_0
+# cap5
+wiki/arteixo_0
+wiki/supplychain_0
+wiki/supplychain_2
+wiki/railway_3
+wiki/railway_4
+wiki/morocco_5
+wiki/morocco_3
+wiki/madrid_5
+wiki/porto_7
+wiki/porto_9
+wiki/fastfashion_1
+fotos/a10_3
+# cap6
+wiki/forbes_1
+wiki/forbes_0
+fotos/a14_0
+fotos/a14_1
+wiki/bangladesh_0
+wiki/bangladesh_3
+wiki/bangladesh_9
+wiki/zarahome_1
+wiki/zarahome_3
+wiki/nyc5th_5
+# cap7
+wiki/marta_0
+wiki/galicia_4
+wiki/galicia_1
+wiki/zarahome_4
+wiki/zarahome_5
+wiki/massimo_0
+wiki/nyc5th_9
+wiki/madrid_0
+wiki/porto_4
+wiki/galicia_9
+# lesson
+wiki/zara_5
+wiki/zarahome_2
+wiki/fastfashion_4
+wiki/porto_2
+wiki/railway_5
+wiki/nyc5th_7
+wiki/madrid_6
