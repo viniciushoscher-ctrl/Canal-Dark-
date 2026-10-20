@@ -31,6 +31,6 @@ if not a.dry:
 for (f,t,d),s in zip(todo,slots):
     pub=s.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ");print(f,t,pub)
     if a.dry: continue
-    body={"snippet":{"title":t,"description":d,"categoryId":"27"},"status":{"privacyStatus":"private","publishAt":pub,"selfDeclaredMadeForKids":False}}
+    body={"snippet":{"title":t,"description":d,"categoryId":"27","defaultLanguage":"en","defaultAudioLanguage":"en"},"status":{"privacyStatus":"private","publishAt":pub,"selfDeclaredMadeForKids":False,"containsSyntheticMedia":True,"paidProductPlacementDetails":{"hasPaidProductPlacement":False}}}
     r=yt.videos().insert(part="snippet,status",body=body,media_body=MediaFileUpload(os.path.join(a.media,f),mimetype="video/mp4",resumable=True)).execute()
     st[f]={"id":r["id"],"publishAt":pub};json.dump(st,open("posted.json","w"),indent=1)
