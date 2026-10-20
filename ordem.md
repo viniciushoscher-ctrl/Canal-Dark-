@@ -372,3 +372,423 @@ Source note: Shorts 001–005 come from V11–V13 (only long videos available in
 **Title:** He Disliked Publicity, and he Never Wrote a Memoir #Shorts
 **Description:** He disliked publicity, and he never wrote a memoir. His employees, many of whom stayed with him for decades, said that he knew the name of every foreman in his plants.… Full story on the channel — link in the description.
 **Hashtags:** #Shorts #Westinghouse #Billionaires #BusinessHistory
+
+## 2401 — 2401_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** His Father Was a Poor Presbyterian Minister #Shorts
+**Description:** His father was a poor Presbyterian minister, and the family could barely pay the bills. At fourteen, with only an eighth-grade education, Henry left home with a few… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2402 — 2402_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** He Was a Hard Worker #Shorts
+**Description:** He was a hard worker, and a natural at business. He earned just five dollars a month, plus room and board, but within a few years he had saved enough to become a… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2403 — 2403_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** Flagler Was Thirty-five, and Nearly Broke #Shorts
+**Description:** Then the Civil War ended, prices collapsed, and the business went bankrupt. Flagler lost everything, and a part of the family savings. He went back to Ohio, owing money.… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2404 — 2404_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** In Eighteen Seventy, Rockefeller, Flagler, and Others Founded #Shorts
+**Description:** Flagler persuaded his wealthy relatives, the Harkness family, to lend him a hundred thousand dollars. In eighteen seventy, Rockefeller, Flagler, and others founded… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2405 — 2405_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** He Understood Railroads, and he Negotiated Secret Deals #Shorts
+**Description:** He understood railroads, and he negotiated secret deals with them. In exchange for guaranteeing large shipments of oil, Standard Oil paid lower rates than any… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2406 — 2406_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** Flagler Was Outgoing, Ambitious, and Loved Big Ideas #Shorts
+**Description:** Flagler was outgoing, ambitious, and loved big ideas. They shared an office in Cleveland, and ate lunch together every day, walking home side by side in the evening to… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2407 — 2407_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** His First Wife, Mary, Was Ill with Tuberculosis #Shorts
+**Description:** He said, the idea of Standard Oil was Flagler's. By the early eighteen eighties, the company controlled most of the oil refining in the United States. Flagler was a… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2408 — 2408_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** Florida Was Beautiful, but It Was a Wilderness #Shorts
+**Description:** Florida was beautiful, but it was a wilderness. There were few good hotels, and the railroads were slow and primitive. He believed that Florida could become a winter… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2409 — 2409_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** Augustine, on the Northeast Coast #Shorts
+**Description:** He remarried in eighteen eighty-three, and took his new wife, Ida Alice, to St. Augustine, on the northeast coast. It was a charming, sleepy old Spanish town. He saw an… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2410 — 2410_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** The Hotel Opened in Eighteen Eighty-eight #Shorts
+**Description:** He decided to start a new life. In eighteen eighty-five, Flagler began building the Hotel Ponce de Leon in St. Augustine. It was a palace of Spanish-style architecture,… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2411 — 2411_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** The Local Railroad Was a Mess #Shorts
+**Description:** It was one of the first buildings in America to be lit by electricity throughout, and Flagler hired Thomas Edison to install it. The hotel opened in eighteen… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2412 — 2412_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** To Fill his Hotels #Shorts
+**Description:** To fill his hotels, Flagler advertised heavily across the North. Posters showed palm trees, sunny beaches, and orange groves, at a time when New York was frozen in snow.… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2413 — 2413_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** Town by Town, the Railway Turned Wilderness Into Settlements #Shorts
+**Description:** Town by town, the railway turned wilderness into settlements. At Daytona, at Palm Beach, and at Miami, he built hotels, laid out streets, and financed water systems,… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2414 — 2414_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** Within a Few Years, It Had Thousands #Shorts
+**Description:** Flagler hesitated. Then a freeze destroyed crops across Florida, except in Miami, where orange blossoms were found on Tuttle's trees. She sent him a blossom as proof. He… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2415 — 2415_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** His Personal Life Grew Darker #Shorts
+**Description:** He refused. His personal life grew darker. His second wife, Ida Alice, developed severe mental illness, and Flagler eventually committed her to an asylum. He asked the… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2416 — 2416_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** Engineers Called It Impossible #Shorts
+**Description:** He decided to extend the railroad from Miami across the ocean, to Key West, the closest deep-water port to the Panama Canal, which was then under construction. It would… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2417 — 2417_v24_Flagler.mp4 (from Video 24, Flagler)
+**Title:** On January Twenty-second, Nineteen Twelve, the First Train #Shorts
+**Description:** Over seven years, four thousand workers fought mosquitoes, heat, and storms. A hurricane in nineteen-oh-six killed more than a hundred men. In nineteen-oh-nine and… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Flagler #Billionaires #BusinessHistory
+
+## 2501 — 2501_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** His Father Ran an Inn #Shorts
+**Description:** His father ran an inn, and a farm, and was prosperous. Leland was one of eight children, a solid, serious young man, not a brilliant scholar but determined. He studied… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2502 — 2502_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** He Moved to Wisconsin #Shorts
+**Description:** He moved to Wisconsin and opened a practice in Port Washington. The next year, a fire destroyed his law library, and his career stalled. When his brothers went to… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2503 — 2503_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** Stanford Sold Shovels, Pickaxes, Flour, and Whiskey to Miners #Shorts
+**Description:** Then he decided to follow. In eighteen fifty-two, Leland left Jane with her family, and sailed to California. He arrived in Sacramento with almost nothing. His brothers… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2504 — 2504_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** In Eighteen Fifty-nine, he Ran for Governor #Shorts
+**Description:** Stanford sold shovels, pickaxes, flour, and whiskey to miners. The gold seekers often paid in gold dust, and they were desperate for supplies. His store made a steady… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2505 — 2505_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** He Also Moved Into Politics, as a Republican #Shorts
+**Description:** He also moved into politics, as a Republican. In eighteen fifty-nine, he ran for governor of California, and lost. In eighteen sixty-one, he ran again, and this time he… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2506 — 2506_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** He Took Office as California's First Republican Governor #Shorts
+**Description:** He took office as California's first Republican governor, just as the Civil War began. His campaigns were controversial. He ran on a white-supremacist platform, and… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2507 — 2507_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** Nobody Had Thought It Possible #Shorts
+**Description:** When they went on strike in eighteen sixty-seven, asking for equal pay, Crocker cut off their food supplies until they returned. The strike failed. But in Sacramento, a… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2508 — 2508_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** In Eighteen Sixty-one, They Formed the Central Pacific Railroad #Shorts
+**Description:** He found four Sacramento merchants who listened: Stanford, a hardware dealer named Collis Huntington, his partner Mark Hopkins, and a dry goods seller, Charles Crocker.… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2509 — 2509_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** It Was a Gift Worth Millions #Shorts
+**Description:** In eighteen sixty-two, President Abraham Lincoln signed the Pacific Railway Act. It gave the Central Pacific land grants and government loans: sixteen thousand dollars… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2510 — 2510_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** Hundreds Died, Perhaps More, and Their Deaths Were #Shorts
+**Description:** So Crocker hired Chinese laborers, thousands of them, who proved to be skilled and tireless. They hung in baskets from cliffs to drill holes for blasting powder. They… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2511 — 2511_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** After the Transcontinental Railroad, the Big Four Expanded #Shorts
+**Description:** On May tenth, eighteen sixty-nine, the Central Pacific met the Union Pacific at Promontory Summit. After the transcontinental railroad, the Big Four expanded. They… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2512 — 2512_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** They Controlled Nearly All Transportation in California #Shorts
+**Description:** They controlled nearly all transportation in California. Farmers and merchants complained that the railroad set high rates, and ruined competitors. People called it the… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2513 — 2513_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** Stanford Lived in a Mansion on Nob Hill #Shorts
+**Description:** Newspapers published his letters, which revealed how much the railroad paid for favors. The scandal made the Big Four hated, but it did not stop them. Stanford lived in… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2514 — 2514_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** In Eighteen Ninety-three, Stanford Served in the Us #Shorts
+**Description:** A photographer named Eadweard Muybridge, hired by Stanford, used a row of cameras to prove that a galloping horse lifts all four feet off the ground. It was a milestone… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2515 — 2515_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** In Eighteen Eighty-four, the Family Traveled to Europe #Shorts
+**Description:** Senate, but his greatest passion was his only child, Leland Junior. A bright, sensitive boy, Leland Junior was destined to inherit everything. In eighteen eighty-four,… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2516 — 2516_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** He Died in Florence, Just Before his Sixteenth Birthday #Shorts
+**Description:** He died in Florence, just before his sixteenth birthday. Leland and Jane were devastated. Stanford fell into a deep despair. One night, he said, he dreamed that his son… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2517 — 2517_v25_Stanford.mp4 (from Video 25, Stanford)
+**Title:** Stanford Died on June Twenty-first, Eighteen Ninety-three #Shorts
+**Description:** He and Jane decided to use their fortune to found a university in memory of their son: Leland Stanford Junior University. They donated the Palo Alto farm, and about… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Stanford #Billionaires #BusinessHistory
+
+## 2601 — 2601_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** The Family Could Not Afford to Educate Him #Shorts
+**Description:** The family could not afford to educate him. At fourteen, he left school to work on a neighbor's farm for seven dollars a month. Huntington was a born trader. At sixteen,… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2602 — 2602_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** In Eighteen Forty-nine, Huntington Set Out for California #Shorts
+**Description:** He walked the roads of Connecticut and New York, and learned to read customers, to bargain, and to collect debts. He lived on almost nothing, and saved every penny. By… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2603 — 2603_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** But Then he Heard About Gold in California #Shorts
+**Description:** But then he heard about gold in California. In eighteen forty-nine, Huntington set out for California. The trip, by way of Panama, was dangerous. He was stranded for… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2604 — 2604_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** The Store Became a Thriving Business #Shorts
+**Description:** In his spare time he was a bargain-hunter, trading with travelers. He reached San Francisco in August eighteen fifty, with more money than when he left. He did not go to… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2605 — 2605_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** Huntington Was a Hard Negotiator, and a Frugal Man #Shorts
+**Description:** When others lost nerve, he sat in an office and waited, writing letter after letter. He once said that a man could do anything if he refused to quit, and he practiced it… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2606 — 2606_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** Many People Had Listened to Him #Shorts
+**Description:** Together they made a fortune of several hundred thousand dollars, and gained respect. In eighteen sixty, a young engineer named Theodore Judah walked into Huntington's… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2607 — 2607_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** The Government Was Ready to Subsidize a Transcontinental Line #Shorts
+**Description:** Huntington listened carefully. He understood the mountain of risk, but he also saw the reward. The government was ready to subsidize a transcontinental line. He gathered… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2608 — 2608_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** Each Put in a Small Amount of Money #Shorts
+**Description:** They were the Big Four. Each put in a small amount of money. Crocker would build. Stanford would be the public face. Hopkins would keep the books. And Huntington would… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2609 — 2609_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** Then, with the Help of Abraham Lincoln #Shorts
+**Description:** It was the most important job. Huntington traveled to Washington in eighteen sixty-one, a stranger with a satchel of maps. For months he lobbied Congress, meeting… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2610 — 2610_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** He Won the Pacific Railway Act in Eighteen Sixty-two #Shorts
+**Description:** He won the Pacific Railway Act in eighteen sixty-two. Then, with the help of Abraham Lincoln, he secured the loans. During the years of construction, Huntington spent… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2611 — 2611_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** His Letters to Hopkins Reveal his Personality #Shorts
+**Description:** He negotiated with banks and manufacturers, while the war made prices soar. He lived in a small hotel room, and counted every nickel. He was constantly worried about… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2612 — 2612_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** He Once Persuaded a Rail Supplier to Wait #Shorts
+**Description:** He once persuaded a rail supplier to wait for payment by telling him that the company was on the brink of success. It was not true, but it worked. His letters to Hopkins… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2613 — 2613_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** After the Transcontinental Line, Huntington Looked South #Shorts
+**Description:** He constantly demanded speed, cheaper labor, and bigger profits. When the railroad was finally completed in eighteen sixty-nine, he wrote that it was a good job well… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2614 — 2614_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** He Pushed the Southern Pacific Across Arizona #Shorts
+**Description:** He pushed the Southern Pacific across Arizona and New Mexico, to Texas. He bought up rivals, and in the eighteen eighties, he built a line through the Deep South to New… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2615 — 2615_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** He Even Bought a Shipyard in Newport News #Shorts
+**Description:** He even bought a shipyard in Newport News, Virginia, which became one of the greatest in the world. The Chesapeake and Ohio line opened up the coal fields of West… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2616 — 2616_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** Farmers and Merchants Hated Him #Shorts
+**Description:** In eighteen seventy-five, the railroad and the city of San Francisco clashed over taxes. Newspapers published his private letters, which revealed the extent of his… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2617 — 2617_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** His First Wife, Elizabeth, Died in Eighteen Eighty-three #Shorts
+**Description:** Farmers and merchants hated him. Years later, the novelist Frank Norris published a famous book called The Octopus, which made the railroad a symbol of corporate greed.… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2618 — 2618_v26_Huntington.mp4 (from Video 26, Huntington)
+**Title:** By his Death, he Owned a Fortune #Shorts
+**Description:** By his death, he owned a fortune of about fifty million dollars. But he lived frugally. He ate simple meals, and took the trolley. He insisted on a lifetime of hard… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Huntington #Billionaires #BusinessHistory
+
+## 2701 — 2701_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** The Family Lost Its Farm #Shorts
+**Description:** His father was a poor farmer, who died when Daniel was a boy. The family lost its farm, and Daniel went to work early. He never learned to read or write well, and for… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2702 — 2702_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** Drew Developed a Trick #Shorts
+**Description:** In those days, farmers in upstate New York drove their cattle on foot to the markets of New York City, and he took over the business. It was a hard life, on the road for… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2703 — 2703_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** This Was Called Watering Stock #Shorts
+**Description:** When it was weighed, the buyer paid for water as if it was meat. This was called watering stock. Later, on Wall Street, Drew used the phrase for something else: issuing… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2704 — 2704_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** The Steamboat War Was Fierce #Shorts
+**Description:** By the eighteen thirties, Drew was a successful cattleman. He bought a tavern in New York City, the Bull's Head, a gathering place for cattle drovers. He also opened a… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2705 — 2705_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** Drew Used his Position to Manipulate the Stock #Shorts
+**Description:** Drew sold his boats to a larger company, and moved into banking and stocks. He opened a brokerage firm on Wall Street called Drew, Robinson and Company, in eighteen… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2706 — 2706_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** At the Same Time, Drew Was Deeply Religious #Shorts
+**Description:** He would spread false rumors, buy and sell on inside information, and take secret positions. He is credited with one of the greatest insider schemes of the age. At the… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2707 — 2707_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** Critics Saw Him as a Hypocrite #Shorts
+**Description:** He prayed publicly. He funded a Methodist church in lower Manhattan, and in eighteen sixty-seven, he gave a large donation to found the Drew Theological Seminary, in… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2708 — 2708_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** Drew Himself Was Proud of his Cunning #Shorts
+**Description:** Wall Street joked about him, saying that if you were to get a seat at his table, it would cost you everything you owned. He would pray with one hand, and pick your… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2709 — 2709_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** The Erie War Began in Eighteen Sixty- Eight #Shorts
+**Description:** He said that speculation was a business of nerve, and that he never liked to lose. In the eighteen sixties, the Erie Railroad became his playground. And then Cornelius… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2710 — 2710_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** A New York Judge Ordered Them to Stop #Shorts
+**Description:** They issued fifty thousand new shares by converting bonds, secretly, and dumped them on the market. Vanderbilt kept buying, thinking he was buying a controlling share,… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2711 — 2711_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** Vanderbilt Eventually Realized he Had Been Outplayed #Shorts
+**Description:** Drew and his partners fled to New Jersey, with six million dollars in cash packed in suitcases, and set up a headquarters in a Jersey City hotel. They were protected by… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2712 — 2712_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** Drew Had Made One Fatal Mistake #Shorts
+**Description:** For Drew, it was a great victory, but also the beginning of a long decline, when his partners Gould and Fisk outsmarted him as well. Drew had made one fatal mistake. He… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2713 — 2713_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** His Brokerage Firm Collapsed #Shorts
+**Description:** Jim Fisk was a showman with a flair for publicity. They learned everything from the old man, and then took it from him. In eighteen sixty-nine, Gould and Fisk turned on… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2714 — 2714_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** In the Panic of Eighteen Seventy-three #Shorts
+**Description:** In the panic of eighteen seventy-three, Drew lost most of what remained. His brokerage firm collapsed, and in eighteen seventy-six, he declared bankruptcy. He had owed… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2715 — 2715_v27_Drew.mp4 (from Video 27, Drew)
+**Title:** He Died on September Eighteenth #Shorts
+**Description:** He lived on a small allowance. He prayed, and he told friends that everything he had lost would be returned to him in heaven. He died on September eighteenth, eighteen… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Drew #Billionaires #BusinessHistory
+
+## 2801 — 2801_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** His Father Died When James Was Fourteen #Shorts
+**Description:** James Jerome Hill was born on September sixteenth, eighteen thirty-eight, near Rockwood, Ontario, in Canada. His parents were Scottish and Irish farmers. When he was… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2802 — 2802_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** An Arrow Struck Him in the Eye #Shorts
+**Description:** An arrow struck him in the eye, and he lost the sight in his right eye forever. His father died when James was fourteen. The boy had to leave school to support his… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2803 — 2803_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** He Was Also Fierce About Work #Shorts
+**Description:** He was also fierce about work. He rose before dawn, he read reports at the dinner table, and he rarely took vacations. People said that Hill had a memory so sharp that… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2804 — 2804_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** A Bankrupt Railroad, the St #Shorts
+**Description:** He studied the river trade, the fur trade, and the new coal business. He started a small company that supplied coal to the town's homes, and made money from fuel. He… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2805 — 2805_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** In the Eighteen Seventies, he Saw an Opportunity #Shorts
+**Description:** In the eighteen seventies, he saw an opportunity. A bankrupt railroad, the St. Paul and Pacific, was in trouble. It had been started to connect St. Paul to the Canadian… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2806 — 2806_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** A Railroad Is Worth Only What Its Customers Produce #Shorts
+**Description:** With three partners, including a Canadian banker named George Stephen, Hill bought it in eighteen seventy-eight for a few million dollars, mostly borrowed. It was a huge… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2807 — 2807_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** The Railroad Grew Quickly #Shorts
+**Description:** He distributed free seed, he sponsored experimental farms, and he imported purebred cattle. He wanted the farmers to prosper, because his trains would carry their wheat.… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2808 — 2808_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** Hill Sold his Land to Farmers #Shorts
+**Description:** Hill sold his land to farmers, and he wanted them to succeed. The railroad grew quickly. By the eighteen eighties, it had become the St. Paul, Minneapolis and Manitoba… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2809 — 2809_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** In the Eighteen Eighties #Shorts
+**Description:** He built the line wide, strong, and straight, so that it could carry more than its first customers needed. In the eighteen eighties, Hill saw an even larger prize. The… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2810 — 2810_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** Hill Decided to Build Without a Cent #Shorts
+**Description:** He wanted a railroad that went all the way to the Pacific. Other transcontinental railroads had received enormous land grants and government loans. Hill decided to build… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2811 — 2811_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** Between Eighteen Ninety and Eighteen Ninety-three, his Workers #Shorts
+**Description:** Between eighteen ninety and eighteen ninety-three, his workers pushed the line across the plains of Montana, over the Rocky Mountains, and through the Cascades. His… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2812 — 2812_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** The Great Northern Reached Seattle on January Sixth #Shorts
+**Description:** He used the best steel, and the best ties. He built strong bridges. He insisted that the Great Northern be the most efficient railroad in America, and one that could… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2813 — 2813_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** The Great Northern Survived #Shorts
+**Description:** The Panic of eighteen ninety-three followed that spring, and four major railroads went bankrupt, including Northern Pacific, the Union Pacific, and the Santa Fe. The… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2814 — 2814_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** In Nineteen-oh-one, Hill, with J #Shorts
+**Description:** He opened steamship lines across the Pacific, to carry American flour and cotton to Asia, and to bring tea and silk back. He built huge ships, the largest in the world… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2815 — 2815_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** President Theodore Roosevelt Ordered an Antitrust Suit Against #Shorts
+**Description:** The struggle triggered the Panic of nineteen-oh-one, when the stock of Northern Pacific rose to a thousand dollars a share, and Wall Street crashed. In the end, Hill and… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2816 — 2816_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** Hill, Then Sixty-six, Stepped Back #Shorts
+**Description:** He believed that his railroad had benefited the country. He told reporters that the Northwest would have remained a wilderness without it, and that the farmers who… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
+
+## 2817 — 2817_v28_Hill.mp4 (from Video 28, Hill)
+**Title:** Paul, Which Had Thirty-six Rooms #Shorts
+**Description:** He retired as president of the Great Northern in nineteen-oh-seven, becoming chairman. He spent his last years in his mansion in St. Paul, which had thirty-six rooms. He… Full story on the channel — link in the description.
+**Hashtags:** #Shorts #Hill #Billionaires #BusinessHistory
