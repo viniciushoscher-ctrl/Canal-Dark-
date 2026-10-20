@@ -197,17 +197,17 @@
  },
  {
   "file": "video47-commons/fotos/a16_2.jpg",
-  "title": "File:Burlington Northern Santa Fe (15664363622).jpg",
-  "license": "CC BY 2.0",
-  "author": "Greg Gjerdingen from Willmar, USA",
-  "url": "https://commons.wikimedia.org/wiki/File:Burlington_Northern_Santa_Fe_(15664363622).jpg"
- },
- {
-  "file": "video47-commons/fotos/a16_3.jpg",
   "title": "File:Burlington Northern Santa Fe (15477391268).jpg",
   "license": "CC BY 2.0",
   "author": "Greg Gjerdingen from Willmar, USA",
   "url": "https://commons.wikimedia.org/wiki/File:Burlington_Northern_Santa_Fe_(15477391268).jpg"
+ },
+ {
+  "file": "video47-commons/fotos/a16_3.jpg",
+  "title": "File:Burlington Northern Santa Fe (15664363622).jpg",
+  "license": "CC BY 2.0",
+  "author": "Greg Gjerdingen from Willmar, USA",
+  "url": "https://commons.wikimedia.org/wiki/File:Burlington_Northern_Santa_Fe_(15664363622).jpg"
  },
  {
   "file": "video47-commons/fotos/a17_0.jpg",
@@ -271,5 +271,26 @@
   "license": "Public domain",
   "author": "Evansville Daily Journal (Ind.)",
   "url": "https://commons.wikimedia.org/wiki/File:Evansville_Daily_Journal-_Souvenir_encampment_edition_-_DPLA_-_0a5fd7299924fdf08d6f55962a9852f2_(page_15).jpg"
+ },
+ {
+  "file": "video47-commons/fotos/a21_0.jpg",
+  "title": "File:Charlie Munger.jpg",
+  "license": "CC BY 2.0",
+  "author": "Nick",
+  "url": "https://commons.wikimedia.org/wiki/File:Charlie_Munger.jpg"
+ },
+ {
+  "file": "video47-commons/fotos/a21_1.jpg",
+  "title": "File:Sandro Salsano and Charlie Munger.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Cnbc2017",
+  "url": "https://commons.wikimedia.org/wiki/File:Sandro_Salsano_and_Charlie_Munger.jpg"
+ },
+ {
+  "file": "video47-commons/fotos/a21_2.jpg",
+  "title": "File:Charlie Munger 2.jpg",
+  "license": "CC BY 2.0",
+  "author": "Nick Webb",
+  "url": "https://commons.wikimedia.org/wiki/File:Charlie_Munger_2.jpg"
  }
 ]
