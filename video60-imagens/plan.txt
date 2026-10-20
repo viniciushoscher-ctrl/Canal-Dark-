@@ -1,0 +1,116 @@
+# hookmontage
+wiki/son_0
+wiki/softbank_6
+wiki/alibaba_0
+wiki/jackma_1
+wiki/arm_1
+wiki/wework_3
+wiki/yahoo_0
+wiki/iphone_1
+wiki/stevejobs_9
+wiki/vodafone_1
+wiki/nasdaq_2
+wiki/uber_1
+wiki/openai_4
+wiki/visionfund_0
+# hook
+wiki/tokyo_4
+wiki/son_0
+wiki/jackma_0
+wiki/softbank_9
+wiki/alibaba_2
+# cap1
+wiki/tosu_0
+wiki/tosu_3
+wiki/kyushu_2
+wiki/kyushu_1
+wiki/kyushu_0
+wiki/tosu_2
+wiki/pachinko_0
+wiki/pachinko_2
+wiki/pachinko_5
+wiki/kyushu_8
+wiki/tosu_4
+fotos/a4_1
+# cap2
+wiki/berkeley_4
+wiki/berkeley_3
+wiki/berkeley_0
+fotos/a12_3
+fotos/a12_2
+wiki/berkeley_7
+wiki/arcade_5
+wiki/arcade_7
+wiki/arcade_4
+fotos/a13_0
+wiki/sharp_3
+wiki/sharp_4
+# cap3
+wiki/softbank_5
+wiki/softbank_7
+wiki/softbank_8
+wiki/yahoo_1
+wiki/yahoo_0
+wiki/nasdaq_0
+wiki/nasdaq_1
+wiki/softbank_0
+wiki/softbank_3
+wiki/tokyo_2
+wiki/sharp_9
+wiki/softbank_2
+# cap4
+wiki/nasdaq_2
+fotos/a14_0
+fotos/a14_2
+wiki/jackma_2
+wiki/alibaba_3
+wiki/alibaba_4
+wiki/alibaba_1
+wiki/sprint_4
+wiki/sprint_0
+fotos/a8_0
+wiki/vodafone_4
+wiki/vodafone_1
+# cap5
+wiki/arm_0
+wiki/arm_2
+fotos/a9_3
+wiki/iphone_0
+wiki/iphone_2
+wiki/stevejobs_9
+wiki/stevejobs_7
+wiki/iphone_3
+wiki/softbank_1
+wiki/visionfund_0
+fotos/a15_0
+fotos/a16_2
+# cap6
+wiki/wework_0
+wiki/wework_1
+wiki/neumann_0
+wiki/neumann_1
+wiki/uber_1
+wiki/uber_4
+wiki/uber_2
+wiki/openai_0
+wiki/openai_4
+wiki/openai_3
+fotos/a10_0
+fotos/a10_2
+# cap7
+wiki/tokyo_0
+wiki/tokyo_1
+wiki/softbank_4
+fotos/a16_1
+wiki/softbank_6
+wiki/tokyo_3
+wiki/fukushima_0
+wiki/fukushima_2
+wiki/fukushima_6
+fotos/a3_0
+# lesson
+wiki/arm_1
+wiki/iphone_1
+wiki/tosu_1
+wiki/kyushu_4
+wiki/tokyo_5
