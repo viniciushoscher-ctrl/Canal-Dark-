@@ -1,0 +1,117 @@
+# hookmontage
+wiki/boe_5
+wiki/blackwed_2
+wiki/blackwed_0
+wiki/soros_4
+wiki/soros_3
+wiki/boe_8
+wiki/holocausthu_2
+wiki/budapest_3
+wiki/openso_0
+wiki/wallstreet_5
+wiki/mahathir_6
+wiki/ceu_9
+wiki/reunification_7
+wiki/poundsterling_6
+# hook
+wiki/boe_2
+wiki/blackwed_3
+wiki/wallstreet_6
+wiki/soros_5
+wiki/budapest_2
+# cap1
+wiki/budapest_0
+wiki/budapest_9
+fotos/a11_0
+wiki/esperanto_0
+wiki/esperanto_1
+wiki/holocausthu_3
+wiki/holocausthu_4
+wiki/holocausthu_0
+wiki/holocausthu_7
+wiki/holocausthu_6
+wiki/holocausthu_5
+wiki/holocausthu_2
+# cap2
+wiki/lse_1
+wiki/lse_8
+wiki/popper_0
+wiki/popper_3
+wiki/popper_4
+fotos/a9_0
+fotos/a9_1
+fotos/a9_2
+wiki/wallstreet_2
+wiki/wallstreet_3
+wiki/rogers_0
+wiki/lse_9
+# cap3
+wiki/wallstreet_9
+wiki/wallstreet_0
+wiki/wallstreet_1
+wiki/dotcom_3
+wiki/soros_4
+wiki/lse_7
+fotos/a18_2
+wiki/nyc1956_3
+wiki/nyc1956_5
+wiki/wallstreet_4
+# cap4
+wiki/reunification_6
+wiki/reunification_8
+wiki/boe_5
+wiki/boe_8
+fotos/a4_0
+fotos/a4_2
+fotos/a4_3
+wiki/blackwed_2
+wiki/blackwed_0
+wiki/poundsterling_1
+fotos/a10_0
+fotos/a10_1
+# cap5
+wiki/mahathir_9
+wiki/mahathir_6
+wiki/asiancrisis_1
+wiki/asiancrisis_2
+wiki/russia1998_0
+wiki/apartheid_3
+wiki/apartheid_5
+wiki/apartheid_9
+wiki/berlinwall_4
+wiki/berlinwall_5
+fotos/a12_1
+fotos/a12_0
+# cap6
+wiki/ceu_9
+wiki/ceu_7
+wiki/ceu_3
+wiki/ceu_4
+wiki/ceu_5
+wiki/ceu_2
+wiki/budapest_7
+wiki/soros_1
+wiki/soros_0
+wiki/budapest_3
+fotos/a11_2
+fotos/a18_1
+# cap7
+wiki/soros_3
+fotos/a18_0
+wiki/openso_0
+wiki/wallstreet_7
+wiki/wallstreet_8
+wiki/nyc1956_2
+wiki/budapest_4
+wiki/budapest_5
+wiki/reunification_0
+wiki/nyc1956_4
+# lesson
+wiki/holocausthu_8
+wiki/popper_1
+wiki/popper_2
+wiki/reunification_3
+wiki/berlinwall_8
+wiki/apartheid_7
+wiki/budapest_1
+wiki/budapest_6
