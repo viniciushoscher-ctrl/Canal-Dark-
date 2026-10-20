@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Agenda os proximos N Shorts (ordem.md + mp4 em MEDIA) no YouTube, via publishAt.
-Env: YT_CLIENT_ID YT_CLIENT_SECRET YT_REFRESH_TOKEN. Estado em posted.json. Horarios no fuso do publico (canal americano): padrao 11:00 e 20:00 America/New_York. Uso: postar_shorts.py MEDIA ORDEM.md [--n 2] [--horas 11:00,20:00] [--tz America/New_York] [--dry]"""
+Env: YT_CLIENT_ID YT_CLIENT_SECRET YT_REFRESH_TOKEN. Estado em posted.json. Horarios no fuso do publico (canal americano). Continua do ultimo slot ja agendado; --n 5 por execucao respeita a cota da API (1600 por upload, 10000/dia, dividida com os longos): padrao 11:00 e 20:00 America/New_York. Uso: postar_shorts.py MEDIA ORDEM.md [--n 2] [--horas 11:00,20:00] [--tz America/New_York] [--dry]"""
 import sys,os,re,json,argparse,datetime as dt
-p=argparse.ArgumentParser();p.add_argument("media");p.add_argument("ordem");p.add_argument("--n",type=int,default=2)
+p=argparse.ArgumentParser();p.add_argument("media");p.add_argument("ordem");p.add_argument("--n",type=int,default=5)
 p.add_argument("--horas",default="11:00,20:00");p.add_argument("--tz",default="America/New_York");p.add_argument("--dry",action="store_true")
 a=p.parse_args()
 st=json.load(open("posted.json")) if os.path.exists("posted.json") else {}
@@ -15,11 +15,12 @@ todo=[e for e in ents if e[0] not in st and os.path.exists(os.path.join(a.media,
 if not todo: print("nada a postar");sys.exit()
 from zoneinfo import ZoneInfo
 TZ=ZoneInfo(a.tz);horas=a.horas.split(",");now=dt.datetime.now(TZ)
-slots=[];day=now.date()
+last=max([dt.datetime.fromisoformat(v["publishAt"].replace("Z","+00:00")) for v in st.values()]+[now+dt.timedelta(minutes=20)])
+slots=[];day=last.astimezone(TZ).date()
 while len(slots)<len(todo):
     for h in horas:
         s=dt.datetime.fromisoformat(f"{day}T{h}:00").replace(tzinfo=TZ)
-        if s>now+dt.timedelta(minutes=20): slots.append(s)
+        if s>last: slots.append(s)
     day+=dt.timedelta(days=1)
 if not a.dry:
     from google.oauth2.credentials import Credentials
