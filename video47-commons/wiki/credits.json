@@ -94,7 +94,7 @@
   "tag": "airforce",
   "article": "United_States_Army_Air_Forces",
   "title": "P-40 64FS 57FG pilots.jpg",
-  "desc": "Pilots of the USAAF 64th Fighter Squadron, 57th Fighter Group, in front of one of their Curtiss P-40 Warhawk fighters in North Africa in April 1943.\nOriginal caption: \"Members of the 64th Squadron of the 57th Fighter Gro",
+  "desc": "Pilots of the USAAF 64th Fighter Squadron, 57th Fighter Group, in front of one of their Curtiss P-40 Warhawk fighters in North Africa in April 1943.\n\nOriginal caption: \"Members of the 64th Squadron of the 57th Fighter Gr",
   "license": "Public domain",
   "w": 6050,
   "h": 4140
@@ -748,5 +748,15 @@
   "license": "Public domain",
   "w": 1184,
   "h": 1740
+ },
+ {
+  "file": "video47-commons/wiki/wescob_0.jpg",
+  "tag": "wescob",
+  "article": "Wesco_Financial",
+  "title": "CORT moving van Ypsilanti Township Michigan.JPG",
+  "desc": "CORT moving van, Fairway Trails Apartment complex, Ypsilanti, Township, Michigan.",
+  "license": "Public domain",
+  "w": 3857,
+  "h": 1532
  }
 ]
