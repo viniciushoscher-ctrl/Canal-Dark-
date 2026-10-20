@@ -1,0 +1,113 @@
+# hookmontage
+wiki/newyork_2
+fotos/a2_0
+wiki/dior_2
+wiki/vuitton_1
+wiki/lvmh_0
+wiki/gucci_3
+wiki/luxury_4
+wiki/luxury_5
+wiki/fondation_0
+wiki/sephora_3
+wiki/bulgari_2
+fotos/a11_0
+fotos/a2_3
+wiki/luxury_8
+# hook
+wiki/newyork_4
+wiki/newyork_5
+wiki/newyork_7
+fotos/a2_1
+wiki/roubaix_1
+# cap1
+wiki/roubaix_0
+wiki/roubaix_2
+wiki/roubaix_3
+wiki/roubaix_8
+wiki/paris_9
+wiki/roubaix_7
+wiki/roubaix_9
+wiki/paris_8
+fotos/a5_0
+# cap2
+fotos/a13_3
+fotos/a13_0
+fotos/a13_2
+wiki/newyork_3
+wiki/newyork_9
+wiki/newyork_6
+wiki/newyork_8
+wiki/lazard_0
+wiki/forbes_1
+wiki/newyork_0
+fotos/a4_0
+# cap3
+wiki/boussac_0
+wiki/dior_1
+wiki/dior_0
+wiki/dior_3
+wiki/dior_4
+wiki/dior_2
+wiki/lvmh_0
+fotos/a18_0
+fotos/a18_3
+wiki/vuitton_0
+# cap4
+wiki/galliano_0
+wiki/marcjacobs_1
+wiki/marcjacobs_2
+wiki/vuitton_2
+wiki/vuitton_3
+wiki/vuitton_7
+wiki/fendi_1
+wiki/fendi_3
+wiki/gucci_1
+wiki/gucci_2
+fotos/a10_0
+fotos/a10_2
+# cap5
+wiki/luxury_6
+wiki/luxury_7
+wiki/luxury_1
+wiki/luxury_3
+wiki/dior_5
+wiki/dior_7
+wiki/vuitton_4
+wiki/vuitton_6
+wiki/vuitton_5
+fotos/a3_3
+fotos/a3_2
+wiki/celine_1
+# cap6
+wiki/lvmh_1
+wiki/sephora_1
+wiki/sephora_4
+wiki/bulgari_0
+wiki/bulgari_1
+wiki/bulgari_3
+fotos/a11_1
+fotos/a11_3
+wiki/fondation_1
+wiki/gehry_1
+wiki/gehry_0
+wiki/fondation_2
+wiki/notredame_0
+# cap7
+wiki/notredame_1
+wiki/notredame_3
+fotos/a19_1
+wiki/notredame_7
+fotos/a19_2
+wiki/forbes_0
+wiki/arnault_0
+fotos/a2_2
+wiki/dior_8
+wiki/marcjacobs_0
+# lesson
+wiki/luxury_2
+wiki/dior_6
+wiki/dior_9
+wiki/vuitton_1
+wiki/paris_1
+wiki/paris_2
+wiki/gucci_0
