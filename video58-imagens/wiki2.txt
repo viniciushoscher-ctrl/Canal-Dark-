@@ -6,3 +6,6 @@ railway|Rail_transport_in_Spain
 bangladesh|Bangladesh
 morocco|Morocco
 forbes|Forbes
+ortegagaona|Amancio_Ortega_Gaona
+flora|Flora_P%C3%A9rez_Marcote
+rosaliamera|Rosal%C3%ADa_Mera

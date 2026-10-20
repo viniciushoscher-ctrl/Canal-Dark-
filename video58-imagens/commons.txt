@@ -18,3 +18,6 @@ a17|Spanish railway station 1940s
 a18|fashion shop Madrid Gran Via
 a19|Zara Gran Via Madrid
 a20|garment factory sewing machines
+a21|Amancio Ortega
+a22|Amancio Ortega Gaona Inditex founder
+a23|Amancio Ortega Zara founder portrait
