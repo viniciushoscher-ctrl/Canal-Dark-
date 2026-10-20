@@ -22,3 +22,5 @@ a21|Charles Munger
 a22|Charlie Munger Daily Journal annual meeting
 a23|Charles T. Munger Berkshire vice chairman
 a24|Munger Warren Buffett Charlie
+a25|Charlie Munger portrait Berkshire Hathaway
+a26|Charles Munger Daily Journal

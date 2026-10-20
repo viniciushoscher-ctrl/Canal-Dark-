@@ -8,3 +8,5 @@ reading|Reading
 meteorology|Meteorology
 mungerb|Charles_T._Munger
 wescob|Wesco_Financial
+mungerc|Charlie_Munger
+mungerd|Munger_Hall
