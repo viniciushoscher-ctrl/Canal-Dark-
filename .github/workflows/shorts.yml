@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs: {dry: {description: "so simular", default: "false"}}
   schedule:
-    - cron: "0 12 * * *"   # 09:00 BRT: agenda os 2 Shorts do dia (12:00 e 21:00 BRT)
+    - cron: "0 12 * * *"   # 09:00 BRT: agenda os 2 Shorts do dia (11:00 e 20:00 ET)
 permissions: {contents: write}
 jobs:
   post:
