@@ -1,0 +1,112 @@
+# hookmontage
+wiki/essen_8
+wiki/krupp_1
+wiki/alfred_0
+wiki/crystalpalace_7
+wiki/cannon_8
+wiki/bigbertha_3
+wiki/sedan_2
+wiki/francoprussian_5
+fotos/a3_3
+wiki/versailles_1
+wiki/forcedlabor_2
+wiki/nuremberg_0
+fotos/a1_1
+wiki/bessemer_5
+# hook
+wiki/essen_7
+wiki/friedrich_0
+wiki/krupp_2
+fotos/a17_1
+wiki/zeche_0
+# cap1
+fotos/a17_0
+wiki/essen_6
+fotos/a8_3
+fotos/a1_0
+wiki/alfred_1
+wiki/ruhr_1
+wiki/prussia_2
+fotos/a1_3
+# cap2
+wiki/bessemer_5
+wiki/bessemer_4
+wiki/bessemer_3
+wiki/sheffield_1
+wiki/krupp_1
+fotos/a2_3
+wiki/ruhr_4
+# cap3
+fotos/a11_0
+fotos/a11_1
+wiki/railwaytire_2
+wiki/crystalpalace_7
+wiki/crystalpalace_6
+wiki/greatexhibition_4
+wiki/greatexhibition_0
+wiki/crystalpalace_0
+wiki/greatexhibition_6
+wiki/crystalpalace_5
+wiki/crystalpalace_3
+# cap4
+wiki/cannon_8
+wiki/francoprussian_0
+wiki/francoprussian_5
+wiki/sedan_2
+wiki/sedan_3
+wiki/sedan_1
+wiki/wilhelm_1
+wiki/wilhelm_5
+wiki/francoprussian_1
+wiki/prussia_5
+wiki/krupp_4
+wiki/prussia_4
+# cap5
+wiki/essen_8
+fotos/a1_2
+fotos/a3_0
+fotos/a3_1
+fotos/a3_3
+fotos/a8_0
+fotos/a8_2
+wiki/zeche_8
+wiki/alfred_0
+wiki/fafried_0
+wiki/fafried_2
+wiki/fafried_1
+# cap6
+wiki/bigbertha_0
+wiki/bigbertha_1
+wiki/bigbertha_3
+wiki/bigbertha_4
+wiki/versailles_0
+wiki/versailles_4
+fotos/a14_0
+wiki/gustav_3
+wiki/gustav_0
+wiki/gustav_5
+wiki/forcedlabor_0
+wiki/forcedlabor_2
+wiki/forcedlabor_3
+wiki/forcedlabor_5
+wiki/alfried_0
+# cap7
+wiki/alfried_2
+wiki/nuremberg_0
+wiki/nuremberg_1
+wiki/mccloy_4
+wiki/mccloy_3
+wiki/mccloy_2
+wiki/thyssenkrupp_2
+wiki/thyssenkrupp_1
+wiki/thyssenkrupp_3
+wiki/zeche_1
+wiki/zeche_2
+wiki/essen_9
+# lesson
+wiki/krupp_0
+wiki/krupp_3
+wiki/bessemer_6
+wiki/zeche_4
+wiki/zeche_5
+wiki/essen_0
