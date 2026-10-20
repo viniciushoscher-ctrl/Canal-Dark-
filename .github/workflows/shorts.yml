@@ -1,9 +1,9 @@
 name: shorts
 on:
   workflow_dispatch:
-    inputs: {dry: {description: "so simular", default: "false"}}
+    inputs: {dry: {description: "so simular", default: "false"}, n: {description: "quantos", default: "5"}}
   schedule:
-    - cron: "0 12 * * *"   # 09:00 BRT: agenda ate 5 Shorts por execucao, 2 por dia a partir do ultimo slot (11:00 e 20:00 ET)
+    - cron: "0 12 * * *"   # 09:00 BRT: agenda ate 5 Shorts por execucao, 5 por dia nos proximos slots livres (09,12,15,19,21h ET) (11:00 e 20:00 ET)
 permissions: {contents: write}
 jobs:
   post:
@@ -20,7 +20,7 @@ jobs:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
-        run: python ../main/shorts-verticais/postar_shorts.py . ordem.md --n 5 $([ "${{ inputs.dry }}" = "true" ] && echo --dry)
+        run: python ../main/shorts-verticais/postar_shorts.py . ordem.md --n ${{ inputs.n || 5 }} $([ "${{ inputs.dry }}" = "true" ] && echo --dry)
       - name: salvar estado
         working-directory: media
         run: |
