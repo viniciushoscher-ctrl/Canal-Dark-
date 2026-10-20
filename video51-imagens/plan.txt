@@ -1,0 +1,116 @@
+# hookmontage
+wiki/waterloo_1
+wiki/wellington_2
+wiki/nathan_3
+wiki/londonstock_5
+wiki/napoleon_1
+fotos/a4_0
+wiki/royalexchange_0
+wiki/bonds_6
+wiki/waddesdon_4
+fotos/a2_1
+wiki/rothschild_5
+wiki/railway_3
+wiki/disraeli_5
+wiki/suez_0
+# hook
+wiki/waterloo_8
+wiki/wellington_0
+wiki/londonstock_0
+wiki/londonstock_3
+wiki/pigeon_0
+# cap1
+wiki/mayer_1
+wiki/mayer_0
+wiki/mayer_2
+wiki/frankfurt_6
+wiki/hesse_0
+wiki/hesse_1
+wiki/hesse_2
+fotos/a1_0
+fotos/a1_1
+fotos/a1_2
+fotos/a17_2
+fotos/a17_0
+# cap2
+wiki/napoleon_0
+wiki/napoleon_3
+wiki/napoleonicwars_2
+wiki/napoleonicwars_5
+wiki/vienna_1
+wiki/carl_0
+fotos/a2_0
+fotos/a2_2
+fotos/a3_0
+wiki/frankfurt_2
+wiki/vienna_6
+# cap3
+wiki/nathan_0
+wiki/nathan_1
+wiki/nathan_2
+wiki/napoleonicwars_8
+wiki/wellington_8
+wiki/pigeon_1
+wiki/pigeon_3
+wiki/pigeon_5
+wiki/waterloo_2
+wiki/waterloo_6
+wiki/londonstock_4
+fotos/a5_2
+# cap4
+wiki/disraeli_3
+wiki/suez_0
+fotos/a9_1
+fotos/a9_0
+wiki/railway_1
+wiki/railway_8
+wiki/bonds_2
+wiki/bonds_3
+wiki/bonds_4
+wiki/lionel_0
+fotos/a10_0
+wiki/railway_4
+# cap5
+wiki/lionel_1
+wiki/waddesdon_0
+wiki/waddesdon_5
+wiki/waddesdon_7
+wiki/waddesdon_9
+fotos/a7_0
+fotos/a8_0
+fotos/a8_2
+wiki/edmond_2
+wiki/rothschild_9
+wiki/rothschild_6
+wiki/rothschild_1
+# cap6
+wiki/anschluss_1
+wiki/anschluss_2
+wiki/anschluss_3
+wiki/anschluss_4
+wiki/anschluss_6
+wiki/anschluss_7
+wiki/louis_0
+wiki/vienna_8
+wiki/vienna_9
+wiki/anschluss_5
+# cap7
+wiki/parisbourse_0
+wiki/rothschild_4
+wiki/rothschild_2
+wiki/jamesrothschild_0
+wiki/jamesrothschild_2
+fotos/a15_0
+fotos/a16_0
+fotos/a20_0
+wiki/londonstock_6
+wiki/royalexchange_9
+# lesson
+wiki/royalexchange_3
+wiki/royalexchange_6
+wiki/londonstock_7
+wiki/londonstock_9
+wiki/bonds_5
+wiki/rothschild_7
+wiki/royalexchange_5
+wiki/royalexchange_2

@@ -1,0 +1,116 @@
+# hookmontage
+fotos/a1_0
+wiki/palazzovecchio_0
+wiki/florin_3
+fotos/a2_0
+wiki/cathedraldome_5
+wiki/donatello_5
+fotos/a4_0
+wiki/medici_3
+wiki/sanlorenzo_5
+wiki/ficino_1
+wiki/fraangelico_1
+fotos/a6_2
+wiki/palazzomedici_5
+wiki/florence_8
+# hook
+fotos/a2_1
+fotos/a2_3
+fotos/a3_3
+wiki/palazzovecchio_4
+fotos/a2_2
+# cap1
+wiki/florence_5
+wiki/florence_6
+fotos/a18_0
+fotos/a9_0
+wiki/florin_0
+wiki/florin_1
+wiki/papacy_4
+wiki/papacy_5
+fotos/a7_0
+fotos/a7_1
+wiki/florence_4
+# cap2
+fotos/a8_0
+fotos/a8_2
+fotos/a8_3
+wiki/florin_2
+wiki/renaissance_1
+wiki/venice_0
+wiki/papacy_0
+wiki/papacy_7
+wiki/tuscany_0
+wiki/medici_5
+# cap3
+wiki/albizzi_2
+wiki/albizzi_3
+wiki/albizzi_4
+wiki/palazzovecchio_1
+wiki/palazzovecchio_6
+fotos/a16_0
+fotos/a16_1
+fotos/a16_3
+wiki/venice_3
+wiki/venice_8
+wiki/venice_7
+fotos/a3_0
+# cap4
+fotos/a1_2
+wiki/mediciban_1
+wiki/mediciban_3
+wiki/peacelodi_0
+wiki/peacelodi_1
+wiki/sforza_0
+wiki/sforza_1
+wiki/palazzovecchio_5
+wiki/palazzovecchio_7
+wiki/medici_6
+wiki/palazzovecchio_3
+fotos/a1_3
+# cap5
+wiki/brunelleschi_3
+wiki/cathedraldome_6
+wiki/sanlorenzo_4
+wiki/sanlorenzo_2
+wiki/donatello_3
+fotos/a5_0
+wiki/fraangelico_0
+wiki/lippi_1
+wiki/palazzomedici_8
+wiki/palazzomedici_9
+wiki/ficino_5
+wiki/ficino_6
+wiki/platonic_0
+# cap6
+wiki/careggi_0
+wiki/careggi_1
+fotos/a13_0
+fotos/a13_3
+wiki/sanlorenzo_6
+fotos/a6_1
+fotos/a14_0
+fotos/a12_0
+fotos/a12_2
+wiki/palazzomedici_2
+wiki/sanlorenzo_9
+# cap7
+wiki/tuscany_1
+wiki/tuscany_2
+wiki/tuscany_4
+wiki/tuscany_7
+wiki/medici_4
+wiki/renaissance_6
+wiki/renaissance_9
+fotos/a15_0
+fotos/a15_1
+wiki/medici_9
+# lesson
+wiki/florence_7
+wiki/donatello_0
+wiki/donatello_9
+wiki/fraangelico_3
+wiki/lippi_5
+fotos/a20_0
+fotos/a20_1
+wiki/renaissance_3
