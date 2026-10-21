@@ -2,8 +2,6 @@ name: shorts
 on:
   workflow_dispatch:
     inputs: {dry: {description: "so simular", default: "false"}, n: {description: "quantos", default: "5"}}
-  schedule:
-    - cron: "0 12 * * *"   # 09:00 BRT: agenda ate 5 Shorts por execucao, 5 por dia nos proximos slots livres (09,12,15,19,21h ET) (11:00 e 20:00 ET)
 permissions: {contents: write}
 jobs:
   post:
